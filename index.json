@@ -1,41 +1,25 @@
 {
  "topics": [
   {
-   "t": "Arya Saloka Terikat Janji",
-   "q": "arya saloka terikat janji",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "SINDOnews Lifestyle",
-    "bsinews.id",
-    "Suara Merdeka"
-   ],
-   "d": "2026-10-17",
-   "url": "https://lifestyle.sindonews.com/read/1760927/158/sinopsis-sinetron-terikat-janji-eps-189-davina-setia-menunggu-sena-di-rumah-sakit-akankah-doanya-segera-terjawab-1792062612/5",
-   "n": "Sinopsis Sinetron 'Terikat Janji' Eps 189: Davina Setia Menunggu Sena di Rumah Sakit, Akankah Doanya Segera Terjawab?",
-   "vol": 200,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
-   "q": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
+   "t": "Home",
+   "q": "home",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
+    "Google Trends",
     "Portal Berita"
    ],
    "src": [
-    "Liputan6 Showbiz",
-    "detikHOT"
+    "Google Trends",
+    "eExtra News",
+    "Akers Funeral Home",
+    "Patrick T. Lanigan Funeral Home and Crematory, Inc."
    ],
-   "d": "2026-10-16",
-   "url": "https://www.liputan6.com/showbiz/read/8314987/azka-corbuzier-debut-akting-home-almost-diputar-di-urbanworld-new-york",
-   "n": ""
+   "d": "2026-10-17",
+   "url": "https://eextra.news/paris/2026/10/16/bobby-joe-bob-bolton-obituary-content-sponsored-by-bright-holland-funeral-home/",
+   "n": "Bobby Joe “Bob” Bolton || Obituary *Content Sponsored By: Bright-Holland Funeral Home*",
+   "vol": 100,
+   "vu": "pencarian"
   },
   {
    "t": "Masa Lalu Diungkit, Hubungan Zarima dengan Yusuf Kartiko Sempat Renggang",
@@ -74,8 +58,10 @@
     "Liputan6 Showbiz",
     "detikHOT"
    ],
-   "hot": [],
-   "sc": 58,
+   "hot": [
+    "Home"
+   ],
+   "sc": 83,
    "ts": "2026-10-16T12:00:55Z"
   },
   {
@@ -100,6 +86,28 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-16T09:24:42Z"
+  },
+  {
+   "k": "news",
+   "u": "Digital Okezone",
+   "name": "Digital Okezone",
+   "av": "",
+   "followers": 0,
+   "cap": "Antrean Pembeli Warnai Penjualan iPhone 18 Series di Jakarta",
+   "snip": "Antrean Pembeli Warnai Penjualan iPhone 18 Series di Jakarta Digital Okezone Pembeli Pertama iPhone 18 Pro Max di UR, Pilih Biru Ketimbang Burgundy detikInet Cerita Pembeli iPhone 18 Antre Kesiangan: Datang Jam 07.00 Baru Dapat 13.00 WIB, G",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVIzdWRET0J0UnZwNG9TeEs2dnczNmFUN0wzeTVGWEF2WmJhbHZ6MDF2ZDFZcjlFTWFHM0R6aGo1ajlKRTVNTjFwNlZ4amtxcWVBbHd6c0cwX0xFdU1hU3A3a1BwSjBEV3B2bW51Tk1WV1Vfam5jN1RVV1VKM1h2eGxSdnowQ1lyaE1CbllsVWE4ck1JT0hhTnpOTUpEcEx2NWVLcHNDTEh4QzFRT2s5MHRBcw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Digital Okezone"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T14:50:16Z"
   },
   {
    "k": "news",
@@ -147,28 +155,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Sunan Kalijaga Ungkap Pengakuan Aron Ashab Diculik-Disekap 6 Bulan di Tasik",
-   "snip": "Sunan Kalijaga Ungkap Pengakuan Aron Ashab Diculik-Disekap 6 Bulan di Tasik detikHOT Kronologi Aron Ashab Ngaku Diculik, Disiksa, dan Dipenjara hingga Berhasil Kabur Suara.com Ternyata Selama Ini Aron Ashab di Pesantren, tapi Sebut Seperti ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSlNPLWlYSkMwUl9CN0JuQmxKY3BUelo2Rlg5dTZINlRKX0d0NEVWT3lFcWRhTGVuVHVocUxoZXdCdXF6Rnl6THpnYjZsR0VNZ1dITE0zVjk0WE4wSm1BdzRqbDFLdHQxdWNfNTU0TlRaUWlFNERFQTA0Rk1MUUdrZjFzOV9oQTZ6OWdUNlJXcFF5a29qVUpVdXBnSEhxVnhvYndCX0t0eFVHQjhsM2R1SHktRdIBuAFBVV95cUxOanlRbEh6TWEzSDRyeWVhdl9Ic21FQW9scHZkWG9hX2NUQUZZaE1ZRzFBR0hLZ0pmaFBWNXdnRzNieTQ4dnRWb3lvcXRvbDBrRlVSd1RsX1I0R2NneHVacDZNd0xBcmk0ZkRKT2ZqTnBla3cxSUZvZ3Bld1FQYzRmc09hSm1XU2d3Tm9jWHhaQzFBcFpQUlh2S05GaHVjWHVBQno3bnlwaG5kZjVOWTloQndScm13MkMw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T14:01:26Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -186,7 +172,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T13:46:07Z"
   },
   {
@@ -1112,6 +1098,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-13T00:05:02Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Maia Estianty Tuai Pro Kontra Usai Bandingkan Rezeki dengan Kerja Keras",
+   "snip": "Maia Estianty Tuai Pro Kontra Usai Bandingkan Rezeki dengan Kerja Keras Kompas.com Maia Estianty Viral Jadi Sorotan, Intip 7 Potret Terbaru Liburan Mewahnya Wolipop 3 Artis Dicap Netizen Tone Deaf, Ada yang Sampai Gembok Akun celebrity.okez",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZW5Mb1RIRkxkSHVBa1Jqc1E5Z25oU1RweEpwREFTNWdlbDFFWkZ0WndENGstLVllNzdXX1ozVUlXeG5WajFGeFZVbWZoNjItdzFtOGw4eHZJdFRaRUhfekdtQjJUZFVSZmtRTk51TVJuV0p4d1B0TEwyQkRpVXg0bVpmX3FsMFBPRDZyMDFOQVpKVjk0UTU0a3k2aTd1Vl9FTWZCVlJjelBpSVZKV3pQS2RneDNwdEZxelI3bUhiRFZkaFI4M3pWMllTN0ZCZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-12T01:15:00Z"
   }
  ]
 }
