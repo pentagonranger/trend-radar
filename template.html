@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="referrer" content="no-referrer">
-<title>Trend Radar — Selebriti, Film & Musik</title>
+<title>Trend Radar</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
 <style>
 :root{
@@ -139,8 +139,8 @@ footer{font-size:12px;color:var(--muted);margin:18px 2px 6px}
 
   <header class="top">
     <div>
-      <h1>🔥 Trend <span>Radar</span> · Hiburan</h1>
-      <p>Selebriti, film & musik internasional · diperbarui <b id="upd"></b></p>
+      <h1>🔥 Trend <span>Radar</span> · <span id="ttl" style="color:inherit">Hiburan</span></h1>
+      <p><span id="sub"></span> · diperbarui <b id="upd"></b></p>
     </div>
     <div class="tabs">
       <button class="tab on" data-v="feed" type="button">📱 Feed</button>
@@ -243,7 +243,7 @@ footer{font-size:12px;color:var(--muted);margin:18px 2px 6px}
     </div>
   </section>
 
-  <footer>Sumber: Instagram (Meta Business Discovery), Variety, The Hollywood Reporter, Billboard, Deadline, Rolling Stone, Page Six, Google News, Google Trends, YouTube, Reddit. Konten dan foto milik pemilik aslinya — klik "Buka di Instagram" / "Baca selengkapnya" untuk sumber asli. Topik tambahan disimpan di browser-mu saja.</footer>
+  <footer>Sumber: Instagram (Meta Business Discovery), media berita & hiburan (RSS), Google News, Google Trends, YouTube, Reddit. Konten dan foto milik pemilik aslinya — klik "Buka di Instagram" / "Baca selengkapnya" untuk sumber asli. Topik tambahan disimpan di browser-mu saja.</footer>
 </div>
 
 <script>
@@ -532,6 +532,8 @@ if(window.matchMedia){
 
 /* =================== INIT =================== */
 $('upd').textContent = UPDATED;
+$('ttl').textContent = META.niche==='semua' ? 'Semua Topik' : 'Hiburan';
+$('sub').textContent = (META.niche==='semua' ? 'Semua topik berita' : 'Selebriti, film & musik') + (META.geo==='ID' ? ' · fokus Indonesia 🇮🇩' : ' · internasional 🌍');
 applyChartDefaults();
 fillFilters();
 initFeed();

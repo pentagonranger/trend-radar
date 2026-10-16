@@ -1,16 +1,8 @@
 {
-  "_catatan": "Ganti dengan akun IG pilihanmu (tanpa @). Harus akun Business/Creator supaya bisa dibaca lewat API resmi Meta.",
-  "accounts": [
-    "enews",
-    "variety",
-    "hollywoodreporter",
-    "billboard",
-    "pagesix",
-    "popcrave",
-    "deuxmoi",
-    "theshaderoom",
-    "people",
-    "rollingstone"
-  ],
+  "_catatan": "Daftar akun IG per wilayah (tanpa @). Script memakai daftar sesuai --geo. Akun harus Business/Creator supaya bisa dibaca lewat API resmi Meta. Ganti dengan akun pilihanmu.",
+  "accounts_by_geo": {
+    "ID": ["insertlive", "detikhot", "kapanlagi", "lambe_turah", "cnnindonesia", "kompascom", "detikcom"],
+    "US": ["enews", "variety", "hollywoodreporter", "billboard", "pagesix", "popcrave", "deuxmoi", "theshaderoom", "people", "rollingstone"]
+  },
   "posts_per_account": 12
 }

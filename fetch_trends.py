@@ -40,15 +40,29 @@ UA = "Mozilla/5.0 (compatible; TrendRadar/2.0)"
 DEFAULT_ACCOUNTS = ["enews", "variety", "hollywoodreporter", "billboard", "pagesix",
                     "popcrave", "deuxmoi", "theshaderoom", "people", "rollingstone"]
 
-RSS_FEEDS = [
-    ("Google News", "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en"),
-    ("Variety", "https://variety.com/feed/"),
-    ("The Hollywood Reporter", "https://www.hollywoodreporter.com/feed/"),
-    ("Billboard", "https://www.billboard.com/feed/"),
-    ("Deadline", "https://deadline.com/feed/"),
-    ("Rolling Stone", "https://www.rollingstone.com/feed/"),
-    ("Page Six", "https://pagesix.com/feed/"),
+# (nama, url, khusus_hiburan)  -- khusus_hiburan=True: semua isinya dianggap berita hiburan
+RSS_FEEDS_US = [
+    ("Google News", "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en", True),
+    ("Variety", "https://variety.com/feed/", True),
+    ("The Hollywood Reporter", "https://www.hollywoodreporter.com/feed/", True),
+    ("Billboard", "https://www.billboard.com/feed/", True),
+    ("Deadline", "https://deadline.com/feed/", True),
+    ("Rolling Stone", "https://www.rollingstone.com/feed/", True),
+    ("Page Six", "https://pagesix.com/feed/", True),
 ]
+RSS_FEEDS_ID = [
+    ("Google News", "https://news.google.com/rss?hl=id&gl=ID&ceid=ID:id", False),
+    ("Google News", "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=id&gl=ID&ceid=ID:id", True),
+    ("detikcom", "https://rss.detik.com/index.php/detikcom", False),
+    ("CNN Indonesia", "https://www.cnnindonesia.com/nasional/rss", False),
+    ("CNN Indonesia", "https://www.cnnindonesia.com/hiburan/rss", True),
+    ("Liputan6", "https://feed.liputan6.com/rss/news", False),
+    ("Liputan6 Showbiz", "https://feed.liputan6.com/rss/showbiz", True),
+    ("Antara", "https://www.antaranews.com/rss/terkini.xml", False),
+    ("Tempo", "https://rss.tempo.co/", False),
+]
+NICHE = "hiburan"      # diisi dari --niche
+FALLBACK = "Selebriti"
 
 
 # ================================================================ util
@@ -110,7 +124,9 @@ def norm(s):
 
 STOP = set("the a an of in on to for and at with from by is are was be as it its this that after over new you your "
            "will says say how what why who just about into out up more has have had not but all her his their they "
-           "than then them she him can could would should one two".split())
+           "than then them she him can could would should one two "
+           "yang dan di ke dari untuk dengan pada ini itu akan atau juga tak tidak ada usai soal jadi kini saat hingga hari "
+           "kata ungkap sebut bakal jelang resmi bikin buat karena sudah telah masih lebih para".split())
 
 
 def toks(s):
@@ -126,15 +142,33 @@ def parse_traffic(s):
 
 # ================================================================ kategori (niche hiburan)
 CATS = [
-    ("Musik", r"\bsong\b|album|\btour\b|concert|\bsingle\b|grammy|billboard|spotify|lyrics|music video|k-?pop|rapper|singer|\bband\b|\bvmas?\b|coachella|\bcharts?\b|hot 100|setlist|festival"),
-    ("Film & Series", r"\bfilm\b|movie|trailer|netflix|\bhbo\b|disney|marvel|box office|oscars?|emmys?|season \d|episode|\bseries\b|streaming|premiere|\bcast\b|director|sequel|reboot|hollywood|tv show|sitcom|\bdc\b|casting"),
-    ("Selebriti", r"celeb|dating|engaged|engagement|wedding|baby|split|breakup|divorce|feud|scandal|red carpet|met gala|paparazzi|rumou?r|couple|married|pregnan|kardashian|jenner|reunite|spotted|arrest|lawsuit|sued"),
+    ("Musik", r"\bsong\b|album|\btour\b|concert|\bsingle\b|grammy|billboard|spotify|lyrics|music video|k-?pop|rapper|singer|\bband\b|\bvmas?\b|coachella|\bcharts?\b|hot 100|setlist|festival|\blagu\b|konser|penyanyi|musisi|rilis single|grup musik"),
+    ("Film & Series", r"\bfilm\b|movie|trailer|netflix|\bhbo\b|disney|marvel|box office|oscars?|emmys?|season \d|episode|\bseries\b|streaming|premiere|\bcast\b|director|sequel|reboot|hollywood|tv show|sitcom|\bdc\b|casting|sinetron|bioskop|tayang|\bserial\b|drakor|drama korea|aktor|aktris|sutradara|layar lebar"),
+    ("Selebriti", r"celeb|dating|engaged|engagement|wedding|baby|split|breakup|divorce|feud|scandal|red carpet|met gala|paparazzi|rumou?r|couple|married|pregnan|kardashian|jenner|reunite|spotted|arrest|lawsuit|sued|\bartis\b|selebriti|\bseleb\b|selebgram|influencer|youtuber|cerai|gugat cerai|menikah|\bnikah\b|lamaran|\bhamil\b|melahirkan|\bpacar\b|kekasih|rujuk|selingkuh|gosip|skandal"),
 ]
+GENERAL_CATS = [
+    ("Olahraga", r"timnas|liga|piala|motogp|\bf1\b|badminton|sepak ?bola|\bgol\b|juara|medali|asian games|\bnba\b|\bnfl\b|\bmlb\b|\bufc\b|tinju|persib|persija|\bvs\b|\bfc\b|olimpiade"),
+    ("Politik", r"presiden|prabowo|jokowi|gibran|\bdpr\b|\bdpd\b|menteri|pemilu|pilkada|parlemen|partai|kabinet|istana|\bmk\b|mahkamah|reshuffle|election|senate|congress|gubernur|bupati|wali kota"),
+    ("Hukum & Kriminal", r"polisi|polri|kapolri|\bkpk\b|kejaksaan|jaksa|hakim|sidang|tersangka|korupsi|narkoba|pembunuhan|penipuan|lapas|bareskrim|ditangkap|vonis|\bott\b"),
+    ("Ekonomi & Bisnis", r"ihsg|saham|rupiah|dolar|\bemas\b|\bbbm\b|harga|inflasi|pajak|bank|bi rate|ekonomi|bisnis|investasi|ojol|umkm|stock|market|crypto|bitcoin|\bbumn\b|\bpajak\b"),
+    ("Bencana & Lingkungan", r"gempa|banjir|longsor|erupsi|gunung|bmkg|cuaca|karhutla|kebakaran|asap|tsunami|kekeringan|hujan|badai|\bkecelakaan\b"),
+    ("Teknologi", r"iphone|android|samsung|openai|chatgpt|claude|gemini|\bai\b|aplikasi|\bios\b|gadget|nvidia|tesla|microsoft|startup"),
+    ("Cek Fakta", r"hoaks|hoax|cek fakta|fact ?check|disinformasi"),
+    ("Kesehatan", r"kesehatan|rumah sakit|vaksin|penyakit|virus|\bobat\b|bpjs|health"),
+]
+ACTIVE_CATS = CATS
+
+
+def set_niche(n):
+    global NICHE, FALLBACK, ACTIVE_CATS
+    NICHE = n
+    ACTIVE_CATS = CATS if n == "hiburan" else CATS + GENERAL_CATS
+    FALLBACK = "Selebriti" if n == "hiburan" else "Umum"
 
 
 def classify(text, default="Lainnya"):
     low = (text or "").lower()
-    for name, pat in CATS:
+    for name, pat in ACTIVE_CATS:
         if re.search(pat, low):
             return name
     return default
@@ -162,7 +196,7 @@ def parse_rss(xml_text, source, limit=25):
     for item in list(root.iter("item"))[:limit]:
         title = strip_tags(child_text(item, "title"))
         src = child_text(item, "source") or source
-        if source == "Google News" and " - " in title:
+        if source.startswith("Google News") and " - " in title:
             title, tail = title.rsplit(" - ", 1)
             src = child_text(item, "source") or tail
         dt = parse_dt(child_text(item, "pubDate"))
@@ -173,8 +207,11 @@ def parse_rss(xml_text, source, limit=25):
     return out
 
 
-def fetch_rss(source, url):
-    return parse_rss(http_get(url), source)
+def fetch_rss(source, url, ent=True):
+    items = parse_rss(http_get(url), source)
+    for it in items:
+        it["ent"] = ent
+    return items
 
 
 def cluster_news(items):
@@ -333,7 +370,7 @@ def fetch_reddit(sub):
 
 
 # ================================================================ topik
-def build_topics(trends, clusters, ig_posts, yt, rd):
+def build_topics(trends, clusters, ig_posts, yt, rd, reg="Global"):
     ig_tokens = [set(norm(p["cap"][:300])) for p in ig_posts]
     cl_words = [{w for it in c["items"] for w in norm(it["title"])} for c in clusters]
     rows, used = [], set()
@@ -345,7 +382,7 @@ def build_topics(trends, clusters, ig_posts, yt, rd):
         hit_ig = [p for p, tk in zip(ig_posts, ig_tokens) if tq <= tk]
         titles = " ".join([n["title"] for n in t["news"]] + [clusters[i]["items"][0]["title"] for i in hit_c])
         cat = classify(t["q"] + " " + titles)
-        if not hit_c and not hit_ig and cat == "Lainnya":
+        if NICHE == "hiburan" and not hit_c and not hit_ig and cat == "Lainnya":
             continue  # tidak nyambung ke dunia hiburan
         used.update(hit_c)
         srcs = ["Google Trends"] + list(dict.fromkeys(
@@ -353,23 +390,23 @@ def build_topics(trends, clusters, ig_posts, yt, rd):
             [it["source"] for i in hit_c for it in clusters[i]["items"]]))[:3]
         ch = ["Google Trends"] + (["Portal Berita"] if (t["news"] or hit_c) else []) + (["Instagram"] if hit_ig else [])
         url = (t["news"][0]["url"] if t["news"] else (clusters[hit_c[0]]["items"][0]["url"] if hit_c else ""))
-        rows.append({"t": t["q"].title(), "q": t["q"], "cat": cat if cat != "Lainnya" else "Selebriti",
-                     "reg": "Global", "ch": ch, "src": srcs, "d": wib_date(t["dt"]), "url": url,
+        rows.append({"t": t["q"].title(), "q": t["q"], "cat": cat if cat != "Lainnya" else FALLBACK,
+                     "reg": reg, "ch": ch, "src": srcs, "d": wib_date(t["dt"]), "url": url,
                      "n": (t["news"][0]["title"] if t["news"] else ""), "vol": t["vol"], "vu": "pencarian"})
     for i, c in enumerate(clusters):
         srcs = list(dict.fromkeys(it["source"] for it in c["items"]))
         if i in used or len(srcs) < 2:
             continue
         rep = c["items"][0]
-        rows.append({"t": rep["title"], "q": rep["title"][:80], "cat": classify(rep["title"], "Selebriti"),
-                     "reg": "Global", "ch": ["Portal Berita"], "src": srcs[:4], "d": wib_date(rep["dt"]),
+        rows.append({"t": rep["title"], "q": rep["title"][:80], "cat": classify(rep["title"], FALLBACK),
+                     "reg": reg, "ch": ["Portal Berita"], "src": srcs[:4], "d": wib_date(rep["dt"]),
                      "url": rep["url"], "n": ""})
     for v in yt:
-        rows.append({"t": v["title"], "q": v["title"][:80], "cat": "Musik", "reg": "Global", "ch": ["YouTube"],
+        rows.append({"t": v["title"], "q": v["title"][:80], "cat": "Musik", "reg": reg, "ch": ["YouTube"],
                      "src": [v["channel"]], "d": wib_date(now_utc()), "url": v["url"], "n": "",
                      "vol": v["views"], "vu": "views"})
     for r in rd:
-        rows.append({"t": r["title"], "q": r["title"][:80], "cat": classify(r["title"], "Selebriti"), "reg": "Global",
+        rows.append({"t": r["title"], "q": r["title"][:80], "cat": classify(r["title"], FALLBACK), "reg": reg,
                      "ch": ["Reddit"], "src": [f"r/{r['sub']}"], "d": wib_date(now_utc()), "url": r["url"], "n": "",
                      "vol": r["score"], "vu": "upvotes"})
     for r in rows:
@@ -418,12 +455,17 @@ def demo_data():
 # ================================================================ main
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--geo", default="US", help="negara untuk Google Trends/YouTube (default US)")
+    ap.add_argument("--geo", default="US", help="wilayah: ID = fokus Indonesia, US = internasional (default US)")
+    ap.add_argument("--niche", default="hiburan", choices=["hiburan", "semua"],
+                    help="hiburan = selebriti/film/musik saja; semua = semua topik berita")
     ap.add_argument("--accounts", default=os.path.join(HERE, "accounts.json"))
     ap.add_argument("--max-age-days", type=float, default=7)
     ap.add_argument("--out", default=os.path.join(HERE, "dashboard.html"))
     ap.add_argument("--demo", action="store_true")
     args = ap.parse_args()
+    set_niche(args.niche)
+    region = "ID" if args.geo.upper() == "ID" else "Global"
+    feeds = RSS_FEEDS_ID if region == "ID" else RSS_FEEDS_US
 
     cfg = {"accounts": DEFAULT_ACCOUNTS, "posts_per_account": 12}
     if os.path.exists(args.accounts):
@@ -432,9 +474,11 @@ def main():
                 cfg.update(json.load(f))
         except Exception as e:
             print(f"  ! accounts.json tidak terbaca ({e}), pakai daftar bawaan")
-    accounts = [a.strip().lstrip("@") for a in cfg["accounts"] if a.strip()]
+    by_geo = cfg.get("accounts_by_geo", {})
+    accounts = [a.strip().lstrip("@") for a in (by_geo.get(args.geo.upper()) or cfg["accounts"]) if a.strip()]
 
-    report, meta = [], {"ig": "no_token", "igOk": 0, "igFail": [], "ai": False}
+    report, meta = [], {"ig": "no_token", "igOk": 0, "igFail": [], "ai": False,
+                    "geo": args.geo.upper(), "niche": args.niche}
     news_items, ig_posts, trends, yt, rd = [], [], [], [], []
 
     def run(name, fn, sink):
@@ -459,8 +503,8 @@ def main():
         meta.update(ig="ok", igOk=len(ig_demo))
         report.append("  ✓ Demo data")
     else:
-        for name, url in RSS_FEEDS:
-            run(name, lambda u=url, n=name: fetch_rss(n, u), news_items)
+        for name, url, ent in feeds:
+            run(name, lambda u=url, n=name, e=ent: fetch_rss(n, u, e), news_items)
         run("Google Trends", lambda: fetch_google_trends(args.geo), trends)
         if token and ig_id:
             for acc in accounts:
@@ -473,12 +517,16 @@ def main():
             report.append("  – Instagram dilewati (set IG_ACCESS_TOKEN & IG_USER_ID)")
         if os.environ.get("YOUTUBE_API_KEY"):
             run("YouTube Music", lambda: fetch_youtube_music(args.geo, os.environ["YOUTUBE_API_KEY"]), yt)
-        run("Reddit r/popculturechat", lambda: fetch_reddit("popculturechat"), rd)
+        sub = "indonesia" if region == "ID" else "popculturechat"
+        run(f"Reddit r/{sub}", lambda: fetch_reddit(sub), rd)
 
     # ---- filter umur
     cutoff = now_utc() - timedelta(days=args.max_age_days)
     ig_posts = [p for p in ig_posts if p["dt"] >= cutoff]
     news_items = [n for n in news_items if n["dt"] >= cutoff]
+    if NICHE == "hiburan":   # buang berita non-hiburan dari media umum
+        news_items = [n for n in news_items if n.get("ent", True) or classify(n["title"]) != "Lainnya"]
+        rd = [r for r in rd if classify(r["title"]) != "Lainnya"]
 
     trend_terms = [(t["q"], set(norm(t["q"]))) for t in trends if 0 < len(norm(t["q"])) <= 5]
 
@@ -529,7 +577,7 @@ def main():
         q["ts"] = iso(q.pop("dt"))
         out_posts.append(q)
 
-    topics = build_topics(trends, clusters, ig_posts, yt, rd)
+    topics = build_topics(trends, clusters, ig_posts, yt, rd, region)
     print("\n".join(report))
     if not out_posts and not topics:
         print("Tidak ada data yang berhasil diambil — dashboard tidak dibuat.")
