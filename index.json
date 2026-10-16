@@ -1,6 +1,48 @@
 {
  "topics": [
   {
+   "t": "Arya Saloka Terikat Janji",
+   "q": "arya saloka terikat janji",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "SINDOnews Lifestyle",
+    "celebrity.okezone.com",
+    "bsinews.id"
+   ],
+   "d": "2026-10-17",
+   "url": "https://lifestyle.sindonews.com/read/1761341/158/sinopsis-sinetron-terikat-janji-eps-190-mirza-bongkar-perintah-dipa-untuk-mencelakai-sena-siapa-dalangnya-1792145446/10",
+   "n": "Sinopsis Sinetron 'Terikat Janji' Eps 190: Mirza Bongkar Perintah Dipa untuk Mencelakai Sena, Siapa Dalangnya?",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Barcelona Vs Real Betis",
+   "q": "barcelona vs real betis",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Diario AS",
+    "Sports Illustrated",
+    "SPORT"
+   ],
+   "d": "2026-10-17",
+   "url": "https://as.com/futbol/primera/pellegrini-como-defender-a-lamine-cierren-los-pases-f202610-n/",
+   "n": "Pellegrini: “¿Cómo defender a Lamine? Cierren los pases...",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
    "t": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "q": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "cat": "Selebriti",
@@ -54,7 +96,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-10-16T12:00:55Z"
   },
   {
@@ -79,28 +121,6 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-16T09:24:42Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Ayah kandung di Jakbar jadi tersangka persetubuhan anak hingga hamil",
-   "snip": "Polres Metro Jakarta Barat menetapkan seorang pria berinisial MT (44) sebagai tersangka dugaan persetubuhan terhadap ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/01/ilustrasi-korban-rudapaksa.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5792489/ayah-kandung-di-jakbar-jadi-tersangka-persetubuhan-anak-hingga-hamil",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T15:56:05Z"
   },
   {
    "k": "news",
@@ -209,7 +229,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T12:09:36Z"
   },
   {
@@ -231,7 +251,7 @@
     "ANTARA News Banten"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T12:06:26Z"
   },
   {
@@ -253,7 +273,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T12:06:17Z"
   },
   {
@@ -275,7 +295,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T12:00:45Z"
   },
   {
@@ -297,7 +317,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T12:00:16Z"
   },
   {
@@ -791,11 +811,11 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks 4 Shio Paling Pintar Melihat Peluang Investasi pada 2026 Kompas.com Ramalan Shio Oktober 2026: Kambing dan Monyet Berpeluang Naik",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVhrd1ZvTW5XUW5qdUNsVWY3Tzk2TXo5azZZdTd0aElJOVhmczB6R0d0X1ZJWm96UXlxNzlpaXBRVDJLSEJzQlNPM0Z6ZWJNMngxY3VCc2VPckE3Yk44X2RVWTFIcHZ3YjlxQ0pYMHpkZmFhaHc0SWttQl9ZYmpYYVlxdnBkVXZMRzFCUm83OWVsRGIyV0FJZTJ2NGlCY1hpZFlLQ3ZSVzNkM1otaXRsV1hhOUJSQTUwamV5a0dLb2tXVE5ONG5aV2p0NXFFZ9IBuwFBVV95cUxPQk1SemF2Q1I3bVZNQVpETG02Zl9GT2pUSVRGWUhSdng4c1BpdUdiODMtM3pKSDVaZjFoYVAzdWhwQTNEeExROFFDVFVRSVdSUTJRU0gxQ3NoS1IzTzJMZFk1bnBMcm1QUFFEY3FDQzhFWF9Gbk8zeXdBc3pNS0I0RnhrZmxjY1VyRHVJUWIxVmtsRHp1SEJiWS03eUtlYTUzeWlUejFTNVo2X3Z1MGJ0ZTg4LUt5eFY0SW5B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVEtZ0pLUDEwUUlPM05XT080MGZzbXRpTWV3VzUtTTVVUGVGVEE5VE00X291a2pFaGZkTjRFZERwMDFTZmdlaUp0RFJtb0VtN1o1a29XOHZUQkZGSWZEUWZPVHBVN3ZFSGFpMUdfeGc1aWw1NnVOcVdfUDFYSkpUU3hENHdUUW9YLUVBX1pGQkszVWpXU1ZjMkRhaVFSb1ktM2h6R0lYb2hBZUdUMnlFckZIMkZWeDJsMHBkeFBWSWRTZy1sbnFjSEl30gG7AUFVX3lxTE9CTVJ6YXZDUjdtVk1BWkRMbTZmX0ZPalRJVEZZSFJ2eDhzUGl1R2I4My0zekpINVpmMWhhUDN1aHBBM0R4TFE4UUNUVVFJV1JRMlFTSDFDc2hLUjNPMkxkWTVucExybVBQUURjcUNDOEVYX0ZuTzN5d0Fzek1LQjRGeGtmbGNjVXJEdUlRYjFWa2xEenVIQmJZLTd5S2VhNTN5aVR6MVM1WjZfdnUwYnRlODgtS3l4VjRJbkE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1006,34 +1026,12 @@
   },
   {
    "k": "news",
-   "u": "SRQ Magazine",
-   "name": "SRQ Magazine",
-   "av": "",
-   "followers": 0,
-   "cap": "Kabar Pemuda Bogor Mendapat Tiga Scatter Memicu Pembahasan Fenomena Scatter Hitam Mahjong Ways",
-   "snip": "Kabar Pemuda Bogor Mendapat Tiga Scatter Memicu Pembahasan Fenomena Scatter Hitam Mahjong Ways SRQ Magazine Kode Alam serta Strategi Pelestarian Budaya melalui Representasi Visual pada Mahjong Wins Bakorwil Bojonegoro Mahjong Beralih ke Pon",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWoyTVdvZG5Pa1lNeXliNlpFbkRTQjZIZnU5MzVwQUtIRmdoUURWN21jX1ZWM2g4MVZpd2hJcVg2Z052anF0UDhsU19WMThITV9yZm8wM0pDZ2FacHloTjVjSThHalk3Q1FxZUR0dWhiam5HSXl1bW5kNVM3Y0JJZWk4QThjVHloQ1poUU9CMUZlSTZSUTNxNmhRY193Mkd0VTk5YTBINlZQbTVfYzl1UWZ3TkdwNUI0N2o2WjR1WkkxRW9qa01jMF84UC1weXF2U0RocVhn?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "SRQ Magazine"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-15T04:02:11Z"
-  },
-  {
-   "k": "news",
    "u": "detikInet",
    "name": "detikInet",
    "av": "",
    "followers": 0,
    "cap": "Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi",
-   "snip": "Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Apakah Staf Khusus Kementerian Dapat Uang Pensiun? Simak Aturan Resminya Suara.com Bukan Cuma Raline Shah, 4 Artis Ini juga 'Dapat Kursi' di Pemerintahan Prabowo-Gibran",
+   "snip": "Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Mobil Semata Wayang Raline Shah yang Mundur dari Jabatan Stafsus Komdigi detikoto Respons Meutya Hafid Usai Raline Shah Mundur Stafsus Menkomdigi CNN Indonesia Pertimba",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1113,6 +1111,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T05:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru",
+   "snip": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru detikcom Intip Rumah Baru Fajar Sadboy, Sekeluarga Diboyong ke Bekasi! detikcom Potong Tumpeng, Fajar Sadboy Gelar Tasyakuran di Rumah Barunya Popmama.com 5 Potret Rumah Baru",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVdRTXhYeUFJekZwRGU1bkZpZ0MzMTg2dkdlSEJNbHZzTFZ1QnM2UmhJY2RkeU9sckNoWFRSbGdhZUhOaGlrRE5zV0d6dW5XUm91ZExEVXo3Qkc3WTVldHNPaHA4dVJ2VkFuUE5TYl9MejU1M0tUZkttYWYxaWc3ZkI2RklXdHVvRWZiSDE1LXF3TGdkY3BkTldOVHJiLXVrQWdFZ0VsdTBZOFZIMjZPem9n0gG3AUFVX3lxTFBUQUdhblZhbWFBWXBWSHZDTFpvcjhrbHc1ZXBxLUM1ZmdvdVhpMDRZYjRuYTNkVXdnNVNCNTlZbzhRY21QbTNqUFdwRkY5VHpqVzAzTlhxa3hEbmVkNlRZYld1ZjR0RWxuQ21hc2RLb2Izb05BUHdoZjJIWWpfODhGTm5IZzRrVHlCM3M0M1lnSXYyOXRTSWNsT09EaHA5ZWtOT25Ub2JveVJzRDhvdTJ0MUJ5UWJaaw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-14T05:15:41Z"
   },
   {
    "k": "news",
