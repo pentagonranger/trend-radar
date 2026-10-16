@@ -1,23 +1,6 @@
 {
  "topics": [
   {
-   "t": "Doctor X Tayang Hari Apa",
-   "q": "doctor x tayang hari apa",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends"
-   ],
-   "src": [
-    "Google Trends"
-   ],
-   "d": "2026-10-16",
-   "url": "",
-   "n": "",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
    "t": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "q": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "cat": "Selebriti",
@@ -236,7 +219,7 @@
    "av": "",
    "followers": 0,
    "cap": "Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series",
-   "snip": "Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series ANTARA News Banten \"Kita Bayar Rp 30 Juta Kayak Antre Sembako Gratis\", Keluh Pembeli iPhone 18 Pro Antre 6 Jam Kompas.com Pembeli Pertama iPhone 18 Pro Max di UR, Pilih Biru Keti",
+   "snip": "Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series ANTARA News Banten Pembeli Pertama iPhone 18 Pro Max di UR, Pilih Biru Ketimbang Burgundy detikInet \"Kita Bayar Rp 30 Juta Kayak Antre Sembako Gratis\", Keluh Pembeli iPhone 18 Pr",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -336,7 +319,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T11:13:24Z"
   },
   {
@@ -358,7 +341,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T11:08:00Z"
   },
   {
@@ -380,7 +363,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T11:02:23Z"
   },
   {
@@ -402,7 +385,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T10:46:59Z"
   },
   {
@@ -424,7 +407,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T10:41:36Z"
   },
   {
@@ -812,7 +795,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVEtZ0pLUDEwUUlPM05XT080MGZzbXRpTWV3VzUtTTVVUGVGVEE5VE00X291a2pFaGZkTjRFZERwMDFTZmdlaUp0RFJtb0VtN1o1a29XOHZUQkZGSWZEUWZPVHBVN3ZFSGFpMUdfeGc1aWw1NnVOcVdfUDFYSkpUU3hENHdUUW9YLUVBX1pGQkszVWpXU1ZjMkRhaVFSb1ktM2h6R0lYb2hBZUdUMnlFckZIMkZWeDJsMHBkeFBWSWRTZy1sbnFjSEl30gG7AUFVX3lxTE9CTVJ6YXZDUjdtVk1BWkRMbTZmX0ZPalRJVEZZSFJ2eDhzUGl1R2I4My0zekpINVpmMWhhUDN1aHBBM0R4TFE4UUNUVVFJV1JRMlFTSDFDc2hLUjNPMkxkWTVucExybVBQUURjcUNDOEVYX0ZuTzN5d0Fzek1LQjRGeGtmbGNjVXJEdUlRYjFWa2xEenVIQmJZLTd5S2VhNTN5aVR6MVM1WjZfdnUwYnRlODgtS3l4VjRJbkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVhrd1ZvTW5XUW5qdUNsVWY3Tzk2TXo5azZZdTd0aElJOVhmczB6R0d0X1ZJWm96UXlxNzlpaXBRVDJLSEJzQlNPM0Z6ZWJNMngxY3VCc2VPckE3Yk44X2RVWTFIcHZ3YjlxQ0pYMHpkZmFhaHc0SWttQl9ZYmpYYVlxdnBkVXZMRzFCUm83OWVsRGIyV0FJZTJ2NGlCY1hpZFlLQ3ZSVzNkM1otaXRsV1hhOUJSQTUwamV5a0dLb2tXVE5ONG5aV2p0NXFFZ9IBuwFBVV95cUxPQk1SemF2Q1I3bVZNQVpETG02Zl9GT2pUSVRGWUhSdng4c1BpdUdiODMtM3pKSDVaZjFoYVAzdWhwQTNEeExROFFDVFVRSVdSUTJRU0gxQ3NoS1IzTzJMZFk1bnBMcm1QUFFEY3FDQzhFWF9Gbk8zeXdBc3pNS0I0RnhrZmxjY1VyRHVJUWIxVmtsRHp1SEJiWS03eUtlYTUzeWlUejFTNVo2X3Z1MGJ0ZTg4LUt5eFY0SW5B?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -891,12 +874,34 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan Zodiak 16 Oktober: Aries Putus Asa, Taurus Butuh Motivasi",
+   "snip": "Ramalan Zodiak 16 Oktober: Aries Putus Asa, Taurus Butuh Motivasi Wolipop Ramalan Zodiak Hari Ini, Jumat 16 Oktober 2026: Leo dan Libra Punya Peluang Positif - sumeks.disway.id Sumeks Ramalan Zodiak Asmara Hari ini 16 Oktober: Taurus dan Pi",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3Jia0g3Q3V2U05DdVNmTlQ3dEdDU3JYZVFtWGlyNWRMMC04S1BTd09VR3VJU0tWZElibjc5UnBXYU5JVUF1OXVKRzl4VHNmWnV5ajV4THVuWlZodFlFa1JYcGRvUlVxUnFXVTBKOGhpbjc2RjY3a1A2cjhacXZlVnhQMkZ3c05UTXdfNDRZMWF4bTJ4bzRqY00xbTFsNkN1X1NHQ2tZQdIBrAFBVV95cUxPY2tkMkw4VWJxMEZ2cWhLUFVUekFaQVBzT0JJd0RjaFF1YTFfQmxRR0dKR0pGN3dCYjFyX2RLSWlYYzd1MFh4OW1KMnU5bVlkaHRwRWZEZl9FM3h0OFlPcGs0cFl0SmhiQS1BTDJGR1ZVdk42RC1UanQ3UFdsWVJuaXhkYXJ5a2ZYYzhST3ZwaktveVRIbndaNHJCNWtwLWgyYWNvZXYwT3JRbm1f?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T22:00:50Z"
+  },
+  {
+   "k": "news",
    "u": "https://janalokajournal.id/",
    "name": "https://janalokajournal.id/",
    "av": "",
    "followers": 0,
    "cap": "Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia",
-   "snip": "Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ Mengenang Amaludin Syarif, Wajah Legend Sampul MP3 Kini Telah Tiada detikHOT Kabar Duka, Amaludin Syarif Ikon Cover Lagu MP3 Era 2000-an Meninggal Dunia ",
+   "snip": "Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ Mengenang Amaludin Syarif, Wajah Legend Sampul MP3 Kini Telah Tiada detikHOT Kover Legend MP3 Indonesia, Amaluddin Syarif Meninggal CNN Indonesia Kabar D",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1001,6 +1006,28 @@
   },
   {
    "k": "news",
+   "u": "SRQ Magazine",
+   "name": "SRQ Magazine",
+   "av": "",
+   "followers": 0,
+   "cap": "Kabar Pemuda Bogor Mendapat Tiga Scatter Memicu Pembahasan Fenomena Scatter Hitam Mahjong Ways",
+   "snip": "Kabar Pemuda Bogor Mendapat Tiga Scatter Memicu Pembahasan Fenomena Scatter Hitam Mahjong Ways SRQ Magazine Kode Alam serta Strategi Pelestarian Budaya melalui Representasi Visual pada Mahjong Wins Bakorwil Bojonegoro Mahjong Beralih ke Pon",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWoyTVdvZG5Pa1lNeXliNlpFbkRTQjZIZnU5MzVwQUtIRmdoUURWN21jX1ZWM2g4MVZpd2hJcVg2Z052anF0UDhsU19WMThITV9yZm8wM0pDZ2FacHloTjVjSThHalk3Q1FxZUR0dWhiam5HSXl1bW5kNVM3Y0JJZWk4QThjVHloQ1poUU9CMUZlSTZSUTNxNmhRY193Mkd0VTk5YTBINlZQbTVfYzl1UWZ3TkdwNUI0N2o2WjR1WkkxRW9qa01jMF84UC1weXF2U0RocVhn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "SRQ Magazine"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-15T04:02:11Z"
+  },
+  {
+   "k": "news",
    "u": "detikInet",
    "name": "detikInet",
    "av": "",
@@ -1089,38 +1116,16 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru",
-   "snip": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru detikcom Intip Rumah Baru Fajar Sadboy, Sekeluarga Diboyong ke Bekasi! detikcom Potong Tumpeng, Fajar Sadboy Gelar Tasyakuran di Rumah Barunya Popmama.com 5 Potret Rumah Baru",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVdRTXhYeUFJekZwRGU1bkZpZ0MzMTg2dkdlSEJNbHZzTFZ1QnM2UmhJY2RkeU9sckNoWFRSbGdhZUhOaGlrRE5zV0d6dW5XUm91ZExEVXo3Qkc3WTVldHNPaHA4dVJ2VkFuUE5TYl9MejU1M0tUZkttYWYxaWc3ZkI2RklXdHVvRWZiSDE1LXF3TGdkY3BkTldOVHJiLXVrQWdFZ0VsdTBZOFZIMjZPem9n0gG3AUFVX3lxTFBUQUdhblZhbWFBWXBWSHZDTFpvcjhrbHc1ZXBxLUM1ZmdvdVhpMDRZYjRuYTNkVXdnNVNCNTlZbzhRY21QbTNqUFdwRkY5VHpqVzAzTlhxa3hEbmVkNlRZYld1ZjR0RWxuQ21hc2RLb2Izb05BUHdoZjJIWWpfODhGTm5IZzRrVHlCM3M0M1lnSXYyOXRTSWNsT09EaHA5ZWtOT25Ub2JveVJzRDhvdTJ0MUJ5UWJaaw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T05:15:41Z"
-  },
-  {
-   "k": "news",
    "u": "celebrity.okezone.com",
    "name": "celebrity.okezone.com",
    "av": "",
    "followers": 0,
-   "cap": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah",
-   "snip": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah celebrity.okezone.com Imbas Rekaman Video Call Viral, Travel Umrah Ini Depak Ruben Onsu dari BA Inilah.com Hamdan Tour Putus Kontrak Ruben Onsu sebagai Brand Ambassa",
+   "cap": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya",
+   "snip": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya celebrity.okezone.com Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Singgung Soal Anak, Pesan Psikolog Lita Gading ke S",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkdxVkhyOUh6cVBKaG1zN0dRbEwxOTlfRzJkNFZWWUZubXBrbUtEWm05XzlNdWNVSnBNMktkcFpsT25HWGJXNnE4T1dibmtoZWhyTFZReHR1ZG16T1M4VVFVNE83MEdTVDlNYTFiN254b3ZtaGlMbEp0Z0dJdUxTWFdoX3o4anRsanVFWW1EbzVvMGh0cW9SbGRCdkEzUnN2ZlVTYkpFVEtkYVZMVFc2RDJvOHJnZFZSOU1wNE40Ry1semFLX0JfampR0gHIAUFVX3lxTE5FclRpMkVHYzl2N2tvYjRZeUpqOVdGR0NlNzUyUk1MT2lFQy01NGxJZVdoZ0dYUXU0UlNaTjZ4ZjlnWXYwR3piQUNaNVFjdVZ2WGNjVEFDQkRsQ1l3OGhqeGwwSHB4SU1CcEUxZDlHdmNkOGhTRmtuZWNpcnFGeVhXRVhmNmdXeDZfLTdsYTJRUWRVQzM0M0RNYUZGQXc5VWRuOXNJVmc2NmZ5R2NmWmgwSmpkNGFoYkpTbUFYd09wN1VRa1N4MldQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNPOVdxellieEpBZDRCLXA2eUN1MzQ2X0cwaFh2MVl5WUhCMUZqTlpyWEhBeHZ5akJ0THFzOU9TbTBtaFRmdXhJSHhKb2RSU2tuaTdJekhMZ2puMEc3LUVGU2ptRVdMMFJ5eDZ3UDNrRy1KYUFFeGNEcEtsdnY1Z0E1c3JyNnhRdjZYT0ExelRPbFVmMWNFWEMyY253WVVfUk5PNTZEN0NIRzc0aUI4cmhsMkFOTGVNME5VaGlXUDMzVmphQjY0RlYzeXRfQlFKRHNnWTRSNjU0QUVTMS1TbGY4RHBNZ9IB5AFBVV95cUxQVmtSX2Y0Z0ZITzM5Z01uVURYQ1RwWURYc0dseXgzWGlFcjdmZTBkZXFhSGpPSXQ1MEpXMzA0X01qTkk3MkQ5MDJKTUZQZUtZSDYtcWtSa3d5MXdzSmxuZEhKcEFjMmNxelduWUdTbndyR05fZHpmcjRaRnYwekdvNEJQaGlPSW9aeHB2SVJWVHYwYmU2RTVJcDlidEY0U0Vjc2E2V1p2MTFZSjk2WDZyV01yZkhxdWVzdktXamFVaEhLcFZxWGxqdVNmcmN0U1ZHdFZCMklicFZ2dkN0ZzVKUmNBNmc?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1129,29 +1134,7 @@
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-14T04:00:10Z"
-  },
-  {
-   "k": "news",
-   "u": "VIVA.co.id",
-   "name": "VIVA.co.id",
-   "av": "",
-   "followers": 0,
-   "cap": "Tuding Ruben Onsu Menistakan Agama karena Goda Y, Artos: Lu Pakai Itu untuk Berhubungan Sesama Jenis",
-   "snip": "Tuding Ruben Onsu Menistakan Agama karena Goda Y, Artos: Lu Pakai Itu untuk Berhubungan Sesama Jenis VIVA.co.id Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Singgung Soal Anak, Pesan Psikolog Lita Gading ke Sarwen",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3ZCekk3QzhlS3JSeVc0LTFrbC1vRkJuLXJ1SUxXamxaWVJFMGxod1hQYnZHVXZ3RTFaS0ZsUnFxd2M2bC1BLXFmMXF2RTExOHBMZHRJT0NuQS1FZVdTb0NHYUY3dGlTZUJxSHJGYmN1YjlRUWhpb3FfVWpEOW5haXpLTVhGOHZJZk5OeGd3bHNjMXZMc2F6UFhoV2Y4blJnZ19kWjdSMlZCNFZ5di0tbTBPVmlzblJucTJYMTFKZUVhZHpEQWdQaUg1SzQxek5iemhuLUp5b09wN1hJaXd1SlN30gHnAUFVX3lxTE5ZRG0wOWhsR0Zva1gzN3B4Y3p1NjZQeWM5ZHNPNXNBcXhCWm1TbWhUY01aR1dEb2szVVRlaU84N3dfZXV3OG02RHNyWmZHbEw5V3pRTlE0LXZSNjRkWHo1RVNROHJmaEdEbV9MY1lkUjRaQ1BhenByZXRKYWhaTzd6bUptMENDZXBhQ0Z6bUNiUkNwTlhEeWx2UFZSSTVTVUFvV3ZGYlhSWE01dU1LUURzb3ROVldZZ05Ec09DalNnTFNnSG1ST1BlY2N0RFNhc01jd19qaWhGem95TFo5UUJyQjJSS2lLOA?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "VIVA.co.id"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-13T12:48:00Z"
+   "ts": "2026-10-13T00:05:02Z"
   }
  ]
 }
