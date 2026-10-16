@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Ambil data & bikin dashboard
-        run: python fetch_trends.py --out index.html
+        run: python fetch_trends.py --geo ID --niche hiburan --out index.html
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
