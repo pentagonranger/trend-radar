@@ -1,0 +1,35 @@
+# Trend Radar (versi live)
+
+Tarik topik trending dari Google Trends, Google News, Reddit, YouTube (dan X, opsional),
+lalu bikin `dashboard.html` yang bisa dibuka langsung di browser.
+
+## Cara pakai
+Taruh `fetch_trends.py` dan `template.html` di satu folder, lalu:
+
+    python fetch_trends.py            # Indonesia
+    python fetch_trends.py --geo US --lang en
+    python fetch_trends.py --demo     # tes tanpa internet
+
+Hasil: `dashboard.html` (dashboard) + `dashboard.json` (data mentah). Butuh Python 3.8+, tanpa install library.
+
+## API key (opsional)
+| Sumber | Key | Catatan |
+|---|---|---|
+| Google Trends, Google News, Reddit | tidak perlu | langsung jalan |
+| YouTube | `YOUTUBE_API_KEY` | gratis, buat di Google Cloud Console → aktifkan YouTube Data API v3 |
+| X | `X_BEARER_TOKEN` | endpoint trends biasanya butuh paket berbayar |
+
+    export YOUTUBE_API_KEY="xxxx"       # Windows PowerShell: $env:YOUTUBE_API_KEY="xxxx"
+    python fetch_trends.py
+
+Sumber yang key-nya kosong dilewati otomatis; sumber yang gagal tidak menjatuhkan yang lain.
+
+## Update otomatis
+- Mac/Linux (tiap 30 menit):  `*/30 * * * * cd /path/ke/folder && python3 fetch_trends.py`
+- Windows: Task Scheduler → jalankan `python fetch_trends.py`
+- Online: taruh di GitHub, jalankan lewat GitHub Actions terjadwal, lalu publish `dashboard.html` via GitHub Pages.
+
+## Catatan
+- Kategori ditebak dari kata kunci (cek `CATS` di script, tambah sesuai niche-mu).
+- Satuan volume beda tiap platform (pencarian / views / upvotes), jadi Skor Buzz hanya indikator kasar.
+- Reddit kadang memblokir request tanpa login; kalau gagal, sumber lain tetap jalan.
