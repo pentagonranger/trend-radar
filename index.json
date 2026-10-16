@@ -1,0 +1,549 @@
+[
+ {
+  "t": "Singapore airlines",
+  "q": "singapore airlines",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "The Straits Times",
+   "airlive"
+  ],
+  "d": "2026-10-16",
+  "url": "https://www.straitstimes.com/singapore/singapore-bound-sia-flight-diverted-back-to-san-francisco-due-to-unruly-passenger",
+  "n": "Singapore-bound SIA flight diverted back to San Francisco due to ‘unruly’ passenger",
+  "vol": 100,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Stanley",
+  "q": "stanley",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "WSJ",
+   "Boston Herald"
+  ],
+  "d": "2026-10-16",
+  "url": "https://www.wsj.com/arts-culture/television/masterplan-review-stanley-tuccis-mona-lisa-heist-on-prime-ea978d39",
+  "n": "‘Masterplan’ Review: Stanley Tucci’s Mona Lisa Heist on Prime",
+  "vol": 100,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Cuan",
+  "q": "cuan",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "CNBC Indonesia",
+   "Bisnis.com - Market"
+  ],
+  "d": "2026-10-16",
+  "url": "https://www.cnbcindonesia.com/market/20261016140342-17-776890/ojk-sanksi-835-pihak-terkait-pidana-pasar-modal-denda-rp390-miliar",
+  "n": "OJK Sanksi 835 Pihak Terkait Pidana Pasar Modal, Denda Rp390 Miliar",
+  "vol": 500,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Megawati hangestri pertiwi",
+  "q": "megawati hangestri pertiwi",
+  "cat": "Olahraga",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "CNBC Indonesia",
+   "CNN Indonesia"
+  ],
+  "d": "2026-10-16",
+  "url": "https://www.cnbcindonesia.com/lifestyle/20261015121058-35-776431/debut-megawati-di-hillstate-sukses-cetak-14-poin-di-kovo-cup-2026",
+  "n": "Debut Megawati di Hillstate, Sukses Cetak 14 Poin di KOVO Cup 2026",
+  "vol": 2000,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Air terjun robo",
+  "q": "air terjun robo",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "KlikPositif.com",
+   "Hantaran.co"
+  ],
+  "d": "2026-10-16",
+  "url": "https://klikpositif.com/perempuan-asal-padang-pariaman-hanyut-di-air-terjun-robo-tim-sar-lakukan-pencarian/",
+  "n": "Perempuan Asal Padang Pariaman Hanyut di Air Terjun Robo, Tim SAR Lakukan Pencarian",
+  "vol": 200,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Kecelakaan maut",
+  "q": "kecelakaan maut",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita",
+   "Google Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "detikoto",
+   "gadget.qoo10.co.id"
+  ],
+  "d": "2026-10-16",
+  "url": "https://oto.detik.com/catatan-pengendara-mobil/d-8709869/detik-detik-kecelakaan-maut-byd-seal-hantam-sedan-bocah-5-tahun-tewas",
+  "n": "Detik-detik Kecelakaan Maut BYD Seal Hantam Sedan, Bocah 5 Tahun Tewas",
+  "vol": 200,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Kpk ott bupati klaten",
+  "q": "kpk ott bupati klaten",
+  "cat": "Politik",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita",
+   "Google Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "detikNews",
+   "Kompas.com"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.detik.com/berita/d-8710106/bupati-klaten-terjaring-ott-kpk-pdip-sanksi-partai-menanti",
+  "n": "Bupati Klaten Terjaring OTT KPK, PDIP: Sanksi Partai Menanti",
+  "vol": 2000,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Richard lee",
+  "q": "richard lee",
+  "cat": "Hukum & Kriminal",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "detikHOT",
+   "celebrity.okezone.com"
+  ],
+  "d": "2026-10-16",
+  "url": "https://hot.detik.com/celeb/d-8709510/hakim-kabulkan-penangguhan-penahanan-richard-lee",
+  "n": "Hakim Kabulkan Penangguhan Penahanan Richard Lee",
+  "vol": 100,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Bp batam",
+  "q": "bp batam",
+  "cat": "Bencana & Lingkungan",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "TRIBRATA NEWS POLDA KEPRI",
+   "CNN Indonesia"
+  ],
+  "d": "2026-10-16",
+  "url": "https://tribratanews.kepri.polri.go.id/peduli-kesehatan-sidokkes-polresta-barelang-bagikan-masker-dan-vitamin-di-jalan-raya/",
+  "n": "Peduli Kesehatan, Sidokkes Polresta Barelang Bagikan Masker dan Vitamin di Jalan Raya",
+  "vol": 200,
+  "vu": "pencarian"
+ },
+ {
+  "t": "Bimo wijayanto",
+  "q": "bimo wijayanto",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Trends",
+   "Portal Berita"
+  ],
+  "src": [
+   "Google Trends",
+   "CNBC Indonesia",
+   "ANTARA News"
+  ],
+  "d": "2026-10-16",
+  "url": "https://www.cnbcindonesia.com/news/20261016091019-4-776707/batas-penghasilan-kena-pajak-ri-ketinggian-bos-djp-ambil-tindakan",
+  "n": "Batas Penghasilan Kena Pajak RI Ketinggian, Bos DJP Ambil Tindakan",
+  "vol": 100,
+  "vu": "pencarian"
+ },
+ {
+  "t": "IHSG Anjlok 11%, Rupiah Tembus Rp 18.000, Ini Penyebabnya",
+  "q": "IHSG Anjlok 11%, Rupiah Tembus Rp 18.000, Ini Penyebabnya",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "CNBC Indonesia"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzd1ZDhnRVVNd1NPdHRyMWw3UUlLNHJNQWRJSFZIcmlHeldrdTlscUJDeS16UXZjbV8wcVFKZzdpU21KcGYxdUhJVFQwMklIcW1IVjNxRkYtck9nWEE5bEZGN1gzMjkybDlCWG9zbVM1am56Vnhjd3RjUzI0c3JPVjlaUWs4RE5UNmtDcExIQlJ5MDVxZHdnem1uUE85UVI0eVY0SjV3dF9Id3Z1TTlVQWpQdlVWd9IBuwFBVV95cUxPLWw2RHB5djFZbnlRaGNIY2ptckFVTVNsbUpxUkdDNFpCNnpoWS1nOWthMXNRd2NfRi1HQmdNTGJITXUxTXlEU2dWcVJDMUVrZVdMWW9UbnVzNlFxcFQxUTczM3VaUHdRQ0t2NVctQ3hlQU00M0FpanFWckRNb09YX25CN19hRnBKWl9kM2RwUWp3U1lDWmxPQjMzenVGU0xnZExRcUhVWnBkeVJDMmgxSWdwSnhTV2pDaVhB?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Warga Bali Berburu BBM, Antrean Mengular Berjam-jam",
+  "q": "Warga Bali Berburu BBM, Antrean Mengular Berjam-jam",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikFinance"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3JIc0MwR3V5MWRFOE9mMDN6SFJEODZkVmdKc2k3WU55b3drc2pCallsYThNQ05xcEVJMnhqSllZSDVSQnNHc0dtaU8zT1lXWlFhTk9YTlk5cmlzelRyQ1dINnJ1N3lLZjIwM1JzU2NHQ1dmV1RrRmNCQmNKYzJaMW9EV2JYaHdNaS1RaFdWdXNpUXBiRXF2TE9VOHFOblXSAaQBQVVfeXFMTkFMQXUxazh3NXd2eDBNaXl3UFNLakJqLWZ1d3B3MWVkVjduSk9mdWo0WS1IbGtIT2FpRFRmSnBrRGlaZm5YU0JwV3dsZ2hxbHd3NWhzQVR1cDE0UFRVVWZNVFljNzZLUldTeG8wSmRiTV8xd2ZaTzJ6bjczQ0toRHpsb2I2cjZlQjJSMXpDekFXNndMTWtJT1dISXNDSlh5WXY1Qkc?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Tukar Posisi Wakil Panglima Maruli Simanjuntak dan KSAD Tandyo Budi",
+  "q": "Tukar Posisi Wakil Panglima Maruli Simanjuntak dan KSAD Tandyo Budi",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Kompas.com"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGx1SW9zUEViZGxMQjFqbDZvbFotamZPcUVyanlwOUt5QjhhUS05Z0NwbTItSFBMdUR1MW1mUEhob0ZsSXJoLTFhbEEyY2twUUJQdDhJb3dpMEZiVElUSVJkRS1QT3pMV0FOeWtQQjhONlBLaDk0QUllV0wwdWhTWG9mUlJnME9KajdtUEplUUl4OGhRc185c3g3cFNnblQ4X1l5a1MzNVdJVEZNcnhGTzF5NUtaSEFkM3pfQTA1ZGp1RFJ6bnU0cA?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Singapura Pertimbangkan Usut Perusahaan di Balik Karhutla Pemicu Asap",
+  "q": "Singapura Pertimbangkan Usut Perusahaan di Balik Karhutla Pemicu Asap",
+  "cat": "Bencana & Lingkungan",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikNews"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0xKd1RFZnBNdDg1engtNVRwczJOVnNmYkJVTWlsdW0zYjVBTTRzSlFvWklHZnJRMmYwcWF0Vi13aFB5OWY5Vms1OTg5NTZmWnBhYWlCSmV0LVZWS1VnYWlxdU9TenlNMmpuWjJTbVd4WFZZbXlxYTloS0FOTlhNUjU3QUljNVZkNnRpLXROejA5ZnVibmZYanpZUXB6dFA5dmxQZk5sQ2dURF8yOWdUY3V1NHpFNVnSAbwBQVVfeXFMTllmUXJDNnZfWkpuM3hESVVpWEdDcC1GRVd5SDRfM3NZQ2xqMS1vMHBoNDJuVWVwYVMweEliS2NkcGlwa0ZHV1JOU1BvelN3cC1HRFpKT2JiRDlLZ3dYQ0ZKTG9kV1JFWXBOQ2ZyQnlCLWUxNXk3SzIwQmp3NmhJcWdVOUE0dUNEMGdtekdybEc1LVlWYkVxWEtnTW9SRWNLMjhZcjdZVGdndTFIMk9VYWhlTmRrR1lBSjlKTms?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Muncul Dugaan Bandar Narkoba Melawan di Balik Kampung Ambon Kebakaran",
+  "q": "Muncul Dugaan Bandar Narkoba Melawan di Balik Kampung Ambon Kebakaran",
+  "cat": "Hukum & Kriminal",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikNews"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkRySlZEWUFKNGY3TDdTcmxKaFZMMU5yT01oMHM0bGU5THEwazhnYUtFbnhCMl9MZ2FVU1R3T2dHRlhaaFZ4VVBBRzdPU1dKaXNQaVMzZTB3QUtONzZzTDd1YWNiWTZWSlU5bjgxRFMxY2VuZnlUdWY1ejhneFpDX2pOWDV2cHFzZEI2b1lnTGxHMTVjZ0NKaUdFUTBJNHh0azN6V25QUkJaTEVtVWfSAbMBQVVfeXFMTUZnb0VWQk9xc3pHTEI2eTNNZm02MjNXN3lxR3BPSXcycENNLVFlODZ3UXpLM3FMSFJrOW40V2lwODUzbWxIbEV2RjNWamNyN2xhcjNYZllRNVBnbjJwLUlneWIxZ0J0cE5NSk9Cb3ZZaWVGX0R6UUFKYlJfaU1RNjBOcHFlNWl6bHhCNlVRS3lzR0hoRUVJSlJ2d0JXTW1RamZPZ0VrWjlUemJMb3hBa0tOaEU?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Indonesia Kini Punya 10 Jenderal Bintang 4 Aktif: 7 TNI dan 3 Polisi",
+  "q": "Indonesia Kini Punya 10 Jenderal Bintang 4 Aktif: 7 TNI dan 3 Polisi",
+  "cat": "Hukum & Kriminal",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Kompas.com"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzctbGRnWHNsVjlzeFZfc3A2VVF5cnlpNTBWVDF5WGFvY2gxNG1jZDd2UURNdkExdXQ4YXZ1dkx4emt4LUNYZkt3Tl9INUlkbmdyTWw3SUNkQ0Y0el9HU0FqMXNrQjJVaG9JRXU0Y1EwWTRoRDBMOG4yQUtYQjd0VUhtU3VoeTBKUzVQNDBnZHhtOFpjaThtTVM2N1NYODRoR1dBTUladV9TWXdjY2UzNnFnRllqbzBUd3phUklPMWNyZWpMYkEwUQ?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Media Asing Soroti Penampakan Langit Oranye RI Imbas Asap Karhutla",
+  "q": "Media Asing Soroti Penampakan Langit Oranye RI Imbas Asap Karhutla",
+  "cat": "Bencana & Lingkungan",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "CNN Indonesia"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWxJbmMzaF9odHhhNXlXYWFqSW1kaHUxenJKQ2JlUFVWS3RWblB5NTZFUWpQUElzc0w1TW9wMUs5VVR3VzNpQTQ2Z0NzVDVlal9ReVlVQ1U4RmJmSUkyQjhiZFFGb21XQTdpSkFyLXl4a1RQZjB6czU4WlJScVIzSlNCUm9IdGIwdV9YVi1rSmxDcVpVNTJxTThuWnJKdm9MR0hvWC0yUnQ0bEkxeDZMTDIyaDJ1bnlvRHRRSkJuZ2NpSHBKaHUxN2tfRG43dlFmWmfSAdcBQVVfeXFMUHZqZnE3bDI3Z1BHOE9TT2JrN28wQUxrSVFOam9IcVBGUzBSYmlFWF9VVFoxblh0LUxNVnFNVTV5aWxBMzVGWlk5dnp6RDRHWkpQSUdiLWRXN0hyX3VyR3dXcDk5XzNSTkxRTEh4S3g2U1JsOG9NY3BmNzgyanA3Zm5IVUEtWWMxczEtdjdYdmx3THdDelZraGROa2xPbEFRMWRQMVp5ZmNQd0dVcDFHdG1FaFFJZ2hZQ0dXZTMwWXQ3YTBqOWJ4cGVMTTRyeENneHhZblNrQWs?oc=5",
+  "n": ""
+ },
+ {
+  "t": "OTT di BNPB: KPK Tetapkan 5 Tersangka, Adik Kepala BNPB Turut Terjerat",
+  "q": "OTT di BNPB: KPK Tetapkan 5 Tersangka, Adik Kepala BNPB Turut Terjerat",
+  "cat": "Hukum & Kriminal",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Hukumonline"
+  ],
+  "d": "2026-10-15",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTW9qNFFpUHFiRFpZMUo4MFJsVnNaTUp2YzJSQ0VNMU1SUTF6Wml5VVdwM1Zod1p3Q0xWYWNwbTdrREcweWw3cEhZZ0pjeE13djVMV2M3TmxvM2xEaFJHbXpOQlJDYVhWVHg0MnFMbGFCaWVTNmF0SzA5VkhLWGNHZ3VFczlScFJuclM2bXh5TzJjQjJ5WWh6TndvVXVLdXMyNXVZa1ZPUURmUFIzc0ZTei00ZG9UMTFuQ3Q1MklleFhOUQ?oc=5",
+  "n": ""
+ },
+ {
+  "t": "TNI Pastikan Tunduk Putusan MK soal Revisi UU Peradilan Militer",
+  "q": "TNI Pastikan Tunduk Putusan MK soal Revisi UU Peradilan Militer",
+  "cat": "Politik",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikNews"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUF9abXVfRjlMalFsd2JzdFpveXA5dDFIWlc3TDhzcTBTdmFTb1JUd3NPUWpyc0hvQmt5SnkzMFNNOTlRbDRUeFc1ZkFNa0RpYkc5N3lOVTlHUVZrckpOSUUtWThPR1ZvRHpuQVlUdDBzNFBwYVdZN0VuMW9xa1FKYUU3Ujg5dVl5ampXbjd6ZVhIWFZJQ253QnRFUjUtdTRfZ28yQ3F30gGrAUFVX3lxTE5haW5iQlpVQ0Jic3NIV1MwdXRObTdVSDZfMGFyMkNRUVktQ0pPWGozTlV3am1zVnRnc25RQTdBZ3I1aEdQM213TGxYN0ViRXBfRzdIWWRlNG5GT1B4dWs3dm91aHEtbUhrWjFxbTE5UTVickpZTk1OdU5Rdmo2RkFHWG1sSnVEekJVLW1lX2hXZDA1b0paRmZ5M1R1eDRTdy1IQkVGaW5EcjdTVQ?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Rudal Houthi Hantam Istana Kepresidenan Yaman, 5 Orang Tewas",
+  "q": "Rudal Houthi Hantam Istana Kepresidenan Yaman, 5 Orang Tewas",
+  "cat": "Politik",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikNews"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaV90UlZIbDlPdE9HYUtBRG4xdE5XMm0zR2k0MDltMFdKWmhJcUlsanhLMEhxYzF0ZVpQdC1tQUo1Wm9CSklRSEJLZmlPMXluRnRBa2FvSVVTOUc4S0hKOTdQZFQ5ZHJhYmszOUVLSG9oOG5YUEhVRmVTblVENC10QVZLbkJiZHpCOGNJOGI1SUNSaE1qQVk2V1hZTmp4VHU0WTRicnhQaFQ3Z9IBrwFBVV95cUxPNktGaFhSUWFndXZTZENzRGRTWTFCNkZrTmJFbzBsMDh0ei1WRVEwdUNSdnl0aHhFd21Wem1TOHFEQU4tWmRQeXEwckZwbWh5a054ZEdMaF9zSjk4X3Vub2ItWERESU1Vc090SUdFeEVSbzVyeG1kODVNaWJlbzEyRjFxNXp0enZTcTRqU0RyNk5yQklGRXJONEFqTHd4Q18yUVhid0lhRmtWWXNKZzJF?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Kemlu Imbau WNI di Arab Saudi Waspada, Tak Sebar Foto-Video Terkait Serangan",
+  "q": "Kemlu Imbau WNI di Arab Saudi Waspada, Tak Sebar Foto-Video Terkait Serangan",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikNews"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekQ5RVJzX2NWNExZMmtmNDVzOW4tSVpIU0hLdFlTa2dZV3A2ZFIzTDR2ZkNjVzFyQXFRaWRNSk9nYzlUQWVyMF9hNTd0bXNNM2ZNX0lCWE5tY2xwTVVuckxvZTVMcTVlM0dIVElFSHRrZ1BtZEUyVUcxMEJMZ1hnOEUwczJTanZiYjczTFNEdnowZFU5RTVpbVp3RjV6c25BZVotWlVadG84TFN4NXBrWkNETVNfd9IBuwFBVV95cUxNTUJ6ZmNfZGJYMExVU3hlSmJSQ2FHcEM1VEtzanpScl9Gb21od1RPNUxSTHFSMTBnYTVSdDRnRU4xd2lMWDk5bDdVUWU5bW1ybnRXTm80ZEs2RFpJTkl1djBSUnNvdlNHSWJzYmJQVWZTNUk0ZV94RFRLaHdaY0JQXzgwOUtBVmJ1WFJiY21CVG1xVm9fODc4bkxJR1BIZkplYS16SHphemNNR3R5Q1ZIdlFBVWxkNE83NldB?oc=5",
+  "n": ""
+ },
+ {
+  "t": "AS Akan Pakai Mother of All Bombs Lawan Iran? Trump Bilang Gini",
+  "q": "AS Akan Pakai Mother of All Bombs Lawan Iran? Trump Bilang Gini",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikNews"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlhyYl9TNDJ0cW9KRGI5OE9tYTZ1QzYyV3dLbXZsTjVMcTdfVHFaTlNITmpLbTRBajQzTXp4YlhENnI2X0xmUzhZV194dGVZRTFjVERHSGRTVWc5QndWd19MZXVCQlVXV243SG1jUDBEX3J6bFpYNEJvTDhia2daWlU3WjRtTWdMa1NIZWJtZWt0bkpSQ1FkaTlCX2E1ZUc4WmV5b2E3b29qZzQtSUHSAbMBQVVfeXFMUFowMlU0dHRkakVmU1dsaVBaRk1MTTJtTTZYT21INEtSODdLSkhFMFpycWNlWHNuTmpSek5HbWpqY1FFSFJRZWttMjFOVWRwbXNoTnJvS0JCbUJOTjFpVk1KUDdrZUM4a0ExWVRmZFJZREI2bTZfTlZBd2NfaWdHTkxOMTlmTGxkRGpDd1Ffb3dQT0R5cG9pa0FWRWZoVUVsTV82Q1dPdEpNZDZoSXJncW1KMzA?oc=5",
+  "n": ""
+ },
+ {
+  "t": "BI Buka Suara soal Dolar AS Tembus Rp 18.000 Lagi",
+  "q": "BI Buka Suara soal Dolar AS Tembus Rp 18.000 Lagi",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikFinance"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzVVN2tHckJZQlBMeE5zY0VtMWxRbW5UZVFfek4tRTA0SlN3aE9ZcGJkYW9hWS1YWjJQeGVUai1ybHhPcnB6MlhTZk5lU2VkTG5WaEpMRWk4UC1DTXl0VUZvNzBJR2l3RHBJWG1tZzVYQ1RtWm84OHBZQ29nQXVKVlhHQldCV293UXI2RnB5NTY3N01CM283dHAyRVQ5Mk4yNS1z0gGoAUFVX3lxTE9QdGJZM0ozSjRTQ0RxSXVicldwUG5SWUd2V1VXallYVnJoY0FZd1dZYUFCdGtha1JFOTJnVHNEb0E3ZDJfYmNVOHRUM3cyVU13YVgxUnZtbVpsM1JYS1g1QUtuRWVIT0k0TGd3bTN0aVhyVVI0NFNRd3JDUkVYeXkxc0padFBfYU9uVXdMMXZDNWk1YmZqb3BYMWpYRGlfNTRqZmNwV2F2OA?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Manuver Low Tuck Kwong di Saham BYAN: Beli Rp11.200, Lepas di Rp2.588",
+  "q": "Manuver Low Tuck Kwong di Saham BYAN: Beli Rp11.200, Lepas di Rp2.588",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "CNBC Indonesia"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVJjM1BzdVRHdUJDZk5IUE5WRlFHdGhaSHFJdHQ4dXJkQVM3bVktMDZnTWtzWlItWlltbU1vZVRpbkNCaV9GdkIwUkVhNncxWEJ0UHZiLURPc3QwVUFIZHkybzVtbVJVa3VVTnlzNFBBOUI2cVN4UHdQTENkV1NTWDFqZ2kwXzdhamN0cTBXb2IySG5GSHNkQzh1SGtwc0J6RXlEOXNybEowWHBaclQ2UnlES2ZDaDZnWlNoTURNcjNiaDZmZ2fSAcsBQVVfeXFMT0pQdnZwRDdhOUU1d2NuTTBQSUM4RTdZZFZqc0NvajhuS2ZzYllkbkE4SFJpQkc0cnMzemsyeklPVFYyM1IyQWlqUnRDMVQ3bHR2N0E4WnpVdGFUeU1fNUx4bUppR0F4OEVZbF8xbm92RUF0VUtlRTJCZDY2N0VOa3FzRGpwOUVXWHVEamR4Wm1DZGUzR3VjVVExajUzTDlZVGQ0LXdyNlhBR3VOdmppOEw3aXM4UUtNQ3A5TTFjUUdxZlFERFhzT3MtTzQ?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Bersinar! Simak Deretan Lawyer dan Law Firm Top Pilihan In-House Counsel Indonesia 2026",
+  "q": "Bersinar! Simak Deretan Lawyer dan Law Firm Top Pilihan In-House Counsel Indonesia 2026",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Hukumonline"
+  ],
+  "d": "2026-10-10",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelNrbG5nY1haY0NVcHY3Umt2b21DbHFWSFI4UFAzRm5KdmIxbkVvcHowQlhhSzhIMkljOFdwLW91b1k3dUk2blhaUEdXTy1GN3lCaHVicUozUGlsX0hoT3E5T1c3aGNNQUMzOFFCT3k4Q1UwSkV2RzJzaXI0cTM5UV9jOFBtblVlWmxnUC1HbEZtLWpzaVRJUHRoT1JEWjJKVWhNQURKQTdEQVl4d28zWnNlOEZac1FTaVZ6OGhuQUhyVnBFSkZIVFlUT2hFQ1JMcXJhRjk0Yw?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Ungkap Peran Pegadaian Kebut Ekosistem Bullion Bank Bersama Danantara",
+  "q": "Ungkap Peran Pegadaian Kebut Ekosistem Bullion Bank Bersama Danantara",
+  "cat": "Ekonomi & Bisnis",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "CNBC Indonesia"
+  ],
+  "d": "2026-10-15",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVVQelI4dkRpd3g5MU5iMGg3S1dJYmRId242R0owc2Jlam5RZjFaeFNycjU1Vkg5S1FQa0VFcjZVcUxYQ2FseEhnMDdCOTE5X29FVldXWnV2WHh1X0RqR2xsU2ZadkxNWHljUk9mZVZQT2t5MUZWSWJzYzk5YUdKQ2I4eDNOYXlWQnlPRDdOMXFOMko3WURjQjNNc21qV19RSE1pOTVJREpxcEJSZ2pLbFJRX0lyWFpKU1NRelJ4S19MZF9aekxj0gHMAUFVX3lxTE8yX2MzSHFUOE9TUDBfTTNlTmpNV3ByS1QwUGFJbHhYWkF5VEJWcV83bGJLVUZSbDdFQVpMVVkyRjZUTEVlV0JrdFprNE96ZWZXVzdHcVZRbHcxcGhXT0ZHM2JvWFhxd0g5ZTJvNl9SMU1TU2E2MjNaVnpsUmo0cnlURnR3VGNPQjN2TGFpb1duS2ZCclNNVVlfd1kzNU14NUJlbGNlUWlBVnNTalZRYVdPVWNYR0tuSnRTVnZUMVQ5aWxtcW9OcnhoeC1BTQ?oc=5",
+  "n": ""
+ },
+ {
+  "t": "YouTube Music Mulai Tandai Lagu Buatan AI",
+  "q": "YouTube Music Mulai Tandai Lagu Buatan AI",
+  "cat": "Teknologi",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Kompas.com"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMG5jd1RfM2VQcnhLbGFZREdxNk5razRhWWtCeWZzOVlNa0ZuOXBjSXJBdE1XQ2wtbVVkMWRlS1BMNno3S2otYTZ1cUl1b25TNEc1Njhzekg2UGI4dWNMVUY2eUd0eUtOeG1SVUpkQkNpUUZ6TjBtZGozdDNlTi1UYjRCc3E2ZzlSWmx2cVVMcmZLOVdnSUE?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Apple Jadwalkan Produksi iPhone 18 di Akhir November, Rilis 2027",
+  "q": "Apple Jadwalkan Produksi iPhone 18 di Akhir November, Rilis 2027",
+  "cat": "Teknologi",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Bloomberg Technoz"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSURXZ3RjZ0x5QmJaUXZ2RmEzb1V0VW9zOGktUG9YbTFHS19sUlRqaUJaTko5dk13SkZGZzY4TUpodXk2U2ZkWXNEZ3U2ODU5M04zUlZsZE10NEh1YjFtb21ZWWZ0eGhVXzBrVk9rY3BaTGJGeU5TUTBabEczVHYxS0FaSktiM1lmY2Y1UnF4R0dIS2x2ZzB5dS1rYS1kNm1CNWtadzNKeWJuaTVJRUxKOXBVMXdRZw?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Perhutani Saradan Ukur Lokasi Rencana Kerja Sama Silvopastura dengan UD Roma Farm",
+  "q": "Perhutani Saradan Ukur Lokasi Rencana Kerja Sama Silvopastura dengan UD Roma Farm",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "Perhutani"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRnFmY05NRFdOM1p4RGtSdGFzWlJ0dnFpdUJkcTN4TW1VTUZ6THZ3NUUxd2poTE9KTXpfSEtzRzhmR2FhVFhpQmhNaXFyeTZlZXl3UHRYRjhxT1BKUXd1dDhhWGJQaDlfeTBuTVdCUkNoUUR3czh3SjJTWkFXa2lBdXpCR1cxODktcHdENG1kdzhDb3lxRVhTbUZ1TFYwMHhyMWZnd1poMFRkRnl2Uk5B?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Bos Erajaya Bocorkan iPhone Duo Segera Rilis di Indonesia",
+  "q": "Bos Erajaya Bocorkan iPhone Duo Segera Rilis di Indonesia",
+  "cat": "Teknologi",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikInet"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZ6T2cyOTFmRmtXaUNNMDJmWUdYcHhiSkdFU2Y0aWxqYzQ0NFM4alBhSkFmSXgtaGJoejJodVlQQ2N5Z09SbEFvVkJuc1Z3VWJTWTdJQVdvOEU2WTBFaUFieDh4LV8zRkZHRDdDb0pyTXItalFFVG9xRGlVRERGcTJicE80OEdqdVRXc1dZS3loVGJ0TTdjYVB2dFI4M0500gGmAUFVX3lxTE1ta1lUdkRBS3NPcUxlLWpBazFCYXJSaTZpanBvc1RtNnVNT3ExSWlJOXptSVN3dUdXT1kxaG5uSmdJZV9sN09XM1NvSGhxdmlFdnM2OXVMRWxhQTlUM1l5alVpN05nUE5LWlB2Wnd1NktNQ0FlaW9zeTJpamJiaFFWOXpSTTRmdG11VS1abWsxZkM4NENTTVpjV2YzVGhxcWszOTB2UWc?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Aktor Senior Yadi Timo Meninggal Dunia",
+  "q": "Aktor Senior Yadi Timo Meninggal Dunia",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikHOT"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejZPMXdKRFVzblpWT3M5LVRWYkVGSFZlRjA2cDRXRXVNcG9rMGpoblZvZ3FOdGY0S0hMSGdheDVxMzdsODJvNGVhbVN1WWVDTlFWUU1uRmJuWmEtOTZsdll3akdfWjh5SEJ5WVFHZlhhZ20yNmtyb0huMFRNRThDNXRB0gGHAUFVX3lxTFBrX1lSZjdGY0VTajBnM1RkLU13QmEyeVI4YWtRaG52VGJKbUtJa0t0SHh0dWRtVjhPekFlUmljQl9fb0VsMkhidVhOV3dsOFBpMnZIZUNTbGZZVUNEeXdBUW5vWjRpaklFQWR5STNTdWp3bm5nVW9TbjhDMmZMcDBFYUQ3SGxvWQ?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
+  "q": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikInet"
+  ],
+  "d": "2026-10-16",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmk4QnR2R3VDbmRxSE1lVjhsSWYtbTNYUUpsR0JJbVRsNWwzYnc5V3BoV19tNG1lRGJQR2dDaHRSQklMeDhueGl4RFJtYjJqdDdnVkg5eThEZUp4YnN4Q1E4c2JtSllpaUxWcTNTTGVtVEREUTVXTmFFa1h2MXZrVmxwVENvcDFsSmItNXBuNERqVFg5elNvMHo2QThDTThmSW9ucUNrd2Y4aEU40gGyAUFVX3lxTE9Dak5YSERRYW9vSzdyakJ3cHhCYTF2VHVlZmtyUldWREZoWmdKSVlTckxhQWJsUFJEeXBvX1ppOEx2bjA4N1c4Y1M3RTNJOXFYS1VGTXB6eDUyWlFWT1ZNRnF3UlFGSGNWN0s0XzNKdlFSU0YtSXpsNl9zQkVhT1VDcEZrN3U1ZjVxaWJPWDhRdHdhVmNmT05yQkxSUUtscWhwY0VJb1JpaDZLMkczT25Sc1E?oc=5",
+  "n": ""
+ },
+ {
+  "t": "Doddy Katamsi Meninggal Dunia",
+  "q": "Doddy Katamsi Meninggal Dunia",
+  "cat": "Lainnya",
+  "reg": "ID",
+  "ch": [
+   "Google Berita"
+  ],
+  "src": [
+   "detikcom"
+  ],
+  "d": "2026-10-15",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44X0ZuakhYTW9QQzNJbzV4a2RDTXBYc2FtX1ZTMEdJQjdlQ1pfZndtZURUdkgwTkZXbmVCd0xGQl9pU2s1UjBxendXdzFZYVNBOXMzMDYzU0pURzNRdlhGVEt5XzVJd1FQazZZWXkzc1NnQUx5blgyZVA5c9IBgAFBVV95cUxPbDlBUUtuaWpMdWxIVGtvUjktbGIydFFRZWQ4MVVHUFBLODk2eUJHdDZoMXBsZi1vX0V4XzExMEVvc1RCUUJHTlZ6UUQ0WUwzLVBGQ0xHX2k0RnZSRXpPTE0xNnBHQWluQWVLVTl0MkNMQk5RNTg4TjF0TVkybXBqOQ?oc=5",
+  "n": ""
+ }
+]
