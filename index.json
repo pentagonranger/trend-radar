@@ -1,6 +1,27 @@
 {
  "topics": [
   {
+   "t": "Madura United Vs Bhayangkara Fc",
+   "q": "madura united vs bhayangkara fc",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "ANTARA News",
+    "detikcom",
+    "Media Indonesia"
+   ],
+   "d": "2026-10-16",
+   "url": "https://ambon.antaranews.com/berita/347601/bhayangkara-fc-incar-kemenangan-saat-melawan-madura-united",
+   "n": "Bhayangkara FC incar kemenangan saat melawan Madura United",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
    "t": "Synchronize",
    "q": "synchronize",
    "cat": "Selebriti",
@@ -12,34 +33,13 @@
    "src": [
     "Google Trends",
     "Kompas.com",
-    "SINDOnews Lifestyle",
-    "Bisnis Style"
+    "detikcom",
+    "Radar Malang"
    ],
    "d": "2026-10-16",
-   "url": "https://www.kompas.com/hype/read/2026/10/16/084856666/rundown-hari-pertama-synchronize-fest-2026-ada-geisha-bersama-momo",
-   "n": "Rundown Hari Pertama Synchronize Fest 2026, Ada Geisha Bersama Momo",
+   "url": "https://www.kompas.com/hype/read/2026/10/16/180500566/efek-rumah-kaca-hadirkan-potret-wajah-munir-di-synchronize-fest-2026",
+   "n": "Efek Rumah Kaca Hadirkan Potret Wajah Munir di Synchronize Fest 2026, Singgung Kebakaran Hutan",
    "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Le Mans Fc",
-   "q": "le mans fc",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Les Violets",
-    "Le journal du Gers",
-    "Mediasportif"
-   ],
-   "d": "2026-10-16",
-   "url": "https://www.lesviolets.com/actu/le-mans-trois-points-obligatoires-pour-ne-pas-se-faire-decrocher,84618.html",
-   "n": "Le Mans : « Trois points obligatoires pour ne pas se faire décrocher »",
-   "vol": 200,
    "vu": "pencarian"
   },
   {
@@ -106,6 +106,116 @@
    "hot": [],
    "sc": 68,
    "ts": "2026-10-16T09:24:42Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Aulia Sarah Harus Basah Terus Saat Jadi Hantu di Film 'PIRUNDUK'",
+   "snip": "Peran di film PIRUNDUK menuntut Aulia Sarah untuk taklukan tantangan fisik hampir sepanjang proses syuting.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/iloyQ0YzqGvD6glTQK2Yejg5GFc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375484/original/062106700_1792149203-29039.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314952/aulia-sarah-harus-basah-terus-saat-jadi-hantu-di-film-pirunduk",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T11:13:24Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Song Mino Winner Sedang Ditinjau untuk Wamil Ulang 102 Hari, Buntut Sering Absen Saat Bertugas",
+   "snip": "Pengulangan wamil Mino Winner ditinjau, netizen Korea Selatan ungkap kekecewaan.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/oP2gKSEWfhQ8Q1WteX88jaRDSlg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3533291/original/046903000_1628242569-206298090_1108409479932350_3720941338065643849_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314894/song-mino-winner-sedang-ditinjau-untuk-wamil-ulang-102-hari-buntut-sering-absen-saat-bertugas",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T11:08:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Pengakuan Raihaanun Perankan Korban KDRT di Film Beautiful Pain, Perjuangannya Jadi Inspirasi",
+   "snip": "Raihaanun tidak kesulitan untuk mendalami peran Niken yang juga merupakan seorang ibu seperti dirinya.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/1fJIYZCR_VY_4ykfLQS0FpkEcIY=/572x913:2532x2018/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375290/original/053817900_1792137965-IMG_0522.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314785/pengakuan-raihaanun-perankan-korban-kdrt-di-film-beautiful-pain-perjuangannya-jadi-inspirasi",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T11:02:23Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Wanda Ponika Spill Pengalaman Kerja Sama dengan Vanness Wu, Sebut Selera Fashionnya Kuat",
+   "snip": "Lewat beberapa kali kerja sama ini, Wanda Ponika menangkap selera fashion Vanness Wu,",
+   "img": "https://cdn1-production-images-kly.akamaized.net/sX4cx_ckbNm1HlzKJmoRz-6b2k8=/0x22:1280x743/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375454/original/044097400_1792147307-WhatsApp_Image_2026-10-15_at_10.40.00.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314928/wanda-ponika-spill-pengalaman-kerja-sama-dengan-vanness-wu-sebut-selera-fashionnya-kuat",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T10:46:59Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Atiek CB Kehilangan Sosok Doddy Katamsi, Sebut sebagai Vocal Coach Terbaik",
+   "snip": "Di pemakaman, Atiek CB kenang pertemuan terakhir dengan Doddy Katamso.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/taP6L1oqDv4yr64vjNoEFUhbeUs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375453/original/035677600_1792147297-g_2026_10_16_r_atiek_cb-20261016-003-busan.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314927/atiek-cb-kehilangan-sosok-doddy-katamsi-sebut-sebagai-vocal-coach-terbaik",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T10:41:36Z"
   },
   {
    "k": "news",
@@ -417,28 +527,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi",
-   "snip": "Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Keluarga Beberkan Kronologi Meninggalnya Doddy Katamsi Kompas.com Musisi Rock Doddy Katamsi Meninggal Dunia CNN Indonesia Kepergian Vokalis Elpamas Doddy Katamsi Sisakan Duka Bagi",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMEhOTHJZakVGSFNpTGJQT0prcWFWUTRjYTNDTFllQUk2S19aQnE2dFJXQ2Fuc0RZTGZmOHlnY2FJRWpvRlJ2ZzJnVjZLMU5LRWJkVEYycTlHRkdYVEU3OTAwTXFabE15SUZBYUl3Sk1SRFE4UHl5Mm5UR24wd3MyVk1lMWRMV2hHYjFJRlZfLUVxYlnSAZgBQVVfeXFMT3JiU2tpZTU1SHpDRFYxdzB2Ymt6RWNYVHotZk5zNUx6dmRkTWowWG1JR2VFT0tNVEc1dlVsdWhPT2xZZllyTk9BWFdFeVBHZWMtWV9QNFZEb05OandWLXRKTmpJLTJ6dDJMbTQ5VFA4b0Z5a2lJUGZmUXFsSTRYOUp6Qi1PZzIwTVg1OTJ6SHppZE9IWHFscVo?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T08:01:42Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -458,28 +546,6 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-10-16T08:00:14Z"
-  },
-  {
-   "k": "news",
-   "u": "detikInet",
-   "name": "detikInet",
-   "av": "",
-   "followers": 0,
-   "cap": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
-   "snip": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka detikInet Mengenang Amaludin Syarif, Wajah Legend Sampul MP3 Kini Telah Tiada detikHOT Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.i",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmk4QnR2R3VDbmRxSE1lVjhsSWYtbTNYUUpsR0JJbVRsNWwzYnc5V3BoV19tNG1lRGJQR2dDaHRSQklMeDhueGl4RFJtYjJqdDdnVkg5eThEZUp4YnN4Q1E4c2JtSllpaUxWcTNTTGVtVEREUTVXTmFFa1h2MXZrVmxwVENvcDFsSmItNXBuNERqVFg5elNvMHo2QThDTThmSW9ucUNrd2Y4aEU40gGyAUFVX3lxTE9Dak5YSERRYW9vSzdyakJ3cHhCYTF2VHVlZmtyUldWREZoWmdKSVlTckxhQWJsUFJEeXBvX1ppOEx2bjA4N1c4Y1M3RTNJOXFYS1VGTXB6eDUyWlFWT1ZNRnF3UlFGSGNWN0s0XzNKdlFSU0YtSXpsNl9zQkVhT1VDcEZrN3U1ZjVxaWJPWDhRdHdhVmNmT05yQkxSUUtscWhwY0VJb1JpaDZLMkczT25Sc1E?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikInet"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T07:57:21Z"
   },
   {
    "k": "news",
@@ -549,34 +615,12 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Masayu Anastasia Perdana Main Film Komedi Ank di Panik Gak Tuh...? Ngaku Susah Tahan Tawa",
-   "snip": "Masayu Anastasia tertarik bergabung karena cerita film Panik Gak Tuh...? menghadirkan sudut pandang anak-anak yang penuh optimisme.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/T-vOjAiBLbrf76x_AqXTTWtuYXk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375186/original/018595000_1792134213-1000661172.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314693/masayu-anastasia-perdana-main-film-komedi-ank-di-panik-gak-tuh-ngaku-susah-tahan-tawa",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T07:10:32Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
    "followers": 0,
    "cap": "Potret Ultah Kenzo Bertema Pokemon, Baim Wong & Paula Verhoeven Tampil Kompak",
-   "snip": "Potret Ultah Kenzo Bertema Pokemon, Baim Wong & Paula Verhoeven Tampil Kompak Wolipop Baim Wong Rayakan Ulang Tahun Anak Bareng Paula Verhoeven Kompas.com Baim Wong dan Paula Verhoeven Rayakan Ulang Tahun Anak di Sekolah, Pesta Kecil-kecila",
+   "snip": "Potret Ultah Kenzo Bertema Pokemon, Baim Wong & Paula Verhoeven Tampil Kompak Wolipop Baim Wong Rayakan Ulang Tahun Anak Bareng Paula Verhoeven Kompas.com Baim Wong dan Paula Verhoeven Tetap Kompak Urus Anak Meski Cerai, Rayakan Ultah Kenzo",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -590,6 +634,28 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-10-16T07:00:41Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi",
+   "snip": "Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Keluarga Beberkan Kronologi Meninggalnya Doddy Katamsi Kompas.com Musisi Rock Doddy Katamsi Meninggal Dunia CNN Indonesia Kepergian Vokalis Elpamas Doddy Katamsi Sisakan Duka Bagi",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMEhOTHJZakVGSFNpTGJQT0prcWFWUTRjYTNDTFllQUk2S19aQnE2dFJXQ2Fuc0RZTGZmOHlnY2FJRWpvRlJ2ZzJnVjZLMU5LRWJkVEYycTlHRkdYVEU3OTAwTXFabE15SUZBYUl3Sk1SRFE4UHl5Mm5UR24wd3MyVk1lMWRMV2hHYjFJRlZfLUVxYlnSAZgBQVVfeXFMT3JiU2tpZTU1SHpDRFYxdzB2Ymt6RWNYVHotZk5zNUx6dmRkTWowWG1JR2VFT0tNVEc1dlVsdWhPT2xZZllyTk9BWFdFeVBHZWMtWV9QNFZEb05OandWLXRKTmpJLTJ6dDJMbTQ5VFA4b0Z5a2lJUGZmUXFsSTRYOUp6Qi1PZzIwTVg1OTJ6SHppZE9IWHFscVo?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T07:00:18Z"
   },
   {
    "k": "news",
@@ -615,72 +681,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Kabar Duka, Amaluddin Syarief Sosok Cover Stafaband Legendaris Meninggal Dunia",
-   "snip": "Amaluddin Syarief alias Mas Stafaband meninggal dunia pada 15 Oktober 2026. Kenali kisah sosok ikonik cover MP3 era 2000-an.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/Yt1Q31VHdjyPKKK1fTJxI2wFUSA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375138/original/017367700_1792132147-amaluddinsyarief.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314656/kabar-duka-amaluddin-syarief-sosok-cover-stafaband-legendaris-meninggal-dunia",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T06:29:07Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Billy Joel Didiagnosis Hidrosefalus, Kini Dilarang Berkendara hingga Manggung",
-   "snip": "Billy Joel mengungkap bahwa dokter juga memberikan peringatan bila ia manggung, akan seperti terkena gegar otak.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/yQU9OOW01XDpfkrG8923KjAA_s4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5233931/original/075825800_1748328969-000_47X28G3.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314596/billy-joel-didiagnosis-hidrosefalus-kini-dilarang-berkendara-hingga-manggung",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T06:07:16Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Ramayana 2026 Segera Tayang, Simak Sinopsis dan Deretan Pemerannya",
-   "snip": "Ramayana 2026 segera tayang di bioskop pada November. Simak sinopsis petualangan Rama dan Sita serta daftar pemain Ranbir Kapoor dan Yash.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/UHc3uW347DyUZruOk5K9fW8kHRs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375118/original/028629900_1792129989-ramayanamovie1280.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314627/ramayana-2026-segera-tayang-simak-sinopsis-dan-deretan-pemerannya",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T05:53:09Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
@@ -698,7 +698,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T05:00:35Z"
   },
   {
@@ -774,7 +774,7 @@
    "av": "",
    "followers": 0,
    "cap": "Aktor Senior Yadi Timo Meninggal Dunia",
-   "snip": "Aktor Senior Yadi Timo Meninggal Dunia detikHOT Yadi Timo, Pemeran Penculik di Petualangan Sherina, Meninggal Dunia Kompas.com Mengenang Peran-peran Ikonis Yadi Timo di Layar Kaca dan Lebar CNN Indonesia Peran Terakhir Yadi Timo Sebelum Men",
+   "snip": "Aktor Senior Yadi Timo Meninggal Dunia detikHOT Yadi Timo, Pemeran Penculik di Petualangan Sherina, Meninggal Dunia Kompas.com Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CNBC Indonesia Mengenang Peran-peran Ikonis Yadi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -800,7 +800,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVhrd1ZvTW5XUW5qdUNsVWY3Tzk2TXo5azZZdTd0aElJOVhmczB6R0d0X1ZJWm96UXlxNzlpaXBRVDJLSEJzQlNPM0Z6ZWJNMngxY3VCc2VPckE3Yk44X2RVWTFIcHZ3YjlxQ0pYMHpkZmFhaHc0SWttQl9ZYmpYYVlxdnBkVXZMRzFCUm83OWVsRGIyV0FJZTJ2NGlCY1hpZFlLQ3ZSVzNkM1otaXRsV1hhOUJSQTUwamV5a0dLb2tXVE5ONG5aV2p0NXFFZ9IBuwFBVV95cUxPQk1SemF2Q1I3bVZNQVpETG02Zl9GT2pUSVRGWUhSdng4c1BpdUdiODMtM3pKSDVaZjFoYVAzdWhwQTNEeExROFFDVFVRSVdSUTJRU0gxQ3NoS1IzTzJMZFk1bnBMcm1QUFFEY3FDQzhFWF9Gbk8zeXdBc3pNS0I0RnhrZmxjY1VyRHVJUWIxVmtsRHp1SEJiWS03eUtlYTUzeWlUejFTNVo2X3Z1MGJ0ZTg4LUt5eFY0SW5B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVEtZ0pLUDEwUUlPM05XT080MGZzbXRpTWV3VzUtTTVVUGVGVEE5VE00X291a2pFaGZkTjRFZERwMDFTZmdlaUp0RFJtb0VtN1o1a29XOHZUQkZGSWZEUWZPVHBVN3ZFSGFpMUdfeGc1aWw1NnVOcVdfUDFYSkpUU3hENHdUUW9YLUVBX1pGQkszVWpXU1ZjMkRhaVFSb1ktM2h6R0lYb2hBZUdUMnlFckZIMkZWeDJsMHBkeFBWSWRTZy1sbnFjSEl30gG7AUFVX3lxTE9CTVJ6YXZDUjdtVk1BWkRMbTZmX0ZPalRJVEZZSFJ2eDhzUGl1R2I4My0zekpINVpmMWhhUDN1aHBBM0R4TFE4UUNUVVFJV1JRMlFTSDFDc2hLUjNPMkxkWTVucExybVBQUURjcUNDOEVYX0ZuTzN5d0Fzek1LQjRGeGtmbGNjVXJEdUlRYjFWa2xEenVIQmJZLTd5S2VhNTN5aVR6MVM1WjZfdnUwYnRlODgtS3l4VjRJbkE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -813,12 +813,34 @@
   },
   {
    "k": "news",
+   "u": "detikInet",
+   "name": "detikInet",
+   "av": "",
+   "followers": 0,
+   "cap": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
+   "snip": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka detikInet Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ ‘Mas Stafaband' Meninggal Dunia, Sosok Ikonik Cover MP3 Era 2000-an republ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmk4QnR2R3VDbmRxSE1lVjhsSWYtbTNYUUpsR0JJbVRsNWwzYnc5V3BoV19tNG1lRGJQR2dDaHRSQklMeDhueGl4RFJtYjJqdDdnVkg5eThEZUp4YnN4Q1E4c2JtSllpaUxWcTNTTGVtVEREUTVXTmFFa1h2MXZrVmxwVENvcDFsSmItNXBuNERqVFg5elNvMHo2QThDTThmSW9ucUNrd2Y4aEU40gGyAUFVX3lxTE9Dak5YSERRYW9vSzdyakJ3cHhCYTF2VHVlZmtyUldWREZoWmdKSVlTckxhQWJsUFJEeXBvX1ppOEx2bjA4N1c4Y1M3RTNJOXFYS1VGTXB6eDUyWlFWT1ZNRnF3UlFGSGNWN0s0XzNKdlFSU0YtSXpsNl9zQkVhT1VDcEZrN3U1ZjVxaWJPWDhRdHdhVmNmT05yQkxSUUtscWhwY0VJb1JpaDZLMkczT25Sc1E?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikInet"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:49:41Z"
+  },
+  {
+   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
    "followers": 0,
    "cap": "Konser M2M di Jakarta Digelar 2027, Tiketnya Mulai Dijual 26 Oktober 2026",
-   "snip": "Konser M2M di Jakarta Digelar 2027, Tiketnya Mulai Dijual 26 Oktober 2026 detikcom Duo M2M Akan Konser di Jakarta 10 April 2027 CNN Indonesia Konser M2M Jakarta 2027: Jadwal, Lokasi, dan Harga Tiket Medcom.id M2M Siap Gelar Konser di Jakart",
+   "snip": "Konser M2M di Jakarta Digelar 2027, Tiketnya Mulai Dijual 26 Oktober 2026 detikcom Duo M2M Akan Konser di Jakarta 10 April 2027 CNN Indonesia M2M Umumkan Jadwal Tur di Jakarta pada April 2027 RRI.co.id Konser M2M Jakarta 2027: Jadwal, Lokas",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -879,28 +901,6 @@
   },
   {
    "k": "news",
-   "u": "BusinessWorld Online",
-   "name": "BusinessWorld Online",
-   "av": "",
-   "followers": 0,
-   "cap": "Dragon Hatch 2 Memahami Peran Animasi dan Simbol Fantasi dalam Jalannya Permainan",
-   "snip": "Dragon Hatch 2 Memahami Peran Animasi dan Simbol Fantasi dalam Jalannya Permainan BusinessWorld Online",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3djZ3AwUmJGbFVxb2I4bDhYM3pXcnpxcGpPS2Itd0JpcDNYcXNhOWxSTXBnZ0YtWDhfYmtXSlFJSnY5bXhwNUFSdS1QTkpqeWdyd1hiVmNITTFRS0xFVHBrblNiWUFSUkttdElzR1phRmpWOXFLQm9KTVZ5NWp2blpvTW93aklOQmZvTTFsTTV4R0dXY1BIQ3dFLXo2ekJHa19JcmVqNW1nSWhTQlZsaEE0ZWlWejg1aWFwTHVNdUxQVlItY1pGNw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "BusinessWorld Online"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-15T12:09:04Z"
-  },
-  {
-   "k": "news",
    "u": "celebrity.okezone.com",
    "name": "celebrity.okezone.com",
    "av": "",
@@ -920,6 +920,28 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-15T09:54:31Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Iis Dahlia Puji Mayangsari: Suara-Penampilannya Masih Bisa Saingi Anak Muda",
+   "snip": "Iis Dahlia Puji Mayangsari: Suara-Penampilannya Masih Bisa Saingi Anak Muda detikHOT Mayangsari Ungkap Bakat Bernyanyinya Turun ke Anak Kompas.com Mayangsari: Hal Baik Sepi Viewers, tapi dengan Hater Apa Saja Bisa Jadi Naik detikHOT Mayangs",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1p2Y0ZzMjE2TEZQUU15T2syb3RVcTJrYjB0LVk3ZkF5LXhLbjhOQzhMWTVOMDBhc0pmM3gwd0VYc3dObkctZWRFQ3FjVS1tR1ZTbl9ieUN5MTJFZGc3QmJlT09wZ0FRbW83ZTlSaEdWbXhBb256U3VFenhGcFZfZ2xTWGV4Nk0zWm80X2E4bFlhN2lYcEQwVXB4bC1RMGJGa2ZBWXVaZzMzWXZRcE9XRzJ30gG3AUFVX3lxTE4xRW9yLUVBcGV6OE5INUFyekh0c2trWkduWmJMajJLY2lBSTdfNVdyc056RmxobGFQNE9XU3VEUXF4MF9XOWlhTUFLNlRXQWNQbHVWcUxkeUVLaXFtUThxaFZBMTFzaklYbEZaU1oteFJzQUJULXRoNHJyLWNRT2hzX2oyclBPdUFVaTJRY3ZJZEwtYW54WW5Tanh1dWY2b1dLZmg1QlFqSUhBNjFYVEtFRTVVQ3BCSQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-15T08:05:43Z"
   },
   {
    "k": "news",
@@ -989,28 +1011,6 @@
   },
   {
    "k": "news",
-   "u": "detikInet",
-   "name": "detikInet",
-   "av": "",
-   "followers": 0,
-   "cap": "Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi",
-   "snip": "Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Respons Meutya Hafid Usai Raline Shah Mundur Stafsus Menkomdigi CNN Indonesia Bukan Cuma Raline Shah, 4 Artis Ini juga 'Dapat Kursi' di Pemerintahan Prabowo-Gibran Inil",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXJ3SDk5VmpGTkdBNW5XWUZQVF9tczZrZ09sajUtVkRHSmJCNVJZeU9RRjItSk5VWElIcnRpSFZDM3llZEhDbmswblI2NV9nRjNMMnRCQlR3aFh0WF9SN1BqeURNa0pkd0ZFQTFWOFVrX2NGRDQtWi1ScEpPSDZKbE9zcTduZFZwd2t5Z05PRFJQWjdBaTNYMk0xT2NQSjhIZG1WSUZhWdIBrAFBVV95cUxOQ2I2bEdmMHFybVJ6SjdfcEJjU2VjM29hT2lqMmtsTmNNbS1TbGU0djFoNFc0aFlQbERDTldrZVp5bWptc0k3VWFxWnR3Wkc1YUpOTVpPMXd0TmdlSzBUWFA2YmNRalZwN1M5RkZlMWJEUHl6MjNBWGJmZ19sNG1aWkxuMnFBRHJEaXZCeTlRa1g3OElwZEkzZDM2NE5pSExpYmVfS1ZZTW9vWVEx?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikInet"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-15T02:15:23Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -1033,47 +1033,25 @@
   },
   {
    "k": "news",
-   "u": "SRQ Magazine",
-   "name": "SRQ Magazine",
+   "u": "Biz Kompas",
+   "name": "Biz Kompas",
    "av": "",
    "followers": 0,
-   "cap": "Mahjong Ways dan Gates of Gatot Kaca 1000 Ramai Dibahas Penggemar Game Digital Jakarta",
-   "snip": "Mahjong Ways dan Gates of Gatot Kaca 1000 Ramai Dibahas Penggemar Game Digital Jakarta SRQ Magazine Kode Alam serta Strategi Pelestarian Budaya melalui Representasi Visual pada Mahjong Wins Bakorwil Bojonegoro Mahjong Beralih ke Ponsel dan ",
+   "cap": "Layering Berlian Jadi Ciri Khas Wanda Ponika dalam Memperkuat Karakter Anggun, Ello, dan Van Ness Wu",
+   "snip": "Layering Berlian Jadi Ciri Khas Wanda Ponika dalam Memperkuat Karakter Anggun, Ello, dan Van Ness Wu Biz Kompas Aslinya Anggun C Sasmi Di-spill Desainer Wanda Ponika detikHOT Kilau Sang Diva: Anggun dan Simfoni Berlian yang Memikat di Pangg",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEZkdkdQSmg2cDFDajhjTkhkSUVTR3NmVTRkRkE5UFlZN2FMbFBFelJXWmVscUw1a1VqSzJ3RXhIQ1h3NWhMQXJBY1NtVWxWbWhMRWg5NmVyaUxOaWMwSm1sSWZ3TXdNQW00a1FydEN3aG5vSHVhc2NWaW9TY0xBUnF1QzAtbG9yT01meklmS1U3ZUl3ZVp5NDhEQkNWVkRuM1Q1T0p6REloZ1BreHpBT3FwV0V5QTgzaF83N1hCZjNucDZDLURhUnZrZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHBtYlo4aGZRemQ3NWUyQzMyYmxNMEhOd2VFWWRyVDVzalRsYlJpYzF3WTdZWGRiWVBMdlJnNHlwcDhjdzNZWXRpVlNicVhNeFg0NjRUZUhDVUt2a0RCT3JjamowSEsxVFNkYnVlU3Z0cjFUbGhCSmhYRWIySnM4VXVPNWNWTUJqWGVvdkdSNVdGTkhmU01hWXEzZWg2VkY4NEN4SzNmSVZYLUdqb2hKVUV1anBiWTEwb3d5SktpMnQwdFJk?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "SRQ Magazine"
+    "Biz Kompas"
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-10-14T12:51:45Z"
-  },
-  {
-   "k": "news",
-   "u": "arsmagazine.com",
-   "name": "arsmagazine.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Fitur Interaktif Menjadi Bahasan Dalam Game Pg Soft",
-   "snip": "Fitur Interaktif Menjadi Bahasan Dalam Game Pg Soft arsmagazine.com Pg Soft Dalam Sorotan Tren Hiburan Berbasis Mobile arsmagazine.com",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDJqdDVFSkJlcW5sYVM0cFdvcWoxYnBzOUMzUlN6SDNHTTZEZ2dEdVNTSW8tMEFVNmx0Nkk2c2U5T2tuY055QUltUVpYQndmalhzWnRnVk9PUWNYRF85bGJaZ0o1VDhQSnRfOW1KaGE3b2pHWXJaa3ZCZno0WHdpUkdZd2RPUW15OXd0b3g0WHVMU0ZOemNPVmtzQQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "arsmagazine.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-14T12:29:27Z"
+   "ts": "2026-10-14T12:00:00Z"
   },
   {
    "k": "news",
@@ -1096,28 +1074,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T09:15:20Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Saksikan Sinetron Kisah Nyata Siang Jumat 16 Oktober Pukul 13.30 WIB di Indosiar",
-   "snip": "Saksikan Sinetron Kisah Nyata Siang Jumat 16 Oktober pukul 13.30 WIB di Indosiar.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8312194/saksikan-sinetron-kisah-nyata-siang-jumat-16-oktober-pukul-1330-wib-di-indosiar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T05:58:12Z"
   },
   {
    "k": "news",
@@ -1147,12 +1103,12 @@
    "name": "celebrity.okezone.com",
    "av": "",
    "followers": 0,
-   "cap": "Heboh Video Call Ruben Onsu Disebut Editan, Pakar Telematika: Tak Ada Unsur AI",
-   "snip": "Heboh Video Call Ruben Onsu Disebut Editan, Pakar Telematika: Tak Ada Unsur AI celebrity.okezone.com Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Kubu Sarwendah Akui Ada Peran Pablo Benua di Unggahan VC Ruben Onsu",
+   "cap": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah",
+   "snip": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah celebrity.okezone.com Ruben Onsu Tak Lagi Jadi BA Travel Umrah Imbas Video Call Viral VIVA.co.id Nasib Ruben Onsu Pilu, Sejumlah Brand Putus Kerja Sama, Minola Singg",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlR6eGhfMHFhdWVxdmE0Wk1LMzJuZnAycHhyT0tzWWV5aHV4azViZDJjUVh5UnhFXzZqcjIwRGU0Tmd0d0x1UzlzSXpKdzVNdmZteEdpWEFrSVQyZkJBOFZvR1I0dk1mdWNuMFRZVzVWaVdkWUpmN3UtTU9CeDZPVnJGeHozQlp3WlY0ZzFEYkwyOGxLd2N4MjVPSnZvaVJ5dWJENTJFbEcwVTdYTy1SR21JUy1CdmU5MWU3cEJ5SkxGeW5NM0pPS2dNUFBrUdIBzAFBVV95cUxNOWpHQUR3b1pKbHNpb21fTUwyc2JZY1VscnQtcDU1cllTaTU2RThiRlJ5bTRMa3FSdy1RbG5jWEIxaVlHWHZSNUxqUjduZmotaGFTejBLWUJCTG1ubVB6dW1obUxQajZOMlUzSzN2UmZBbWZRRjVZN3ZUN1FoaXUxQmVReUo3UGZUendpQXo0c1NFTlJyX21mbkZUSVZJMldRelNqOTZrNFVLdU1QTFVWM20wT1RTVnFadFRVV0cxbGVkMU9EbXplZmJUak0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkdxVkhyOUh6cVBKaG1zN0dRbEwxOTlfRzJkNFZWWUZubXBrbUtEWm05XzlNdWNVSnBNMktkcFpsT25HWGJXNnE4T1dibmtoZWhyTFZReHR1ZG16T1M4VVFVNE83MEdTVDlNYTFiN254b3ZtaGlMbEp0Z0dJdUxTWFdoX3o4anRsanVFWW1EbzVvMGh0cW9SbGRCdkEzUnN2ZlVTYkpFVEtkYVZMVFc2RDJvOHJnZFZSOU1wNE40Ry1semFLX0JfampR0gHIAUFVX3lxTE5FclRpMkVHYzl2N2tvYjRZeUpqOVdGR0NlNzUyUk1MT2lFQy01NGxJZVdoZ0dYUXU0UlNaTjZ4ZjlnWXYwR3piQUNaNVFjdVZ2WGNjVEFDQkRsQ1l3OGhqeGwwSHB4SU1CcEUxZDlHdmNkOGhTRmtuZWNpcnFGeVhXRVhmNmdXeDZfLTdsYTJRUWRVQzM0M0RNYUZGQXc5VWRuOXNJVmc2NmZ5R2NmWmgwSmpkNGFoYkpTbUFYd09wN1VRa1N4MldQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1161,7 +1117,51 @@
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-13T09:02:33Z"
+   "ts": "2026-10-14T04:00:10Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi",
+   "snip": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi Kompas.com Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Respons Meutya Hafid Usai Raline Shah Mundur Stafsus Menkomdigi CNN Indonesia Bukan Cuma Raline Shah, 4 Ar",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFhheUYxVDBXMmswVUJEaG1sOUV5Q0NKUHR0QWVING43aEJuQXE5ZW4zS2dHWld6ZjNuZVVzUU1FbTRNcTYxWmhHV2dNSGZzU0tLRDg0cmwtcFBxTW1vcnhIZUFTc1hRUnVMM3FnZ2liVXlUaHpZZWdLTUl0S2h4TXVIVlY2UEc2Q0NWQzE2d29VWC1fZ2I0ZjRSVXRIRGNyT1lQYjB3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-13T15:21:00Z"
+  },
+  {
+   "k": "news",
+   "u": "celebrity.okezone.com",
+   "name": "celebrity.okezone.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya",
+   "snip": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya celebrity.okezone.com Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Polisi segera periksa saksi laporan pencemaran nama",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNPOVdxellieEpBZDRCLXA2eUN1MzQ2X0cwaFh2MVl5WUhCMUZqTlpyWEhBeHZ5akJ0THFzOU9TbTBtaFRmdXhJSHhKb2RSU2tuaTdJekhMZ2puMEc3LUVGU2ptRVdMMFJ5eDZ3UDNrRy1KYUFFeGNEcEtsdnY1Z0E1c3JyNnhRdjZYT0ExelRPbFVmMWNFWEMyY253WVVfUk5PNTZEN0NIRzc0aUI4cmhsMkFOTGVNME5VaGlXUDMzVmphQjY0RlYzeXRfQlFKRHNnWTRSNjU0QUVTMS1TbGY4RHBNZ9IB5AFBVV95cUxQVmtSX2Y0Z0ZITzM5Z01uVURYQ1RwWURYc0dseXgzWGlFcjdmZTBkZXFhSGpPSXQ1MEpXMzA0X01qTkk3MkQ5MDJKTUZQZUtZSDYtcWtSa3d5MXdzSmxuZEhKcEFjMmNxelduWUdTbndyR05fZHpmcjRaRnYwekdvNEJQaGlPSW9aeHB2SVJWVHYwYmU2RTVJcDlidEY0U0Vjc2E2V1p2MTFZSjk2WDZyV01yZkhxdWVzdktXamFVaEhLcFZxWGxqdVNmcmN0U1ZHdFZCMklicFZ2dkN0ZzVKUmNBNmc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "celebrity.okezone.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-13T00:05:02Z"
   }
  ]
 }
