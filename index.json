@@ -1,549 +1,1731 @@
-[
- {
-  "t": "Singapore airlines",
-  "q": "singapore airlines",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "The Straits Times",
-   "airlive"
-  ],
-  "d": "2026-10-16",
-  "url": "https://www.straitstimes.com/singapore/singapore-bound-sia-flight-diverted-back-to-san-francisco-due-to-unruly-passenger",
-  "n": "Singapore-bound SIA flight diverted back to San Francisco due to ‘unruly’ passenger",
-  "vol": 100,
-  "vu": "pencarian"
- },
- {
-  "t": "Stanley",
-  "q": "stanley",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "WSJ",
-   "Boston Herald"
-  ],
-  "d": "2026-10-16",
-  "url": "https://www.wsj.com/arts-culture/television/masterplan-review-stanley-tuccis-mona-lisa-heist-on-prime-ea978d39",
-  "n": "‘Masterplan’ Review: Stanley Tucci’s Mona Lisa Heist on Prime",
-  "vol": 100,
-  "vu": "pencarian"
- },
- {
-  "t": "Cuan",
-  "q": "cuan",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "CNBC Indonesia",
-   "Bisnis.com - Market"
-  ],
-  "d": "2026-10-16",
-  "url": "https://www.cnbcindonesia.com/market/20261016140342-17-776890/ojk-sanksi-835-pihak-terkait-pidana-pasar-modal-denda-rp390-miliar",
-  "n": "OJK Sanksi 835 Pihak Terkait Pidana Pasar Modal, Denda Rp390 Miliar",
-  "vol": 500,
-  "vu": "pencarian"
- },
- {
-  "t": "Megawati hangestri pertiwi",
-  "q": "megawati hangestri pertiwi",
-  "cat": "Olahraga",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "CNBC Indonesia",
-   "CNN Indonesia"
-  ],
-  "d": "2026-10-16",
-  "url": "https://www.cnbcindonesia.com/lifestyle/20261015121058-35-776431/debut-megawati-di-hillstate-sukses-cetak-14-poin-di-kovo-cup-2026",
-  "n": "Debut Megawati di Hillstate, Sukses Cetak 14 Poin di KOVO Cup 2026",
-  "vol": 2000,
-  "vu": "pencarian"
- },
- {
-  "t": "Air terjun robo",
-  "q": "air terjun robo",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "KlikPositif.com",
-   "Hantaran.co"
-  ],
-  "d": "2026-10-16",
-  "url": "https://klikpositif.com/perempuan-asal-padang-pariaman-hanyut-di-air-terjun-robo-tim-sar-lakukan-pencarian/",
-  "n": "Perempuan Asal Padang Pariaman Hanyut di Air Terjun Robo, Tim SAR Lakukan Pencarian",
-  "vol": 200,
-  "vu": "pencarian"
- },
- {
-  "t": "Kecelakaan maut",
-  "q": "kecelakaan maut",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita",
-   "Google Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "detikoto",
-   "gadget.qoo10.co.id"
-  ],
-  "d": "2026-10-16",
-  "url": "https://oto.detik.com/catatan-pengendara-mobil/d-8709869/detik-detik-kecelakaan-maut-byd-seal-hantam-sedan-bocah-5-tahun-tewas",
-  "n": "Detik-detik Kecelakaan Maut BYD Seal Hantam Sedan, Bocah 5 Tahun Tewas",
-  "vol": 200,
-  "vu": "pencarian"
- },
- {
-  "t": "Kpk ott bupati klaten",
-  "q": "kpk ott bupati klaten",
-  "cat": "Politik",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita",
-   "Google Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "detikNews",
-   "Kompas.com"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.detik.com/berita/d-8710106/bupati-klaten-terjaring-ott-kpk-pdip-sanksi-partai-menanti",
-  "n": "Bupati Klaten Terjaring OTT KPK, PDIP: Sanksi Partai Menanti",
-  "vol": 2000,
-  "vu": "pencarian"
- },
- {
-  "t": "Richard lee",
-  "q": "richard lee",
-  "cat": "Hukum & Kriminal",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "detikHOT",
-   "celebrity.okezone.com"
-  ],
-  "d": "2026-10-16",
-  "url": "https://hot.detik.com/celeb/d-8709510/hakim-kabulkan-penangguhan-penahanan-richard-lee",
-  "n": "Hakim Kabulkan Penangguhan Penahanan Richard Lee",
-  "vol": 100,
-  "vu": "pencarian"
- },
- {
-  "t": "Bp batam",
-  "q": "bp batam",
-  "cat": "Bencana & Lingkungan",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "TRIBRATA NEWS POLDA KEPRI",
-   "CNN Indonesia"
-  ],
-  "d": "2026-10-16",
-  "url": "https://tribratanews.kepri.polri.go.id/peduli-kesehatan-sidokkes-polresta-barelang-bagikan-masker-dan-vitamin-di-jalan-raya/",
-  "n": "Peduli Kesehatan, Sidokkes Polresta Barelang Bagikan Masker dan Vitamin di Jalan Raya",
-  "vol": 200,
-  "vu": "pencarian"
- },
- {
-  "t": "Bimo wijayanto",
-  "q": "bimo wijayanto",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Trends",
-   "Portal Berita"
-  ],
-  "src": [
-   "Google Trends",
-   "CNBC Indonesia",
-   "ANTARA News"
-  ],
-  "d": "2026-10-16",
-  "url": "https://www.cnbcindonesia.com/news/20261016091019-4-776707/batas-penghasilan-kena-pajak-ri-ketinggian-bos-djp-ambil-tindakan",
-  "n": "Batas Penghasilan Kena Pajak RI Ketinggian, Bos DJP Ambil Tindakan",
-  "vol": 100,
-  "vu": "pencarian"
- },
- {
-  "t": "IHSG Anjlok 11%, Rupiah Tembus Rp 18.000, Ini Penyebabnya",
-  "q": "IHSG Anjlok 11%, Rupiah Tembus Rp 18.000, Ini Penyebabnya",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "CNBC Indonesia"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzd1ZDhnRVVNd1NPdHRyMWw3UUlLNHJNQWRJSFZIcmlHeldrdTlscUJDeS16UXZjbV8wcVFKZzdpU21KcGYxdUhJVFQwMklIcW1IVjNxRkYtck9nWEE5bEZGN1gzMjkybDlCWG9zbVM1am56Vnhjd3RjUzI0c3JPVjlaUWs4RE5UNmtDcExIQlJ5MDVxZHdnem1uUE85UVI0eVY0SjV3dF9Id3Z1TTlVQWpQdlVWd9IBuwFBVV95cUxPLWw2RHB5djFZbnlRaGNIY2ptckFVTVNsbUpxUkdDNFpCNnpoWS1nOWthMXNRd2NfRi1HQmdNTGJITXUxTXlEU2dWcVJDMUVrZVdMWW9UbnVzNlFxcFQxUTczM3VaUHdRQ0t2NVctQ3hlQU00M0FpanFWckRNb09YX25CN19hRnBKWl9kM2RwUWp3U1lDWmxPQjMzenVGU0xnZExRcUhVWnBkeVJDMmgxSWdwSnhTV2pDaVhB?oc=5",
-  "n": ""
- },
- {
-  "t": "Warga Bali Berburu BBM, Antrean Mengular Berjam-jam",
-  "q": "Warga Bali Berburu BBM, Antrean Mengular Berjam-jam",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikFinance"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3JIc0MwR3V5MWRFOE9mMDN6SFJEODZkVmdKc2k3WU55b3drc2pCallsYThNQ05xcEVJMnhqSllZSDVSQnNHc0dtaU8zT1lXWlFhTk9YTlk5cmlzelRyQ1dINnJ1N3lLZjIwM1JzU2NHQ1dmV1RrRmNCQmNKYzJaMW9EV2JYaHdNaS1RaFdWdXNpUXBiRXF2TE9VOHFOblXSAaQBQVVfeXFMTkFMQXUxazh3NXd2eDBNaXl3UFNLakJqLWZ1d3B3MWVkVjduSk9mdWo0WS1IbGtIT2FpRFRmSnBrRGlaZm5YU0JwV3dsZ2hxbHd3NWhzQVR1cDE0UFRVVWZNVFljNzZLUldTeG8wSmRiTV8xd2ZaTzJ6bjczQ0toRHpsb2I2cjZlQjJSMXpDekFXNndMTWtJT1dISXNDSlh5WXY1Qkc?oc=5",
-  "n": ""
- },
- {
-  "t": "Tukar Posisi Wakil Panglima Maruli Simanjuntak dan KSAD Tandyo Budi",
-  "q": "Tukar Posisi Wakil Panglima Maruli Simanjuntak dan KSAD Tandyo Budi",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Kompas.com"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGx1SW9zUEViZGxMQjFqbDZvbFotamZPcUVyanlwOUt5QjhhUS05Z0NwbTItSFBMdUR1MW1mUEhob0ZsSXJoLTFhbEEyY2twUUJQdDhJb3dpMEZiVElUSVJkRS1QT3pMV0FOeWtQQjhONlBLaDk0QUllV0wwdWhTWG9mUlJnME9KajdtUEplUUl4OGhRc185c3g3cFNnblQ4X1l5a1MzNVdJVEZNcnhGTzF5NUtaSEFkM3pfQTA1ZGp1RFJ6bnU0cA?oc=5",
-  "n": ""
- },
- {
-  "t": "Singapura Pertimbangkan Usut Perusahaan di Balik Karhutla Pemicu Asap",
-  "q": "Singapura Pertimbangkan Usut Perusahaan di Balik Karhutla Pemicu Asap",
-  "cat": "Bencana & Lingkungan",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikNews"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0xKd1RFZnBNdDg1engtNVRwczJOVnNmYkJVTWlsdW0zYjVBTTRzSlFvWklHZnJRMmYwcWF0Vi13aFB5OWY5Vms1OTg5NTZmWnBhYWlCSmV0LVZWS1VnYWlxdU9TenlNMmpuWjJTbVd4WFZZbXlxYTloS0FOTlhNUjU3QUljNVZkNnRpLXROejA5ZnVibmZYanpZUXB6dFA5dmxQZk5sQ2dURF8yOWdUY3V1NHpFNVnSAbwBQVVfeXFMTllmUXJDNnZfWkpuM3hESVVpWEdDcC1GRVd5SDRfM3NZQ2xqMS1vMHBoNDJuVWVwYVMweEliS2NkcGlwa0ZHV1JOU1BvelN3cC1HRFpKT2JiRDlLZ3dYQ0ZKTG9kV1JFWXBOQ2ZyQnlCLWUxNXk3SzIwQmp3NmhJcWdVOUE0dUNEMGdtekdybEc1LVlWYkVxWEtnTW9SRWNLMjhZcjdZVGdndTFIMk9VYWhlTmRrR1lBSjlKTms?oc=5",
-  "n": ""
- },
- {
-  "t": "Muncul Dugaan Bandar Narkoba Melawan di Balik Kampung Ambon Kebakaran",
-  "q": "Muncul Dugaan Bandar Narkoba Melawan di Balik Kampung Ambon Kebakaran",
-  "cat": "Hukum & Kriminal",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikNews"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkRySlZEWUFKNGY3TDdTcmxKaFZMMU5yT01oMHM0bGU5THEwazhnYUtFbnhCMl9MZ2FVU1R3T2dHRlhaaFZ4VVBBRzdPU1dKaXNQaVMzZTB3QUtONzZzTDd1YWNiWTZWSlU5bjgxRFMxY2VuZnlUdWY1ejhneFpDX2pOWDV2cHFzZEI2b1lnTGxHMTVjZ0NKaUdFUTBJNHh0azN6V25QUkJaTEVtVWfSAbMBQVVfeXFMTUZnb0VWQk9xc3pHTEI2eTNNZm02MjNXN3lxR3BPSXcycENNLVFlODZ3UXpLM3FMSFJrOW40V2lwODUzbWxIbEV2RjNWamNyN2xhcjNYZllRNVBnbjJwLUlneWIxZ0J0cE5NSk9Cb3ZZaWVGX0R6UUFKYlJfaU1RNjBOcHFlNWl6bHhCNlVRS3lzR0hoRUVJSlJ2d0JXTW1RamZPZ0VrWjlUemJMb3hBa0tOaEU?oc=5",
-  "n": ""
- },
- {
-  "t": "Indonesia Kini Punya 10 Jenderal Bintang 4 Aktif: 7 TNI dan 3 Polisi",
-  "q": "Indonesia Kini Punya 10 Jenderal Bintang 4 Aktif: 7 TNI dan 3 Polisi",
-  "cat": "Hukum & Kriminal",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Kompas.com"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzctbGRnWHNsVjlzeFZfc3A2VVF5cnlpNTBWVDF5WGFvY2gxNG1jZDd2UURNdkExdXQ4YXZ1dkx4emt4LUNYZkt3Tl9INUlkbmdyTWw3SUNkQ0Y0el9HU0FqMXNrQjJVaG9JRXU0Y1EwWTRoRDBMOG4yQUtYQjd0VUhtU3VoeTBKUzVQNDBnZHhtOFpjaThtTVM2N1NYODRoR1dBTUladV9TWXdjY2UzNnFnRllqbzBUd3phUklPMWNyZWpMYkEwUQ?oc=5",
-  "n": ""
- },
- {
-  "t": "Media Asing Soroti Penampakan Langit Oranye RI Imbas Asap Karhutla",
-  "q": "Media Asing Soroti Penampakan Langit Oranye RI Imbas Asap Karhutla",
-  "cat": "Bencana & Lingkungan",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "CNN Indonesia"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWxJbmMzaF9odHhhNXlXYWFqSW1kaHUxenJKQ2JlUFVWS3RWblB5NTZFUWpQUElzc0w1TW9wMUs5VVR3VzNpQTQ2Z0NzVDVlal9ReVlVQ1U4RmJmSUkyQjhiZFFGb21XQTdpSkFyLXl4a1RQZjB6czU4WlJScVIzSlNCUm9IdGIwdV9YVi1rSmxDcVpVNTJxTThuWnJKdm9MR0hvWC0yUnQ0bEkxeDZMTDIyaDJ1bnlvRHRRSkJuZ2NpSHBKaHUxN2tfRG43dlFmWmfSAdcBQVVfeXFMUHZqZnE3bDI3Z1BHOE9TT2JrN28wQUxrSVFOam9IcVBGUzBSYmlFWF9VVFoxblh0LUxNVnFNVTV5aWxBMzVGWlk5dnp6RDRHWkpQSUdiLWRXN0hyX3VyR3dXcDk5XzNSTkxRTEh4S3g2U1JsOG9NY3BmNzgyanA3Zm5IVUEtWWMxczEtdjdYdmx3THdDelZraGROa2xPbEFRMWRQMVp5ZmNQd0dVcDFHdG1FaFFJZ2hZQ0dXZTMwWXQ3YTBqOWJ4cGVMTTRyeENneHhZblNrQWs?oc=5",
-  "n": ""
- },
- {
-  "t": "OTT di BNPB: KPK Tetapkan 5 Tersangka, Adik Kepala BNPB Turut Terjerat",
-  "q": "OTT di BNPB: KPK Tetapkan 5 Tersangka, Adik Kepala BNPB Turut Terjerat",
-  "cat": "Hukum & Kriminal",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Hukumonline"
-  ],
-  "d": "2026-10-15",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTW9qNFFpUHFiRFpZMUo4MFJsVnNaTUp2YzJSQ0VNMU1SUTF6Wml5VVdwM1Zod1p3Q0xWYWNwbTdrREcweWw3cEhZZ0pjeE13djVMV2M3TmxvM2xEaFJHbXpOQlJDYVhWVHg0MnFMbGFCaWVTNmF0SzA5VkhLWGNHZ3VFczlScFJuclM2bXh5TzJjQjJ5WWh6TndvVXVLdXMyNXVZa1ZPUURmUFIzc0ZTei00ZG9UMTFuQ3Q1MklleFhOUQ?oc=5",
-  "n": ""
- },
- {
-  "t": "TNI Pastikan Tunduk Putusan MK soal Revisi UU Peradilan Militer",
-  "q": "TNI Pastikan Tunduk Putusan MK soal Revisi UU Peradilan Militer",
-  "cat": "Politik",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikNews"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUF9abXVfRjlMalFsd2JzdFpveXA5dDFIWlc3TDhzcTBTdmFTb1JUd3NPUWpyc0hvQmt5SnkzMFNNOTlRbDRUeFc1ZkFNa0RpYkc5N3lOVTlHUVZrckpOSUUtWThPR1ZvRHpuQVlUdDBzNFBwYVdZN0VuMW9xa1FKYUU3Ujg5dVl5ampXbjd6ZVhIWFZJQ253QnRFUjUtdTRfZ28yQ3F30gGrAUFVX3lxTE5haW5iQlpVQ0Jic3NIV1MwdXRObTdVSDZfMGFyMkNRUVktQ0pPWGozTlV3am1zVnRnc25RQTdBZ3I1aEdQM213TGxYN0ViRXBfRzdIWWRlNG5GT1B4dWs3dm91aHEtbUhrWjFxbTE5UTVickpZTk1OdU5Rdmo2RkFHWG1sSnVEekJVLW1lX2hXZDA1b0paRmZ5M1R1eDRTdy1IQkVGaW5EcjdTVQ?oc=5",
-  "n": ""
- },
- {
-  "t": "Rudal Houthi Hantam Istana Kepresidenan Yaman, 5 Orang Tewas",
-  "q": "Rudal Houthi Hantam Istana Kepresidenan Yaman, 5 Orang Tewas",
-  "cat": "Politik",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikNews"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaV90UlZIbDlPdE9HYUtBRG4xdE5XMm0zR2k0MDltMFdKWmhJcUlsanhLMEhxYzF0ZVpQdC1tQUo1Wm9CSklRSEJLZmlPMXluRnRBa2FvSVVTOUc4S0hKOTdQZFQ5ZHJhYmszOUVLSG9oOG5YUEhVRmVTblVENC10QVZLbkJiZHpCOGNJOGI1SUNSaE1qQVk2V1hZTmp4VHU0WTRicnhQaFQ3Z9IBrwFBVV95cUxPNktGaFhSUWFndXZTZENzRGRTWTFCNkZrTmJFbzBsMDh0ei1WRVEwdUNSdnl0aHhFd21Wem1TOHFEQU4tWmRQeXEwckZwbWh5a054ZEdMaF9zSjk4X3Vub2ItWERESU1Vc090SUdFeEVSbzVyeG1kODVNaWJlbzEyRjFxNXp0enZTcTRqU0RyNk5yQklGRXJONEFqTHd4Q18yUVhid0lhRmtWWXNKZzJF?oc=5",
-  "n": ""
- },
- {
-  "t": "Kemlu Imbau WNI di Arab Saudi Waspada, Tak Sebar Foto-Video Terkait Serangan",
-  "q": "Kemlu Imbau WNI di Arab Saudi Waspada, Tak Sebar Foto-Video Terkait Serangan",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikNews"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekQ5RVJzX2NWNExZMmtmNDVzOW4tSVpIU0hLdFlTa2dZV3A2ZFIzTDR2ZkNjVzFyQXFRaWRNSk9nYzlUQWVyMF9hNTd0bXNNM2ZNX0lCWE5tY2xwTVVuckxvZTVMcTVlM0dIVElFSHRrZ1BtZEUyVUcxMEJMZ1hnOEUwczJTanZiYjczTFNEdnowZFU5RTVpbVp3RjV6c25BZVotWlVadG84TFN4NXBrWkNETVNfd9IBuwFBVV95cUxNTUJ6ZmNfZGJYMExVU3hlSmJSQ2FHcEM1VEtzanpScl9Gb21od1RPNUxSTHFSMTBnYTVSdDRnRU4xd2lMWDk5bDdVUWU5bW1ybnRXTm80ZEs2RFpJTkl1djBSUnNvdlNHSWJzYmJQVWZTNUk0ZV94RFRLaHdaY0JQXzgwOUtBVmJ1WFJiY21CVG1xVm9fODc4bkxJR1BIZkplYS16SHphemNNR3R5Q1ZIdlFBVWxkNE83NldB?oc=5",
-  "n": ""
- },
- {
-  "t": "AS Akan Pakai Mother of All Bombs Lawan Iran? Trump Bilang Gini",
-  "q": "AS Akan Pakai Mother of All Bombs Lawan Iran? Trump Bilang Gini",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikNews"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlhyYl9TNDJ0cW9KRGI5OE9tYTZ1QzYyV3dLbXZsTjVMcTdfVHFaTlNITmpLbTRBajQzTXp4YlhENnI2X0xmUzhZV194dGVZRTFjVERHSGRTVWc5QndWd19MZXVCQlVXV243SG1jUDBEX3J6bFpYNEJvTDhia2daWlU3WjRtTWdMa1NIZWJtZWt0bkpSQ1FkaTlCX2E1ZUc4WmV5b2E3b29qZzQtSUHSAbMBQVVfeXFMUFowMlU0dHRkakVmU1dsaVBaRk1MTTJtTTZYT21INEtSODdLSkhFMFpycWNlWHNuTmpSek5HbWpqY1FFSFJRZWttMjFOVWRwbXNoTnJvS0JCbUJOTjFpVk1KUDdrZUM4a0ExWVRmZFJZREI2bTZfTlZBd2NfaWdHTkxOMTlmTGxkRGpDd1Ffb3dQT0R5cG9pa0FWRWZoVUVsTV82Q1dPdEpNZDZoSXJncW1KMzA?oc=5",
-  "n": ""
- },
- {
-  "t": "BI Buka Suara soal Dolar AS Tembus Rp 18.000 Lagi",
-  "q": "BI Buka Suara soal Dolar AS Tembus Rp 18.000 Lagi",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikFinance"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzVVN2tHckJZQlBMeE5zY0VtMWxRbW5UZVFfek4tRTA0SlN3aE9ZcGJkYW9hWS1YWjJQeGVUai1ybHhPcnB6MlhTZk5lU2VkTG5WaEpMRWk4UC1DTXl0VUZvNzBJR2l3RHBJWG1tZzVYQ1RtWm84OHBZQ29nQXVKVlhHQldCV293UXI2RnB5NTY3N01CM283dHAyRVQ5Mk4yNS1z0gGoAUFVX3lxTE9QdGJZM0ozSjRTQ0RxSXVicldwUG5SWUd2V1VXallYVnJoY0FZd1dZYUFCdGtha1JFOTJnVHNEb0E3ZDJfYmNVOHRUM3cyVU13YVgxUnZtbVpsM1JYS1g1QUtuRWVIT0k0TGd3bTN0aVhyVVI0NFNRd3JDUkVYeXkxc0padFBfYU9uVXdMMXZDNWk1YmZqb3BYMWpYRGlfNTRqZmNwV2F2OA?oc=5",
-  "n": ""
- },
- {
-  "t": "Manuver Low Tuck Kwong di Saham BYAN: Beli Rp11.200, Lepas di Rp2.588",
-  "q": "Manuver Low Tuck Kwong di Saham BYAN: Beli Rp11.200, Lepas di Rp2.588",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "CNBC Indonesia"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVJjM1BzdVRHdUJDZk5IUE5WRlFHdGhaSHFJdHQ4dXJkQVM3bVktMDZnTWtzWlItWlltbU1vZVRpbkNCaV9GdkIwUkVhNncxWEJ0UHZiLURPc3QwVUFIZHkybzVtbVJVa3VVTnlzNFBBOUI2cVN4UHdQTENkV1NTWDFqZ2kwXzdhamN0cTBXb2IySG5GSHNkQzh1SGtwc0J6RXlEOXNybEowWHBaclQ2UnlES2ZDaDZnWlNoTURNcjNiaDZmZ2fSAcsBQVVfeXFMT0pQdnZwRDdhOUU1d2NuTTBQSUM4RTdZZFZqc0NvajhuS2ZzYllkbkE4SFJpQkc0cnMzemsyeklPVFYyM1IyQWlqUnRDMVQ3bHR2N0E4WnpVdGFUeU1fNUx4bUppR0F4OEVZbF8xbm92RUF0VUtlRTJCZDY2N0VOa3FzRGpwOUVXWHVEamR4Wm1DZGUzR3VjVVExajUzTDlZVGQ0LXdyNlhBR3VOdmppOEw3aXM4UUtNQ3A5TTFjUUdxZlFERFhzT3MtTzQ?oc=5",
-  "n": ""
- },
- {
-  "t": "Bersinar! Simak Deretan Lawyer dan Law Firm Top Pilihan In-House Counsel Indonesia 2026",
-  "q": "Bersinar! Simak Deretan Lawyer dan Law Firm Top Pilihan In-House Counsel Indonesia 2026",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Hukumonline"
-  ],
-  "d": "2026-10-10",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelNrbG5nY1haY0NVcHY3Umt2b21DbHFWSFI4UFAzRm5KdmIxbkVvcHowQlhhSzhIMkljOFdwLW91b1k3dUk2blhaUEdXTy1GN3lCaHVicUozUGlsX0hoT3E5T1c3aGNNQUMzOFFCT3k4Q1UwSkV2RzJzaXI0cTM5UV9jOFBtblVlWmxnUC1HbEZtLWpzaVRJUHRoT1JEWjJKVWhNQURKQTdEQVl4d28zWnNlOEZac1FTaVZ6OGhuQUhyVnBFSkZIVFlUT2hFQ1JMcXJhRjk0Yw?oc=5",
-  "n": ""
- },
- {
-  "t": "Ungkap Peran Pegadaian Kebut Ekosistem Bullion Bank Bersama Danantara",
-  "q": "Ungkap Peran Pegadaian Kebut Ekosistem Bullion Bank Bersama Danantara",
-  "cat": "Ekonomi & Bisnis",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "CNBC Indonesia"
-  ],
-  "d": "2026-10-15",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVVQelI4dkRpd3g5MU5iMGg3S1dJYmRId242R0owc2Jlam5RZjFaeFNycjU1Vkg5S1FQa0VFcjZVcUxYQ2FseEhnMDdCOTE5X29FVldXWnV2WHh1X0RqR2xsU2ZadkxNWHljUk9mZVZQT2t5MUZWSWJzYzk5YUdKQ2I4eDNOYXlWQnlPRDdOMXFOMko3WURjQjNNc21qV19RSE1pOTVJREpxcEJSZ2pLbFJRX0lyWFpKU1NRelJ4S19MZF9aekxj0gHMAUFVX3lxTE8yX2MzSHFUOE9TUDBfTTNlTmpNV3ByS1QwUGFJbHhYWkF5VEJWcV83bGJLVUZSbDdFQVpMVVkyRjZUTEVlV0JrdFprNE96ZWZXVzdHcVZRbHcxcGhXT0ZHM2JvWFhxd0g5ZTJvNl9SMU1TU2E2MjNaVnpsUmo0cnlURnR3VGNPQjN2TGFpb1duS2ZCclNNVVlfd1kzNU14NUJlbGNlUWlBVnNTalZRYVdPVWNYR0tuSnRTVnZUMVQ5aWxtcW9OcnhoeC1BTQ?oc=5",
-  "n": ""
- },
- {
-  "t": "YouTube Music Mulai Tandai Lagu Buatan AI",
-  "q": "YouTube Music Mulai Tandai Lagu Buatan AI",
-  "cat": "Teknologi",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Kompas.com"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMG5jd1RfM2VQcnhLbGFZREdxNk5razRhWWtCeWZzOVlNa0ZuOXBjSXJBdE1XQ2wtbVVkMWRlS1BMNno3S2otYTZ1cUl1b25TNEc1Njhzekg2UGI4dWNMVUY2eUd0eUtOeG1SVUpkQkNpUUZ6TjBtZGozdDNlTi1UYjRCc3E2ZzlSWmx2cVVMcmZLOVdnSUE?oc=5",
-  "n": ""
- },
- {
-  "t": "Apple Jadwalkan Produksi iPhone 18 di Akhir November, Rilis 2027",
-  "q": "Apple Jadwalkan Produksi iPhone 18 di Akhir November, Rilis 2027",
-  "cat": "Teknologi",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Bloomberg Technoz"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSURXZ3RjZ0x5QmJaUXZ2RmEzb1V0VW9zOGktUG9YbTFHS19sUlRqaUJaTko5dk13SkZGZzY4TUpodXk2U2ZkWXNEZ3U2ODU5M04zUlZsZE10NEh1YjFtb21ZWWZ0eGhVXzBrVk9rY3BaTGJGeU5TUTBabEczVHYxS0FaSktiM1lmY2Y1UnF4R0dIS2x2ZzB5dS1rYS1kNm1CNWtadzNKeWJuaTVJRUxKOXBVMXdRZw?oc=5",
-  "n": ""
- },
- {
-  "t": "Perhutani Saradan Ukur Lokasi Rencana Kerja Sama Silvopastura dengan UD Roma Farm",
-  "q": "Perhutani Saradan Ukur Lokasi Rencana Kerja Sama Silvopastura dengan UD Roma Farm",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "Perhutani"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRnFmY05NRFdOM1p4RGtSdGFzWlJ0dnFpdUJkcTN4TW1VTUZ6THZ3NUUxd2poTE9KTXpfSEtzRzhmR2FhVFhpQmhNaXFyeTZlZXl3UHRYRjhxT1BKUXd1dDhhWGJQaDlfeTBuTVdCUkNoUUR3czh3SjJTWkFXa2lBdXpCR1cxODktcHdENG1kdzhDb3lxRVhTbUZ1TFYwMHhyMWZnd1poMFRkRnl2Uk5B?oc=5",
-  "n": ""
- },
- {
-  "t": "Bos Erajaya Bocorkan iPhone Duo Segera Rilis di Indonesia",
-  "q": "Bos Erajaya Bocorkan iPhone Duo Segera Rilis di Indonesia",
-  "cat": "Teknologi",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikInet"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZ6T2cyOTFmRmtXaUNNMDJmWUdYcHhiSkdFU2Y0aWxqYzQ0NFM4alBhSkFmSXgtaGJoejJodVlQQ2N5Z09SbEFvVkJuc1Z3VWJTWTdJQVdvOEU2WTBFaUFieDh4LV8zRkZHRDdDb0pyTXItalFFVG9xRGlVRERGcTJicE80OEdqdVRXc1dZS3loVGJ0TTdjYVB2dFI4M0500gGmAUFVX3lxTE1ta1lUdkRBS3NPcUxlLWpBazFCYXJSaTZpanBvc1RtNnVNT3ExSWlJOXptSVN3dUdXT1kxaG5uSmdJZV9sN09XM1NvSGhxdmlFdnM2OXVMRWxhQTlUM1l5alVpN05nUE5LWlB2Wnd1NktNQ0FlaW9zeTJpamJiaFFWOXpSTTRmdG11VS1abWsxZkM4NENTTVpjV2YzVGhxcWszOTB2UWc?oc=5",
-  "n": ""
- },
- {
-  "t": "Aktor Senior Yadi Timo Meninggal Dunia",
-  "q": "Aktor Senior Yadi Timo Meninggal Dunia",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikHOT"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejZPMXdKRFVzblpWT3M5LVRWYkVGSFZlRjA2cDRXRXVNcG9rMGpoblZvZ3FOdGY0S0hMSGdheDVxMzdsODJvNGVhbVN1WWVDTlFWUU1uRmJuWmEtOTZsdll3akdfWjh5SEJ5WVFHZlhhZ20yNmtyb0huMFRNRThDNXRB0gGHAUFVX3lxTFBrX1lSZjdGY0VTajBnM1RkLU13QmEyeVI4YWtRaG52VGJKbUtJa0t0SHh0dWRtVjhPekFlUmljQl9fb0VsMkhidVhOV3dsOFBpMnZIZUNTbGZZVUNEeXdBUW5vWjRpaklFQWR5STNTdWp3bm5nVW9TbjhDMmZMcDBFYUQ3SGxvWQ?oc=5",
-  "n": ""
- },
- {
-  "t": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
-  "q": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikInet"
-  ],
-  "d": "2026-10-16",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmk4QnR2R3VDbmRxSE1lVjhsSWYtbTNYUUpsR0JJbVRsNWwzYnc5V3BoV19tNG1lRGJQR2dDaHRSQklMeDhueGl4RFJtYjJqdDdnVkg5eThEZUp4YnN4Q1E4c2JtSllpaUxWcTNTTGVtVEREUTVXTmFFa1h2MXZrVmxwVENvcDFsSmItNXBuNERqVFg5elNvMHo2QThDTThmSW9ucUNrd2Y4aEU40gGyAUFVX3lxTE9Dak5YSERRYW9vSzdyakJ3cHhCYTF2VHVlZmtyUldWREZoWmdKSVlTckxhQWJsUFJEeXBvX1ppOEx2bjA4N1c4Y1M3RTNJOXFYS1VGTXB6eDUyWlFWT1ZNRnF3UlFGSGNWN0s0XzNKdlFSU0YtSXpsNl9zQkVhT1VDcEZrN3U1ZjVxaWJPWDhRdHdhVmNmT05yQkxSUUtscWhwY0VJb1JpaDZLMkczT25Sc1E?oc=5",
-  "n": ""
- },
- {
-  "t": "Doddy Katamsi Meninggal Dunia",
-  "q": "Doddy Katamsi Meninggal Dunia",
-  "cat": "Lainnya",
-  "reg": "ID",
-  "ch": [
-   "Google Berita"
-  ],
-  "src": [
-   "detikcom"
-  ],
-  "d": "2026-10-15",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44X0ZuakhYTW9QQzNJbzV4a2RDTXBYc2FtX1ZTMEdJQjdlQ1pfZndtZURUdkgwTkZXbmVCd0xGQl9pU2s1UjBxendXdzFZYVNBOXMzMDYzU0pURzNRdlhGVEt5XzVJd1FQazZZWXkzc1NnQUx5blgyZVA5c9IBgAFBVV95cUxPbDlBUUtuaWpMdWxIVGtvUjktbGIydFFRZWQ4MVVHUFBLODk2eUJHdDZoMXBsZi1vX0V4XzExMEVvc1RCUUJHTlZ6UUQ0WUwzLVBGQ0xHX2k0RnZSRXpPTE0xNnBHQWluQWVLVTl0MkNMQk5RNTg4TjF0TVkybXBqOQ?oc=5",
-  "n": ""
- }
-]
+{
+ "topics": [
+  {
+   "t": "Tommy Paul",
+   "q": "tommy paul",
+   "cat": "Film & Series",
+   "reg": "Global",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "The New York Times",
+    "Last Word On Sports",
+    "The Grandstand"
+   ],
+   "d": "2026-10-16",
+   "url": "https://www.nytimes.com/athletic/7691177/2026/10/14/mens-rolex-shanghai-masters-stream-how-to-watch-october-16/",
+   "n": "How to watch the men’s Rolex Shanghai Masters: Streaming options for the Quarterfinal",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Rhea Ripley",
+   "q": "rhea ripley",
+   "cat": "Selebriti",
+   "reg": "Global",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Cageside Seats",
+    "WWE",
+    "Yahoo Sports"
+   ],
+   "d": "2026-10-16",
+   "url": "https://www.cagesideseats.com/rumor-round-up/481748/rumor-roundup-wrestlemania-43-main-event-cm-punk-cody-rhodes-saudi-arabia-crown-jewel-gunther",
+   "n": "Rumor Roundup: New main event for WrestleMania 43, GUNTHER frustration, Ripley, more!",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "‘Norm: The Tale of Norm Macdonald’ Review: Judd Apatow’s Latest Comedy Doc Sends Viewers Down a Laugh-Filled Rabbit Hole",
+   "q": "‘Norm: The Tale of Norm Macdonald’ Review: Judd Apatow’s Latest Comedy Doc Sends",
+   "cat": "Selebriti",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "The Hollywood Reporter",
+    "Variety"
+   ],
+   "d": "2026-10-16",
+   "url": "https://www.hollywoodreporter.com/movies/movie-reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-netflix-1236733208/",
+   "n": ""
+  },
+  {
+   "t": "Cynthia Erivo’s ‘Bad Fairies’ Adds Kylie Minogue, Jonathan Groff and Catherine Tate to Voice Cast",
+   "q": "Cynthia Erivo’s ‘Bad Fairies’ Adds Kylie Minogue, Jonathan Groff and Catherine T",
+   "cat": "Film & Series",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Variety",
+    "Deadline"
+   ],
+   "d": "2026-10-16",
+   "url": "https://variety.com/2026/film/news/cynthia-erivo-bad-fairies-kylie-minogue-jonathan-groff-1236913639/",
+   "n": ""
+  },
+  {
+   "t": "Tate McRae Can’t Be Contained in Lavish New ‘Housewife’ Video",
+   "q": "Tate McRae Can’t Be Contained in Lavish New ‘Housewife’ Video",
+   "cat": "Selebriti",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Rolling Stone",
+    "AOL.com"
+   ],
+   "d": "2026-10-16",
+   "url": "https://www.rollingstone.com/music/music-news/tate-mcrae-housewife-video-new-song-1235643487/",
+   "n": ""
+  },
+  {
+   "t": "Netflix Shakeup: Peter Rice Is Welcomed Back To Executive Ranks While Bela Bajaria’s Exit Has Layoff-Weary Staff Bracing For More Upheaval",
+   "q": "Netflix Shakeup: Peter Rice Is Welcomed Back To Executive Ranks While Bela Bajar",
+   "cat": "Film & Series",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Deadline",
+    "Variety"
+   ],
+   "d": "2026-10-16",
+   "url": "https://deadline.com/2026/10/netflix-shakeup-analysis-peter-rice-bela-bajaria-whats-next-1237158959/",
+   "n": ""
+  },
+  {
+   "t": "‘Grey’s Anatomy’ Boss Unpacks Season 23 Premiere and Teases Dolly Parton Episode, Texas Spinoff and Whether This Really Could Be the Final Season",
+   "q": "‘Grey’s Anatomy’ Boss Unpacks Season 23 Premiere and Teases Dolly Parton Episode",
+   "cat": "Film & Series",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Variety",
+    "The Hollywood Reporter"
+   ],
+   "d": "2026-10-16",
+   "url": "https://variety.com/2026/tv/news/greys-anatomy-season-23-premiere-spinoff-update-final-season-1236911978/",
+   "n": ""
+  },
+  {
+   "t": "Chappell Roan Talks Bringing Her Perspective to Olivia Rodrigo’s ‘Expectations’: ‘I Love Making Things a Little Gay’",
+   "q": "Chappell Roan Talks Bringing Her Perspective to Olivia Rodrigo’s ‘Expectations’:",
+   "cat": "Selebriti",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Billboard",
+    "Rolling Stone",
+    "Pitchfork"
+   ],
+   "d": "2026-10-16",
+   "url": "https://www.billboard.com/music/pop/chappell-roan-olivia-rodrigo-zane-lowe-expectations-1236361689/",
+   "n": ""
+  },
+  {
+   "t": "Anna Faris reacts to former boss Chuck Lorre’s ‘Mom’ diss in memoir: ‘It hurts’",
+   "q": "Anna Faris reacts to former boss Chuck Lorre’s ‘Mom’ diss in memoir: ‘It hurts’",
+   "cat": "Selebriti",
+   "reg": "Global",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Page Six",
+    "Deadline"
+   ],
+   "d": "2026-10-16",
+   "url": "https://pagesix.com/2026/10/15/celebrity-news/anna-faris-reacts-to-former-boss-chuck-lorres-mom-diss-in-memoir/",
+   "n": ""
+  }
+ ],
+ "posts": [
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "Chappell Roan Talks Bringing Her Perspective to Olivia Rodrigo’s ‘Expectations’: ‘I Love Making Things a Little Gay’",
+   "snip": "The pop stars shared their inspiration behind their new collaboration with Zane Lowe, including the dating stories that inspired Roan's verse.",
+   "img": "https://www.billboard.com/wp-content/uploads/2026/10/olivia-rodrigo-chappell-roan-expectations-Phoenix-Johnson-billboard-1800.jpg?w=237&h=147&crop=1",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/pop/chappell-roan-olivia-rodrigo-zane-lowe-expectations-1236361689/",
+   "likes": null,
+   "com": 0,
+   "m": 3,
+   "src": [
+    "Billboard",
+    "Rolling Stone",
+    "Pitchfork"
+   ],
+   "hot": [],
+   "sc": 76,
+   "ts": "2026-10-16T02:04:49Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Norm: The Tale of Norm Macdonald’ Review: Judd Apatow’s Juicy and Haunting Portrait of a Comedy Star as Troubled as He Was Hilarious",
+   "snip": "At times, he had a streak of Andy Kaufman’s antisocial hostility in him, as if comedy was his way of testing both himself and the audience, seeing what they would accept, and seeing if he would be accepted.",
+   "img": "https://variety.com/wp-content/uploads/2026/08/Norm__The_Tale_of_Norm_Macdonald_n_00_48_23_20.png",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/film/reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-1236911273/",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "The Hollywood Reporter",
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-10-16T03:43:27Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "Cynthia Erivo’s ‘Bad Fairies’ Adds Kylie Minogue, Jonathan Groff and Catherine Tate to Voice Cast",
+   "snip": "“Bad Fairies,” the Warner Bros. Picture Animation and Locksmith Animation musical comedy led by Cynthia Erivo, has added Kylie Minogue, Jonathan Groff and Catherine Tate to its voice cast. Minogue will voice Clowder the Cat Witch, Groff wil",
+   "img": "https://variety.com/wp-content/uploads/2026/10/split-4-split-a-1000x667-3.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/film/news/cynthia-erivo-bad-fairies-kylie-minogue-jonathan-groff-1236913639/",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Variety",
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-10-16T04:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Tate McRae Can’t Be Contained in Lavish New ‘Housewife’ Video",
+   "snip": "The pop singer's new song sees her push a baby carriage stuffed with cash and gallivanting with her suitors",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/music/music-news/tate-mcrae-housewife-video-new-song-1235643487/",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Rolling Stone",
+    "AOL.com"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-10-16T03:06:26Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "Netflix Shakeup: Peter Rice Is Welcomed Back To Executive Ranks While Bela Bajaria’s Exit Has Layoff-Weary Staff Bracing For More Upheaval",
+   "snip": "Call it the six-year itch. Amid a sliding stock price and slowing engagement growth, Ted Sarandos has made a change, replacing Chief Content Officer Bela Bajaria, a 10-year Netflix veteran, with Peter Rice. The Netflix co-CEO made a similar",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/Bela-Bajaria-and-Peter-Rice.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/netflix-shakeup-analysis-peter-rice-bela-bajaria-whats-next-1237158959/",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Deadline",
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-10-16T03:05:25Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Grey’s Anatomy’ Boss Unpacks Season 23 Premiere and Teases Dolly Parton Episode, Texas Spinoff and Whether This Really Could Be the Final Season",
+   "snip": "SPOILER ALERT: This interview contains major spoilers from “Collide,” the Season 23 premiere of ABC’s “Grey’s Anatomy,” streaming on Hulu. There’s a new sheriff in town at Grey Sloan Memorial Hospital. In the Season 23 premiere of “Grey’s A",
+   "img": "https://variety.com/wp-content/uploads/2026/10/Greys-Season23-premiere-EllenPompeo.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/tv/news/greys-anatomy-season-23-premiere-spinoff-update-final-season-1236911978/",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Variety",
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-10-16T03:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Anna Faris reacts to former boss Chuck Lorre’s ‘Mom’ diss in memoir: ‘It hurts’",
+   "snip": "Lorre wrote in \"Sitcom\" that he initially didn't think Faris was \"appropriate\" for the show's lead role.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145204790.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/celebrity-news/anna-faris-reacts-to-former-boss-chuck-lorres-mom-diss-in-memoir/",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Page Six",
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-10-15T23:46:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "‘The Mandalorian and Grogu’ VFX Veteran Hal Hickel on Rotta’s Redesign, Phil Tippett and Jon Favreau’s ‘Less James Bond, More Jackass’ Approach",
+   "snip": "Industrial Light & Magic animation supervisor Hal Hickel approached Jon Favreau’s “The Mandalorian and Grogu” with a deceptively simple question: “What would Phil do?” The Phil in question was stop-motion pioneer Phil Tippett, whose work on",
+   "img": "https://variety.com/wp-content/uploads/2026/10/hickel_2.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/film/global/the-mandalorian-and-grogu-vfx-hal-hickel-phil-tippett-1236913822/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T09:08:16Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "BBC Studios’ Boss Says Streaming Is The Future But Linear Still Pays",
+   "snip": "Marcus Arthur tells Deadline about walking a tightrope in a streaming-first world where linear remains a big money-spinner. Arthur is running a huge and complicated business. Having been upped from CEO of channels group UKTV to chief exec o",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/Marcus-Arthur.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/bbc-studios-boss-streaming-future-linear-pays-1237158106/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T09:06:56Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
+   "snip": "The Singapore Media Festival will add a dedicated creator economy event to its lineup this year, launching the Asia Creator Summit alongside the long-running Asia TV Forum & Market when its next edition takes place Dec. 1–5. The festival is",
+   "img": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T08:36:57Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Hilary Duff flaunts figure in yellow swimsuit on girls’ trip as ‘toxic mom group’ drama resurfaces",
+   "snip": "Hilary Duff's Mexico girls trip with Mandy Moore reignited the Ashley Tisdale toxic mom group controversy that first erupted earlier this year.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145254991.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/16/entertainment/hilary-duff-flaunts-figure-in-yellow-swimsuit-on-girls-trip-as-toxic-mom-group-drama-resurfaces/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T08:22:05Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "Zach Bryan’s ‘Young Manhood and Other Donatable Organs’: Every Song Ranked",
+   "snip": "We're choosing our favorites on Bryan's new EP.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/lists/zach-bryans-young-manhood-and-other-donatable-organs-ranked/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T08:04:05Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Ethan Hawke blasts Hollywood’s ‘greedy bastards,’ predicts massive rebellion against powerful elites",
+   "snip": "Ethan Hawke predicts massive rebellion in music and live theater against Hollywood's \"greedy bastards\" who he says control the entertainment industry.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Flate-night-seth-meyers-episode-145251023.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/16/entertainment/ethan-hawke-blasts-hollywoods-greedy-bastards-predicts-massive-rebellion-against-powerful-elites/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T08:02:39Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "Layoffs Take Place At ‘The Repair Shop’ Producer Ricochet",
+   "snip": "EXCLUSIVE: A number of staffers including creative chief Damon Pattison have been laid off at Ricochet, the Skydance UK-owned indie that produces hit BBC show The Repair Shop. We understand around 10 staff left several weeks back including ",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/561787.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/ricochet-layoffs-the-repair-shop-skydance-damon-pattison-1237157978/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T08:00:33Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "Busan Takeaways: Record Crowds Meet a Political Storm as Asia’s Producers Close Ranks",
+   "snip": "The Busan International Film Festival drew its largest film audience in more than a decade at its 31st edition, which ran Oct. 6–15, while a political firestorm over a Korean box office hit and an Iranian director’s war speech kept politics",
+   "img": "https://variety.com/wp-content/uploads/2026/10/Majid-Majidi-Busan.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/film/markets-festivals/busan-film-festival-2026-takeaways-record-crowds-political-storm-1236913812/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T07:44:36Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "Bryson Fire Has Burned More Than 140 Acres; Evacuation Orders Issued; Wind Gusts Expected To 50 MPH Overnight",
+   "snip": "Refresh for latest… A wind-whipped brushfire ignited in western Malibu Thursday and spread from one to five acres in a matter of about 15 minutes. Within an hour, the incident was estimated at about 35 acres, including various spot fires th",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2300432897.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/bryson-fire-malibu-1237158950/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T07:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "Olivia Rodrigo feat. Chappell Roan, Tate McRae, Zach Bryan & Angèle: New Music Friday Guide",
+   "snip": "Check out the must-hear releases of the week.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-tate-mcrae-zach-bryan-new-music-friday-guide-1236361399/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T07:17:19Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "Troye Sivan Enjoys ‘Best’ Start on ARIA Chart",
+   "snip": "Olivia Dean is still feeling the love from her Australian arena tour, as \"The Art Of Loving\" holds at No. 1 on the ARIA Albums Chart.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/chart-beat/troye-sivan-best-start-aria-albums-chart-1236361738/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T07:06:20Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Norm: The Tale of Norm Macdonald’: Five Biggest Takeaways, From the ‘SNL’ Firing to Concealing His Cancer Diagnosis",
+   "snip": "Norm Macdonald wasn’t for everyone. Armed with a deadpan delivery, devil-may-care attitude and cracker-barrel charm, the Canadian comic got his start writing for “Roseanne” before earning acclaim as the host of SNL’s Weekend Update, where h",
+   "img": "https://variety.com/wp-content/uploads/2026/10/Norm__The_Tale_of_Norm_Macdonald_n_00_48_23_20.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/lists/norm-tale-norm-macdonald-netflix-snl-cancer-metoo/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T07:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "Serielizados Program: Steven Moffat, Ferran Adrià and Rodrigo Sorogoyen Bring Star Creator Power to Barcelona",
+   "snip": "Carmen Machi, Rodrigo Sorogoyen, Hagai Levi, Steven Moffat, Sue Vertue, Victoria Martín, Ferran Adrià. All will bring star power to Barcelona’s leading series festival Serielizados which is set to kick-off Oct. 19 with the Catalan premiere ",
+   "img": "https://variety.com/wp-content/uploads/2026/10/In-Vitro-3Cat.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/tv/global/serielizados-program-steven-moffat-ferran-adria-1236913188/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T06:32:19Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Avatar: Fire and Ash’ Composer and More Speak Out About AI at Ghent’s WSA Film Music Days: ‘We Must Continue to Defend Our Art’",
+   "snip": "At a recent World Soundtrack Awards industry panel, composer Simon Franglen struck a common chord when talking about his work on “Avatar: Fire and Ash.” “We had hundreds of musicians in a room, pouring their emotion out in that precise seco",
+   "img": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T06:28:01Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "Nawazuddin Siddiqui to Star as Delhi Street Detective in ‘Kabootar’ (EXCLUSIVE)",
+   "snip": "Indian thespian Nawazuddin Siddiqui is attached to lead “Kabootar,” the debut feature from writer-director Ishan Sharma, produced by Nikhil Chaudhary of MDC Filmworks. The film is structured as a co-production between MDC Filmworks in India",
+   "img": "https://variety.com/wp-content/uploads/2026/10/Nawazuddin-Siddiqui1.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://variety.com/2026/film/news/nawazuddin-siddiqui-delhi-street-detective-kabootar-1236913102/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T05:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Oregon School Shooting: 3 Children and a Teacher Killed in Tragedy",
+   "snip": "The 16-year-old suspect was fatally shot by an armed bystander, police said",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/culture/culture-news/bend-oregon-school-shooting-1235643739/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T05:21:29Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Street Fighter’ Punches $4M In U.S. Previews, ‘You Can See Everything’ $2M – Box Office Update",
+   "snip": "EXCLUSIVE: Paramount/Legendary’s PG-13 take of Capcom videogame Street Fighter is off to a solid start tonight with around $4M after showtimes that began at 2PM (further boosted by a 7PM fan showtime). The expectation is for the fisticuffs ",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/MCDSTFI_PA022_aadce6.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T05:19:00Z"
+  },
+  {
+   "k": "news",
+   "u": "SFGATE",
+   "name": "SFGATE",
+   "av": "",
+   "followers": 0,
+   "cap": "Horoscope for Friday, 10/16/26 by Christopher Renstrom",
+   "snip": "Horoscope for Friday, 10/16/26 by Christopher Renstrom SFGATE Horoscopes Today, October 16, 2026 USA Today Your Daily Horoscope by Madame Clairevoyant: October 16, 2026 The Cut Horoscope for Friday, 10/16/26 by Georgia Nicols CT Insider Dai",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2FTMHdHRGNhUFdPbUN1Um1kTEhFU1d5X2c1WjFSR2ZoS0xyaHFCMGFHa1ZlSWVzNk1HenhYU2gzSmVET2NfbkptNmlKNjRiQVhhT3pJU19qbUltVWw0QV9hVFZ0U0FPVHNqWC1DcWpsd1NBbTdMQTJiMjlydmNsWW5KSnItQmJ5SlFTeWRxRkNVOEMwTG9LSHVWbnBPVHFMaWc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "SFGATE"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T05:14:38Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Cupertino’ Creators Robert & Michelle King On Episode 2’s Shocking AGI Twist & Predicting The Future Again With AI Guardrails Storyline",
+   "snip": "SPOILER ALERT: The story includes details about Episode 102 of CBS’ Cupertino, ‘Vik & Bo.’ The Good Wife creators Robert and Michelle King are back at CBS this fall with a new legal drama, anchored by The Good Wife favorite Mike Colter, thi",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/3187002_CUPO_S1_1512b.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/cupertino-creators-episode-102-bo-agi-storyline-interview-1237158656/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T05:02:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "The Avalanches Press Play on ‘No Bad Memories’: Stream It Now",
+   "snip": "The fourth album from the celebrated Australian electronic act explores “the magical intersection of advertising, memory and nostalgia.”",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/music-news/the-avalanches-no-bad-memories-stream-it-now-1236361730/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T04:55:53Z"
+  },
+  {
+   "k": "news",
+   "u": "AP News",
+   "name": "AP News",
+   "av": "",
+   "followers": 0,
+   "cap": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK",
+   "snip": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK AP News Prince Harry and Meghan make first joint appearances since returning to UK PBS Meghan Markle’s ‘Ultimatum’ to Prince Harry Before Nottingham ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelpPeUtTVGdaZXFENkhqYzlHNGc0RHBqbUg0T3JGSlFkXzNLUjY4bFVTek9QemtpME94emFKSjg4X09qcllWdUR5TkNoZWw2dnZycE1uS3NrTllVSUhkSzhDMl90WkszdkVTM1AyckxQWHJmTHlmSmVMSnVWdEF1UnZyT3JvNWpUWnFLbkdkYmE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "AP News"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T04:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Zach Bryan Links Up With Lana Del Rey for Delicate Duet ‘Lies’",
+   "snip": "Track is off Bryan's new EP Young Manhood and Other Donatable Organs Tour",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/music/music-news/zach-bryan-lana-del-rey-lies-1235642159/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T04:11:34Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "A$AP Rocky Brings Trippy ‘Shroom Clouds’ to Streaming Services for the First Time: Listen",
+   "snip": "\"Shroom Clouds\" serves as the lead single for Don't Be Dumb - Disc 2 .",
+   "img": "https://www.billboard.com/wp-content/uploads/2026/10/asap-rocky-henry-hwu-billboard-1800.jpg?w=237&h=147&crop=1",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-shroom-clouds-single-disc-2-1236361622/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T04:03:13Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "How to watch ‘Tulsa King’ Season 4 premiere for free: Release time, cast",
+   "snip": "There's never a shortage of new Sheridan over on Paramount+.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145152341.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/16/entertainment/how-to-watch-taylor-sheridans-tulsa-king-season-4-for-free/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T04:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "The ‘GTA VI’ Soundtrack Is Getting a Big Physical Media Rollout — Even if the Game Itself Isn’t",
+   "snip": "You can pick up multiple vinyl variants of the soundtrack to the digital-download-only game",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/product-recommendations/lifestyle/grand-theft-auto-vi-soundtrack-vinyl-buy-online-1235643548/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T03:37:44Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "Ninajirachi, Boy Soda, Keli Holiday Shortlisted For 2026 NSW Music Prize",
+   "snip": "Winners will be announced during a ceremony Nov. 9 at the Museum of Contemporary Art’s Foundation Hall in Sydney.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/awards/ninajirachi-boy-soda-keli-holiday-shortlist-nsw-music-prize-1236361714/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T03:20:40Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "James McAvoy Reveals Which Film Paid Him “Bonkers” Residuals",
+   "snip": "On the other hand, the actor also said he sometimes \"gets checks for like 25 cents.\"",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.hollywoodreporter.com/movies/movie-news/james-mcavoy-film-split-paid-bonkers-residuals-1236733475/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T03:12:39Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Law & Order’ Season 26, Episode 2 Recap: What Happened To Det. Vincent Riley In Reid Scott’s Final Episode?",
+   "snip": "SPOILER ALERT: This post contains details on Law & Order Season 26, Episode 2, which aired on NBC on Thursday, October 15. Earlier this year, Deadline reported that Reid Scott, who plays Senior Detective Vincent Riley, was leaving the NBC p",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/reid-scott-law-and-order.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/law-and-order-season-26-episode-2-recap-vincent-riley-reid-scott-final-episode-1237150631/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T03:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Grey’s Anatomy’ EP Meg Marinis On Season 23 Premiere’s Time Jump, Pregnancy Surprise, James Wolk’s Arrival & Doctor’s Exit; Texas Spinoff Status",
+   "snip": "SPOILER ALERT: The story includes details about the Season 23 premiere of ABC’s Grey’s Anatomy. Time did not stand still at Grey Sloan as Grey’s Anatomy returned with its first time jump between seasons in four years. The Season 23 premiere",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/GreysS23.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/greys-anatomy-ep-meg-marinis-season-23-interview-time-jump-1237156312/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T03:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "InStyle Imagemaker Awards 2026 red carpet: Megan Thee Stallion, Charli XCX, Heidi Klum and more",
+   "snip": "Megan Thee Stallion, Charli XCX and Heidi Klum dazzled on the red carpet.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Finstyle-copy.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/photos/instyle-imagemaker-awards-2026-red-carpet-megan-thee-stallion-charli-xcx-heidi-klum-and-more/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T02:52:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "Netflix’s New Content Chief Peter Rice Will Continue As EP Of LA28 Opening & Closing Ceremonies",
+   "snip": "EXCLUSIVE: “Netflix is fortunate to have him.” That’s what LA28 boss Casey Wasserman said Thursday night about Peter Rice after the mastermind behind the upcoming Summer Olympics Opening and Closing Ceremonies landed a top gig at the stream",
+   "img": "https://deadline.com/wp-content/uploads/2025/07/PEter-Rice.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/peter-rice-remains-la28-opening-closing-ceremonies-ep-1237159010/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T02:08:20Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Jon Gosselin speaks out in defense of son Collin’s bombshell memoir, threatens legal action",
+   "snip": "The former reality star fired back at his ex-wife's claim that Collin is mentally ill.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145216823.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/celebrity-news/jon-gosselin-speaks-out-in-defense-of-son-collins-bombshell-memoir-threatens-legal-action/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T02:08:02Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "Everything We Know About ‘The Housemaid’s Secret’ Film So Far",
+   "snip": "A sequel to Paul Feig’s The Housemaid will hit the big screen in 2027. The film started coming together at the beginning of 2026 when it was greenlit by Lionsgate. Several faces both in front of and behind the camera in the first film will ",
+   "img": "https://deadline.com/wp-content/uploads/2026/01/MCDHOUS_LG033.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/feature/the-housemaid-2-movie-news-updates-sequel-adaptation-1237045522/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T02:02:44Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "Daisy Edgar-Jones Reveals She Might Be “Slightly Deaf” in One Ear After Filming ‘Twisters’",
+   "snip": "The actress starred opposite Glen Powell in the 2024 action-adventure thriller.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.hollywoodreporter.com/movies/movie-news/daisy-edgar-jones-slightly-deaf-filming-twisters-1236733462/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:58:43Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Pregnant Hilary Swank, 52, responds to backlash about women having babies later in life",
+   "snip": "The actress pointed out that there is a huge double standard present.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145214411.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/parents/pregnant-hilary-swank-responds-to-backlash-about-women-having-babies-later-in-life/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:55:27Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "'I'm Not Allowed to Drive': Billy Joel Shares Health Update as He Prepares to Sell Vintage Motorcycles",
+   "snip": "'I'm Not Allowed to Drive': Billy Joel Shares Health Update as He Prepares to Sell Vintage Motorcycles Rolling Stone Billy Joel Offers Health Update in Rare Interview as He Prepares to Sell Prized Motorcycle Collection The Hollywood Reporte",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTZkMTZGblVFYTM4VnduZ0dWdGxkOG95OEN1ak5tTVhQY0Y5SHA5cVg3ZGlkRXI4RXlxLVhPdGR4bW4wQUpUc0F3SjM3UHQtaU9HOUJVNExKMTd4aTlEWFhvcURfZWw4M3Z1eHo1V2FLWkZzNWRsSk1tcUFORnBFUF9hYlhfdVpydkJaV21oUmxUT042UzRUdkNLejRQZXNPazdfN2NraDV3bDR6dXc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:39:13Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "‘SNL’ Star Michael Che Reacts to Shane Gillis’ Controversial Monologue: “That’s Comedy”",
+   "snip": "‘SNL’ Star Michael Che Reacts to Shane Gillis’ Controversial Monologue: “That’s Comedy” The Hollywood Reporter SNL is staying quiet while Shane Gillis sexism scandal grows CNN Travis Kelce ‘likes’ video of Shane Gillis’ controversial ‘SNL’ ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnJLa195cDYyRjM1U3RmT3dqNFkyX2pIZFRYVEQtNWdhME9tbjVHeTg3eWRLeXl6TEJSVWJIalFzaFhGdnZfS2kxRGJxLXpudXBGQUZja3hidk1fbFduYkVJaGNxNzd3QkRwVWJQRGJ0WDZyZW93Nl9fYU04alEwajBCV29BWWZaeFd4ZVg4X1JuWk9MdThONVFlNXlPWFljTXhReUF3S2JGVGgtbElqSG00anlkNkE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:27:42Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "‘DWTS’ Pro Val Chmerkovskiy Apologizes to Carrie Ann Inaba for “Careless” Will Smith Oscars Slap Reference: “I Will Do Better”",
+   "snip": "The dancer made a post writing, “You almost saw Fresh Prince enter the ballroom last night,\" which prompted the judge to respond with her own social post that read, \"So this is what we are doing now?\"",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-val-apologizes-carrie-ann-inaba-will-smith-oscars-slap-1236733459/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:18:08Z"
+  },
+  {
+   "k": "news",
+   "u": "Billboard",
+   "name": "Billboard",
+   "av": "",
+   "followers": 0,
+   "cap": "Nelly & Ashtani Get Ready for Taylor Swift and Travis Kelce’s Wedding in Reality Show Trailer: ‘Nelly Is a Swiftie’",
+   "snip": "The couple's Peacock series returns next month with a look at their journey to the superstar-studded celebration, plus studio sessions and family life.",
+   "img": "https://www.billboard.com/wp-content/uploads/2026/05/2251646880-e1779996108392.jpg?w=237&h=147&crop=1",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.billboard.com/music/rb-hip-hop/nelly-ashtani-taylor-swift-travis-kelce-wedding-show-trailer-1236361670/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Billboard"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:16:15Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "‘The Beekeeper 2’ Teaser: Jason Statham Kicks Rogue Govt. Agent Butt To Metallica In First Look At Sequel",
+   "snip": "Jason Statham’s retired “Beekeeper” Adam Clay is back to take on his makers in the sequel to his 2024 action pic. On Thursday, Amazon MGM Studios released the first teaser for the Timo Tjahjanto-helmed sequel The Beekeeper 2, which premiere",
+   "img": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-5.46.34-PM.png",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T01:02:25Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Selena Gomez gives nod to ex Nick Jonas with cheeky move: ‘Feeling nostalgic’",
+   "snip": "The Rare Beauty founder took to her TikTok to share a video of herself donning a red dress and matching heels.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145206041.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/celebrity-news/selena-gomez-gives-nod-to-ex-nick-jonas-with-cheeky-move/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T00:31:26Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Street Fighter’ Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch",
+   "snip": "‘Street Fighter’ Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch The Hollywood Reporter Street Fighter First Reviews: Colorful, Weird, Noisy Nonsense Affectionately Made for Fans Rotten Tomatoes Street Fighter ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjlMcDBXMXVaeXIzRmhPbnQtd1d5Qm1XcjI0RU1TSjNmTjg2cjFmZWxYNlZmSGtsTmloX1U4QWNXYzFTVHNLTWtveEZrWDgzS0l4WkZMaVJ0MkQ1MWo5ay1tVjRwUGlLb3BobDZpdi1MVElYMlBwNjdNaUpVaEdQNjZoRXZmTXJaSWN2OXdQczh5aTVXMUpVZkF3c0dqNW40emd3eXpRWndyYW92T3BsN0FocnBEVzk3RmR6SWxRdw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T00:28:14Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "Ben Affleck Warns ‘Digger’ Box Office Bomb Will Lead to “A Bunch of Sh***y Homogenized Movies”",
+   "snip": "Ben Affleck Warns ‘Digger’ Box Office Bomb Will Lead to “A Bunch of Sh***y Homogenized Movies” The Hollywood Reporter Opinion | ‘Digger,’ Tom Cruise’s Big Flop, Is a Secret Masterpiece The New York Times Neil Young Praises ‘Digger’: ‘The Be",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWndISWJ6c29KbDNGaWl3TVQySkN5eTRmSFI3MmQ2RG5tVWRKTDBGcDlIdkNWaGpaTy1IbjB5TXhvWGh4cWNoaVVJR0ZaN21jZFREanA1M0NOQjlQd040eWxieC1PdWwxdURpbUlVYS0wTjZkTFlwaDhyZldpNlF2TUpqcGdDOU5OS2dCaUFhRjhzZHpDMmcxX1JVZkVhbkFSRE9jZV9NS3NVdjlEYmZqbkk2QlpwdjZpXzZF?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T00:18:40Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "Feds Sue Ticket Broker Firm Over Alleged $120M Scheme For Beyoncé, Pitbull Tickets",
+   "snip": "The DOJ and FTC filed a complaint against a San Diego-based ticket broker, claiming the company had violated the BOTS Act by using thousands of accounts to obtain millions of tickets to resell at considerable markups.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.hollywoodreporter.com/music/music-industry-news/feds-sue-ticket-broker-firm-over-alleged-120m-scheme-1236733407/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T00:12:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Broker Accused of Illegally Buying 18.5 Million Tickets to Beyoncé, Post Malone, and More",
+   "snip": "The DOJ alleges the company bought 7,624 tickets to a single Renaissance concert and made about $833,323 in profit scalping them",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/music/music-news/beyonce-post-malone-pitbull-concerts-ticket-broker-lawsuit-1235643546/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T00:00:29Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "London society frets as King Charles skips major high-culture event",
+   "snip": "King Charles was noticeably absent from the glittering festivities surrounding the 100th anniversary of the Royal Ballet School, of which he is the official patron, Page Six is told.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fcrop-9245844.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/celebrity-news/london-society-frets-as-king-charles-skips-major-high-culture-event/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T23:48:46Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "CAA Co-Chairman Kevin Huvane Dedicates Project Angel Food Van to His Late Father",
+   "snip": "Patriarch Martin \"Pop\" Huvane was described as a devoted husband, father of six, grandfather and \"proud New Yorker\" who worked for the New York Transit Authority and Encyclopedia Britannica.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/caa-co-chairman-kevin-huvane-project-angel-food-van-donation-1236733389/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T23:18:07Z"
+  },
+  {
+   "k": "news",
+   "u": "USA Today",
+   "name": "USA Today",
+   "av": "",
+   "followers": 0,
+   "cap": "Influencer Jennifer Burnham reveals death of 4-year-old son Baxter",
+   "snip": "Influencer Jennifer Burnham reveals death of 4-year-old son Baxter USA Today Jennifer Burnham Mourns Son Baxter, 4: \"Heaven Welcomed Our Angel\" JubileeCast Influencer reveals 4yo son’s heartbreaking cause of death The Nightly Influencer Jen",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTMwZ0VhYTVmOU1JYk5pbi1FTXJ5MnRWVFhlSWFXblB0amlPOFFwdTRYNGt0YUp4RW4xUnZvaHZGZktFdXU5ZV94TG40Zy11REpDOEM0U1RKUUVJNmxEcW9Pd3c2bXI0OFpkUHF1N3JVZHl6Mm8yNkhoYXJoc2RvT2N0Vld1U2RSeUpvYmptOGw2YXk2VG83VWlrOER6WUpTVkdiX1F2NUlvVmd0ZG41aE9PbXNnSHRuZ1F4VUFjN2U3SUpydllaOUFaeHV1Ql9VcGlEMw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "USA Today"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T23:18:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Page Six",
+   "name": "Page Six",
+   "av": "",
+   "followers": 0,
+   "cap": "Halle Berry eviscerates ex Olivier Martinez ahead of court showdown over abuse claims",
+   "snip": "The Oscar winner's latest court filing accuses her ex-husband of interfering with their 13-year-old son’s care, and seeks full legal custody.",
+   "img": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F145181661.jpg?quality%3D90%26strip%3Dall",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://pagesix.com/2026/10/15/celebrity-news/halle-berry-eviscerates-ex-olivier-martinez-ahead-of-court-showdown-over-abuse-claims/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Page Six"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T23:17:45Z"
+  },
+  {
+   "k": "news",
+   "u": "IndieWire",
+   "name": "IndieWire",
+   "av": "",
+   "followers": 0,
+   "cap": "‘The Batman: Part II’ Production Resumes with Steven Soderbergh Filling in for Matt Reeves",
+   "snip": "‘The Batman: Part II’ Production Resumes with Steven Soderbergh Filling in for Matt Reeves IndieWire Steven Soderbergh To Help Finish 'The Batman Part II' Production Deadline ‘The Batman Part II’: Steven Soderbergh to Work with Matt Reeves ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTFPSy1KVWhZdzQ5dHJOX1FOS05FMlJhcG9Cenh2R0lpYmxqTEw0Zmx2eGRXQ0JMODI2QzJSWEE5S21zbXdoTWtqVmlpeWNoSmxReGJHTGxpNnJXU0VpVm5Bd2wzcmRBNGxCdnNodzhhS0NCMG5rZHc4OFFtVzZtMVJrcUl6VnFZYVgtU1luQnFUQUVNQ1YxOFNsdzJoRVdMNUZ2MEJaMW4wRnZiUFBQREln?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "IndieWire"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T22:28:30Z"
+  },
+  {
+   "k": "news",
+   "u": "SlashFilm",
+   "name": "SlashFilm",
+   "av": "",
+   "followers": 0,
+   "cap": "Crystal Lake Showrunner Defends Controversial Jason Voorhees Twist In Friday The 13th Series",
+   "snip": "Crystal Lake Showrunner Defends Controversial Jason Voorhees Twist In Friday The 13th Series SlashFilm How to Build a ‘Friday the 13th’ Prequel: Blood Bags, Old-School Paranoia, and Linda Cardellini as Pamela Voorhees IndieWire 'Crystal Lak",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSm9mX1F4VGRicFhQQnExOVNmZmE4ejdLaFJYSDdCelQ1YnlfTlFrSWREVlltd3NMUzVIRU9JYmx1b2Jua3RZY05pM1ZRbDNQQV80MkVyWG5nTWRic0VmX29ZaDNabVBmTmd6VXlaQ2t3QjAteElCWGl2UndDRWJ6ZEhkVDk5ck5ReWQ0Q2ZJenYybUJWQ0lpTjA3azRFRjJSSjUzb2M1Si1JUFM4ZWhz?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "SlashFilm"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T21:37:05Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Mike Tyson Accuses Supreme of Breaching Contract Over Palestinian Flag Hoodie",
+   "snip": "“Without authorization, Supreme altered the approved design,” the boxer’s legal team tells Rolling Stone about the Martine Rose collaboration",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/culture/culture-news/mike-tyson-supreme-palestinian-flag-hoodie-1235643362/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T21:03:06Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "‘Fourth Wing’ TV Series Casts Esther McGregor and Emilio Sakraya as Violet Sorrengail and Xaden Riorson",
+   "snip": "‘Fourth Wing’ TV Series Casts Esther McGregor and Emilio Sakraya as Violet Sorrengail and Xaden Riorson Variety ‘Fourth Wing’ Finds Its Violet & Xaden: Esther McGregor & Emilio Sakraya To Lead Prime Video Series Deadline ‘Fourth Wing’ Serie",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmtYT0xKcldhUGc3MFNTaHcySV9fVTVDY0ZKQ19wQ254cVBxR3VEUnJ3S1NsbGpmVmFmdHhYNzc4NGVyX3dydVpkZUZMRjJLMEIydWlCWksyTXlUdkxVbHVYOEw4czM0TUwtNHV5R1UyT2VBQWJHU3FvZndNN3VZbkJvREFReW9QYVJuOW9LbWxxY2hEa1Y4Vk1sNA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T21:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "The Hollywood Reporter",
+   "name": "The Hollywood Reporter",
+   "av": "",
+   "followers": 0,
+   "cap": "Selma Blair Is Accused of Assaulting Four People. Can Her Career Survive Another Scandal?",
+   "snip": "Selma Blair Is Accused of Assaulting Four People. Can Her Career Survive Another Scandal? The Hollywood Reporter Actress Selma Blair Is Arrested in Assault on Flight Attendants The New York Times Selma Blair Gets Emotional During Court Appe",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dQb0h4ZGFzZ3ZyNksxdHB6eHR3bWswYU5tR3k0QzJJU21lRF9OdW1aaDJYYjc0MmMzZ25uSlBvdUpid1RuQzZRTlp2ekNFVzI0OVM2MFdVaHpGTUFvQkE1MUpYVVBZODV6M1paSmpnSi0xUWYwRlFsR3FLMGJrTE1CM3BCRWR3dEZ3d3c4NUd5cFEwQ2FtLWZIYnEyU2syWXlaWHhJQXUwekxlTUZrSHNrX08zYzhBZHVMUw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The Hollywood Reporter"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T20:56:38Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Neil Young Praises ‘Digger’: ‘The Best Film I Have Ever Seen’",
+   "snip": "Rocker criticizes the critics of the box office flop, “None of the reviews I have read describe this film adequately, in my opinion. They seem to miss the overall effect”",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/music/music-news/neil-young-praises-digger-best-film-i-have-ever-seen-1235643401/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T19:55:57Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "‘The Celebrity Traitors UK’ Season 2 Isn’t Available in the U.S., But We Found a Way to Stream",
+   "snip": "The newest season of the hit reality show features major stars, including Bella Ramsey, James Blunt, and Jerry Hall — here’s how fans in the United States can watch",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-the-celebrity-traitors-uk-season-2-in-us-stream-1235635442/",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T19:43:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Comic Book Resources",
+   "name": "Comic Book Resources",
+   "av": "",
+   "followers": 0,
+   "cap": "Mike Flanagan Defends The Controversial Change Made to Carrie’s Prom Scene",
+   "snip": "Mike Flanagan Defends The Controversial Change Made to Carrie’s Prom Scene Comic Book Resources Stephen King's 'Carrie' gets updated spin with Mike Flanagan's bold take on classic story Fox News Carrie's finale is a bloody mess in more ways",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xTWJEdXYzb2VucmkwR0ZRRjREY2dPYnNjS1VpMjJJeEs1QVdQcUtSVmVrQk5HSEV1eG9IWXlyNjhkOV9CTG11cDZmVDl1QWhRWHVKcldLaW5OZ1Yxc0QxVmE5akFfMUFmMHJQSVpOOUFBZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Comic Book Resources"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T19:42:25Z"
+  },
+  {
+   "k": "news",
+   "u": "Rolling Stone",
+   "name": "Rolling Stone",
+   "av": "",
+   "followers": 0,
+   "cap": "Kelly Clarkson Selling Bird-Themed Decor Online on Heels of Brooklyn Shop Controversy",
+   "snip": "Kelly Clarkson Selling Bird-Themed Decor Online on Heels of Brooklyn Shop Controversy Rolling Stone Kelly Clarkson’s feud with Brooklyn Heights shop turns ugly as owners face threats Brooklyn Eagle Why Did Pablo Torre Want to Investigate Ke",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0pUckV6Nkp5UURUZGhJQ2lpemtoQ2RCaHk4V1VfQ2s2Y0JCU3VTRDc5N0l4QmVUNWhCdkt0RS1TNV9HYnh5LUpwbDVzMk00bGxaUE5DVUFiUW16MFRoWTFlSW1wTlI4OC1Sc1dvQzRYN01fSzN6ZGhRdS0xX2dxamJnMjB4ZVdPQXpWS1FfWm5YR09HX2hTMnpBdWUtczhFWmZQUFBPYzF1MzhLRDh6ZVVzRDBJd0FDUEsyYXMzRndIay1pT1ZWTHd3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rolling Stone"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T19:14:14Z"
+  },
+  {
+   "k": "news",
+   "u": "E! News",
+   "name": "E! News",
+   "av": "",
+   "followers": 0,
+   "cap": "Why Pregnant Witney Carson Was \"Very Content\" With Guillermo Rodriguez's DWTS Elimination",
+   "snip": "Why Pregnant Witney Carson Was \"Very Content\" With Guillermo Rodriguez's DWTS Elimination E! News Jimmy Kimmel Reacts to Guillermo Rodriguez & Witney Carson’s ‘DWTS’ Elimination: ‘This Is An Outrage’ IMDb ‘DWTS’ contestants react to Guiller",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWdPMm81UWphLV9EZmRXelRiVnIwSDJxQV82aDZIZWpqZUV0SkluemhiUFZqRVNPVFNBemE3dDBHMHprX1NtU285ajhyckZEVENJNGtia2dsZkFSa1pTWkNRUW9xWjR4M1dDZDBOSkdFMnFXZTFWZnlJZ0lVbjN2bWRqWm5LdFJ2X1FRNVdKR3JoRUUxNVRNMXgyOUVfUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "E! News"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T17:45:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Slate",
+   "name": "Slate",
+   "av": "",
+   "followers": 0,
+   "cap": "This Epic New Movie Is Considered The Odyssey’s Rival for Best Picture. I’m Not So Sure.",
+   "snip": "This Epic New Movie Is Considered The Odyssey’s Rival for Best Picture. I’m Not So Sure. Slate ‘La Bola Negra’ Review: A Sprawling Spanish Epic WSJ ‘La Bola Negra’ is a sweeping queer epic. It just might sweep the Oscars too CNN 'Immediatel",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFB1UmdWbnlhMkw5aFVCdEY2S21HNW1fM0prcGhidkVzZEQ4UUwxS01kSW95RjBhM0hoRGFEVTBlcFlMV0lwZ3A2WnFGUkJvR2pzU0tZaXdjd2VPTnhpYnZTZkVvMnV2ZW1qeVM4ME5HUFdBX1J4QkdwWDc0LUFzelVCaWJDOFFKQXllY2V5bS1FU2RQTXdpT3l6d1h6M042TlE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Slate"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T16:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Variety",
+   "name": "Variety",
+   "av": "",
+   "followers": 0,
+   "cap": "Russell Brand Trial: Woman Details Alleged Rape After Asking Her to Take Photos of Him Half-Naked",
+   "snip": "Russell Brand Trial: Woman Details Alleged Rape After Asking Her to Take Photos of Him Half-Naked Variety Russell Brand trial: Court hears from comedian's former colleague Sky News Russell Brand rape accuser 'feared she may be pregnant' cou",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0d6MHJjU0RCVFpNdnAzYVpPZGloeGE4NlZJbDEwZ0NXNlhYYzJkckZUT2p6d19XZUJNWEdxcUxQdG15ZTI4WTA5LXMwenJHYWxiMUphNGM5M0VtcGdHa3FOOXQ5ekROZzJNLVpMOTd1NHpHa05IaVNlMkV5eE9GUlNOeDM0VUNjLVNoR2tMaGpoWjV5dHdGc01VSnBXVnJQd2dYNVFZdU9CZVJjOXRRTw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Variety"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T12:07:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Austin American-Statesman",
+   "name": "Austin American-Statesman",
+   "av": "",
+   "followers": 0,
+   "cap": "Elizabeth Holmes documentary explores her new life in Austin",
+   "snip": "Elizabeth Holmes documentary explores her new life in Austin Austin American-Statesman ‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes The New York Times Elizabeth Holmes and Nathan Fielder are masters of manipulation",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEllcWVLbFB3TE1YNW4xWklGZExyYmZWNHZwZDBxNmlVaXExV3o1eDZkZENMazVtR18wTDlGcnc4Y2JROUJXOURnOVdrQVo1RXJYUm04WDVBM3lPWGxGTDdaQjJJMkVvWEdKZV9JdUFBdGtwOFlvX0p3bzlsUkkzZVNsVjZuLTltWFlZM1M4RE0?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Austin American-Statesman"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-15T10:08:01Z"
+  },
+  {
+   "k": "news",
+   "u": "The New York Times",
+   "name": "The New York Times",
+   "av": "",
+   "followers": 0,
+   "cap": "Rosalind Eleazar on ‘Misty Green’ and ‘Slow Horses’",
+   "snip": "Rosalind Eleazar on ‘Misty Green’ and ‘Slow Horses’ The New York Times A great lead performance can't quite save the not-great ‘Misty Green’ | Review The Seattle Times ‘Misty Green’ is stuck between Chris Rock and a hard place The Boston Gl",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1E1d2JXTGItR0dsNmJTLWFRTkI3c3RCaGdhWjlvaEhuZlFmX2lvbTZLMVgzcENHdkR3UEQxYjZleDF2dF92ZlZ0TUhzUzFCZFRXdmR6dk50MlQwTDFfOXlydDRRc1ZsdWlOZFRNcHBZdklxMi1QdE90c2Jkc1VodU1uMXRmQUphaE40M2RXWUw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "The New York Times"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-15T09:02:38Z"
+  },
+  {
+   "k": "news",
+   "u": "Deadline",
+   "name": "Deadline",
+   "av": "",
+   "followers": 0,
+   "cap": "'The Diplomat' Season 4: Who Dies & Who Is New Prime Minister?",
+   "snip": "'The Diplomat' Season 4: Who Dies & Who Is New Prime Minister? Deadline The Diplomat review – nothing else on TV is as entertaining as this exquisitely stressful show The Guardian Netflix viewers skip sleep to watch 'phenomenal' thriller Ya",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHpJNHBIdzhKUnYzUDdwYVVFOU5qWUthUEdiRDlnQ1RtZ1prVXFCZWFsX2hHZ3VySHdLd0ZXdFF1TW9xWk1tcGpsZmFmTnVDREtmYWJoV1lPVmNIRmVQQXZZVHpaM3RncGplWGNDMTdPeHk0UkhmM3ByRTdRSEdpUHc0XzdCRENodWtNcGlmeG5ZOVFXdGR4WU9ZZWEyQnJ6T2c?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Deadline"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-15T07:01:00Z"
+  }
+ ]
+}
