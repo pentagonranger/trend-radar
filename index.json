@@ -1,46 +1,20 @@
 {
  "topics": [
   {
-   "t": "Madura United Vs Bhayangkara Fc",
-   "q": "madura united vs bhayangkara fc",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "ANTARA News",
-    "detikcom",
-    "Media Indonesia"
-   ],
-   "d": "2026-10-16",
-   "url": "https://ambon.antaranews.com/berita/347601/bhayangkara-fc-incar-kemenangan-saat-melawan-madura-united",
-   "n": "Bhayangkara FC incar kemenangan saat melawan Madura United",
-   "vol": 200,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Synchronize",
-   "q": "synchronize",
+   "t": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
+   "q": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
-    "Google Trends",
     "Portal Berita"
    ],
    "src": [
-    "Google Trends",
-    "Kompas.com",
-    "detikcom",
-    "Radar Malang"
+    "Liputan6 Showbiz",
+    "detikHOT"
    ],
    "d": "2026-10-16",
-   "url": "https://www.kompas.com/hype/read/2026/10/16/180500566/efek-rumah-kaca-hadirkan-potret-wajah-munir-di-synchronize-fest-2026",
-   "n": "Efek Rumah Kaca Hadirkan Potret Wajah Munir di Synchronize Fest 2026, Singgung Kebakaran Hutan",
-   "vol": 100,
-   "vu": "pencarian"
+   "url": "https://www.liputan6.com/showbiz/read/8314987/azka-corbuzier-debut-akting-home-almost-diputar-di-urbanworld-new-york",
+   "n": ""
   },
   {
    "t": "Masa Lalu Diungkit, Hubungan Zarima dengan Yusuf Kartiko Sempat Renggang",
@@ -66,23 +40,22 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Efek Rumah Kaca Buka Synchronize Fest 2026 dengan Aksi Teatrikal 100 Penerka",
-   "snip": "Efek Rumah Kaca dijadwalkan naik panggung pada pukul 15.30 hingga 16.15 WIB. Simak ulasannya di sini.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/wODXYb-QA93GZ5s2QP7LDooi8i0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375434/original/084218800_1792145760-29056.jpg",
+   "cap": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
+   "snip": "Debut akting Azka Corbuzier lewat HOME, ALMOST mendapat sambutan hangat usai pemutaran perdana di Urbanworld, New York, menonjolkan drama keluarga dan aksi.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/QV5xze2wEfy3i07LA7luBVs_PmU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375513/original/007828800_1792152037-WhatsApp_Image_2026-10-16_at_16.08.27.jpeg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314906/efek-rumah-kaca-buka-synchronize-fest-2026-dengan-aksi-teatrikal-100-penerka",
+   "url": "https://www.liputan6.com/showbiz/read/8314987/azka-corbuzier-debut-akting-home-almost-diputar-di-urbanworld-new-york",
    "likes": null,
    "com": 0,
-   "m": 1,
+   "m": 2,
    "src": [
-    "Liputan6 Showbiz"
+    "Liputan6 Showbiz",
+    "detikHOT"
    ],
-   "hot": [
-    "Synchronize"
-   ],
-   "sc": 75,
-   "ts": "2026-10-16T10:16:01Z"
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-10-16T12:00:55Z"
   },
   {
    "k": "news",
@@ -106,6 +79,72 @@
    "hot": [],
    "sc": 68,
    "ts": "2026-10-16T09:24:42Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "BLACKPINK's Jennie to Lead Soundtrack of Netflix's 'Steps'",
+   "snip": "Jennie of the K-pop trailblazer BLACKPINK is headlining the soundtrack for Netflix's new animated film 'Steps.'",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2121742/blackpinks-jennie-to-lead-soundtrack-of-netflixs-steps",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T12:06:17Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Sinopsis Sinetron Biarkan Hati Bicara Episode 75, Jumat 16 Oktober 2026 Pukul 21.33 WIB di SCTV",
+   "snip": "Arina berusaha melawan dengan menyerang Raditya menggunakan bantal dan mencengkeram rambutnya.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/we9LRW8WxnIPt3n2876OnXU2k0Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357298/original/003575200_1790241267-WhatsApp_Image_2026-09-24_at_15.47.38.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314985/sinopsis-sinetron-biarkan-hati-bicara-episode-75-jumat-16-oktober-2026-pukul-2133-wib-di-sctv",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T12:00:16Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Afgan bawakan lagu-lagu andalan di panggung Synchronize Fest 2026",
+   "snip": "Penyanyi Afgan Syahreza membawakan lagu-lagu andalannya di panggung festival musik Synchronize Fest 2026 di ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/16/IMG_7271.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5791777/afgan-bawakan-lagu-lagu-andalan-di-panggung-synchronize-fest-2026",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T11:47:09Z"
   },
   {
    "k": "news",
@@ -216,6 +255,28 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-10-16T10:41:36Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Efek Rumah Kaca Buka Synchronize Fest 2026 dengan Aksi Teatrikal 100 Penerka",
+   "snip": "Efek Rumah Kaca dijadwalkan naik panggung pada pukul 15.30 hingga 16.15 WIB. Simak ulasannya di sini.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/wODXYb-QA93GZ5s2QP7LDooi8i0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375434/original/084218800_1792145760-29056.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314906/efek-rumah-kaca-buka-synchronize-fest-2026-dengan-aksi-teatrikal-100-penerka",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T10:16:01Z"
   },
   {
    "k": "news",
@@ -505,28 +566,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Debut Film di New York, Azka Corbuzier Bikin Penonton Menangis",
-   "snip": "Debut Film di New York, Azka Corbuzier Bikin Penonton Menangis detikHOT Debut Akting Azka Corbuzier: Home, Almost Tembus Festival Film New York 2026 Radar Solo Film Pendek Home, Almost Tayang Perdana di New York, Azka Corbuzier Bawa Nama In",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3JRMDR1Z2d5Z1ZocnNNbDItcEVkVjd5amhZdDhOel91TGhrTHRwNmI2dTZqbHdkTnpVZ21SX3JVQkNnMXBLVjktdEZ4Vy1fZGdRdHY2R253akNDRVN5MklXbWtxanc4MHJDcW9vNG9Xb2M3WEVWS3JodkhzVkFNZXA5UnBKWG43Yk5GZFR2M3ozR2pxa0ZtM3c0WkVUSUlm0gGmAUFVX3lxTE4zRlZON3AzTTdpUjB6djR3LUJxWGQxZ290VUhQMTlfNmM3YnUyY1k3TzNObkxEaWpGOWlKUl9fUm5uUGVCZmhwN09tYUhVUlhEcWw4UG5MRkhVMnJaeUZKU3N6SFI3WWd6SXktc1JhWk1IaWp5MFl3YXl1QmhhYVdhdGdjYmtCZkxFUDVURVVRQ2JWQTBMRVlHUktXNE1xeVc1QzMwWVE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T08:10:41Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -546,72 +585,6 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-10-16T08:00:14Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Ratna Galih Bangga Dampingi Anak Wisuda di Arab Saudi",
-   "snip": "Ratna Galih mengunggah momen wisuda Shelby di Universitas Islam Madinah, Arab Saudi, lengkap dengan doa untuk sang anak dan terima kasih untuk suaminya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/6uOhv7gXzrYQxM5EfbOUY8XQiYY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375253/original/074141800_1792137198-4a.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314759/ratna-galih-bangga-dampingi-anak-wisuda-di-arab-saudi",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T07:53:18Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Zarima Mirafsur Laporkan Akun yang Fitnah Yusuf Kartiko Pakai Narkoba",
-   "snip": "Ibunda Yusuf Kartiko, Zarima Mirafsur melaporkan akun yang menuduh anaknya memakai narkoba dan mengaitkan dengan masa lalunya. Baca di sini yuk...",
-   "img": "https://cdn1-production-images-kly.akamaized.net/YUobCkcgzcENACavOhSju06xyow=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375228/original/052388100_1792135588-Zarima_Mirafsur_1.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314724/zarima-mirafsur-laporkan-akun-yang-fitnah-yusuf-kartiko-pakai-narkoba",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T07:26:28Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Ivan Gunawan Sulap Jeans Thrifting Jadi Gaun untuk Agnez Mo",
-   "snip": "Ivan Gunawan sulap jeans hasil thrifting di Pasar Senen jadi gaun penuh karakter untuk Agnez Mo. Simak kisah kreatif di balik karyanya ini selengkapnya!",
-   "img": "https://cdn1-production-images-kly.akamaized.net/86FlsOKaMC1yvRrxsKqKlrnlYWU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4310928/original/021712400_1675308110-WhatsApp_Image_2023-02-02_at_10.00.07.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314723/ivan-gunawan-sulap-jeans-thrifting-jadi-gaun-untuk-agnez-mo",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T07:26:13Z"
   },
   {
    "k": "news",
@@ -690,7 +663,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDQxNjZibjRJOFowcEJiVk1VS3E2V21pdUo1QWEyYzdnZlowMFp4MHNsWTFVUTNUN3hCdzJjNUVpQm5Vbl9OQmlKVUd2blhsc3Y2ZTYzdUFqNklYblktWS1JQzJSRnVjTTdvOVZZTEVqSGpoRldvUEpLMnBvWWpSU2pRS18xY05YbVhDRUlvZHlKdzNtUmpCNllteV91Sld2SVRDNVJ6RjdJNXgtb2xDc0ZPOVJ1X1dV?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDQxNjZibjRJOFowcEJiVk1VS3E2V21pdUo1QWEyYzdnZlowMFp4MHNsWTFVUTNUN3hCdzJjNUVpQm5Vbl9OQmlKVUd2blhsc3Y2ZTYzdUFqNklYblktWS1JQzJSRnVjTTdvOVZZTEVqSGpoRldvUEpLMnBvWWpSU2pRS18xY05YbVhDRUlvZHlKdzNtUmpCNllteV91Sld2SVRDNVJ6RjdJNXgtb2xDc0ZPOVJ1X1dV0gG-AUFVX3lxTE42WTdUWXMtU2dsamRURlFMWkotR2g3MzVyMTV0MjFWMG01aS1WalA3WUFmSVk1cTVwTXA0NXZSVlJxbmYwQ3FOOHpyUmFQeXZlTVJ4bVpBd2tIRlp1VDNVT0JqZW85RXBUNWpGM3ZpUVBYbUo4eENkUE5Ra3JYcTlOdGhvUUFxQXNoSlJzVEhQNGE4SnY5RDRrRGIxbl9rWWlKZXZ3N3duLXNKRVlpZzY3M3ZyMnY4M09KOXFOS1E?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -730,11 +703,11 @@
    "av": "",
    "followers": 0,
    "cap": "YouTube Music Mulai Tandai Lagu Buatan AI",
-   "snip": "YouTube Music Mulai Tandai Lagu Buatan AI Kompas.com Lima Tips dari Kreator TikTok untuk Berkreasi Pakai Konten AI Bisnis Style YouTube Music Beri Label Khusus pada Konten Musik Buatan AI RRI.co.id YouTube Luncurkan Sistem Pelabelan untuk L",
+   "snip": "YouTube Music Mulai Tandai Lagu Buatan AI Kompas.com Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMG5jd1RfM2VQcnhLbGFZREdxNk5razRhWWtCeWZzOVlNa0ZuOXBjSXJBdE1XQ2wtbVVkMWRlS1BMNno3S2otYTZ1cUl1b25TNEc1Njhzekg2UGI4dWNMVUY2eUd0eUtOeG1SVUpkQkNpUUZ6TjBtZGozdDNlTi1UYjRCc3E2ZzlSWmx2cVVMcmZLOVdnSUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGpldFVFajUxblZZdF9fUkJFSDV5RFRRbEJ0VEpGbnBTQTFURlJkWjQ4YVl2dzFPOXVaQktpNHZELTZteDgycWRaMWRMbFZBdHZRUWFWX2pJUmhwRXFldHJjTlc5d2YzYkRsTkZnYmd0VTVlRFJwWU5iZS1hTU4wdXYyTXBHaFNGa0E3OFFVRVM1NEJvRUdpYjlwU0cwZ2tPUVE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -744,28 +717,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-16T03:34:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Kontroversi Wanita Tidur dengan 100 Pria Beristri, Ngaku Bantu Pernikahan",
-   "snip": "Kontroversi Wanita Tidur dengan 100 Pria Beristri, Ngaku Bantu Pernikahan Wolipop Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmp3ZjdHY0NORzZDM29Mbnc2WFB2ZE01OEoxamlqb3ZfNGhyZEM3V3JZVFRsNkVvRFVldTN6YjUyQkF6MzMybFdpVFlMdTQ0Uko5R0FBSWVSUUxmaFotTWVKWHQ2bVFqd1IwRWk2SWZTVTNJNWtuMnB1TC10c2RhdlpFbEQxdjZaSEVCaWFjQmdwNE5KbDFIeFE2TFBMNlViWmJuUG8wMFltdU51aGs2ZDlZTFNWR0Rsc1dHX3pn0gHDAUFVX3lxTE9URURyZHV1dzRZaHJoVlZEeXQ5dU92cUJvdUM3c3VwU1J0Qk9lWGdXWjBMT1dJYmJYdWdlUTVQTjNKMmRIaGdDTEpubGd4ckVMS2ZfX0R4Um1HSHFSb0I0aUtIV09xQmVNTWVnbklWYXh4QXFFRGtCTU16alhTamMxMEx1UXh5MVQ0b2RCZFI4cUhsMFk4aWwxVm0zWkxMQzh1ZE1XdnFWZFVNa3lrVU0wUHpadmQxYmx5cUIybEwwd1pTdw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T03:30:39Z"
   },
   {
    "k": "news",
@@ -818,7 +769,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
-   "snip": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka detikInet Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ ‘Mas Stafaband' Meninggal Dunia, Sosok Ikonik Cover MP3 Era 2000-an republ",
+   "snip": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka detikInet Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ Kover Legend MP3 Indonesia, Amaluddin Syarif Meninggal CNN Indonesia ‘Mas ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1011,28 +962,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Mantap Berhijab, Ashanty Relakan Koleksi Pakaian Terdahulu",
-   "snip": "Mantap Berhijab, Ashanty Relakan Koleksi Pakaian Terdahulu detikHOT Putuskan Berhijab, Ashanty Akui Pergaulannya Tersortir: Ada Teman-teman Ngga Nyaman Aku Kayak Gini Grid.ID Ashanty Mantab Berhijab, Sempat Galau Lepas Masifkan Koleksi Baju",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3ZBbHN4MDAybXZiTHFGeVpkZS1zNEVka2dYd0w1OUZlVjU2Ui0tcHNBYzd6MVh5RzhUM2N6WUNRZXI5TUZubGdQV0RsZ0RZNW1MZ0NPd2I3ZTJsZFhWOVRhTFlEV0dkQWMxTHN6amhxNm04OUVaTkFTUnR1SzZmNTN4ZWxFRGhoRWo1a2pTTFV5RzJMZklWYTctQdIBoAFBVV95cUxNYTNfTnpGbkpRVTRINnBwRHp0eVhuX2VrRWRLSlhXcEJpTkFjNHdkMDRSTVNDb0MtOTNzS3lvbll0VkFWYXdCZ0NKWG80ZkRLeDl2aml1WUJiV1VCZ3FIUHBoY254eEJkdlpEdFA0Z0gwUV8tSHFuV2tGMkliblVkeHk5cEI4YVFWeEFPTk9pUkhoUlVoNzFSTzJhcU44X2xF?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-14T14:30:36Z"
-  },
-  {
-   "k": "news",
    "u": "Biz Kompas",
    "name": "Biz Kompas",
    "av": "",
@@ -1050,7 +979,7 @@
     "Biz Kompas"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-14T12:00:00Z"
   },
   {
@@ -1077,6 +1006,28 @@
   },
   {
    "k": "news",
+   "u": "celebrity.okezone.com",
+   "name": "celebrity.okezone.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Sarwendah dan Ruben Onsu Kompak Absen di Sidang Lanjutan Hak Asuh Anak",
+   "snip": "Sarwendah dan Ruben Onsu Kompak Absen di Sidang Lanjutan Hak Asuh Anak celebrity.okezone.com Mediasi Gugatan Wanprestasi Sarwendah ke Ruben Onsu Digelar Pekan Depan detikHOT Ruben Onsu Serahkan 13 Bukti di Sidang Lanjutan Hak Asuh Anak cele",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWloSjZDQkJUZmFUZ21QT01lS1B4akprMmEzVTk1ZlFzZUpWZzd6RWJHazFtenVmZG1melppXzlkZ2dVNl9BYkZLRmRUN0NfNHZRa0xGcXJvVDhVS2gtbWE5SjlXaHdKNGxPY1BZMDNpdi01Y0lQUHB5Qmt5Mjh0WjlkRGlwd2hJcHAzLXloTEFObXZrM25GOER6eXBNdnVPNnY2RmhFVzRTT2RFSFBRTTR5VHQ0eVZCRkNZZzI3UEw4SFVLMGfSAcQBQVVfeXFMUDhuSG5Fak1hMnNLd3dwaVpFSXpsWmJ6S2pNMHZTcnIzdVZseUNRM0d1eW4wWGNjWFkxc0dMeVpqMEh5dkViRHhDNzNFT2o4NkRLRThiU2s5c0lySHFMMndGemhtSkwzUjJjenoxbFZwTEx2TFdnVW8ydi1lZTVzZmFBdFBUZnNOME5NWmctbGpVX0lvZTAyVlVEUmVLVEtVNGw2QW9HR0RfVEFsV3JsTy1Td2JrVTFEdEtIRG9kS3dYcXBjYg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "celebrity.okezone.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-14T05:30:00Z"
+  },
+  {
+   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
@@ -1099,25 +1050,25 @@
   },
   {
    "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
+   "u": "SINDOnews Lifestyle",
+   "name": "SINDOnews Lifestyle",
    "av": "",
    "followers": 0,
-   "cap": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah",
-   "snip": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah celebrity.okezone.com Ruben Onsu Tak Lagi Jadi BA Travel Umrah Imbas Video Call Viral VIVA.co.id Nasib Ruben Onsu Pilu, Sejumlah Brand Putus Kerja Sama, Minola Singg",
+   "cap": "Hamdan Tour Putus Kontrak Ruben Onsu sebagai Brand Ambassador Umrah",
+   "snip": "Hamdan Tour Putus Kontrak Ruben Onsu sebagai Brand Ambassador Umrah SINDOnews Lifestyle Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkdxVkhyOUh6cVBKaG1zN0dRbEwxOTlfRzJkNFZWWUZubXBrbUtEWm05XzlNdWNVSnBNMktkcFpsT25HWGJXNnE4T1dibmtoZWhyTFZReHR1ZG16T1M4VVFVNE83MEdTVDlNYTFiN254b3ZtaGlMbEp0Z0dJdUxTWFdoX3o4anRsanVFWW1EbzVvMGh0cW9SbGRCdkEzUnN2ZlVTYkpFVEtkYVZMVFc2RDJvOHJnZFZSOU1wNE40Ry1semFLX0JfampR0gHIAUFVX3lxTE5FclRpMkVHYzl2N2tvYjRZeUpqOVdGR0NlNzUyUk1MT2lFQy01NGxJZVdoZ0dYUXU0UlNaTjZ4ZjlnWXYwR3piQUNaNVFjdVZ2WGNjVEFDQkRsQ1l3OGhqeGwwSHB4SU1CcEUxZDlHdmNkOGhTRmtuZWNpcnFGeVhXRVhmNmdXeDZfLTdsYTJRUWRVQzM0M0RNYUZGQXc5VWRuOXNJVmc2NmZ5R2NmWmgwSmpkNGFoYkpTbUFYd09wN1VRa1N4MldQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb19iRF8ySDY3b0dTcFpjVXNFeXh3ZUFxZnd5bElsdVdXOVl2bWtzbVJFRmF0R2xOeUdGREdYMlF6MWEwMmdiUk1HN2J5b1o4UmcwVlREVDBkUUFSMXNaZnUzbUppbjlWQkhZcmsybnZzVldNTUUwYmdXYl9zSnRERVlrMnYxZjE0cU04NWwzVDA1a3JYVl81ODctd3Qwb3A3SDFqSWlRZlh5Q04zNkVqa0NieHJuNlhWWjkwWkZYME9PNGp1TXfSAcsBQVVfeXFMT2lFNVl4cHhYVk1Famx6bHNPTkFVSkZrdHhWMWVBNVdQRVVKdWhYT3NtMmg2dVZCcmhsQS12MFNkYjB6T2Y4MFE3aGQtT0lsWTRhc2FhdUVmbk1uQnpmQUs3VnIwcEhjNGpLUFJ6ZGcyS0hlRUx3bXU0Nl9DZFY0N084WWZHaEN2b2xnVVVLZTlMbmE0eUdOMG0wY1ZYdEs1bF85WXN4dnhNSzNDeldqaHdJaHNUREJjOGoydnJWWkxzWXdxQW5YMVZMQWs?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "celebrity.okezone.com"
+    "SINDOnews Lifestyle"
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-14T04:00:10Z"
+   "ts": "2026-10-14T05:00:16Z"
   },
   {
    "k": "news",
@@ -1143,25 +1094,47 @@
   },
   {
    "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
+   "u": "VIVA.co.id",
+   "name": "VIVA.co.id",
    "av": "",
    "followers": 0,
-   "cap": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya",
-   "snip": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya celebrity.okezone.com Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Polisi segera periksa saksi laporan pencemaran nama",
+   "cap": "Tuding Ruben Onsu Menistakan Agama karena Goda Y, Artos: Lu Pakai Itu untuk Berhubungan Sesama Jenis",
+   "snip": "Tuding Ruben Onsu Menistakan Agama karena Goda Y, Artos: Lu Pakai Itu untuk Berhubungan Sesama Jenis VIVA.co.id Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Singgung Soal Anak, Pesan Psikolog Lita Gading ke Sarwen",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNPOVdxellieEpBZDRCLXA2eUN1MzQ2X0cwaFh2MVl5WUhCMUZqTlpyWEhBeHZ5akJ0THFzOU9TbTBtaFRmdXhJSHhKb2RSU2tuaTdJekhMZ2puMEc3LUVGU2ptRVdMMFJ5eDZ3UDNrRy1KYUFFeGNEcEtsdnY1Z0E1c3JyNnhRdjZYT0ExelRPbFVmMWNFWEMyY253WVVfUk5PNTZEN0NIRzc0aUI4cmhsMkFOTGVNME5VaGlXUDMzVmphQjY0RlYzeXRfQlFKRHNnWTRSNjU0QUVTMS1TbGY4RHBNZ9IB5AFBVV95cUxQVmtSX2Y0Z0ZITzM5Z01uVURYQ1RwWURYc0dseXgzWGlFcjdmZTBkZXFhSGpPSXQ1MEpXMzA0X01qTkk3MkQ5MDJKTUZQZUtZSDYtcWtSa3d5MXdzSmxuZEhKcEFjMmNxelduWUdTbndyR05fZHpmcjRaRnYwekdvNEJQaGlPSW9aeHB2SVJWVHYwYmU2RTVJcDlidEY0U0Vjc2E2V1p2MTFZSjk2WDZyV01yZkhxdWVzdktXamFVaEhLcFZxWGxqdVNmcmN0U1ZHdFZCMklicFZ2dkN0ZzVKUmNBNmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3ZCekk3QzhlS3JSeVc0LTFrbC1vRkJuLXJ1SUxXamxaWVJFMGxod1hQYnZHVXZ3RTFaS0ZsUnFxd2M2bC1BLXFmMXF2RTExOHBMZHRJT0NuQS1FZVdTb0NHYUY3dGlTZUJxSHJGYmN1YjlRUWhpb3FfVWpEOW5haXpLTVhGOHZJZk5OeGd3bHNjMXZMc2F6UFhoV2Y4blJnZ19kWjdSMlZCNFZ5di0tbTBPVmlzblJucTJYMTFKZUVhZHpEQWdQaUg1SzQxek5iemhuLUp5b09wN1hJaXd1SlN30gHnAUFVX3lxTE5ZRG0wOWhsR0Zva1gzN3B4Y3p1NjZQeWM5ZHNPNXNBcXhCWm1TbWhUY01aR1dEb2szVVRlaU84N3dfZXV3OG02RHNyWmZHbEw5V3pRTlE0LXZSNjRkWHo1RVNROHJmaEdEbV9MY1lkUjRaQ1BhenByZXRKYWhaTzd6bUptMENDZXBhQ0Z6bUNiUkNwTlhEeWx2UFZSSTVTVUFvV3ZGYlhSWE01dU1LUURzb3ROVldZZ05Ec09DalNnTFNnSG1ST1BlY2N0RFNhc01jd19qaWhGem95TFo5UUJyQjJSS2lLOA?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "celebrity.okezone.com"
+    "VIVA.co.id"
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-13T00:05:02Z"
+   "ts": "2026-10-13T12:48:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Finish Strong! Gisel Full Marathon 4 Jam 46 Menit di Chicago",
+   "snip": "Finish Strong! Gisel Full Marathon 4 Jam 46 Menit di Chicago detikHOT Potret Gisella Anastasia Selesaikan Debut Maraton di Chicago KapanLagi.com Gaya Gisel dan Gempi di Chicago Marathon, Sporty dan Kompak! IDN Times Gaya Gisella Anastasia M",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXVLcTZwa0trUm90ZDdacW1CY0ExUVdTYXBxTHl2QW5VbE9Ld2FNWGdEejFTVVJjblVWQ3F0QzRJTE1CbUlIWjBFZjRpY1prVVVTZjhDMG1KejdXb3BwalNtUmFIQVFQN08xYjBMbVk1Z3d4MzIwMHE1MlFCSEQxWHlKU2xqc21feWFGdzgzVWhDeVBVU05kSzVTTVJfZ9IBowFBVV95cUxOcFotMnBWdGVlNWpWTmJCSDhBYTAzMHYxaEZwVV92RjJrdE5Ud3FVLUFlSmNadXJUdzdvXzhYcHBKQW9DbUlOaTVPTHZKbGIzQVI1RDZHLVFKT2hEWVh6S2RuNjBVWElNTVAwZlBsWF94OGJLMkhxeUNKSnhFQWRGN2FOSFM2aWdYRlNSdGNpSUtXTkFJQXNGQkNfLUhiU21XWjZn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-13T06:12:49Z"
   }
  ]
 }
