@@ -1,9 +1,9 @@
 {
  "topics": [
   {
-   "t": "Maarten Paes",
-   "q": "maarten paes",
-   "cat": "Selebriti",
+   "t": "Alwi Farhan",
+   "q": "alwi farhan",
+   "cat": "Film & Series",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -11,13 +11,13 @@
    ],
    "src": [
     "Google Trends",
-    "Goal.com",
-    "VIVA.co.id",
-    "Media Indonesia"
+    "Tribrata News",
+    "detiksport",
+    "Kompas.tv"
    ],
    "d": "2026-10-17",
-   "url": "https://www.goal.com/id/berita/sofyan-amrabat-punya-pandangan-sangat-jelas-tentang-jofre-torrents-seusai-hajduk-split-kontra-ajax/bltdc6ff251be11b9ff",
-   "n": "Sofyan Amrabat Punya Pandangan Sangat Jelas tentang Jofre Torrents Seusai Hajduk Split Kontra Ajax",
+   "url": "https://tribratanews.polri.go.id/blog/olahraga-8/3-wakil-badminton-indonesia-malaju-perempat-final-denmark-open-2026-107293",
+   "n": "3 Wakil Badminton Indonesia Malaju Perempat Final Denmark Open 2026",
    "vol": 200,
    "vu": "pencarian"
   },
@@ -39,7 +39,28 @@
    "d": "2026-10-17",
    "url": "https://www.goal.com/es-mx/noticias/laporta-se-mueve-rapido-cumbre-de-urgencia-en-el-barcelona-para-zanjar-las-diferencias/bltdf22685a7c59c2a9",
    "n": "Laporta se mueve rápido: cumbre de urgencia en el Barcelona para zanjar las diferencias",
-   "vol": 100,
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Maarten Paes",
+   "q": "maarten paes",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Goal.com",
+    "Media Indonesia",
+    "Jawa Pos"
+   ],
+   "d": "2026-10-17",
+   "url": "https://www.goal.com/id/berita/sofyan-amrabat-punya-pandangan-sangat-jelas-tentang-jofre-torrents-seusai-hajduk-split-kontra-ajax/bltdc6ff251be11b9ff",
+   "n": "Sofyan Amrabat Punya Pandangan Sangat Jelas tentang Jofre Torrents Seusai Hajduk Split Kontra Ajax",
+   "vol": 500,
    "vu": "pencarian"
   },
   {
@@ -124,28 +145,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel",
-   "snip": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel CNN Indonesia",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGlsVklyU2ZFREp2YXpleU9lN1dUN3ZiM1NxX1VHSXhvUjhxZTVEQ3hncFBVaVpVZWh5dzN3dTRXalIzWU4yNi1oVnRycjVHZGVCR0kyREZSc1JKckJpVDd5XzdlNFB1NmFhWnFMRmNIc3RzNEVKMkF1S1ZmU202RnlNQWdJemd6a1p6dzh4SEt5cXJIdmwtVmVSc0xlaXZSUmxnVlZMQUk2WFpNcFVOX2xOaWR4Tk55ZXJXR9IBwgFBVV95cUxQWFpqV3U4eHpMOU9tLXRST1k0WHhLQjVjUzhkbUpTT2J0ZnpQd3locGhJcGN1SFNLaHViNm1tanNySVBwTlVMNGxvdG9nSUROeTMxeTIyam1FZ2tENEdScFY2NTB4TU9mUkpoNEtubVBpRkhXS2xrYmNLcFRoTHA1c2JxLWFIR1A1MXB3T3NUalhLa1JNVjlNWkM2VE5xU0tuQU9TV1NiRFBRdWRKTDdqZllyT0xGU2laVUc0eHQzNklYUQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-16T22:00:19Z"
-  },
-  {
-   "k": "news",
    "u": "Marketeers",
    "name": "Marketeers",
    "av": "",
@@ -164,7 +163,29 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-16T17:18:02Z"
+   "ts": "2026-10-16T22:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel",
+   "snip": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel CNN Indonesia Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGlsVklyU2ZFREp2YXpleU9lN1dUN3ZiM1NxX1VHSXhvUjhxZTVEQ3hncFBVaVpVZWh5dzN3dTRXalIzWU4yNi1oVnRycjVHZGVCR0kyREZSc1JKckJpVDd5XzdlNFB1NmFhWnFMRmNIc3RzNEVKMkF1S1ZmU202RnlNQWdJemd6a1p6dzh4SEt5cXJIdmwtVmVSc0xlaXZSUmxnVlZMQUk2WFpNcFVOX2xOaWR4Tk55ZXJXR9IBwgFBVV95cUxQWFpqV3U4eHpMOU9tLXRST1k0WHhLQjVjUzhkbUpTT2J0ZnpQd3locGhJcGN1SFNLaHViNm1tanNySVBwTlVMNGxvdG9nSUROeTMxeTIyam1FZ2tENEdScFY2NTB4TU9mUkpoNEtubVBpRkhXS2xrYmNLcFRoTHA1c2JxLWFIR1A1MXB3T3NUalhLa1JNVjlNWkM2VE5xU0tuQU9TV1NiRFBRdWRKTDdqZllyT0xGU2laVUc0eHQzNklYUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-16T22:00:19Z"
   },
   {
    "k": "news",
@@ -195,7 +216,7 @@
    "av": "",
    "followers": 0,
    "cap": "Antrean Pembeli Warnai Penjualan iPhone 18 Series di Jakarta",
-   "snip": "Antrean Pembeli Warnai Penjualan iPhone 18 Series di Jakarta Digital Okezone Pembeli Pertama iPhone 18 Pro Max di UR, Pilih Biru Ketimbang Burgundy detikInet Rela Antre 6 Jam demi Hadiah Rp 13,5 Juta, Pembeli iPhone 18 Pro Justru Pulang Tan",
+   "snip": "Antrean Pembeli Warnai Penjualan iPhone 18 Series di Jakarta Digital Okezone Pembeli Pertama iPhone 18 Pro Max di UR, Pilih Biru Ketimbang Burgundy detikInet Bayar Puluhan Juta, Antre Berjam-jam: Cerita di Balik Pembeli iPhone 18 Kompas.com",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -283,7 +304,7 @@
    "av": "",
    "followers": 0,
    "cap": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once",
-   "snip": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once detikHOT Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Keluarga Beberkan Kronologi Meninggalnya Doddy Katamsi Kompas.com Musisi Rock Doddy Katamsi Meninggal Dunia CNN In",
+   "snip": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once detikHOT Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Doddy Katamsi Terakhir Manggung di Kafe Once Mekel Kompas.com Doddy Katamsi Meninggal Dunia, Atiek CB Kenang Seman",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -517,6 +538,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-16T10:14:13Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Beredar Foto Halle Berry yang Diduga Bukti Lakukan Kekerasan pada Anak",
+   "snip": "Beredar Foto Halle Berry yang Diduga Bukti Lakukan Kekerasan pada Anak Wolipop",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRElaLVRvSlkyZzVHVW5vSWZiaXR6bFdFaWpqd05ObXl6Sm8zdktuUFhaTTFVamYxYTNITXJiZThKb2pRdWhNM3ZHYUFRcnFXdkVhbnhoUlpJUU1RSnlocjNtYl9PLVo1aFFiSXAwa1FYR0c0OGUzRUhRME5YdnNxVmRlV2ZONnJiVmNFUWhWZVJSMkxBeWdIM1puRDBRQ2owejRoM2ZTOWY0azh5aWNTbmRORktESm1xN3o0M005SmlBYlHSAcgBQVVfeXFMUHY5SjIxVWNHR05ncFZvVlc4QjFQOXA3YklvMmF4WW9IQmRuaHktVmRKT3R1MXgwMkVjaGVBXzhUWmFMNlFNazV2TzdZek1DbWdZYTFzaDY5YWxZbm1UZUd2bHRFTUpCVVpJaW9GRzRDLUg0LXZUVmpZbWROMUxRSXE2MEdKR1QzMklNYm9zd0czUWJ0MTFvdno5N3p6ZkZJVFV1Q3NTVGlDZGRISDFBTThtc3JtTGdDTVpuUHlQTG1nRGdUcVdiVzU?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T10:00:47Z"
   },
   {
    "k": "news",
@@ -789,7 +832,7 @@
    "av": "",
    "followers": 0,
    "cap": "Aktor Senior Yadi Timo Meninggal Dunia",
-   "snip": "Aktor Senior Yadi Timo Meninggal Dunia detikHOT Selamat Jalan Aktor Senior Yadi Timo detikcom Yadi Timo, Pemeran Penculik di Petualangan Sherina, Meninggal Dunia Kompas.com Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CN",
+   "snip": "Aktor Senior Yadi Timo Meninggal Dunia detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CNBC Indonesia Yadi Timo, Pemeran Penculik di Petualangan S",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -811,11 +854,11 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks 4 Shio Paling Pintar Melihat Peluang Investasi pada 2026 Kompas.com Ramalan Shio Oktober 2026: Kambing dan Monyet Berpeluang Naik",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVhrd1ZvTW5XUW5qdUNsVWY3Tzk2TXo5azZZdTd0aElJOVhmczB6R0d0X1ZJWm96UXlxNzlpaXBRVDJLSEJzQlNPM0Z6ZWJNMngxY3VCc2VPckE3Yk44X2RVWTFIcHZ3YjlxQ0pYMHpkZmFhaHc0SWttQl9ZYmpYYVlxdnBkVXZMRzFCUm83OWVsRGIyV0FJZTJ2NGlCY1hpZFlLQ3ZSVzNkM1otaXRsV1hhOUJSQTUwamV5a0dLb2tXVE5ONG5aV2p0NXFFZ9IBuwFBVV95cUxPQk1SemF2Q1I3bVZNQVpETG02Zl9GT2pUSVRGWUhSdng4c1BpdUdiODMtM3pKSDVaZjFoYVAzdWhwQTNEeExROFFDVFVRSVdSUTJRU0gxQ3NoS1IzTzJMZFk1bnBMcm1QUFFEY3FDQzhFWF9Gbk8zeXdBc3pNS0I0RnhrZmxjY1VyRHVJUWIxVmtsRHp1SEJiWS03eUtlYTUzeWlUejFTNVo2X3Z1MGJ0ZTg4LUt5eFY0SW5B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVEtZ0pLUDEwUUlPM05XT080MGZzbXRpTWV3VzUtTTVVUGVGVEE5VE00X291a2pFaGZkTjRFZERwMDFTZmdlaUp0RFJtb0VtN1o1a29XOHZUQkZGSWZEUWZPVHBVN3ZFSGFpMUdfeGc1aWw1NnVOcVdfUDFYSkpUU3hENHdUUW9YLUVBX1pGQkszVWpXU1ZjMkRhaVFSb1ktM2h6R0lYb2hBZUdUMnlFckZIMkZWeDJsMHBkeFBWSWRTZy1sbnFjSEl30gG7AUFVX3lxTE9CTVJ6YXZDUjdtVk1BWkRMbTZmX0ZPalRJVEZZSFJ2eDhzUGl1R2I4My0zekpINVpmMWhhUDN1aHBBM0R4TFE4UUNUVVFJV1JRMlFTSDFDc2hLUjNPMkxkWTVucExybVBQUURjcUNDOEVYX0ZuTzN5d0Fzek1LQjRGeGtmbGNjVXJEdUlRYjFWa2xEenVIQmJZLTd5S2VhNTN5aVR6MVM1WjZfdnUwYnRlODgtS3l4VjRJbkE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1001,28 +1044,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-15T06:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "SRQ Magazine",
-   "name": "SRQ Magazine",
-   "av": "",
-   "followers": 0,
-   "cap": "Kabar Pemuda Bogor Mendapat Tiga Scatter Memicu Pembahasan Fenomena Scatter Hitam Mahjong Ways",
-   "snip": "Kabar Pemuda Bogor Mendapat Tiga Scatter Memicu Pembahasan Fenomena Scatter Hitam Mahjong Ways SRQ Magazine Kode Alam serta Strategi Pelestarian Budaya melalui Representasi Visual pada Mahjong Wins Bakorwil Bojonegoro Mahjong Beralih ke Pon",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWoyTVdvZG5Pa1lNeXliNlpFbkRTQjZIZnU5MzVwQUtIRmdoUURWN21jX1ZWM2g4MVZpd2hJcVg2Z052anF0UDhsU19WMThITV9yZm8wM0pDZ2FacHloTjVjSThHalk3Q1FxZUR0dWhiam5HSXl1bW5kNVM3Y0JJZWk4QThjVHloQ1poUU9CMUZlSTZSUTNxNmhRY193Mkd0VTk5YTBINlZQbTVfYzl1UWZ3TkdwNUI0N2o2WjR1WkkxRW9qa01jMF84UC1weXF2U0RocVhn?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "SRQ Magazine"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-15T04:02:11Z"
   },
   {
    "k": "news",
