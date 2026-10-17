@@ -1,29 +1,8 @@
 {
  "topics": [
   {
-   "t": "Philadelphia Union Vs Charlotte Fc",
-   "q": "philadelphia union vs charlotte fc",
-   "cat": "Musik",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "https://www.thecharlotteledger.com/",
-    "Charlotte FC",
-    "Delco Times"
-   ],
-   "d": "2026-10-18",
-   "url": "https://www.thecharlotteledger.com/p/charlotte-fc-philadelphia-union-road-test",
-   "n": "Telltale road swing for Charlotte FC",
-   "vol": 1000,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Sena Davina Terikat Janji",
-   "q": "sena davina terikat janji",
+   "t": "Orlando City Vs Dc United",
+   "q": "orlando city vs dc united",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -32,18 +11,96 @@
    ],
    "src": [
     "Google Trends",
-    "SINDOnews Lifestyle",
-    "celebrity.okezone.com",
-    "iNews.ID"
+    "WhoScored.com",
+    "FotMob",
+    "Orlando City"
    ],
    "d": "2026-10-18",
-   "url": "https://lifestyle.sindonews.com/read/1761653/158/sinopsis-sinetron-terikat-janji-eps-191-davina-akhirnya-berhasil-membujuk-jihan-untuk-pergi-ke-rumah-sakit-1792228227",
-   "n": "Sinopsis Sinetron 'Terikat Janji' Eps 191: Davina Akhirnya Berhasil Membujuk Jihan untuk Pergi ke Rumah Sakit",
+   "url": "https://www.whoscored.com/articles/z1051IXmokupUhwBrp282g/show/cng111-20261017-orlando-city-sc-vs-dc-united-prediction-1792251451",
+   "n": "Orlando City SC vs DC United: Lineups, Prediction, Odds & Bet Builder Tip",
    "vol": 200,
    "vu": "pencarian"
+  },
+  {
+   "t": "Ucap Syukur Arie Kriting, Indah Permatasari Hamil Anak Kedua",
+   "q": "Ucap Syukur Arie Kriting, Indah Permatasari Hamil Anak Kedua",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "detikHOT",
+    "Liputan6 Showbiz"
+   ],
+   "d": "2026-10-17",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1VpWjhBOGE1Tk9wcnY3WGdrOXRpWHAyTHEyNWFyTm82QktuNVl4Zzg5N2dZeWVHYXFvR0RHYU5peFA5R2xyRFRtUzBJZzdfX1RFOE0xSm1GVktsaXBwazBaQnk4Z3d6T3Z6bnRvU2ZVSjZfZUZaN2xOcGFJMGNJNlo1Y09raUc4N052Qk1WMkswanRKS3pxWWtreFNhd9IBowFBVV95cUxPbTF6QzVjMW9fRzZwTFpQMzN6cTlJZFVBcUdYU05sM3VCX0V5QlE3ZVp6eFh2TlFRcWVBdzhFZ0NVejRYcURxS080dUpsQWw4bUVBRk1Tb1RDWXNXVXdaLWRzMXRxRHoxVzlVNU1EVGRhWkFTNHJLZFhnNVprQzZKRHozZjJjTWM4bXBCQjNodVQ2U04zall5NVJualp4X3NJNi1z?oc=5",
+   "n": ""
+  },
+  {
+   "t": "Rhoma Irama Siap Jadi Opening Act Konser Guns N' Roses di Jakarta, Sebut Tak Asing dengan Rock",
+   "q": "Rhoma Irama Siap Jadi Opening Act Konser Guns N' Roses di Jakarta, Sebut Tak Asi",
+   "cat": "Musik",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "Sinar Pagi News -"
+   ],
+   "d": "2026-10-17",
+   "url": "https://www.liputan6.com/showbiz/read/8315286/rhoma-irama-siap-jadi-opening-act-konser-guns-n-roses-di-jakarta-sebut-tak-asing-dengan-rock",
+   "n": ""
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Indah Permatasari Hamil Anak Kedua, Arie Kriting Bahagia",
+   "snip": "Indah Permatasari mengumumkan kehamilan keduanya yang membuat Arie Kriting sangat bahagia. Baca di sini yuk...",
+   "img": "https://cdn0-production-images-kly.akamaized.net/bd751NEEqPBw0he18oCkodfgsvw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5294295/original/081964300_1753362178-u.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315354/indah-permatasari-hamil-anak-kedua-arie-kriting-bahagia",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "detikHOT",
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-10-17T07:47:54Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Rhoma Irama Siap Jadi Opening Act Konser Guns N' Roses di Jakarta, Sebut Tak Asing dengan Rock",
+   "snip": "Rhoma Irama mengaku terkejut ketika pertama kali mendapat tawaran bergabung menjadi opening act konser Guns N' Roses di Jakarta.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/NBR54id7LIBi9KtqiFt17_qBATg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375734/original/006935600_1792214996-1000662092.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315286/rhoma-irama-siap-jadi-opening-act-konser-guns-n-roses-di-jakarta-sebut-tak-asing-dengan-rock",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Liputan6 Showbiz",
+    "Sinar Pagi News -"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-10-17T06:23:13Z"
+  },
   {
    "k": "news",
    "u": "Antara",
@@ -68,28 +125,6 @@
   },
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Film Zona Merah masuk babak baru lewat format layar lebar",
-   "snip": "Film Zona Merah memasuki babak baru melalui adaptasi ke format layar lebar setelah Screenplay Films merilis teaser ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/17/ec413004-63fe-41cf-aa79-f6bdf44922a8.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5794101/film-zona-merah-masuk-babak-baru-lewat-format-layar-lebar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-17T17:41:33Z"
-  },
-  {
-   "k": "news",
    "u": "Tempo",
    "name": "Tempo",
    "av": "",
@@ -107,7 +142,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T17:00:58Z"
   },
   {
@@ -129,8 +164,74 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T15:20:54Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Kata Asri Welas Dikabarkan Dekat dengan Desta Cuma karena Sepatu Sama",
+   "snip": "Kata Asri Welas Dikabarkan Dekat dengan Desta Cuma karena Sepatu Sama detikHOT Respons Asri Welas Mendadak Dirumorkan dengan Desta Kompas.com Diisukan Punya Hubungan Spesial Gegara Sepatu, Asri Welas: Desta Tuh Seleranya Adek-adek VIVA.co.i",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmMzM0FRdGFIeG9YeDAxRlpKNXRQb21CUWUyb054Wm9LQlZmdVpsc1V0YUIwaXhRYW1JMmxwQ3RSTmNTRDdnRWJ6VFVaMUo0anFwWEZERENZZElZbzhlYVJaNFplV2dvSEZOcHZBMjNMWnNSdG5tbEFlV2t5TkxrQ0ZUdFVWMjZQZldKaDMxQW5HXzM2TzVBMk9LZ1Y3a1dUc2VsbWFVM1d4ckXSAbABQVVfeXFMT0FfS2JUUXlvSXFrVXd1bm1xVkNYSkIyRDlaazRybi1qUnhxcVp6dEJIeU9laUJYdExEUXVlRG5tWUJPMXhabC02TWc4LUY4RDRTZ3B4MlZaYWFzMXJVZTdVSjRVT0h5QmNobEcycHp1bnF2NExPY0V2WmpVYVhyWkJwSjJON3YxMExRTVNGLXd2Y25zNDFBdzdWdnhjX1gyZXo5dTFfenBJX05vSnJiNW0?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T15:00:36Z"
+  },
+  {
+   "k": "news",
+   "u": "Haibunda",
+   "name": "Haibunda",
+   "av": "",
+   "followers": 0,
+   "cap": "Keseruan Ussy dan Andhika Ajak Keluarga Liburan di Malang, Anak-anak Bebas Main di Alam",
+   "snip": "Keseruan Ussy dan Andhika Ajak Keluarga Liburan di Malang, Anak-anak Bebas Main di Alam Haibunda",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPelUtNlR1UlJsV0xNVmU2ZjVURi04c1hZVmRRVE5FNVBSWnhWcXVFRHhQUnI0cFBlWDMyWlN6RmZ3X2Fsd1c0N25aUWUtdjJKTDZXdjF3N2hSR0lDNWlDMF8yVjhtTU9oekU5U3hoRGJuWjVXUmE2X19Sd1d4V2dUQUI4RnM1aE9uZE81NkF6MVdDOTVqcGNxZnlqdDB3UDdaM0FmcEszaVEzbmFXWm9GWmx5bE0zLXE0aFFTZU1MMkxiVVVaRHU0NFZ0Q0VHdUZVQkF1b0kyY3luTjdldXJR0gHkAUFVX3lxTFBVLXVhTzZzU3M2NHEzYnhocGVHaXBnckJ4Y0ttUV9aOUJLWVJfSHR5ZmhyUEZUS1dkblBsazRscFRDZXFpWkZmdmhCTFJCcUo2YlFCVTBmYXF3TXVoVUU2T1VqMVQtVVhzeGhuZ21uaEQtQzZSZmZLTWFPSmVSZU1YbExxWnA2d3MzakZrVHA0c2l1dGo2eDZ4Y3hsM05PX0t4VnpkaFc5eWxhTUk0WE91bHdGTndzRzYzX0VIaDByQjAyWmhVZEFHc2JCNnI5d3ZIOWNMQzdCTjFYUExsUlpqazhtag?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Haibunda"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T15:00:06Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Aksi Kocak Fajar Sadboy Masak Bareng Amanda Manopo hingga Buka Warung Makan",
+   "snip": "Aksi Kocak Fajar Sadboy Masak Bareng Amanda Manopo hingga Buka Warung Makan detikFood",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0pDSkhOVEp3Y3NCS2NWdThJa1F4LTR6NHVOZ0Q4TlowUjVyMmZOLXVrQ3hINVZCYzZfSElMdzg3dE5Bb3N6cTR1ZUxWVUVVQjZTR0ZXdXo5cUJLSXI5Y1ByalR4endDZW1femo4ZkM3QkhjTzVSYW1UWHVMUTNhNzduMm1zbXl4WWZVc3pzdUlWbVd6TFRoMFh3UWJtMEtrVWRWa3BDejJrblJUcWhqSHBZbGFfZ082M3dKRVdn0gHDAUFVX3lxTE1XT0J4Q1ZHTHlNeUlrLThtdnY3MjdRU0UzdGhTbXg4Y1lqQzJSc28tR0hITjZEU2tJejRiZzV5MWhFLTFrb04xcllUQWNyeDdTdVBiZlBBZUsyOVU4VllTb3h6N19KdHFHZDhVRC1sOFdyeGFNZENTblFVZVEyOWNmMU02d1JsbGQtcXFHSTRhTXQ0bXlmTnBiNXVjVE8wdXZzSUthNXBCcVlSc29wekdMNG00Rm5GOFpFVktOS1M1ZVRHVQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T15:00:00Z"
   },
   {
    "k": "news",
@@ -244,6 +345,50 @@
   },
   {
    "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Gong Yoo Dengar Teriakan Fans Indonesia: Ternyata Banyak Ya!",
+   "snip": "Gong Yoo Dengar Teriakan Fans Indonesia: Ternyata Banyak Ya! detikcom Gong Yoo Gelar Fan Meeting Hari Ini, Catat Rundown-nya Kompas.com Gong Yoo Gak Mau Dipanggil Ahjussi Lagi, Maunya Fans Bilang Ini detikcom Gong Yoo Sempat ke Rumah Sakit ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2U3NkhIYXlLTDZUVG9JWHVyMWEtWEd1bDFuRVFHcHA2QmtaMUxhYWViLUR4TC1BQmJiRmdWR0NTTWRob3NXQmV1SExtcEZidzR2UHV5a2pIaFB4Q2k0cF9BYjlCS0NTT3BpZWZ5ZURQd1ZFMXU3b2xGVkJaRkpCNVNzYlFVWTA0bmxweDNvSVFiNWtiNUJEM1dTMV9TNVFKaFhyU0sySHIyZ9IBrwFBVV95cUxNUUFuRTItYzNSNFdmX2lnX1RaZ0MtRHpvTEthSHNla25OWmV4bFJ4Tk96bzVLZjdSZ2ZhSTNtNXNZcVppdHpWR3R0YWplRjdkOVRoRUxYbUZLV1pxT2lnWWFaczlLRjNWUjdUVUJFNlI5SThmcGVUUDh4VGhJQmFqSVh0Q1pGYlA5WDRJbk1ZYVZNemFHSVdXMENUb2RKY2ZKbUp6WkUxbTZ0RVVibzJn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T13:25:15Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Habis Ditemani Manggung, Anneth Nonton Aksi Hokky Caraka di Lapangan",
+   "snip": "Habis Ditemani Manggung, Anneth Nonton Aksi Hokky Caraka di Lapangan detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXdDME9SeWJ3TUQxNGV2WllveXNGYU81Y3FZNzB0WmNHcGZwU3VadnFQeU50cUMtTWRIZFB5YW9SQ0F1R0lnU1FpNFdpNHh6ZGV4cmo5Z2lwVU16b3JXNy1yXzhQekRySnJBR2VGbkRxeE93cEJGLWVXX1RXSnBXVGV3YlRHLU14NHJzdTVTQkdMQWUxNDJPVEJtX2lDbGkxUHdTRG5WQTPSAa4BQVVfeXFMTjRWYUU0UjdWY3lzNVBnUmVscWFveWJxQkdmYzVVQTFqX1NIVUNHbDJ6ZXZXdWdHUW0zUWxFY0daS2YwRkFVaWFYUmZQU0Vmc1ZGTTNUMGI1Z19CYkZoejNfcExTWHRjZ0FWNEJkRU9NbTdoTHllWGJyWWNMbXR5Yko2QWoyYWRiaWhIVzN2b2ZheHhBSUE2UVFlTGlwcGJfZTVIUmpqV0pWYWV2RlRR?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T13:02:50Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -285,6 +430,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-17T11:32:34Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Masayu Anastasia dan Lembu Solid Hadapi Samara Masuk Fase Remaja",
+   "snip": "Masayu Anastasia dan Lembu Solid Hadapi Samara Masuk Fase Remaja detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnB4MFVaRlo5U3RHbzhBcDhsVTVqakFzN29VTGNELUU0ay15dlJtOHNLWnJOaHByb00zYXBmS0FzVkNJNXBkTnFpYVFobUNwd0kzdGEwR1VyV1IxaktacS1rMGVEek1kOGdUOHN4Qk5TaGRHVzFWRVB1X1h6dWo3SXFYR01nQTZWWXhDWkFCakNwRTVvYjJTdnpwRUdfZEZtNHh5Z9IBqgFBVV95cUxQU05rMFF1WlBjUGVveV9sVGpwNmxYM0Faa3k5ZVlhVzFsVWg4elUyTVE2U21xcXB5bUlZaVZzU2pEY1p0WTAxXzdGYjIwLUtEcXdtdTlyMEFxcmxuVFFtSFl1UWYzczNKVVp5YzBMZk9Xak16MDhpcU9VMlduOXFBN3ZtM3lCQV95LVdHMExfOTZnNVBfRnJtend6X0pMUFliTUtzVkppaTZxdw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T11:12:39Z"
   },
   {
    "k": "news",
@@ -376,6 +543,28 @@
   },
   {
    "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "First Look Dune: Part Three, Kostum Anya Taylor-Joy Mirip Mukena",
+   "snip": "First Look Dune: Part Three, Kostum Anya Taylor-Joy Mirip Mukena detikcom Bikin Salfok! Kostum Anya Taylor Joy di Dune: Part Three Dinilai Mirip Mukena republika.co.id Busana Anya Taylor-Joy di Dune 3 Mencuri Perhatian RRI.co.id Tampil Berk",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlZKUEhrRWRPOWNQZEsySXJKcmhfUGRkR2ZJdThoNUNxZnJBTjI4ZWlzWjFwU3M3cmpWaUR6QjZCYWhrckdmaWZLYVhwZnhmV095bW5Qb3JHVnNvekx6SkZuSGplcENLX0hEekxnUDJTaktobW1QNlVyYlhrQXRidTNGN0k1Sm9qNXFqbk5FWjlOLTZWVWtob3k5MUpWdjcwMXdycXVB0gGrAUFVX3lxTE9OWHdCZ1pLbnhMTmJYZjVmdXFNcXE2QlRuQkVsTGVKT2hfWTFVazlDSVFvcmVCVFUyTEQ2YmY1VmRkZjN5RUhDR2lJRDRZZXVpWG5IYWxwZGVqX0RQeU00dWw3RVdPcUY3cjVreVFtLXJMTkY2NXNTbDNuV1hXV2JIVDR6d1pHV1JsaWZkdC00UTFuM1VpZkhFTHFEOXg1SjJvRGNwb2RUTENFRQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T09:02:01Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -464,25 +653,91 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
+   "u": "detikHOT",
+   "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Indah Permatasari Hamil Anak Kedua, Arie Kriting Bahagia",
-   "snip": "Indah Permatasari mengumumkan kehamilan keduanya yang membuat Arie Kriting sangat bahagia. Baca di sini yuk...",
-   "img": "https://cdn0-production-images-kly.akamaized.net/bd751NEEqPBw0he18oCkodfgsvw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5294295/original/081964300_1753362178-u.jpg",
+   "cap": "Faby Marcelia dan Kevin Pua Targetkan Nikah Tahun Depan",
+   "snip": "Faby Marcelia dan Kevin Pua Targetkan Nikah Tahun Depan detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8315354/indah-permatasari-hamil-anak-kedua-arie-kriting-bahagia",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFJ1X2k5UGVJOVBPdjlxNjUyYldJckN6cUljTWdybmVCeEJfemJwNVVBSmhGQnFfWURfemlfNVQ5VHJidEoxT0dTM182NDdpSzZlQzZvczZhcXowV1BSSV9ibERJcTUza2hHU3lhcDZSbjRXYjB2SGNlQUdGRHlIY2ktaE9xUlYxQXJMbEFlZXNjWG5ha0plTNIBngFBVV95cUxPX21WU0drOG9IZFoxbGduTnUxaVBjcDdPbWFUcXVVakxwcGhFcmF6ak93akdOUk12dVRSN2l1ZGJCazktNFdDbTN4b21namdyZ01TWjhWT2taZjJsOEJONDVUN0oyQmU3VkhsYWx4SW1QNEV6S1AzRm42MGR5Y1U3VVhsOWtTUUNtVC1FQllCaTB0b2dIOGtFY1BEbV9pdw?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Liputan6 Showbiz"
+    "detikHOT"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-17T07:47:54Z"
+   "ts": "2026-10-17T08:14:49Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Ini Judul The Mummy 4 yang Dibintangi Brendan Fraser dan Rachel Weisz",
+   "snip": "Ini Judul The Mummy 4 yang Dibintangi Brendan Fraser dan Rachel Weisz detikcom Brendan Fraser & Rachel Weisz Resmi Kembali dalam \"The Mummy: Book of the Dead\" RRI.co.id Universal Pictures Umumkan Film Keempat The Mummy bsinews.id The Mummy ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW1EN3c5eVZLRFlkSWNNMzdEQ2pRSVdic0oySGdRWTQzYVplWm9NYlNkekExLUdEVGU3MmRGSlMtb1BaeFZNYWJUVFhCZHhTaTZVMlZBZGFiN1N5Umh4U2NMY0d5QWU0ajdlU25jeVROZ1V2blBhQy1oVkNkZ3I2bDk5Qlh5YVAwbWVQbVZFeWpfUVZmTjlZUm9KUTh2SnVWZWx6V1c5T3NNQmo2Y3hhONIBtgFBVV95cUxNSThfUzEtaElMeGo4N0c0bURDOF90T0JYaFgyTV9BcUF4ekJtVG9ScU5MM0dtYWI4aUNhblZsTmg5VGlCWnZqMy1IT2wzd21oaG0zbGZqUExRYTM0Yl95UmhDQVp5WDZfYm9oY3RXaXVzYmM2ZWJaaU14ZmhJQkY3cUFYRFZKSm5aU3VfZkl1Qlh5VFZKbXc2NVpzSnBBZ295THNUZndibmFjNi1ZdkN6ajJQTnpidw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T08:04:34Z"
+  },
+  {
+   "k": "news",
+   "u": "Sumeks",
+   "name": "Sumeks",
+   "av": "",
+   "followers": 0,
+   "cap": "5 Shio yang Beruntung Hari Ini, Sabtu 17 Oktober 2026, Ada Naga hingga Ayam - sumeks.disway.id",
+   "snip": "5 Shio yang Beruntung Hari Ini, Sabtu 17 Oktober 2026, Ada Naga hingga Ayam - sumeks.disway.id Sumeks Ramalan Shio Hari Ini, Bagaimana Peruntungan Tikus hingga Babi? detikcom 4 Shio yang Diprediksi Mengalami Perubahan Hidup pada 17 Oktober ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVVfcGoxdXIycWR5dGwxX0pFWEwyMFM4RkJQS1dZQ00wVGoyNnJYVmhFak5wb3VVdmk5Si1MaWZCWnNkbTN6djBwZ3dURzd5aFJTWHhBUUp3NGFkUFp0YkMyMGdTeHBheDc4cl82X2VBOXp1emZlY3plTE9wUWQzU1lfd0kzTzUzMkFnYjFNVWtwNjFVVUxGUXVEOHpKbGlHdFVEallGOTZTX1RGZ0l0NU9TQWw1RU9FX2lUONIBrgFBVV95cUxOdGVGRTFIMVkzREVTTVZkbUxRdFRXUTFodzdTUkYxNHU2ZVliekxneS1nSWpkSnFIN3B1bU5xQXJjY1dzdzM2eXFCVmtKcnIyWllZMlhQWVpSNElhZGhEdG5JY0RmclF0ZHV4SDd2bTZFbGtObkp6TUFwUExQNTB1aDRaZFV6UlFvVkFvaUc5V3o3QkVBZmNVZVkzNG5UNE9mcHQ3cnB5TzJvUWNPRXc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sumeks"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T07:48:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Yadi Timo Ajak Teman Ngopi Bareng 3 Hari Sebelum Meninggal",
+   "snip": "Yadi Timo Ajak Teman Ngopi Bareng 3 Hari Sebelum Meninggal detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CNBC Indonesia Yadi Timo, Pemeran Pencu",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGlqa3BNc3BzY0EzUkN0WXJsYXFYa092a2NQa3FUZFhyRVBvb1E3UVdhMkZyNHRja3kwNk9JQ20yaVVfcUl3NHZXNG5UX1NWYTNvZDFLVFhyaENQUk1BdWFSc0RyY1MxdDM4RDl1dktMSEFPem9xcWVWeURLejNZbHdLbnlaRW5XUDhHeXRPZUZTVnl5Zmp5NWFVZ3XSAaIBQVVfeXFMUDhUQjEzcmVNWWZHNnZfOU5fVWNTOWNjNHB2OHhXbEk5eHQyZnNta29MQnp4cW5aaWJ4YWE2U3BaT2ZzMkpvdmtoX3c0SlpHYzBMTTQ5emFQampkTlEzeExmOEliR3d1ekM4ZUdheUVlbjk2MUo2TkNIZ3A3azRyb1Rab3BzWDk2RTNxVjRHYy1BNEJfemh2Yy1HWldCWUU2VUln?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T07:06:04Z"
   },
   {
    "k": "news",
@@ -505,28 +760,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-17T06:38:45Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Rhoma Irama Siap Jadi Opening Act Konser Guns N' Roses di Jakarta, Sebut Tak Asing dengan Rock",
-   "snip": "Rhoma Irama mengaku terkejut ketika pertama kali mendapat tawaran bergabung menjadi opening act konser Guns N' Roses di Jakarta.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/NBR54id7LIBi9KtqiFt17_qBATg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375734/original/006935600_1792214996-1000662092.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8315286/rhoma-irama-siap-jadi-opening-act-konser-guns-n-roses-di-jakarta-sebut-tak-asing-dengan-rock",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-17T06:23:13Z"
   },
   {
    "k": "news",
@@ -596,6 +829,28 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Aron Ashab Ngaku Disekap 6 Bulan di Tasik: Kebenaran Akan Temukan Keadilan",
+   "snip": "Aron Ashab Ngaku Disekap 6 Bulan di Tasik: Kebenaran Akan Temukan Keadilan detikHOT Sunan Kalijaga Ungkap Pengakuan Aron Ashab Diculik-Disekap 6 Bulan di Tasik detikHOT Kronologi Aron Ashab Ngaku Diculik, Disiksa, dan Dipenjara hingga Berha",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE5WdklseUR5NVhXdE02NU1CVHpLZDJMTGZiLS1oY0tlV2Mzc1NaSzhKN3B5N3Q5U2g2anRoeGdlbEVMR2tOUEFSeHRlSFRrc01KN0lFSC13cTRoOUg2blVjWnRIMFQ3YXZBVXFWcnVqYVhsZy1CVGpvek8yaW5rWnlPOGFYclRLajRjNVdkMTdMb0dWXzlqN280VEJLS2k2NEtLY3QzaGd3cndDWFBBStIBtgFBVV95cUxOWmtHWjNxOV9FZHRRMTZZQXY1SjZ6UjQ4Q1JMRkdrOTd6MlZ1dERVeGRyMENxR1ZCZ1EtSzRneGhMTDV0UGw4Yk1wakRyeWJwbGtQOFRLekNhcFh4aUNEQ3E1cFdhMVdQTUxlS2o5YlUwY2xBNnE3TUVPYXFjTjRmRnZtS1hVX0NaOFdxMkRnd290V2VtLTlnZGhJMlhCMkt0dkZUSTNQR043NHJLUm5rLUE1TF8xQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T06:07:43Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -640,6 +895,248 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Demi Moore Pamer Foto Tanpa Makeup Jelang Usia 64, Wajah Glowing Banjir Pujian",
+   "snip": "Demi Moore Pamer Foto Tanpa Makeup Jelang Usia 64, Wajah Glowing Banjir Pujian Wolipop Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXotQlhFSmFQTDROZWluckpRdm9EWnlMR3phcXdpamNhaHdmaWZJX1JvTTQyZzBfc1FqN2JzN3hzWEJJUkpMcFBhWWx6YTRmZUZIRXhVNWlpem5hX2JoODlwQjhwdFU5REQ3ZTN0MGlQd0xydWRrNnRFaWpMSlpJdTU4SDNoaHNTTWFEQnNnN051dWJsV2pndWRBQ2laeFlOX1NmSGc5MmlxUWhUa2hjYkNnMVNJTHJaMlFEUnpxb1dtdWZDajd1RFlWX0ZXQdIB0wFBVV95cUxPYnFXbzFZanE0X1pZMTA3dS0teko5MVgxZFVpM3dhdlp6Tmw4VE5aeEpoNGJ0SFkxX2ZfTU5xQkM2bEdVLXVlQVROYzZqbjBpUlV0dHR0WmxnRTBQaC11ZEItb3BLWXdpUklHdndiRGZWVXhvbXhiMXVXOG5WT3dGcUd0Wm9xMDM5Mm9ORXZaRkd6X0tubDhJUVozbk0tcUFBLXZlSE5Uc000VFFUOEwteUxSYWN4SVhPTXJuSjZiS1ZIdkY1UHRZT2l4YmxlN051SlZ3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T04:00:51Z"
+  },
+  {
+   "k": "news",
+   "u": "MIX Marcomm",
+   "name": "MIX Marcomm",
+   "av": "",
+   "followers": 0,
+   "cap": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero",
+   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Bayar Puluhan Juta, Antre Berjam-jam: Cerita di Balik Pembeli iPhone 18 Kompas.com Cara Pindahkan Data iPhone Lama ke iPhone 18 Pro Baru CNN Indone",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalFzc1RxVWxPSlVnbHVOb2tWNDRhSldJT2d2YTVSN3VIalI3RktFaGttOVRGOG1iQmpDWlJzZTRISVBjQUdsUU5NaXlhVmdhaW5Gckt4UEZjaVBMbnoxazZxZmhwVFExUDlPNDdKdEs0OTM5YmRNcHg3NlFrcHdJX0I4OW5LTlRabTVMeGFINHY4d2V3S0llOWhrRV9fRWFseGQ4TUU4aGhUOGZrc1E?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "MIX Marcomm"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T03:01:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Raffi Ahmad Hadiahi Irfan Hakim Kuda Putih di HUT ke-51, Tahun Lalu Mobil",
+   "snip": "Raffi Ahmad Hadiahi Irfan Hakim Kuda Putih di HUT ke-51, Tahun Lalu Mobil detikHOT Irfan Hakim Tak Kepikiran Pensiun di Usia 51 Tahun, Mau Terus Bekerja detikHOT Irfan Hakim Pamer Kado Kuda Putih dari Raffi Ahmad di Ultah ke-51 SINDOnews Li",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWZTb3Izb05VeGlVSjM5TXhvT3hNZ1l0NDVqUlRIN05Qa01ka3kzRk5qSGpnM3JrZ0prSXNmeGk0Y0ZnektWODM3MnlkSlh3WGFqaFBvYVJhSG1MSk1Sb1RoczI4RThobXJ4MFJlelU5UUFkdnllT2ZRelg0QzhiaFhjTFlMMjdpMURDQmU5UnBEVmFxdEtrQk5PWDh3X2hMbEc0THdxOXBiSWxZOWtj0gG0AUFVX3lxTE1SbFJpMGU3QmozT2hSVGN0WENaajhaa0ZUZWcwNW5PbnRsM1Q4TzZZTHd3MXAzSUVhV1liOHktNHgta29YcGh1cVoxRHVoaWdPVXhrVFF2Q1lRX0RsakpFOHlabE9reVI2UThQY3M0SHNqYXhlZUJXOFRkTnotY0RqbUNIOUk3LVlIejhIRS1ybHhDMjBya2tHSXJ5NmIybjFFVXNWaFllb3BYUjVzYUx5a0I2cg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T01:12:49Z"
+  },
+  {
+   "k": "news",
+   "u": "Suara.com",
+   "name": "Suara.com",
+   "av": "",
+   "followers": 0,
+   "cap": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis",
+   "snip": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis Suara.com 12 Kode Redeem FF 16 Oktober 2026, Klaim Hadiah Gratis rmoljabar.id 15 Kode Redeem FF Hari Ini 17 Oktober 2026, Survivors Buruan Klaim ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbDB4ZU5MM2NMUmpYcXUwZkhZS3hPNVYzUlJxekdIaE1xU3ZmYjRiT0JsMWV5YU5jd0xfY09VMXM5ZTc4T0h2dTFIYkxBcGV1X3lkMkFubzdLd3pORkhRQTRFYjBfandpLUQ0cW83SlI0elU3Ui1xeDh5U0puY3NLY3Y1TnVsTHhuU0pLODA5M050R1lRcVdzRlo4b1NvYVpBMk1DN01Penc4MEoyaEl2Q2RSWEN1eXAxWWtDSFNnS2p5MUJTMjhKZHNCX0tNUEg0bW40WHRVc9IB1wFBVV95cUxQQU41OHcwdTZlSkZfTDJUbzJHY2NRc0lvWW0zYmpad1NtMXVfTVdHdGZEUDJmT2lqalVuV04tVHRQVHBhU2ZNZnU1WGs5cERtRzh1dmMtWEZVUUtrSmxya0JlSThXRFQtTnk4aFpyMlVzUXB1djBkN0p5NUdNU2RBTGtIbWExRFZmbS0zTWtpOVg5aEtnS2FELTd3SFZ2eG4zQWpwam9QRGg0TnE2V2tCbVFkZklHQlhxZmlpNjZiemRYMkZBdzM3VFZSdG5fc3VleWFINTMtNA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Suara.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-17T00:54:22Z"
+  },
+  {
+   "k": "news",
+   "u": "VIVA.co.id",
+   "name": "VIVA.co.id",
+   "av": "",
+   "followers": 0,
+   "cap": "Nekat Sebar Video Call Ruben Onsu, Sarwendah Disindir: Kok Mau Nikah Sekian Lama Sampai Punya Anak?",
+   "snip": "Nekat Sebar Video Call Ruben Onsu, Sarwendah Disindir: Kok Mau Nikah Sekian Lama Sampai Punya Anak? VIVA.co.id Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Muncul Isu Boikot Buntut Rekaman Video Call Ruben Onsu, N",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWTFJQ1FjVUxwcnZuNXdXYWZrSGFNcks0bWlwV3dWQzh6d2h3UVFUbGQ4QnpKcFpEMllaVEtzeTVOQUFSb3pRZ3llSVBlNXk3dmh5NktPcmFQSXN2RDd3dFRRQk16bEdmdTdpM3VUaVpsRzZZakNNc3JfNzJhUlBsUmppUWhlLU81RURDV3R4bzJNVGlBaFF3YWVOOU0xN3BfMDR1eUZUanV4Rmxka1BabUhYUEdDOEkxZTRVbGI5VDV5ZVdoMHJwVzd2ZV9adU1BZGZrUGlRWFNGVzNVamtR0gHkAUFVX3lxTE1qb3gtd0dzV01EdzNmZ2VVWXBCREgzVUFzN0JGRGY5NlIySEtMUVA1MldFM3BTSEtBeGY2OXBRTHhUNFFRX3pzRXU0ZnpkZ1JSQ1RSSHBHeS14SnpxZksybzVmZDFuX2VhTVFwWFY5Z2RuWFNvLXR3NXhmMTF3Zmd5eFE5QjVCUVFrNlBJdnNuQnRMMFdtR2x0UmdKLU5wSWNoQllfZDVPcS1aVjFjY1otNDBicTVVcEphRFAtQzAxYWtwSTR0UjFvbk84TDVJa2dEQUtaZ2ZSVEN1bnVHRnpWWk02dg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "VIVA.co.id"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-16T23:15:00Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel",
+   "snip": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel CNN Indonesia Daftar Artis Dunia yang Diboikot karena Dukung Israel: Ada Gal Gadot hingga P!nk Media Indonesia Sejumlah Artis Dunia Hadapi Boikot karena Dukungan terhadap Israel bsine",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGlsVklyU2ZFREp2YXpleU9lN1dUN3ZiM1NxX1VHSXhvUjhxZTVEQ3hncFBVaVpVZWh5dzN3dTRXalIzWU4yNi1oVnRycjVHZGVCR0kyREZSc1JKckJpVDd5XzdlNFB1NmFhWnFMRmNIc3RzNEVKMkF1S1ZmU202RnlNQWdJemd6a1p6dzh4SEt5cXJIdmwtVmVSc0xlaXZSUmxnVlZMQUk2WFpNcFVOX2xOaWR4Tk55ZXJXR9IBwgFBVV95cUxQWFpqV3U4eHpMOU9tLXRST1k0WHhLQjVjUzhkbUpTT2J0ZnpQd3locGhJcGN1SFNLaHViNm1tanNySVBwTlVMNGxvdG9nSUROeTMxeTIyam1FZ2tENEdScFY2NTB4TU9mUkpoNEtubVBpRkhXS2xrYmNLcFRoTHA1c2JxLWFIR1A1MXB3T3NUalhLa1JNVjlNWkM2VE5xU0tuQU9TV1NiRFBRdWRKTDdqZllyT0xGU2laVUc0eHQzNklYUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-16T22:00:19Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026",
+   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia Joheirry Mola Bakal Dampingi Audrey Bianca di Penobatan Miss Indonesia 2026 Suara.com Dari Bojonegoro ke Panggung Miss Indonesia 2026, Naomi Adriela Yundzira Baw",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkRDUHhwQ1VyZWNtVHEwU052UFhSYmVFc3NkNWg0elY1dHVwMlpQZEtWYmh0TkpkUUljOV9NRjcyclNzVWswS1JzcnJjVUdKTWc1UnczaXFKZmQxNDkzREN3dVN0bnljQ2plUEhzTW9HSXVaamJvZzF4dG9KWWNnbVhyWGhPaENkak9STGZQRTVlQW13OHl0OENuM2w2dWxOZE1SdXpwNEFkeEpwUHY3RFdLODZSUm9CZjlIekhUQ25PUUM5QVczWlBPb9IB0AFBVV95cUxNYjE4V1BENk02SHNsTWYwTlY2Z1JGLVF0VlZibENmT1hVY1VQLWQwVnFLbllldFc0YVF0TkZyTXBlVmJhUWQ3eWdSWHBOeEN5bG5ENGNBdnFEcFdYTG9FWWF2VXBERUlJTXdNU3l0TmJJNzRnMXNVcTVXSzZ4Yl9VcUFXN19wTENEMnNyX3lOQzRTSHFSZjhReFNLRjlWb2FCbGxEQVVub2lMcXZKbzNtT2tKNTlMaWVSYzJtYk5kNjdGall6SkluNEQxYVpzY05J?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-16T13:30:29Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once",
+   "snip": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once detikHOT Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Doddy Katamsi Terakhir Manggung di Kafe Once Mekel Kompas.com Musisi Doddy Katamsi Berpulang setelah Berjuang Lawa",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEhWWHVhZ0xjdG9nVm5Gek0yQ2EzTVFoY3pyZGJRR05CTGc3ZTVRWHNyNGF4Ym9uZUE2OUt4dWpJUGpoRE4tTWlQM0lVMDg0SElKRExTUVJfYm54bG9WbWhpYUhaMUlxbHFENVZRQXFVeVgtRTZSQ2kwekJ0MXROa1J2TjVpTmRfN2p3R250M1NFOGI5STN5etIBngFBVV95cUxPVHVnSmxGSGZxd1RweVJXQXNWbHd3aXlMQW90bWhJbHNhbElQMkxSX0lUaDNyOUV4bE82VVRRVEhoT1RoeEN1T1RmUDRVM0hWNWprYzZvYm1sRUdzUlBZb3FyN3ZhdHB2SjB0cVlQZTR2T1F1YVc4SUpzN01ndElqXzNLUWdEXzNCSHJJM2NhbzBnRWRKdzQyb2lUZkZCUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-16T12:09:36Z"
+  },
+  {
+   "k": "news",
+   "u": "detikInet",
+   "name": "detikInet",
+   "av": "",
+   "followers": 0,
+   "cap": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka",
+   "snip": "Sosok Legendaris Cover MP3 Berpulang, 'Generasi Warnet' Ikut Berduka detikInet Kover Legend MP3 Indonesia, Amaluddin Syarif Meninggal CNN Indonesia Kabar Duka, Amaludin Syarif Ikon Cover Lagu MP3 Era 2000-an Meninggal Dunia Pontianak Post F",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmk4QnR2R3VDbmRxSE1lVjhsSWYtbTNYUUpsR0JJbVRsNWwzYnc5V3BoV19tNG1lRGJQR2dDaHRSQklMeDhueGl4RFJtYjJqdDdnVkg5eThEZUp4YnN4Q1E4c2JtSllpaUxWcTNTTGVtVEREUTVXTmFFa1h2MXZrVmxwVENvcDFsSmItNXBuNERqVFg5elNvMHo2QThDTThmSW9ucUNrd2Y4aEU40gGyAUFVX3lxTE9Dak5YSERRYW9vSzdyakJ3cHhCYTF2VHVlZmtyUldWREZoWmdKSVlTckxhQWJsUFJEeXBvX1ppOEx2bjA4N1c4Y1M3RTNJOXFYS1VGTXB6eDUyWlFWT1ZNRnF3UlFGSGNWN0s0XzNKdlFSU0YtSXpsNl9zQkVhT1VDcEZrN3U1ZjVxaWJPWDhRdHdhVmNmT05yQkxSUUtscWhwY0VJb1JpaDZLMkczT25Sc1E?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikInet"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-16T01:49:41Z"
+  },
+  {
+   "k": "news",
+   "u": "celebrity.okezone.com",
+   "name": "celebrity.okezone.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis",
+   "snip": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis celebrity.okezone.com Ruben Onsu Dilaporkan atas Dugaan Pencabulan Kompas.com Ruben Onsu Dilaporkan Atas Dugaan Asusila Sesama Jenis, Pelapor Sebut Korban Lebih dari Sa",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczRNd3lUMFFpanJuU25CQkZzQnY5UENuUUFtM0pHSzZOVnNYT1dGVTFUbWI3WXppZ0x1SlpYa2ZBN1FJRG9wcURnWUF4cmlmTXNNQVBRdElJRVJoNmxhZzB5VmltRUxsTVNxUmhzUWlGelFtVHh5YWtvTFg0TmphS0FYWnJzRFIwMVIzeUtkVWFYSW1nNHU4LXVfajV0c28xZUZqUEU4Nlc5bnFRR2l4dU1RTk1yNTV4Vm40R0xHRHhmSU0zSl9N0gHGAUFVX3lxTFBjZFRnXzU4TTBqaFFmYnNnUTVVWVE4dzQ4LUlpekZOcXJNU2lnbHVqd1J2NVM4Z0ZJX0RBaXFNN0VRX2NIN0Vxc1JiTDZNTEgwb2EzVDlYa1hhRG9IcVVmSmNFcWo2RE9ocEJGdUlVbHltTW92VzFIWUNiZnNPSXRlRzBwOVJ1WjdtZWtTaFRYWVVDTmt6NElPazNlRnNqdWpDXzVQVUNWb3EwOTlmUUdjeWFrQmdQbDUybkljbVRxMVYya3VKUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "celebrity.okezone.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-15T09:54:31Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Tanahnya Diduga Diam-diam Dijual Keluarga, Farel Prayoga Minta Bantuan Hukum",
+   "snip": "Tanahnya Diduga Diam-diam Dijual Keluarga, Farel Prayoga Minta Bantuan Hukum detikcom Farel Prayoga Kecewa Keluarga Diduga Diam-diam Jual Aset Tanah Miliknya detikHOT Farel Prayoga Kecewa, Aset Ratusan Juta Hasil Kerja Keras Diam-diam Dijua",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDZEUHJwN0RNTzRPWDNYVnlmY2M3VHpzcnRnM0xkTjMwSHNiZGhJcnE0TnpSeXQ2WUFWNlIxYXFsU0UzMmdLODBOcE5XdlFFSGNNU0tFMFZPUTdYNlpEU053SS16UEJkczA4NlBHZkJUSTNwZ3prbHQ1Wk9TdDNONUZvWjNITkM0dUJiY251aXpPR2kyMGNsOHYtdEJyMGQ5RWNDTHVMUE1ISDZERWFZanhfcng1dkZDWUQ2b2Jlb0TSAcYBQVVfeXFMUEI1X3FOOFd2V3I5YXF0bzFiN2NTVW1mY0p4bUhzeWVtNnkzdEVFQldSbTdBTDJzS3JHdHNpeURBWXk3NEp0Sk1VSXNwQnpMZmRzdGpyRjFMek8tay00ZlNaY29ONWxmaVBwWHNEcTZKZjllcFRVbmt2bkExZG9zZ1U0OHVwZ0ZDNXFRUFdZbm9aWkp1TzhPMTU3LWtyLTU5Q1VrVWxGM1RSeEplQW5sNzE4REN6TThHWWMzOVNJd0xDZ1I2d0V3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-15T07:46:03Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -659,6 +1156,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T06:13:42Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi",
+   "snip": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi Kompas.com Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Raline Shah Miliki Harta Kekayaan Rp56,99 M Jadi Sorotan Akhirnya Resmi Mundur dari Stafsus Menkomdigi Ara",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFhheUYxVDBXMmswVUJEaG1sOUV5Q0NKUHR0QWVING43aEJuQXE5ZW4zS2dHWld6ZjNuZVVzUU1FbTRNcTYxWmhHV2dNSGZzU0tLRDg0cmwtcFBxTW1vcnhIZUFTc1hRUnVMM3FnZ2liVXlUaHpZZWdLTUl0S2h4TXVIVlY2UEc2Q0NWQzE2d29VWC1fZ2I0ZjRSVXRIRGNyT1lQYjB3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-13T15:21:00Z"
   }
  ]
 }
