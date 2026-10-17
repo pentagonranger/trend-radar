@@ -1,6 +1,27 @@
 {
  "topics": [
   {
+   "t": "Ftr",
+   "q": "ftr",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Yahoo Sports",
+    "F4W/WON",
+    "411MANIA"
+   ],
+   "d": "2026-10-17",
+   "url": "https://sports.yahoo.com/articles/mcmg-return-aew-challenge-ftr-012932206.html",
+   "n": "MCMG Return To AEW To Challenge FTR To Best Of 5 Series",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
    "t": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "q": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "cat": "Selebriti",
@@ -79,6 +100,72 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-16T09:24:42Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Miss Indonesia 2026 Diraih Alda Callista, Wakil Papua Tengah",
+   "snip": "Miss Indonesia 2026 dimenangkan Alda Callista dari Papua Tengah. Simak lokasi final, daftar runner up, jawaban Alda di Top 5, dan profil lengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/5ud8CS6OXiJf-6yz5Goaw7vWG9w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375665/original/039616700_1792206461-MjI2OTU0ODUzNzg2NTkyMjg3.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315215/miss-indonesia-2026-diraih-alda-callista-wakil-papua-tengah",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T03:07:42Z"
+  },
+  {
+   "k": "news",
+   "u": "MIX Marcomm",
+   "name": "MIX Marcomm",
+   "av": "",
+   "followers": 0,
+   "cap": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero",
+   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Demi Jadi Pembeli Pertama iPhone 18 Pro Max, Wanita Bekasi Rela Tak Tidur detikInet Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series A",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalFzc1RxVWxPSlVnbHVOb2tWNDRhSldJT2d2YTVSN3VIalI3RktFaGttOVRGOG1iQmpDWlJzZTRISVBjQUdsUU5NaXlhVmdhaW5Gckt4UEZjaVBMbnoxazZxZmhwVFExUDlPNDdKdEs0OTM5YmRNcHg3NlFrcHdJX0I4OW5LTlRabTVMeGFINHY4d2V3S0llOWhrRV9fRWFseGQ4TUU4aGhUOGZrc1E?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "MIX Marcomm"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T03:01:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Momo Reuni dengan Geisha di Synchronize Fest 2026, Roby: Selamat Pulang Kembali",
+   "snip": "Momo akhirnya tampil dengan Geisha Lagi. Lihak aksinya di Synchronize Fest 2026 berikut ini!",
+   "img": "https://cdn1-production-images-kly.akamaized.net/BpT3FXMYDmNz95f7mdVKF61e_m0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375648/original/071040100_1792203688-1a.JPG",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315198/momo-reuni-dengan-geisha-di-synchronize-fest-2026-roby-selamat-pulang-kembali",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T02:21:27Z"
   },
   {
    "k": "news",
@@ -321,28 +408,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-16T12:09:36Z"
-  },
-  {
-   "k": "news",
-   "u": "ANTARA News Banten",
-   "name": "ANTARA News Banten",
-   "av": "",
-   "followers": 0,
-   "cap": "Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series",
-   "snip": "Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series ANTARA News Banten Pembeli Pertama iPhone 18 Pro Max di UR, Pilih Biru Ketimbang Burgundy detikInet Bayar Puluhan Juta, Antre Berjam-jam: Cerita di Balik Pembeli iPhone 18 Kompas",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblFZZHZKU2J0aGpHb21Gc3d5TFB5cFlwelhIUWVZRU94X3pla0tDRGpJY1FfYVZVYnBQVlhuNGt5N0ZfcDBwNUk3aFA1dWNKVWRWTzJvYUxQc2xhU3A0b3hVNC1HSnBxbmp5bExhVEJmcnRBdlRIaXoxVDRYS2J0ZG5CNU5XX3NETkVCR1FiUE0xak9pUlZZeGlEenRMVllzTFVNS1BNY2XSAa4BQVVfeXFMTXNmemlId3hfY3FPUTJJTWQxbW5naTFtR29uLV9naTFHZWRaT00xczBIVG5laGlEaEdDYUdMR0xMZEVacVZ6b29xSlZLandKNWg4VFhxRk5KcUZxZnFROE01aDRYRUg1ZHhGVGl4TlgwT0UxQlBGczcxcUZNU2h0WEp1TVNHSFdNLTY3eGRwRklTUGtWeGZxby1KYjBCM21yZV9XZ3VMLUM5Z3lEc2p3?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "ANTARA News Banten"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T12:06:26Z"
   },
   {
    "k": "news",
@@ -680,28 +745,6 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Siap-siap SSW4, Wendy Red Velvet Spill Persiapan Comeback Solo November Mendatang",
-   "snip": "Wendy Red Velvet akan merilis solo comeback keempatnya pada November mendatang.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/iYlN4XeDin7l72waP5mDiGKEf7o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375335/original/071340000_1792139967-New_Project__4_.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314810/siap-siap-ssw4-wendy-red-velvet-spill-persiapan-comeback-solo-november-mendatang",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T08:49:41Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
    "cap": "NPD Sambangi Korea dan Mampir ke Kantor SM, Bakal Ada Project Kejutan?",
    "snip": "Group Band NPD mengundang penasaran publik usai bagikan foto kunjungan ke SM Entertainment.",
    "img": "https://cdn0-production-images-kly.akamaized.net/6ViSL1yqegD1JpXiWARx5rIbG7Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375319/original/027801600_1792139079-ieugf.jpg",
@@ -742,38 +785,16 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis Drama China Quite the Girl, Gadis Penurut Penuh Dendam",
-   "snip": "Drama China Quite the Girl dibintangi Xu Mengjie dan Ren Shihao. Simak sinopsis, daftar pemain, dan platform streaming resmi untuk menontonnya di sini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/o7tIP35306CH41rylIIu1ZHjNrY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375323/original/000909000_1792139539-8bdc2ef5aa.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314801/sinopsis-drama-china-quite-the-girl-gadis-penurut-penuh-dendam",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T08:32:20Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
    "followers": 0,
-   "cap": "Vera Wang Awet Muda di Usia 77, Ternyata Cuma Pakai 2 Skincare",
-   "snip": "Vera Wang Awet Muda di Usia 77, Ternyata Cuma Pakai 2 Skincare Wolipop",
+   "cap": "Potret Ultah Kenzo Bertema Pokemon, Baim Wong & Paula Verhoeven Tampil Kompak",
+   "snip": "Potret Ultah Kenzo Bertema Pokemon, Baim Wong & Paula Verhoeven Tampil Kompak Wolipop Baim Wong Soal Kompak Rayakan Ultah Kenzo Bareng Paula Verhoeven detikHOT Baim Wong Rayakan Ulang Tahun Anak Bareng Paula Verhoeven Kompas.com Baim Wong d",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDQxNjZibjRJOFowcEJiVk1VS3E2V21pdUo1QWEyYzdnZlowMFp4MHNsWTFVUTNUN3hCdzJjNUVpQm5Vbl9OQmlKVUd2blhsc3Y2ZTYzdUFqNklYblktWS1JQzJSRnVjTTdvOVZZTEVqSGpoRldvUEpLMnBvWWpSU2pRS18xY05YbVhDRUlvZHlKdzNtUmpCNllteV91Sld2SVRDNVJ6RjdJNXgtb2xDc0ZPOVJ1X1dV0gG-AUFVX3lxTE42WTdUWXMtU2dsamRURlFMWkotR2g3MzVyMTV0MjFWMG01aS1WalA3WUFmSVk1cTVwTXA0NXZSVlJxbmYwQ3FOOHpyUmFQeXZlTVJ4bVpBd2tIRlp1VDNVT0JqZW85RXBUNWpGM3ZpUVBYbUo4eENkUE5Ra3JYcTlOdGhvUUFxQXNoSlJzVEhQNGE4SnY5RDRrRGIxbl9rWWlKZXZ3N3duLXNKRVlpZzY3M3ZyMnY4M09KOXFOS1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSU1JSnZGZ3ZqVDFkR0dlTUhMMVlFZG92V1Bib3ZVNVpibXVXM0lzcUZBVmVoNFFBa1FYWDNsMzZMMVhRZWo1Wk1weHRLanNFQ01WWm55NERNTkg2bFFmVHNuWnJzQ0pJZ08ycFoxalphbHcyUUpnMEI2Rm5pNVdNR1NaMDYzV1E1SjNkdzVNNGtSZDNDdldXUVY3NzNDdURYTG56WWxWWkdsU2NnVlNJNDhSWEtZa1l5TGhjTW01MHpScU11RTkwU9IBzgFBVV95cUxQdTlWVDU4Q0xwQm1vaXZteWtObTNmcmhNd0V1UE5xVW1VLThiRUxuRFNoSDdZQ1d6ekh4MWtGOU85cTJQaUprbTdPZThEaV9ya1NPY1d5UVFuX2FQS01CTjVjWV9JWUxTQUhSell0UVBOTzJSU2pNMEdTR0pmR3ZsMTZWdjlUYUZtVXEyLURubldVYnFCUFNMYmUyZlVzTVA4TGpaeG52N1NLdVVtSW0zTXpoYTZrbHNkb3AxM08tNlZMemxCRmU0X2NvWC1XZw?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -782,7 +803,7 @@
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-16T05:00:35Z"
+   "ts": "2026-10-16T07:00:41Z"
   },
   {
    "k": "news",
@@ -803,30 +824,8 @@
     "Sumeks"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T03:17:00Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Konser M2M di Jakarta Digelar 2027, Tiketnya Mulai Dijual 26 Oktober 2026",
-   "snip": "Konser M2M di Jakarta Digelar 2027, Tiketnya Mulai Dijual 26 Oktober 2026 detikcom Duo M2M Akan Konser di Jakarta 10 April 2027 CNN Indonesia M2M Umumkan Jadwal Tur di Jakarta pada April 2027 RRI.co.id Konser M2M Jakarta 2027: Jadwal, Lokas",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGY3THMwQUhWOFNrd1pJaXAxQUZaZDdvNDBpampvY09SVW5VaEZObGtfcmVMSlZhdVhqUTJjS0NjaTh4YzV3ekxwVTBaMU9DV0twdXFnSFVNSDBZMjhrUWFqMWJWRU5EdUc5UGNpLTRGMG9hblRvNGdnLTlsdGQwTjQ2UWFncHpITFdhdzdFcW15d09qTzlieDBsUFBVM3dEd1ZRRDUxU1psLXdvUlN0S3lraXrSAboBQVVfeXFMTWVkV29nMXp4Xy1uT0lfd3l6WnBKc2tkY3dJQjE4RGtEVXZyTHg4M2c4SUJZWTRZY0VkYldWUjNxNXFNaWZmZmgzQTFFODYtOUdkNUR0R05MMENQbV9UTjJ1ZUpvTDlXWWh0cS13alQzOGhiNmszNDFqcFVySVRJQTdyVGEtZmtsUzNQbnotQ2RDX3FZSkhydFVoZmY4SThsaUdidnF3OGt5S25tOXo2LVk1SmNSenJuWlln?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
    "sc": 30,
-   "ts": "2026-10-16T01:35:06Z"
+   "ts": "2026-10-16T03:17:00Z"
   },
   {
    "k": "news",
@@ -857,7 +856,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia",
-   "snip": "Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ Mengenang Amaludin Syarif, Wajah Legend Sampul MP3 Kini Telah Tiada detikHOT Kover Legend MP3 Indonesia, Amaluddin Syarif Meninggal CNN Indonesia Kabar D",
+   "snip": "Kabar Duka Mas Stafaband, Amaluddin Syarif Meninggal Dunia https://janalokajournal.id/ Mengenang Amaludin Syarif, Wajah Legend Sampul MP3 Kini Telah Tiada detikHOT Kover Legend MP3 Indonesia, Amaluddin Syarif Meninggal CNN Indonesia ‘Mas St",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1054,12 +1053,12 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Saksikan Sinetron Kisah Nyata Pagi Sabtu 17 Oktober Pukul 08.30 WIB di Indosiar",
-   "snip": "Saksikan Sinetron Kisah Nyata Pagi Sabtu 17 Oktober pukul 08.30 WIB di Indosiar.",
+   "cap": "Saksikan Sinetron Kisah Nyata Siang Sabtu 17 Oktober Pukul 12.00 WIB di Indosiar",
+   "snip": "Saksikan Sinetron Kisah Nyata Siang Sabtu 17 Oktober pukul 12.00 WIB di Indosiar.",
    "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8312203/saksikan-sinetron-kisah-nyata-pagi-sabtu-17-oktober-pukul-0830-wib-di-indosiar",
+   "url": "https://www.liputan6.com/showbiz/read/8312205/saksikan-sinetron-kisah-nyata-siang-sabtu-17-oktober-pukul-1200-wib-di-indosiar",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1068,7 +1067,7 @@
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-14T06:10:02Z"
+   "ts": "2026-10-14T06:11:14Z"
   },
   {
    "k": "news",
@@ -1113,6 +1112,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T05:15:41Z"
+  },
+  {
+   "k": "news",
+   "u": "celebrity.okezone.com",
+   "name": "celebrity.okezone.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah",
+   "snip": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah celebrity.okezone.com Hamdan Tour Putus Kontrak Ruben Onsu sebagai Brand Ambassador Umrah SINDOnews Lifestyle Ruben Onsu Tak Lagi Jadi BA Travel Umrah Imbas Video Ca",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkdxVkhyOUh6cVBKaG1zN0dRbEwxOTlfRzJkNFZWWUZubXBrbUtEWm05XzlNdWNVSnBNMktkcFpsT25HWGJXNnE4T1dibmtoZWhyTFZReHR1ZG16T1M4VVFVNE83MEdTVDlNYTFiN254b3ZtaGlMbEp0Z0dJdUxTWFdoX3o4anRsanVFWW1EbzVvMGh0cW9SbGRCdkEzUnN2ZlVTYkpFVEtkYVZMVFc2RDJvOHJnZFZSOU1wNE40Ry1semFLX0JfampR0gHIAUFVX3lxTE5FclRpMkVHYzl2N2tvYjRZeUpqOVdGR0NlNzUyUk1MT2lFQy01NGxJZVdoZ0dYUXU0UlNaTjZ4ZjlnWXYwR3piQUNaNVFjdVZ2WGNjVEFDQkRsQ1l3OGhqeGwwSHB4SU1CcEUxZDlHdmNkOGhTRmtuZWNpcnFGeVhXRVhmNmdXeDZfLTdsYTJRUWRVQzM0M0RNYUZGQXc5VWRuOXNJVmc2NmZ5R2NmWmgwSmpkNGFoYkpTbUFYd09wN1VRa1N4MldQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "celebrity.okezone.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-14T04:00:10Z"
   },
   {
    "k": "news",
