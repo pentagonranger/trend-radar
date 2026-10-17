@@ -22,6 +22,38 @@
    "vu": "pencarian"
   },
   {
+   "t": "Keluarga Ungkap Kondisi Terakhir Doddy Katamsi, 45 Hari Dirawat di RS",
+   "q": "Keluarga Ungkap Kondisi Terakhir Doddy Katamsi, 45 Hari Dirawat di RS",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "detikHOT"
+   ],
+   "d": "2026-10-17",
+   "url": "https://www.liputan6.com/showbiz/read/8315249/keluarga-ungkap-kondisi-terakhir-doddy-katamsi-45-hari-dirawat-di-rs",
+   "n": ""
+  },
+  {
+   "t": "Miss Indonesia 2026 Diraih Alda Callista, Wakil Papua Tengah",
+   "q": "Miss Indonesia 2026 Diraih Alda Callista, Wakil Papua Tengah",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "SINDOnews Lifestyle"
+   ],
+   "d": "2026-10-17",
+   "url": "https://www.liputan6.com/showbiz/read/8315215/miss-indonesia-2026-diraih-alda-callista-wakil-papua-tengah",
+   "n": ""
+  },
+  {
    "t": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "q": "Azka Corbuzier Debut Akting, HOME, ALMOST Diputar di Urbanworld New York",
    "cat": "Selebriti",
@@ -55,6 +87,52 @@
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Keluarga Ungkap Kondisi Terakhir Doddy Katamsi, 45 Hari Dirawat di RS",
+   "snip": "Doddy Katamsi dirawat selama 45 hari di rumah sakit sebelum menghembuskan napas terakhirnya. Baca selengkapnya di sini...",
+   "img": "https://cdn1-production-images-kly.akamaized.net/szHZIkunZMSNVMPZvp3qtS6I1uY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375399/original/003957300_1792143695-g_2026_10_16_r_atiek_cb-20261016-003-busan.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315249/keluarga-ungkap-kondisi-terakhir-doddy-katamsi-45-hari-dirawat-di-rs",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Liputan6 Showbiz",
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-10-17T04:16:08Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Miss Indonesia 2026 Diraih Alda Callista, Wakil Papua Tengah",
+   "snip": "Miss Indonesia 2026 dimenangkan Alda Callista dari Papua Tengah. Simak lokasi final, daftar runner up, jawaban Alda di Top 5, dan profil lengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/5ud8CS6OXiJf-6yz5Goaw7vWG9w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375665/original/039616700_1792206461-MjI2OTU0ODUzNzg2NTkyMjg3.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315215/miss-indonesia-2026-diraih-alda-callista-wakil-papua-tengah",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Liputan6 Showbiz",
+    "SINDOnews Lifestyle"
+   ],
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-10-17T03:55:51Z"
+  },
   {
    "k": "news",
    "u": "Liputan6 Showbiz",
@@ -107,12 +185,12 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Miss Indonesia 2026 Diraih Alda Callista, Wakil Papua Tengah",
-   "snip": "Miss Indonesia 2026 dimenangkan Alda Callista dari Papua Tengah. Simak lokasi final, daftar runner up, jawaban Alda di Top 5, dan profil lengkapnya di sini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/5ud8CS6OXiJf-6yz5Goaw7vWG9w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375665/original/039616700_1792206461-MjI2OTU0ODUzNzg2NTkyMjg3.jpg",
+   "cap": "Titi Kamal Refresh ke Curug dan Hutan di Sela Syuting The Doll Ghawiah, Banyak Adegan Menguras Fisik",
+   "snip": "Titi Kamal menceritakan tentang pengalaman syuting The Doll Ghawiah. Ini caranya biar tetap terlihat segar!",
+   "img": "https://cdn0-production-images-kly.akamaized.net/HTEaK21zWyChBhp1kuXeN-8pl2A=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375696/original/077629000_1792210506-IMG-20261016-WA0049.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8315215/miss-indonesia-2026-diraih-alda-callista-wakil-papua-tengah",
+   "url": "https://www.liputan6.com/showbiz/read/8315248/titi-kamal-refresh-ke-curug-dan-hutan-di-sela-syuting-the-doll-ghawiah-banyak-adegan-menguras-fisik",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -121,7 +199,73 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-17T03:07:42Z"
+   "ts": "2026-10-17T04:15:44Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Hanung Bramantyo Tidak Ingin Membuat Karakter Hitam Putih di Film Beautiful Pain",
+   "snip": "Produseri film Beautiful Pain, Hanung Bramantyo ingin membuat karakter yang memiliki motif jelas dari sifatnya.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/fm0kXSypBXWrJp79a2bhpsUBmrg=/1011x861:3170x2077/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375392/original/041073700_1792143554-IMG_0460.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8314887/hanung-bramantyo-tidak-ingin-membuat-karakter-hitam-putih-di-film-beautiful-pain",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T04:14:22Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Xu Yiyang Bantah Rumor Punya Dua Anak dengan Huang Zitao",
+   "snip": "Xu Yiyang bantah rumor punya dua anak dengan Huang Zitao saat live Weibo, Jumat (16/10/2026). Simak pernyataan lengkapnya dan kapan mereka menikah di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/90V3UGojcaBsrWTpGckUIfPWlyY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375687/original/037510200_1792209249-008H3ZdCgy1igymzor80gj323w35snpd.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315239/xu-yiyang-bantah-rumor-punya-dua-anak-dengan-huang-zitao",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T03:54:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Persaingan Top 12 D'Academy 8 Makin Memanas, Seluruh Academia Raih Tiga Standing Ovation",
+   "snip": "Persaingan di ajang Dangdut Academy 8 semakin ketat, keempat academia mendapatkan standing ovation dari para juri yang membuktikan kualitas mereka tak main-main",
+   "img": "https://cdn0-production-images-kly.akamaized.net/UkViVcKyrWg6j2Q3JJkjhXMfEII=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375680/original/091983900_1792208121-Dangdut_Academy_1.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315225/persaingan-top-12-dacademy-8-makin-memanas-seluruh-academia-raih-tiga-standing-ovation",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T03:35:24Z"
   },
   {
    "k": "news",
@@ -130,7 +274,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero",
-   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Demi Jadi Pembeli Pertama iPhone 18 Pro Max, Wanita Bekasi Rela Tak Tidur detikInet Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series A",
+   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Bayar Puluhan Juta, Antre Berjam-jam: Cerita di Balik Pembeli iPhone 18 Kompas.com Melihat Lebih Dekat Perbedaan iPhone 18 Pro dan iPhone 17 Pro CN",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -169,6 +313,28 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Kronologi Yadi Timo Meninggal, Serangan Jantung dan Sempat Kumpul Bareng Teman",
+   "snip": "Kronologi Yadi Timo Meninggal, Serangan Jantung dan Sempat Kumpul Bareng Teman detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CNBC Indonesia Yadi",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjFKSFFsUHkzcS1UWVlrVU1KWEdFYkdmWHg2RnVCX3BidnptaGFid29obEowUWZWT0ZYVEJEbFVBcWZlRV85N3RoMkVCLTc5eXF5ZDI2MFN6dTRPY0N5ZE0temlocFF5emlVclN2Qy1USm5mVjlIQnR5WndhQzA0aEFFRjh2NmRZSFlkcmlLOVlUSTNBZEV6cVNTM3JXRmpSVS1USnhHYmhCMld4NHBQTTRlVldVZ9IBuwFBVV95cUxQNE8tbnlYdW42UFNlX0V2aHljNDBTMHdyOHA4dG1aVkFxaGlXQnFGUUZHbTAzOWl3c01yQWZTX1R2eS15YmJ0RlhVMEhEZEtDcER0S2ZnYnNPQThQTDYwR0hkaFBwVTJKLXI5d0FQWllkWmJDYUE1YVpSa0pNS0d1TU1PeVJoMmZOcUNkRzFueG9Bb1dBb3czQWYwdTVDdVd6d2FtSTJ1bFRPZUJ2RU9SeExjLUhHZ1hfZVBJ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T02:16:53Z"
+  },
+  {
+   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
@@ -188,50 +354,6 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-10-17T02:10:24Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis film \"Laut Bercerita\" beserta jadwal tayangnya",
-   "snip": "Film \"Laut Bercerita\" menjadi salah satu film Indonesia yang dinantikan pada Oktober 2026. Diadaptasi dari ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/02/THE-SEA_STILLS_01-OK_Credit-Pal-8-Pictures-2.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5792777/sinopsis-film-laut-bercerita-beserta-jadwal-tayangnya",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-17T01:48:11Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Rekomendasi akhir pekan di Jakarta, festival literasi hingga musik",
-   "snip": "Akhir pekan menjadi waktu yang tepat bagi warga Jakarta untuk mengisi liburannya. Rutinitas sepanjang Senin hingga ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/11/festival-literaia-2026-2882362.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5792773/rekomendasi-akhir-pekan-di-jakarta-festival-literasi-hingga-musik",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-17T01:43:44Z"
   },
   {
    "k": "news",
@@ -257,28 +379,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Soal Pertemuan Terakhir Yadi Timo Sebelum Meninggal Dunia",
-   "snip": "Soal Pertemuan Terakhir Yadi Timo Sebelum Meninggal Dunia detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CNBC Indonesia Yadi Timo, Pemeran Pencul",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTzR4NXlqUG9sSUozZmg5LWxmMzBzamVJZDRIUk5EX2F6cjZrVXplYm05ajNfOWhKRVNWNWVrUVliREgzX2FKaDFyeHExN3B2Y3N1azVRdU5sNGU0TFVqRmJHcTQ3X0F1LWJmN3RhYWVYOFptVHB4T3RDd1psa2k4OHRUanItMEZnbHVsMmk2dFlyNjFtcFFwamd3NNIBoAFBVV95cUxOb3I2NWxaaEVvUi1uRkt1TGhGaUFZMHdRT1FOSTVyanZJd3ZTU2hrVU1NYUV5MnVkZnczRl9yQ2hIeGRQSlQ3RFR2dWNBMk5Kd0VmQnNYb1F2NXU4ck9zVlpOX0F0aEQydTZhQ0tYN3owcTBvRjBWbHc5MnBGUk1CMnk4TmpTY1oyTUVJNDQ5M2lCdFpDNG5lNlRENUJyeTVO?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-17T00:06:55Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -296,7 +396,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-16T22:00:19Z"
   },
   {
@@ -386,50 +486,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-16T13:46:07Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once",
-   "snip": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once detikHOT Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Doddy Katamsi Terakhir Manggung di Kafe Once Mekel Kompas.com Musisi Doddy Katamsi Berpulang setelah Berjuang Lawa",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEhWWHVhZ0xjdG9nVm5Gek0yQ2EzTVFoY3pyZGJRR05CTGc3ZTVRWHNyNGF4Ym9uZUE2OUt4dWpJUGpoRE4tTWlQM0lVMDg0SElKRExTUVJfYm54bG9WbWhpYUhaMUlxbHFENVZRQXFVeVgtRTZSQ2kwekJ0MXROa1J2TjVpTmRfN2p3R250M1NFOGI5STN5etIBngFBVV95cUxPVHVnSmxGSGZxd1RweVJXQXNWbHd3aXlMQW90bWhJbHNhbElQMkxSX0lUaDNyOUV4bE82VVRRVEhoT1RoeEN1T1RmUDRVM0hWNWprYzZvYm1sRUdzUlBZb3FyN3ZhdHB2SjB0cVlQZTR2T1F1YVc4SUpzN01ndElqXzNLUWdEXzNCSHJJM2NhbzBnRWRKdzQyb2lUZkZCUQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T12:09:36Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "BLACKPINK's Jennie to Lead Soundtrack of Netflix's 'Steps'",
-   "snip": "Jennie of the K-pop trailblazer BLACKPINK is headlining the soundtrack for Netflix's new animated film 'Steps.'",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2121742/blackpinks-jennie-to-lead-soundtrack-of-netflixs-steps",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T12:06:17Z"
   },
   {
    "k": "news",
@@ -675,116 +731,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Potret Wonyoung IVE Nonton Grand Prix Singapura, Bidadari F1",
-   "snip": "Intip gaya kece Jang Wonyoung IVE saat nonton F1 Singapore Grand Prix, lengkap dengan outfit dan reaksi netizen yang bikin heboh. Yuk simak selengkapnya!",
-   "img": "https://cdn1-production-images-kly.akamaized.net/kNmif2VpIXol6mra-FwIhaXZpDA=/0x1099:3072x2830/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375357/original/004574700_1792141035-844737513_18128189345587664_580035725855345660_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314837/potret-wonyoung-ive-nonton-grand-prix-singapura-bidadari-f1",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T09:11:21Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Hilary Swank Umumkan Hamil Anak Ketiga di Usia 52 Tahun, Semangati Warganet soal Takdir",
-   "snip": "Hilary Swank mengungkap sang buah hati akan \"dirilis\" pada akhir tahun ini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/KS4R3ej1qNdxi-lsMS2xrKoX0Qg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375265/original/073998200_1792137280-063_2023875244.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8311472/hilary-swank-umumkan-hamil-anak-ketiga-di-usia-52-tahun-semangati-warganet-soal-takdir",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T09:05:15Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Zarima Ungkap Kondisi Yusuf Kartiko Usai Diterpa Isu Narkoba, Sempat Tak Mau Makan",
-   "snip": "Zarima Mirafsur mengungkapkan kondisi putranya, Yusuf Kartiko, usai diterpa isu menggunakan narkoba. Baca selengkapnya di sini yuk...",
-   "img": "https://cdn1-production-images-kly.akamaized.net/MWBr0yWQ-nBolDv0b52oZkvweHs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375280/original/058067400_1792137705-Zarima_Mirafsur_2.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314769/zarima-ungkap-kondisi-yusuf-kartiko-usai-diterpa-isu-narkoba-sempat-tak-mau-makan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T08:59:34Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "NPD Sambangi Korea dan Mampir ke Kantor SM, Bakal Ada Project Kejutan?",
-   "snip": "Group Band NPD mengundang penasaran publik usai bagikan foto kunjungan ke SM Entertainment.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/6ViSL1yqegD1JpXiWARx5rIbG7Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375319/original/027801600_1792139079-ieugf.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314795/npd-sambangi-korea-dan-mampir-ke-kantor-sm-bakal-ada-project-kejutan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T08:48:17Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Drama China Small Town Remedy, Xiao Zhan Jadi Dokter Jenius",
-   "snip": "Drama China Small Town Remedy tayang 21 Oktober 2026 dan dibintangi Xiao Zhan. Simak sinopsis lengkap, daftar pemain, serta platform tempat menontonnya.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/A1wBbH9QtJKmR3FdZIu-RGnpr3U=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375341/original/029493000_1792140340-Dkljxo_4f.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314819/drama-china-small-town-remedy-xiao-zhan-jadi-dokter-jenius",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T08:45:40Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
@@ -812,7 +758,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Ramalan Shio Oktober 2026: Kambing dan Monyet Berpeluang Naik Karier, Naga Berpotensi Ketiban Rezeki Pontianak Post Ramalan Shio ",
+   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -892,6 +838,28 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-15T13:53:10Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Setelah Singapura, Agnez Mo Akan Miliki Patung Lilin di Madame Tussauds Hollywood",
+   "snip": "Setelah Singapura, Agnez Mo Akan Miliki Patung Lilin di Madame Tussauds Hollywood Kompas.com Agnez Mo Pakai Gaun dari Celana Bekas Pasar Senen, Ivan Gunawan Desainernya! iNews.ID Agnez Mo Bakal Punya Patung Lilin di Madame Tussauds Hollywoo",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVBpUUVKY0RQZ2xCT20wVE9uVWxzTl90RHNET2ktZ3hqalRtVzUyM2ZqbTVDd0ZDUHE2NGxHX2Y5bzFMVUozeHVvRDYxU3UyMW1lVlF0ejVXVzhtR2pHZHFPTmdwcTFRQk1HNFlFZjBvVTJVRzlXN1ZMWkFxMFBZTFFoeGRTVHhMT21XTzB5UnJ5NmQ0bkxjT0tVM1J5R3o0SGZfRk9tcDFxS0NJaUhINnFaeFlHbU0tMlFlbDM3a1hyWHZjek43WQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-15T11:47:00Z"
   },
   {
    "k": "news",
@@ -983,28 +951,6 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "3 Zodiak yang Diprediksi Meraih Kesuksesan pada 15 Oktober 2026, Ada Leo",
-   "snip": "3 Zodiak yang Diprediksi Meraih Kesuksesan pada 15 Oktober 2026, Ada Leo Kompas.com Ramalan Zodiak Hari Ini, Kamis 15 Oktober 2026: Ada yang Beruntung, Ada yang Harus Bersabar Sumeks Ramalan Zodiak Cinta 14 Oktober: Aries Jaga Ucapan, Gemin",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGg0TkNmU3pBLW1TbzJ4aV9MclI0Z1Q5bVh3TzlOb3VnRGd1dFk5WXdvTG5RVTk4NFluN0RVdUVxNDYwem1HcEZIRkJ3VmpaRHpCSEw3Wk15ZHl6eDFvb01qeDNnTUc2TGVYNVo0RW91M2RYVUhQZnVBY3I5dFpVNmd6N0QwVnkxa2RwelkzQ3Y5VDJOdzhhQU42VnRJVVVSaG03VlppamZrNkhKSkpRLW04UlBtYlQySVFud1ItdGd2UFRBVl9rNEZWajJNSEM4?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T14:30:00Z"
-  },
-  {
-   "k": "news",
    "u": "Biz Kompas",
    "name": "Biz Kompas",
    "av": "",
@@ -1024,28 +970,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T12:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Stamina Menurun hingga Mudah Lelah, Kenali Tanda Andropause Pria",
-   "snip": "Stamina Menurun hingga Mudah Lelah, Kenali Tanda Andropause Pria Kompas.com Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHJvYlNEdUtBNEMyaHFwbHRpS3J0Zlg1Z1JDN0RGUnhmb3dzMHM5WEU1dnJPbVBTOGNUdTlfMFpIRWxYTVI2c2dLa0IxUXl5SmtCVzc5bmtadUIyS2tmWGQ5Y1pQVUVZM0prSEI3cGx1VDJ4MXdfSnVrZHlMR1F1dV9heHh6ZGkxZG1CbVhIQWhmOFNScXY5bGtXM1AxeFB6UTNUUWxCMHY3S1hSNV80M1Znd0VCRnJ2Wmc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T09:06:00Z"
   },
   {
    "k": "news",
@@ -1115,34 +1039,12 @@
   },
   {
    "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah",
-   "snip": "Hamdan Tour Putus Kontrak Ruben Onsu, Tak Lagi Jadi Brand Ambassador Umrah celebrity.okezone.com Hamdan Tour Putus Kontrak Ruben Onsu sebagai Brand Ambassador Umrah SINDOnews Lifestyle Ruben Onsu Tak Lagi Jadi BA Travel Umrah Imbas Video Ca",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkdxVkhyOUh6cVBKaG1zN0dRbEwxOTlfRzJkNFZWWUZubXBrbUtEWm05XzlNdWNVSnBNMktkcFpsT25HWGJXNnE4T1dibmtoZWhyTFZReHR1ZG16T1M4VVFVNE83MEdTVDlNYTFiN254b3ZtaGlMbEp0Z0dJdUxTWFdoX3o4anRsanVFWW1EbzVvMGh0cW9SbGRCdkEzUnN2ZlVTYkpFVEtkYVZMVFc2RDJvOHJnZFZSOU1wNE40Ry1semFLX0JfampR0gHIAUFVX3lxTE5FclRpMkVHYzl2N2tvYjRZeUpqOVdGR0NlNzUyUk1MT2lFQy01NGxJZVdoZ0dYUXU0UlNaTjZ4ZjlnWXYwR3piQUNaNVFjdVZ2WGNjVEFDQkRsQ1l3OGhqeGwwSHB4SU1CcEUxZDlHdmNkOGhTRmtuZWNpcnFGeVhXRVhmNmdXeDZfLTdsYTJRUWRVQzM0M0RNYUZGQXc5VWRuOXNJVmc2NmZ5R2NmWmgwSmpkNGFoYkpTbUFYd09wN1VRa1N4MldQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "celebrity.okezone.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T04:00:10Z"
-  },
-  {
-   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
    "cap": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi",
-   "snip": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi Kompas.com Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Apakah Staf Khusus Kementerian Dapat Uang Pensiun? Simak Aturan Resminya Suara.com Mundur dari Stafsus Kom",
+   "snip": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi Kompas.com Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Apakah Staf Khusus Kementerian Dapat Uang Pensiun? Simak Aturan Resminya Suara.com Bukan Cuma Raline Shah,",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1178,6 +1080,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-13T00:05:02Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Andre Taulany Nikmati Jalan-jalan di Italia Bareng Putrinya dan Amanda Rigby",
+   "snip": "Andre Taulany Nikmati Jalan-jalan di Italia Bareng Putrinya dan Amanda Rigby detikHOT Momen akrab Amanda dan Andrea Taulany saat liburan di Italia ANTARA News Andre Taulany Boyong Amanda Rigby dan Lova Liburan Romantis ke Italia https://jan",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGQtLTIxRnluZHdmUmdERVhNUUVaMDZ2ZjZocmszdVBFQjlHVU9KZi1QSXJXYVlFX3JJT09oWjJmVURCY293UFZuMi1ZUG5IR012R3Q4Tm5qTWd2VkRldE1YZ1dQWXJRMXMtczJfMEtVa1lyWVpQUWlJX0NRMlh3UG9JS2M0YTBSY2V1TmtqRnFWZGVBTC1nNUVMUHM2eUIwbVB6MGdKb01JMWx2d1Zyc3Bja1TSAboBQVVfeXFMTjRmcjBMRi1tc3ZBTmROZnFnZ0NUeTdwTGZVdWhsZGRlVTNWWGZ1SzVJVlQxWnhyeFZZbjVWbXFBNDNRVl9WaGhWLW1MT0VxUnZ3ZW1mb1F2SXJKRjRlNEY1UHRmNmI0cVhBeHZId1FBN3JpUmxxNmZxOVpwMTUxUG5Ca1ZmRlBOcjcwUlFCYUNFZUlfcTdvZkdoTVRYN3ByWkducmpzYVo4UzhTd01EVW1yU2hOSU83WXJR?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-12T09:08:58Z"
   },
   {
    "k": "news",
