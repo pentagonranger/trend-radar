@@ -1,8 +1,8 @@
 {
  "topics": [
   {
-   "t": "Ftr",
-   "q": "ftr",
+   "t": "Film Bioskop Terbaru",
+   "q": "film bioskop terbaru",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -11,19 +11,40 @@
    ],
    "src": [
     "Google Trends",
-    "Yahoo Sports",
-    "F4W/WON",
-    "411MANIA"
+    "RRI.co.id",
+    "TrenAsia",
+    "Haibunda"
    ],
    "d": "2026-10-17",
-   "url": "https://sports.yahoo.com/articles/mcmg-return-aew-challenge-ftr-012932206.html",
-   "n": "MCMG Return To AEW To Challenge FTR To Best Of 5 Series",
+   "url": "https://rri.co.id/hiburan/2814940/simak-deretan-film-yang-tayang-di-bioskop-oktober-pekan-ini",
+   "n": "Simak Deretan Film yang Tayang di Bioskop Oktober Pekan Ini",
    "vol": 100,
    "vu": "pencarian"
   },
   {
-   "t": "Keluarga Ungkap Kondisi Terakhir Doddy Katamsi, 45 Hari Dirawat di RS",
-   "q": "Keluarga Ungkap Kondisi Terakhir Doddy Katamsi, 45 Hari Dirawat di RS",
+   "t": "Gal Gadot",
+   "q": "gal gadot",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "CNN Indonesia",
+    "bsinews.id",
+    "Demokratis.co.id"
+   ],
+   "d": "2026-10-17",
+   "url": "https://www.cnnindonesia.com/hiburan/20261016201421-234-1416340/daftar-artis-dunia-yang-diboikot-gara-gara-dukung-israel",
+   "n": "Daftar Artis Dunia yang Diboikot gara-gara Dukung Israel",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Penampilan Terakhir Doddy Katamsi di Panggung: Tribut Scorpions",
+   "q": "Penampilan Terakhir Doddy Katamsi di Panggung: Tribut Scorpions",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -34,7 +55,7 @@
     "detikHOT"
    ],
    "d": "2026-10-17",
-   "url": "https://www.liputan6.com/showbiz/read/8315249/keluarga-ungkap-kondisi-terakhir-doddy-katamsi-45-hari-dirawat-di-rs",
+   "url": "https://www.liputan6.com/showbiz/read/8315271/penampilan-terakhir-doddy-katamsi-di-panggung-tribut-scorpions",
    "n": ""
   },
   {
@@ -47,7 +68,7 @@
    ],
    "src": [
     "Liputan6 Showbiz",
-    "SINDOnews Lifestyle"
+    "CNN Indonesia"
    ],
    "d": "2026-10-17",
    "url": "https://www.liputan6.com/showbiz/read/8315215/miss-indonesia-2026-diraih-alda-callista-wakil-papua-tengah",
@@ -93,12 +114,12 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Keluarga Ungkap Kondisi Terakhir Doddy Katamsi, 45 Hari Dirawat di RS",
-   "snip": "Doddy Katamsi dirawat selama 45 hari di rumah sakit sebelum menghembuskan napas terakhirnya. Baca selengkapnya di sini...",
-   "img": "https://cdn1-production-images-kly.akamaized.net/szHZIkunZMSNVMPZvp3qtS6I1uY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375399/original/003957300_1792143695-g_2026_10_16_r_atiek_cb-20261016-003-busan.jpg",
+   "cap": "Penampilan Terakhir Doddy Katamsi di Panggung: Tribut Scorpions",
+   "snip": "Tiga hari sebelum dirawat di rumah sakit, Doddy Katamsi sempat manggung bersama sahabat-sahabatnya. Baca di sini yuk...",
+   "img": "https://cdn1-production-images-kly.akamaized.net/9M1uKgSUuWxvYAh0eVrTS9Rbjug=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375409/original/038469300_1792143934-1280.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8315249/keluarga-ungkap-kondisi-terakhir-doddy-katamsi-45-hari-dirawat-di-rs",
+   "url": "https://www.liputan6.com/showbiz/read/8315271/penampilan-terakhir-doddy-katamsi-di-panggung-tribut-scorpions",
    "likes": null,
    "com": 0,
    "m": 2,
@@ -108,7 +129,7 @@
    ],
    "hot": [],
    "sc": 68,
-   "ts": "2026-10-17T04:16:08Z"
+   "ts": "2026-10-17T05:03:27Z"
   },
   {
    "k": "news",
@@ -127,7 +148,7 @@
    "m": 2,
    "src": [
     "Liputan6 Showbiz",
-    "SINDOnews Lifestyle"
+    "CNN Indonesia"
    ],
    "hot": [],
    "sc": 68,
@@ -178,6 +199,28 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-16T09:24:42Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "20 gerai UMKM siap meriahkan Festival Hudoq di perbatasan negara",
+   "snip": "Sebanyak 20 gerai usaha mikro, kecil dan menengah (UMKM) siap memeriahkan Festival Hudoq Pekayang di perbatasan ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/17/gerai-umkm-di-festival-hudoq.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5792949/20-gerai-umkm-siap-meriahkan-festival-hudoq-di-perbatasan-negara",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T04:40:15Z"
   },
   {
    "k": "news",
@@ -274,7 +317,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero",
-   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Bayar Puluhan Juta, Antre Berjam-jam: Cerita di Balik Pembeli iPhone 18 Kompas.com Melihat Lebih Dekat Perbedaan iPhone 18 Pro dan iPhone 17 Pro CN",
+   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Demi Jadi Pembeli Pertama iPhone 18 Pro Max, Wanita Bekasi Rela Tak Tidur detikInet Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series A",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -335,28 +378,6 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "YouTube Music Mulai Tandai Lagu Buatan AI",
-   "snip": "YouTube Music Mulai Tandai Lagu Buatan AI Kompas.com Lima Tips dari Kreator TikTok untuk Berkreasi Pakai Konten AI Bisnis Style 8 Tips Berkreasi dengan AI untuk Content Creator agar Konten tidak Generik Media Indonesia Kreator Dorong Penggu",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGpldFVFajUxblZZdF9fUkJFSDV5RFRRbEJ0VEpGbnBTQTFURlJkWjQ4YVl2dzFPOXVaQktpNHZELTZteDgycWRaMWRMbFZBdHZRUWFWX2pJUmhwRXFldHJjTlc5d2YzYkRsTkZnYmd0VTVlRFJwWU5iZS1hTU4wdXYyTXBHaFNGa0E3OFFVRVM1NEJvRUdpYjlwU0cwZ2tPUVE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-17T02:10:24Z"
-  },
-  {
-   "k": "news",
    "u": "Tempo",
    "name": "Tempo",
    "av": "",
@@ -376,6 +397,28 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-10-17T00:24:35Z"
+  },
+  {
+   "k": "news",
+   "u": "Marketeers",
+   "name": "Marketeers",
+   "av": "",
+   "followers": 0,
+   "cap": "YouTube Music Luncurkan Label untuk Tandai Lagu Buatan AI",
+   "snip": "YouTube Music Luncurkan Label untuk Tandai Lagu Buatan AI Marketeers YouTube Music Mulai Tandai Lagu Buatan AI Kompas.com Lima Tips dari Kreator TikTok untuk Berkreasi Pakai Konten AI Bisnis Style 8 Tips Berkreasi dengan AI untuk Content Cr",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDdPSmZEZk5FZ3FtMFRseC1TNVVBQkdXVkNudDBHNHlNVERNb25pM040YXFTSlNWLUF4OW9fdGd5dVQzbUlfSy1VLVNhU1g0NGlVVWFXUnhfRExPUGN4UFFWdE5BeDdZRF9aWmpTbHdRelIzRXVhMU5NR2E1UUhBVjZSUDFRWG01LTlqOXNB?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Marketeers"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-16T22:32:05Z"
   },
   {
    "k": "news",
@@ -709,28 +752,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "16 Lagu yang Menjadi Ikonik karena Bagian Musiknya, Bukan Hanya Lirik",
-   "snip": "16 lagu ikonik yang dikenal lewat intro, riff gitar, dan irama musiknya, dari karya Indonesia hingga mancanegara.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/2Q2SeSr8LbV-Tz_zPgj6a2I6SEc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353321/original/008082900_1789960472-rhoma_irama-HL.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8314802/16-lagu-yang-menjadi-ikonik-karena-bagian-musiknya-bukan-hanya-lirik",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-16T09:21:00Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
@@ -758,7 +779,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Ramalan Shio Hari Ini Jumat 16 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Ramalan Shio Oktober 2026: Kambing dan Monyet Berpeluang Naik Karier, Naga Berpotensi Ketiban Rezeki Pontianak Post Ramalan Shio ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -780,7 +801,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Zodiak 16 Oktober: Aries Putus Asa, Taurus Butuh Motivasi",
-   "snip": "Ramalan Zodiak 16 Oktober: Aries Putus Asa, Taurus Butuh Motivasi Wolipop Ramalan Zodiak Hari Ini, Jumat 16 Oktober 2026: Leo dan Libra Punya Peluang Positif - sumeks.disway.id Sumeks Ramalan Zodiak 17 Oktober 2026: Karier dan Keuangan Capr",
+   "snip": "Ramalan Zodiak 16 Oktober: Aries Putus Asa, Taurus Butuh Motivasi Wolipop Ramalan Zodiak Hari Ini, Jumat 16 Oktober 2026: Leo dan Libra Punya Peluang Positif - sumeks.disway.id Sumeks Ramalan Asmara Hari Ini: Taurus Diminta Berani, Libra Di",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -846,7 +867,7 @@
    "av": "",
    "followers": 0,
    "cap": "Setelah Singapura, Agnez Mo Akan Miliki Patung Lilin di Madame Tussauds Hollywood",
-   "snip": "Setelah Singapura, Agnez Mo Akan Miliki Patung Lilin di Madame Tussauds Hollywood Kompas.com Agnez Mo Pakai Gaun dari Celana Bekas Pasar Senen, Ivan Gunawan Desainernya! iNews.ID Agnez Mo Bakal Punya Patung Lilin di Madame Tussauds Hollywoo",
+   "snip": "Setelah Singapura, Agnez Mo Akan Miliki Patung Lilin di Madame Tussauds Hollywood Kompas.com Agnez Mo Bakal Punya Patung Lilin di Madame Tussauds Hollywood CNN Indonesia Ivan Gunawan Sulap Jeans Thrifting Jadi Gaun untuk Agnez Mo Liputan6.c",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -912,7 +933,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sinopsis dan Daftar Pemain Drakor Make Me Tingle",
-   "snip": "Sinopsis dan Daftar Pemain Drakor Make Me Tingle Beautynesia Sinopsis Drakor ‘Make Me Tingle’, Tayang di HBO Max RRI.co.id 3 Drakor Office Romance Nam Ji Hyun, Comeback di Make Me Tingle IDN Times Chemistry Nam Ji Hyun dan Kim Jae Young Di ",
+   "snip": "Sinopsis dan Daftar Pemain Drakor Make Me Tingle Beautynesia Sinopsis Drakor ‘Make Me Tingle’, Tayang di HBO Max RRI.co.id Kenapa Drakor Make Me Tingle Diberi Rating 18+? IDN Times Jadwal Tayang Make Me Tingle per Episode yang Banyak Dicari",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1022,7 +1043,7 @@
    "av": "",
    "followers": 0,
    "cap": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru",
-   "snip": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru detikcom Intip Rumah Baru Fajar Sadboy, Sekeluarga Diboyong ke Bekasi! detikcom Potong Tumpeng, Fajar Sadboy Gelar Tasyakuran di Rumah Barunya Popmama.com 5 Potret Rumah Baru",
+   "snip": "Dulu Ngontrak, Fajar Sadboy Boyong Keluarga Tinggal di Rumah Baru detikcom Intip Rumah Baru Fajar Sadboy, Sekeluarga Diboyong ke Bekasi! detikcom Hasil Berkarier di Jakarta, Fajar Sadboy Akhirnya Punya Rumah Sendiri, Amanda Manopo Sumbang T",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1066,7 +1087,7 @@
    "av": "",
    "followers": 0,
    "cap": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya",
-   "snip": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya celebrity.okezone.com Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Singgung Soal Anak, Pesan Psikolog Lita Gading ke S",
+   "snip": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya celebrity.okezone.com Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Muncul Isu Boikot Buntut Rekaman Video Call Ruben O",
    "img": "",
    "vid": false,
    "vt": "NEWS",
