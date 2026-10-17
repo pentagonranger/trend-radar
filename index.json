@@ -1,46 +1,6 @@
 {
  "topics": [
   {
-   "t": "Bantuan",
-   "q": "bantuan",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "ANTARA Foto",
-    "ANTARA News Megapolitan",
-    "Bisnis.com - Foto"
-   ],
-   "d": "2026-10-17",
-   "url": "https://www.antarafoto.com/id/view/2886433/penyerahan-becak-listrik-bantuan-presiden-di-kabupaten-bogor",
-   "n": "Penyerahan becak listrik bantuan Presiden di Kabupaten Bogor",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Keane Lewis-Potter",
-   "q": "keane lewis-potter",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Universidad de Córdoba (UCO)"
-   ],
-   "d": "2026-10-17",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL1B5ZHJ0cy5naXRodWIuaW8vY2xvdWQvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-premier-league-li-match-today-uk002",
-   "n": "EPL-LIVES@TREAMS-2026] Brentford vs Liverpool Live Streaming Free EPL Game 10 October 2026 Right Now",
-   "vol": 200,
-   "vu": "pencarian"
-  },
-  {
    "t": "Ucap Syukur Arie Kriting, Indah Permatasari Hamil Anak Kedua",
    "q": "Ucap Syukur Arie Kriting, Indah Permatasari Hamil Anak Kedua",
    "cat": "Selebriti",
@@ -119,6 +79,116 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-17T06:23:13Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Film Zona Merah masuk babak baru lewat format layar lebar",
+   "snip": "Film Zona Merah memasuki babak baru melalui adaptasi ke format layar lebar setelah Screenplay Films merilis teaser ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/17/ec413004-63fe-41cf-aa79-f6bdf44922a8.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5794101/film-zona-merah-masuk-babak-baru-lewat-format-layar-lebar",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T17:41:33Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Celine Dion Net Worth: How Rich Is 'My Heart Will Go On' Singer?",
+   "snip": "Celine Dion is undoubtedly a music powerhouse, with multiple Grammys under her wealth. But how much is her net worth?",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2121789/celine-dion-net-worth-how-rich-is-my-heart-will-go-on-singer",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T17:00:58Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Indro kenang Dono Kasino lewat lagu dan doa di Synchronize Fest 2026",
+   "snip": "Komedian sekaligus aktor Indrodjojo Kusumonegoro alias Indro, mengenang dua sahabatnya, mendiang Dono dan ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/17/IMG_7592.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5794033/indro-kenang-dono-kasino-lewat-lagu-dan-doa-di-synchronize-fest-2026",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T16:29:56Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Dian Sastrowardoyo di Tangan MUA Korea, Bersinar di Festival Film Busan",
+   "snip": "Potret Dian Sastrowardoyo di Tangan MUA Korea, Bersinar di Festival Film Busan Wolipop Dian Sastro Curi Perhatian di BIFF 2026, Tampil Anggun Berbalut Gaun Wilsen Willim VIVA.co.id Gaya Dian Sastro di BIFF 2026, Pakai Dress Wilsen Willim ID",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnVKVktNeEdZX1kybWpyZzE1alllTlZqREFqS1JiaUNwOUoxa0lXelN2bHFraE9maXVWcjJBRDUyeERkbUZ1aUNfS1VVZXdrNmVMemRTX0hmSUhsVU05WWlXVHhHUUVQclU2eVEtaUVtajFiWlJPcGFwajUtOXNIVHdaaUVfaVZFNmlFY21BV0JpdjhacHExTUd5TUxwY0FVMUVKQ29McS1USzBjUXR5WXJENWVBT1otZkxJalExWHlwdlHSAcgBQVVfeXFMUDBXSktqVlE0SGxzOFppZWduRklTQnNYdm11UDNHYzhXdExVMHlPc3prV0hETVBwQkFxck5PakNnNmthTC0xeW5iWnlnNzEwaHdHdFpucUlNLWh4NFZtMy1SSEkyM0Z0Q0E3czB2Z1hGWHZpX3Vka2g0QmpEeFoxUmU5bVdfcmNPTGRKMGJFQ20zVDRYT0dRcnNZOVpFNVNNdGFRTU1SeDFlVWk4Z2JCa1hJZGRUN1gzRkNIX1Q5Yy1FM1NLNWNacUM?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T15:58:54Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Wika Salim & Max Adam Kamil Unggah Foto Berlatar Biru, Hari H Sudah Dekat?",
+   "snip": "Hari bahagia yang dinanti Wika Salim & Max Adam Kamil diduga bakal segera tiba. Selengkapnya di sini.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/jCDH49ylya9N8FsYpAwmNb8vu2k=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375910/original/001088600_1792250455-maxadamkamil_1684302067_3104473208087090896_208745399.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315516/wika-salim-amp-max-adam-kamil-unggah-foto-berlatar-biru-hari-h-sudah-dekat",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-17T15:20:54Z"
   },
   {
    "k": "news",
@@ -293,7 +363,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T11:32:34Z"
   },
   {
@@ -315,7 +385,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T11:12:39Z"
   },
   {
@@ -337,7 +407,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T11:00:34Z"
   },
   {
@@ -359,7 +429,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T10:00:59Z"
   },
   {
@@ -381,32 +451,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-17T09:20:44Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Tanahnya Diduga Dijual Diam-diam Keluarga, Farel Prayoga Minta Bantuan Hukum",
-   "snip": "Tanahnya Diduga Dijual Diam-diam Keluarga, Farel Prayoga Minta Bantuan Hukum detikcom Farel Prayoga Kecewa Keluarga Diduga Diam-diam Jual Aset Tanah Miliknya detikHOT Farel Prayoga Kecewa, Aset Ratusan Juta Hasil Kerja Keras Diam-diam Dijua",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUhleXU3SThIcHk1bU0xaFduMXBNMVExZmI5d2RTX0FwZW1UMFFIQlZfQS1iN1RkamtJbWxXOVVSclpiN0I5QVZudWRuY0xUc0hCNDFHTHlMX2xITzBRQXBoVVhBVzNjOFdZTllzVW45LWVweEZCeUQtZkhvb1BObFEtVHQ5aDhTTDJPRTdEejE5blV5U2hvSWF1OXdrZk9WbGF3bjd3dFV1Z1lIT3NlTXYweldGbzlCTzdRNUt6Z3DSAcYBQVVfeXFMT2tHd3pmd0Z6bUx0QUw3Ukp1QlM4UWxOcEpHRkh1U2FHM2xZTm1YQklZcldtZ0FHSDJ5cWNnUU9ac3Z0Q0otZzQ5MzcxWHQ5S19STUs5YVVrS3JGdDBNZUF6SUtOMDFQbjRmWFZ0c1hTXy1jX1ZDZHFXSHkzY05QM1cyTksyTVZwWnZyeXd1OUpEc1ZVUkpTUTgyX0MwWG9pZ2xGVFc1ZjVrYjhHTU4tM1RhekpHODJCUFFIR1NTcXdJak1xXzVB?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [
-    "Bantuan"
-   ],
-   "sc": 45,
-   "ts": "2026-10-15T07:46:03Z"
   },
   {
    "k": "news",
@@ -771,7 +817,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXotQlhFSmFQTDROZWluckpRdm9EWnlMR3phcXdpamNhaHdmaWZJX1JvTTQyZzBfc1FqN2JzN3hzWEJJUkpMcFBhWWx6YTRmZUZIRXhVNWlpem5hX2JoODlwQjhwdFU5REQ3ZTN0MGlQd0xydWRrNnRFaWpMSlpJdTU4SDNoaHNTTWFEQnNnN051dWJsV2pndWRBQ2laeFlOX1NmSGc5MmlxUWhUa2hjYkNnMVNJTHJaMlFEUnpxb1dtdWZDajd1RFlWX0ZXQdIB0wFBVV95cUxPYnFXbzFZanE0X1pZMTA3dS0teko5MVgxZFVpM3dhdlp6Tmw4VE5aeEpoNGJ0SFkxX2ZfTU5xQkM2bEdVLXVlQVROYzZqbjBpUlV0dHR0WmxnRTBQaC11ZEItb3BLWXdpUklHdndiRGZWVXhvbXhiMXVXOG5WT3dGcUd0Wm9xMDM5Mm9ORXZaRkd6X0tubDhJUVozbk0tcUFBLXZlSE5Uc000VFFUOEwteUxSYWN4SVhPTXJuSjZiS1ZIdkY1UHRZT2l4YmxlN051SlZ3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXotQlhFSmFQTDROZWluckpRdm9EWnlMR3phcXdpamNhaHdmaWZJX1JvTTQyZzBfc1FqN2JzN3hzWEJJUkpMcFBhWWx6YTRmZUZIRXhVNWlpem5hX2JoODlwQjhwdFU5REQ3ZTN0MGlQd0xydWRrNnRFaWpMSlpJdTU4SDNoaHNTTWFEQnNnN051dWJsV2pndWRBQ2laeFlOX1NmSGc5MmlxUWhUa2hjYkNnMVNJTHJaMlFEUnpxb1dtdWZDajd1RFlWX0ZXQQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -811,7 +857,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero",
-   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm",
+   "snip": "Sambut Peluncuran iPhone 18 Series, Indodana PayLater Tawarkan Promo Triple Zero MIX Marcomm Bayar Puluhan Juta, Antre Berjam-jam: Cerita di Balik Pembeli iPhone 18 Kompas.com Indodana PayLater hadirkan pembiayaan miliki iPhone 18 series AN",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -899,7 +945,7 @@
    "av": "",
    "followers": 0,
    "cap": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026",
-   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia 38 Finalis Unjuk Pesona di Miss Indonesia 2026 Digital Okezone Alda Callista Jadi Miss Indonesia 2026, Ini Pesan Miss World Joheirry Mola SINDOnews Lifestyle Pot",
+   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia 38 Finalis Unjuk Pesona di Miss Indonesia 2026 Digital Okezone Potret Cantik Alda Callista, Wakil dari Papua Menang Miss Indonesia 2026 Wolipop Joheirry Mola Bak",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -921,7 +967,7 @@
    "av": "",
    "followers": 0,
    "cap": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once",
-   "snip": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once detikHOT Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Doddy Katamsi Terakhir Manggung di Kafe Once Mekel Kompas.com Kepergian Vokalis Elpamas Doddy Katamsi Sisakan Duka",
+   "snip": "Aksi Panggung Terakhir Doddy Katamsi di Kafe Milik Once detikHOT Suasana Haru Iringi Prosesi Pemakaman Doddy Katamsi detikHOT Doddy Katamsi Terakhir Manggung di Kafe Once Mekel Kompas.com Musisi Doddy Katamsi Berpulang setelah Berjuang Lawa",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -987,7 +1033,7 @@
    "av": "",
    "followers": 0,
    "cap": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis",
-   "snip": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis celebrity.okezone.com Ruben Onsu Dilaporkan atas Dugaan Pencabulan Kompas.com Artis Inisial RO Dilaporkan ke Polda Metro Jaya atas Dugaan Pelecehan Sesama Jenis SINDOne",
+   "snip": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis celebrity.okezone.com Ruben Onsu Dilaporkan atas Dugaan Pencabulan Kompas.com Ruben Onsu Dilaporkan Atas Dugaan Asusila Sesama Jenis, Pelapor Sebut Korban Lebih dari Sa",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1001,6 +1047,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-15T09:54:31Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Tanahnya Diduga Dijual Diam-diam Keluarga, Farel Prayoga Minta Bantuan Hukum",
+   "snip": "Tanahnya Diduga Dijual Diam-diam Keluarga, Farel Prayoga Minta Bantuan Hukum detikcom Farel Prayoga Kecewa Keluarga Diduga Diam-diam Jual Aset Tanah Miliknya detikHOT Farel Prayoga Kecewa, Aset Ratusan Juta Hasil Kerja Keras Diam-diam Dijua",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUhleXU3SThIcHk1bU0xaFduMXBNMVExZmI5d2RTX0FwZW1UMFFIQlZfQS1iN1RkamtJbWxXOVVSclpiN0I5QVZudWRuY0xUc0hCNDFHTHlMX2xITzBRQXBoVVhBVzNjOFdZTllzVW45LWVweEZCeUQtZkhvb1BObFEtVHQ5aDhTTDJPRTdEejE5blV5U2hvSWF1OXdrZk9WbGF3bjd3dFV1Z1lIT3NlTXYweldGbzlCTzdRNUt6Z3DSAcYBQVVfeXFMT2tHd3pmd0Z6bUx0QUw3Ukp1QlM4UWxOcEpHRkh1U2FHM2xZTm1YQklZcldtZ0FHSDJ5cWNnUU9ac3Z0Q0otZzQ5MzcxWHQ5S19STUs5YVVrS3JGdDBNZUF6SUtOMDFQbjRmWFZ0c1hTXy1jX1ZDZHFXSHkzY05QM1cyTksyTVZwWnZyeXd1OUpEc1ZVUkpTUTgyX0MwWG9pZ2xGVFc1ZjVrYjhHTU4tM1RhekpHODJCUFFIR1NTcXdJak1xXzVB?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-15T07:46:03Z"
   },
   {
    "k": "news",
@@ -1023,28 +1091,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T12:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Stamina Menurun hingga Mudah Lelah, Kenali Tanda Andropause Pria",
-   "snip": "Stamina Menurun hingga Mudah Lelah, Kenali Tanda Andropause Pria Kompas.com Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHJvYlNEdUtBNEMyaHFwbHRpS3J0Zlg1Z1JDN0RGUnhmb3dzMHM5WEU1dnJPbVBTOGNUdTlfMFpIRWxYTVI2c2dLa0IxUXl5SmtCVzc5bmtadUIyS2tmWGQ5Y1pQVUVZM0prSEI3cGx1VDJ4MXdfSnVrZHlMR1F1dV9heHh6ZGkxZG1CbVhIQWhmOFNScXY5bGtXM1AxeFB6UTNUUWxCMHY3S1hSNV80M1Znd0VCRnJ2Wmc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T09:06:00Z"
   },
   {
    "k": "news",
@@ -1097,7 +1143,7 @@
    "av": "",
    "followers": 0,
    "cap": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi",
-   "snip": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi Kompas.com Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Raline Shah Mundur dari Staf Khusus Menteri Komdigi, Apa Alasannya? Kompas.com Apakah Staf Khusus Kementer",
+   "snip": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi Kompas.com Raline Shah Blak-blakan Alasan Mundur dari Stafsus Menkomdigi detikInet Raline Shah Miliki Harta Kekayaan Rp56,99 M Jadi Sorotan Akhirnya Resmi Mundur dari Stafsus Menkomdigi Ara",
    "img": "",
    "vid": false,
    "vt": "NEWS",
