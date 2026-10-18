@@ -1,9 +1,9 @@
 {
  "topics": [
   {
-   "t": "Marc-André Ter Stegen",
-   "q": "marc-andré ter stegen",
-   "cat": "Selebriti",
+   "t": "Juventus",
+   "q": "juventus",
+   "cat": "Film & Series",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -11,13 +11,34 @@
    ],
    "src": [
     "Google Trends",
-    "VIVA.co.id",
-    "Goal.com",
-    "SuaraGarut.ID"
+    "Universidad de Córdoba (UCO)",
+    "Corriere dello Sport",
+    "Il Messaggero"
    ],
-   "d": "2026-10-18",
-   "url": "https://www.viva.co.id/bola/1936293-bawa-timnas-indonesia-juara-fifa-asean-cup-2026-maarten-paes-lagi-lagi-diabaikan-ajax-saat-kalah-dari-hajduk-split",
-   "n": "Bawa Timnas Indonesia Juara FIFA ASEAN Cup 2026, Maarten Paes Lagi-lagi Diabaikan Ajax Saat Kalah dari Hajduk Split",
+   "d": "2026-10-19",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Ric2RlbW90aHJlZS5naXRodWIuaW8vZXZlbnQvZGRjLnhtbCIvPjwva3JwYW5vPg==&id=juventus-lazio-in-diretta-streaming-it12476",
+   "n": "🔴🔴*![[IN DIRETTA][] Juventus Lazio in diretta streaming gratis senza registrazione",
+   "vol": 1000,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Juventus Fc",
+   "q": "juventus fc",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "FIGC",
+    "Torino Cronaca",
+    "OA Sport"
+   ],
+   "d": "2026-10-19",
+   "url": "https://www.figc.it/it/serie-a-women/news/vola-il-como-1907-4-2-sulla-juventus-e-primato-con-inter-e-roma-v43a4nbh",
+   "n": "Vola il Como 1907: 4-2 sulla Juventus e primato con Inter e Roma",
    "vol": 100,
    "vu": "pencarian"
   },
@@ -61,6 +82,72 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-18T09:51:35Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Tampil di Synchronize 2026, Andika harap Kangen Band tak bubar lagi",
+   "snip": "Grup musik Kangen Band menyuguhkan aksi panggung dalam gelaran festival musik Synchronize Fest 2026 di Gambir Expo ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/19/IMG_7950.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5795505/tampil-di-synchronize-2026-andika-harap-kangen-band-tak-bubar-lagi",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T18:22:08Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Yunita Siregar di BIFF 2026, Foto Bersama Jo In Sung Akui Idolakan Sang Aktor",
+   "snip": "Yunita Siregar bagikan potret di BIFF 2026, momen bersama suami, dan foto bareng Jo In Sung, idola K-drama pertamanya.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/R5rISaTlR0BX5mWnIuhGWPtRBA8=/0x0:3072x1731/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376398/original/019105300_1792341336-SaveClip.App_844380503_18658873795028399_1192271147913325023_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315979/yunita-siregar-di-biff-2026-foto-bersama-jo-in-sung-akui-idolakan-sang-aktor",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T17:05:27Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Sheila Marcia Minta Tak Diberi Kejutan Ulang Tahun, Dimas Akira Tetap Siapkan Hadiah",
+   "snip": "Sheila Marcia meminta Dimas Akira tak memberi kejutan ulang tahun demi berhemat. Namun, sang suami tetap memberinya hadiah sepatu.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/ara8avpztzczIB2Qu6jj4Ev-hXw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4105127/original/008181700_1659077065-2.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8315973/sheila-marcia-minta-tak-diberi-kejutan-ulang-tahun-dimas-akira-tetap-siapkan-hadiah",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T16:45:30Z"
   },
   {
    "k": "news",
@@ -179,7 +266,7 @@
    "av": "",
    "followers": 0,
    "cap": "Elizabeth Hurley Tunangan dengan Ayah Miley Cyrus Setelah Setahun Pacaran",
-   "snip": "Elizabeth Hurley Tunangan dengan Ayah Miley Cyrus Setelah Setahun Pacaran Wolipop",
+   "snip": "Elizabeth Hurley Tunangan dengan Ayah Miley Cyrus Setelah Setahun Pacaran Wolipop Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -235,7 +322,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T13:10:22Z"
   },
   {
@@ -257,7 +344,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T13:05:03Z"
   },
   {
@@ -279,7 +366,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T12:54:43Z"
   },
   {
@@ -301,7 +388,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T12:20:17Z"
   },
   {
@@ -323,7 +410,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T12:06:54Z"
   },
   {
@@ -345,7 +432,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T11:00:43Z"
   },
   {
@@ -367,7 +454,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T10:55:57Z"
   },
   {
@@ -531,7 +618,7 @@
    "av": "",
    "followers": 0,
    "cap": "Chika Jessica Spill Momen Bareng Thayaka, Anak Angkat Ruben Onsu",
-   "snip": "Chika Jessica Spill Momen Bareng Thayaka, Anak Angkat Ruben Onsu detikHOT Ruben Onsu Ungkap Asal-usul Anak yang Diadopsi, Ditemukan dalam Kardus Penuh Semut Dikira Sudah Meninggal VIVA.co.id Selain Betrand Peto, Ruben Onsu Disebut Punya Ana",
+   "snip": "Chika Jessica Spill Momen Bareng Thayaka, Anak Angkat Ruben Onsu detikHOT Ruben Onsu Ungkap Asal-usul Anak yang Diadopsi, Ditemukan dalam Kardus Penuh Semut Dikira Sudah Meninggal VIVA.co.id Adopsi Bayi Laki-laki di Tengah Persidangan Hak A",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -619,7 +706,7 @@
    "av": "",
    "followers": 0,
    "cap": "Street Fighter Pimpin Box Office Amerika Utara dengan Pendapatan 13 Juta Dolar AS",
-   "snip": "Street Fighter Pimpin Box Office Amerika Utara dengan Pendapatan 13 Juta Dolar AS Suara Surabaya",
+   "snip": "Street Fighter Pimpin Box Office Amerika Utara dengan Pendapatan 13 Juta Dolar AS Suara Surabaya Callina Liang Syukuri 2 Hal Usai Jadi Chun Li di Film Street Fighter detikHOT ”Street Fighter” Jadi Standar Baru Adaptasi ”Game Fighting” Kompa",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -641,7 +728,7 @@
    "av": "",
    "followers": 0,
    "cap": "Asri Welas Tegaskan Ide Netizen Jodohkan Dirinya dengan Desta Gak Masuk Akal",
-   "snip": "Asri Welas Tegaskan Ide Netizen Jodohkan Dirinya dengan Desta Gak Masuk Akal detikHOT Respons Asri Welas Mendadak Dirumorkan dengan Desta Kompas.com Diisukan Punya Hubungan Spesial Gegara Sepatu, Asri Welas: Desta Tuh Seleranya Adek-adek VI",
+   "snip": "Asri Welas Tegaskan Ide Netizen Jodohkan Dirinya dengan Desta Gak Masuk Akal detikHOT Respons Asri Welas Mendadak Dirumorkan dengan Desta Kompas.com Asri Welas Tepis Rumor Pacaran dengan Desta: Dia Seleranya Adik-Adik Media Indonesia Tangga",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -699,28 +786,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-18T04:10:48Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Callina Liang Syukuri 2 Hal Usai Jadi Chun Li di Film Street Fighter",
-   "snip": "Callina Liang Syukuri 2 Hal Usai Jadi Chun Li di Film Street Fighter detikHOT Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjk2cml4a3BXd2hINTVZamJWcU5hWndZdmhaZXlLbWFkeWcwcEJ1V1RtRktVTDQ2dGFkZ3dEdUFDb1FqdVFxQlR0MDV2Z05LQ0lDWmxsNENVdVgyRkx2LW1vYnJoVk1ZVWVQektXVjlsVnlLTjZOOFEzUVAxNm85aGhhamJ6WGpJUzlTYjJLSWNKWl8yY3d6WldUSkN6aVpFaHQzZXZqd2NvQdIBrwFBVV95cUxQUDNubFMyeTJDbzZHU09KQUpaREhaSENQVjNGWVE0YmJHN3BoOHhsb1hUenozNlJQTFdKQVA5U05EVmRUOGJ0NDNtOHlLeHY3Y3dQX0plX09aTU51XzlfSTVZZXI0WmpQYUI5RjdPcHhOV0c5SnNJUkx1cE9OelF1U1VuVzJUeV9rLVdWUFViaGMxUFVHdWRZMWJkdzR1TmtWRWtfZVZYMVdFQXhxM1A4?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-18T03:20:41Z"
   },
   {
    "k": "news",
@@ -834,25 +899,25 @@
   },
   {
    "k": "news",
-   "u": "Bisnis Style",
-   "name": "Bisnis Style",
+   "u": "Wolipop",
+   "name": "Wolipop",
    "av": "",
    "followers": 0,
-   "cap": "Musik-musik Warkop DKI Kembali Hidup di Synchronize Fest 2026",
-   "snip": "Musik-musik Warkop DKI Kembali Hidup di Synchronize Fest 2026 Bisnis Style Indro Warkop Menangis Ingat Mendiang Dono dan Kasino di Synchronize Fest 2026 Kompas.com Tribute to Warkop DKI Hangatkan Synchronize Festival 2026, Indro Kenang Dono",
+   "cap": "Ramalan Zodiak 18 Oktober: Cancer Sabar Hadapi Masalah, Leo Lebih Disiplin",
+   "snip": "Ramalan Zodiak 18 Oktober: Cancer Sabar Hadapi Masalah, Leo Lebih Disiplin Wolipop 3 Zodiak yang Memasuki Era Baru Mulai 18 Oktober 2026, Ada Aries Kompas.com Ramalan Zodiak Hari Ini, Minggu 18 Oktober 2026: Ada yang Beruntung dalam Karier ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOendFQkVjZkJyOEw0akhWLXllS1llNlQ5dmxOeXNkY1p5Vk1aQmt3NXJGblY1dWVjbWlSNkdhanItVGk2bzZGOV9VVGJBYUtRQUNHeGU4cDVfVmhUYURlNkUzb091eEV6QXZCWUJQR3hBWXpuMnFRcHJDWE9kejdOX1ZaS3BuVF9KNVJjNTFac25oZ1FnWFZxanVrdFNFWmtHbC1wX2d6Z3JRZWNKdnJkQ04zNFZ2cms?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnNTQ0xWUWdoSWgtU3FGNnM1djE0endKc2FTQWhRMGFvcWp2Z21zd3VBMW0xeFJrZHFVMW1OVkdpaE04MTZHdDdfTEx6ZHk5RjVkYmt0MEMwNEdCZmI0VXBUWE5fbVExWlNvSm1LcDNjbFg5b3o3ZVkzNmtNYWthNGEzX1ExZUFaMmhvMkVqb2FacWxrVmZPaEZsWWQzTkpFamxFVWZGWGJYYXdtQm5rOURiaw?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Bisnis Style"
+    "Wolipop"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-17T17:14:49Z"
+   "ts": "2026-10-17T23:00:38Z"
   },
   {
    "k": "news",
@@ -883,7 +948,7 @@
    "av": "",
    "followers": 0,
    "cap": "Suara Lantang Musisi Soal Karhutla Bergema di Synchronize Fest 2026",
-   "snip": "Suara Lantang Musisi Soal Karhutla Bergema di Synchronize Fest 2026 detikcom Float di Synchronize Fest 2026 ANTARA Foto Wali serukan doa bagi warga terdampak karhutla dan rakyat Palestina ANTARA News Synchronize Festival Satukan Girl Group ",
+   "snip": "Suara Lantang Musisi Soal Karhutla Bergema di Synchronize Fest 2026 detikcom Float di Synchronize Fest 2026 ANTARA Foto The Changcuters Suarakan Soal Karhutla Epaper Media Indonesia Ayu Ting Ting, Shabrina Leanor duet nyanyi di Synchronize ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -897,28 +962,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-17T15:00:57Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Ochi Rosdiana Ungkap Kepekaannya Terhadap Dunia Gaib Sejak Kecil",
-   "snip": "Ochi Rosdiana punya beberapa pengalaman soal dunia mistis yang masih diingat sampai sekarang.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/Bs-IcFkNjapOKIJFEMAKjKhffFI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375902/original/074022800_1792247577-L6ochi24_1782032025_3924290953576457769_314778210.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8315508/ochi-rosdiana-ungkap-kepekaannya-terhadap-dunia-gaib-sejak-kecil",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-17T14:33:23Z"
   },
   {
    "k": "news",
@@ -1015,7 +1058,7 @@
    "av": "",
    "followers": 0,
    "cap": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis",
-   "snip": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis Suara.com Banjir Hadiah Halloween, Klaim Kode Redeem FF Hari Ini https://www.politikindonesia.id/ 15 Kode Redeem FF Hari Ini 17 Oktober 2026, Sur",
+   "snip": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis Suara.com Ini 6 Kode Redeem Free Fire 18 Oktober 2026, Buruan Klaim https://www.politikindonesia.id/ 15 Kode Redeem FF Hari Ini 17 Oktober 2026, ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1051,6 +1094,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-16T13:30:29Z"
+  },
+  {
+   "k": "news",
+   "u": "HARIAN DISWAY",
+   "name": "HARIAN DISWAY",
+   "av": "",
+   "followers": 0,
+   "cap": "Mengenang Doddy Katamsi, Sejarah Karier Penyanyi sekaligus Vocal Coach Banyak Artis - harian.disway.id",
+   "snip": "Mengenang Doddy Katamsi, Sejarah Karier Penyanyi sekaligus Vocal Coach Banyak Artis - harian.disway.id HARIAN DISWAY Impian Doddy Katamsi yang Tertunda: Konser Bareng Murid-Rilis Single Baru detikcom Doddy Katamsi Terakhir Manggung di Kafe ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY09DcTBrQ2JXVk1IU2VLemtFMzMxSWFCb09EOG5VU1dYajNVWTZyQTR6TjlHVzgyWWx4MUgwVmNkbVAxS2xHUnJnVlg2WERLbkJjbHdGR0dqWUpoRmNQOHRqNHVmeE9aTG5ZLUF0SlQ2WGs2d0hsWlVwUUl5aFNOa3hrYmowNWZXSnRzcFBUZmd0LVlsZnhqX1docUNRNjFkM0tHcVF3U3NDZ1Z0ODJBWVNTOThQbkN0bkMw0gG6AUFVX3lxTFBfX29CdmJTRVZ3REM3djR3bUdlSnJWWVM1MzEtRXJOSWxleFI5Znc2aGhpaXY5cEYxY3ZwNnVrZ2FUcGVvSjFIbVlkbV8yNzZ0eEVNZUhWaFFndXVWTnE3RXdJRVdUVTlMOVZuNEEyaXdQYmhYdm56RU8tSXFEeUJrSE5SdTNBbVNFR1BsNGp2cmNBM0FzRHdFaUxqVENtNTJ4WDVheFFaNi1zV2VGeDdRRE9vSjcyVi1Xdw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "HARIAN DISWAY"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-15T09:20:00Z"
   },
   {
    "k": "news",
