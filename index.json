@@ -1,48 +1,6 @@
 {
  "topics": [
   {
-   "t": "Juventus",
-   "q": "juventus",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Universidad de Córdoba (UCO)",
-    "Corriere dello Sport",
-    "Il Messaggero"
-   ],
-   "d": "2026-10-19",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Ric2RlbW90aHJlZS5naXRodWIuaW8vZXZlbnQvZGRjLnhtbCIvPjwva3JwYW5vPg==&id=juventus-lazio-in-diretta-streaming-it12476",
-   "n": "🔴🔴*![[IN DIRETTA][] Juventus Lazio in diretta streaming gratis senza registrazione",
-   "vol": 1000,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Juventus Fc",
-   "q": "juventus fc",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "FIGC",
-    "Torino Cronaca",
-    "OA Sport"
-   ],
-   "d": "2026-10-19",
-   "url": "https://www.figc.it/it/serie-a-women/news/vola-il-como-1907-4-2-sulla-juventus-e-primato-con-inter-e-roma-v43a4nbh",
-   "n": "Vola il Como 1907: 4-2 sulla Juventus e primato con Inter e Roma",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
    "t": "Potret Mahalini Tampil Stunning di Synchronize Fest 2026",
    "q": "Potret Mahalini Tampil Stunning di Synchronize Fest 2026",
    "cat": "Selebriti",
@@ -82,6 +40,28 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-10-18T09:51:35Z"
+  },
+  {
+   "k": "news",
+   "u": "Telset.id",
+   "name": "Telset.id",
+   "av": "",
+   "followers": 0,
+   "cap": "Intel GPU D-series Kantongi 480GB LPDDR5X, Rekor Memori AI Terbaru",
+   "snip": "Intel GPU D-series Kantongi 480GB LPDDR5X, Rekor Memori AI Terbaru Telset.id Intel mengungkap konfigurasi GPU AI baru menggunakan arsitektur Xe3P. Vietnam.vn Intel Siapkan GPU D270 dengan Memori AI hingga 480 GB bsinews.id Akselerator AI Ba",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFRva0hYQlUtUC1uX1pzcXNfcHlLX3I4SWJmSFdheGxOWVZ2NGs4V2tIVnBleFdUcFAwYmRBdkRBTVMzWXphbmNWeXpuVHNtQm5sd2IxeFBvX3VDTDNKSUgxOTBlM1RDTjVVaDVacVpMRTktSXJjbDl6QWs5MVROVF9UaWdBTGZFSExUT3VKR3ZxdnktOC11bg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Telset.id"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T21:01:24Z"
   },
   {
    "k": "news",
@@ -190,7 +170,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T15:58:55Z"
   },
   {
@@ -212,30 +192,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T15:55:30Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Ub juara FIBA 3x3 World Tour Makau 2026",
-   "snip": "Tim Ub asal Serbia menyabet gelar Federasi Bola Basket Internasional (FIBA) 3x3 World Tour Makau 2026, setelah ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/05/13/FIBA.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5795401/ub-juara-fiba-3x3-world-tour-makau-2026",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-18T15:18:30Z"
   },
   {
    "k": "news",
@@ -256,7 +214,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T15:07:10Z"
   },
   {
@@ -278,7 +236,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T14:00:10Z"
   },
   {
@@ -300,7 +258,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T13:45:39Z"
   },
   {
@@ -412,6 +370,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-18T12:06:54Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Ochi Rosdiana Akui Hidup Lebih Berwarna Sejak Kehadiran Buah Hati",
+   "snip": "Ochi Rosdiana Akui Hidup Lebih Berwarna Sejak Kehadiran Buah Hati detikHOT Ochi Rosdiana Syuting Film Sebelum Jadi Ibu, Kini Fokus Urus Anak Liputan6.com Ochi Rosdiana Nikmati Peran Ibu dan Vakum dari Akting bsinews.id Jadi Ibu, Ochi Rosdia",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0pfSUVxclRacU5lbUs1aEE3UFVyMkxFVVFxV0xoRzVicWVObUJOMzJIbTNZU3hJZEd5ZW5xd0lrYWhjQTdsVk93T1VJVTJmajVJQUJlLXRHRFhKbG4tbnZIWWEtTUNmYW1pUDAyV0d3eGRUdlNwNV9FQXhxbWVzcTltR0VfSUlqdHlrNm5Fbjh5WDRnUDd3QU90SURYY1NuVnNTVTVB0gGrAUFVX3lxTE5Oem5VWjBjNG5NSE1SRUFyVFRKNjBoZHpUUWNIYzhZUlc5LVJHY25nVHpwOXR2d2VhejZjeFVkVXZ5VVBfYW10d3g3Z1p2YW1IVkhJSi1kYm9QYldYcktXMGUwOXhWT213U3I4SzJ5NkFOZHVta3ROTERXRU5MaVhYeGRqa1FQM2R5eV8zamJpcGNRZFQ4cUVPbWJWbU90RXFWMDd6SnJ1UndSRQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-18T11:30:24Z"
   },
   {
    "k": "news",
@@ -750,7 +730,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini, Minggu 18 Oktober 2026, Lengkap dengan Warna Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini, Minggu 18 Oktober 2026, Lengkap dengan Warna Keberuntungan - sumeks.disway.id Sumeks 3 Shio yang Diprediksi Sukses dan Berlimpah Rezeki pada Akhir 2026 Kompas.com Ramalan Shio Hari Ini, Bagaimana Peruntungan Tikus hin",
+   "snip": "Ramalan Shio Hari Ini, Minggu 18 Oktober 2026, Lengkap dengan Warna Keberuntungan - sumeks.disway.id Sumeks 4 Shio yang Diprediksi Alami Perubahan Hidup pada 18 Oktober 2026 Kompas.com Ramalan Shio Hari Ini: Naga-Ayam Peruntungan Baik, Maca",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -882,7 +862,7 @@
    "av": "",
    "followers": 0,
    "cap": "Raline Shah Mundur : Komdigi Butuh Ahli Algoritma, Bukan Bintang Pesona Halaman 1",
-   "snip": "Raline Shah Mundur : Komdigi Butuh Ahli Algoritma, Bukan Bintang Pesona Halaman 1 Kompasiana.com Raline Shah Miliki Harta Kekayaan Rp56,99 M Jadi Sorotan Akhirnya Resmi Mundur dari Stafsus Menkomdigi Arah Kata Apakah Staf Khusus Kementerian",
+   "snip": "Raline Shah Mundur : Komdigi Butuh Ahli Algoritma, Bukan Bintang Pesona Halaman 1 Kompasiana.com Apakah Staf Khusus Kementerian Dapat Uang Pensiun? Simak Aturan Resminya Suara.com Menkomdigi Meutya Hafid Akhirnya Buka Suara Usai Staf Khusus",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -908,7 +888,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnNTQ0xWUWdoSWgtU3FGNnM1djE0endKc2FTQWhRMGFvcWp2Z21zd3VBMW0xeFJrZHFVMW1OVkdpaE04MTZHdDdfTEx6ZHk5RjVkYmt0MEMwNEdCZmI0VXBUWE5fbVExWlNvSm1LcDNjbFg5b3o3ZVkzNmtNYWthNGEzX1ExZUFaMmhvMkVqb2FacWxrVmZPaEZsWWQzTkpFamxFVWZGWGJYYXdtQm5rOURiaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnNTQ0xWUWdoSWgtU3FGNnM1djE0endKc2FTQWhRMGFvcWp2Z21zd3VBMW0xeFJrZHFVMW1OVkdpaE04MTZHdDdfTEx6ZHk5RjVkYmt0MEMwNEdCZmI0VXBUWE5fbVExWlNvSm1LcDNjbFg5b3o3ZVkzNmtNYWthNGEzX1ExZUFaMmhvMkVqb2FacWxrVmZPaEZsWWQzTkpFamxFVWZGWGJYYXdtQm5rOURia9IBuAFBVV95cUxPMmxwRlRUX1dDOGdvbjVONzVxbDFyTEF3NkhoUGc5dnVxbklINU5wNUUxWWtLcmh0YURaaWV3eW5FekNTc3Q2SWNDeTQyUE1kYndiV1ZrcEdsZE1VT0hvTUFnNFNpVmcxZ1BEYTA4bG9LMU54aHdwU2NnWnRFSVRpZjk2ZFk5c1VuSk45SVB3WFkzV0pELUFpVm1BMUk2Z3BkSks1akgxRGxfRDBOb0EwQ1FJSmZCdDRp?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -970,7 +950,7 @@
    "av": "",
    "followers": 0,
    "cap": "Impian Terakhir Yadi Timo Mau Punya PH Sendiri Sebelum Meninggal",
-   "snip": "Impian Terakhir Yadi Timo Mau Punya PH Sendiri Sebelum Meninggal detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Kabar Duka, Aktor Senior Yadi Timo Meninggal Dunia Usia 66 Tahun CNBC Indonesia Yadi Timo, Pemeran",
+   "snip": "Impian Terakhir Yadi Timo Mau Punya PH Sendiri Sebelum Meninggal detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Yadi Timo, Pemeran Penculik di Petualangan Sherina, Meninggal Dunia Kompas.com Aktor senior Yadi T",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1009,28 +989,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Ucap Syukur Arie Kriting, Indah Permatasari Hamil Anak Kedua",
-   "snip": "Ucap Syukur Arie Kriting, Indah Permatasari Hamil Anak Kedua detikHOT Momen Manis Putra Indah Permatasari Saat Tahu Ibunya Sedang Hamil Kompas.com Manisnya Momen Indah Permatasari Rajin Masak Buat Keluarga detikFood Indah Permatasari Umumka",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1VpWjhBOGE1Tk9wcnY3WGdrOXRpWHAyTHEyNWFyTm82QktuNVl4Zzg5N2dZeWVHYXFvR0RHYU5peFA5R2xyRFRtUzBJZzdfX1RFOE0xSm1GVktsaXBwazBaQnk4Z3d6T3Z6bnRvU2ZVSjZfZUZaN2xOcGFJMGNJNlo1Y09raUc4N052Qk1WMkswanRKS3pxWWtreFNhd9IBowFBVV95cUxPbTF6QzVjMW9fRzZwTFpQMzN6cTlJZFVBcUdYU05sM3VCX0V5QlE3ZVp6eFh2TlFRcWVBdzhFZ0NVejRYcURxS080dUpsQWw4bUVBRk1Tb1RDWXNXVXdaLWRzMXRxRHoxVzlVNU1EVGRhWkFTNHJLZFhnNVprQzZKRHozZjJjTWM4bXBCQjNodVQ2U04zall5NVJualp4X3NJNi1z?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-17T09:08:19Z"
-  },
-  {
-   "k": "news",
    "u": "Grid.ID",
    "name": "Grid.ID",
    "av": "",
@@ -1053,34 +1011,12 @@
   },
   {
    "k": "news",
-   "u": "Suara.com",
-   "name": "Suara.com",
-   "av": "",
-   "followers": 0,
-   "cap": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis",
-   "snip": "15 Kode Redeem FF Terbaru 17 Oktober: Klaim Bundle Cloaked Terror Gratis di Event Dunia Mistis Suara.com Ini 6 Kode Redeem Free Fire 18 Oktober 2026, Buruan Klaim https://www.politikindonesia.id/ 15 Kode Redeem FF Hari Ini 17 Oktober 2026, ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbDB4ZU5MM2NMUmpYcXUwZkhZS3hPNVYzUlJxekdIaE1xU3ZmYjRiT0JsMWV5YU5jd0xfY09VMXM5ZTc4T0h2dTFIYkxBcGV1X3lkMkFubzdLd3pORkhRQTRFYjBfandpLUQ0cW83SlI0elU3Ui1xeDh5U0puY3NLY3Y1TnVsTHhuU0pLODA5M050R1lRcVdzRlo4b1NvYVpBMk1DN01Penc4MEoyaEl2Q2RSWEN1eXAxWWtDSFNnS2p5MUJTMjhKZHNCX0tNUEg0bW40WHRVc9IB1wFBVV95cUxQQU41OHcwdTZlSkZfTDJUbzJHY2NRc0lvWW0zYmpad1NtMXVfTVdHdGZEUDJmT2lqalVuV04tVHRQVHBhU2ZNZnU1WGs5cERtRzh1dmMtWEZVUUtrSmxya0JlSThXRFQtTnk4aFpyMlVzUXB1djBkN0p5NUdNU2RBTGtIbWExRFZmbS0zTWtpOVg5aEtnS2FELTd3SFZ2eG4zQWpwam9QRGg0TnE2V2tCbVFkZklHQlhxZmlpNjZiemRYMkZBdzM3VFZSdG5fc3VleWFINTMtNA?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Suara.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-17T00:54:22Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
    "cap": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026",
-   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia Alda Callista Jadi Miss Indonesia 2026, Ini Daftar Lengkap Pemenangnya CNN Indonesia Dian Kharisma Sandang Miss Royale di Ajang Miss Indonesia 2026 - Suara Merde",
+   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia Alda Callista Jadi Miss Indonesia 2026, Ini Daftar Lengkap Pemenangnya CNN Indonesia Alda Callista, Wakil Papua Tengah Ukir Sejarah Miss Indonesia RRI.co.id FOTO",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1094,6 +1030,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-16T13:30:29Z"
+  },
+  {
+   "k": "news",
+   "u": "celebrity.okezone.com",
+   "name": "celebrity.okezone.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis",
+   "snip": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis celebrity.okezone.com Ruben Onsu Dilaporkan atas Dugaan Pencabulan Kompas.com Ruben Onsu Dilaporkan Atas Dugaan Asusila Sesama Jenis, Pelapor Sebut Korban Lebih dari Sa",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczRNd3lUMFFpanJuU25CQkZzQnY5UENuUUFtM0pHSzZOVnNYT1dGVTFUbWI3WXppZ0x1SlpYa2ZBN1FJRG9wcURnWUF4cmlmTXNNQVBRdElJRVJoNmxhZzB5VmltRUxsTVNxUmhzUWlGelFtVHh5YWtvTFg0TmphS0FYWnJzRFIwMVIzeUtkVWFYSW1nNHU4LXVfajV0c28xZUZqUEU4Nlc5bnFRR2l4dU1RTk1yNTV4Vm40R0xHRHhmSU0zSl9N0gHGAUFVX3lxTFBjZFRnXzU4TTBqaFFmYnNnUTVVWVE4dzQ4LUlpekZOcXJNU2lnbHVqd1J2NVM4Z0ZJX0RBaXFNN0VRX2NIN0Vxc1JiTDZNTEgwb2EzVDlYa1hhRG9IcVVmSmNFcWo2RE9ocEJGdUlVbHltTW92VzFIWUNiZnNPSXRlRzBwOVJ1WjdtZWtTaFRYWVVDTmt6NElPazNlRnNqdWpDXzVQVUNWb3EwOTlmUUdjeWFrQmdQbDUybkljbVRxMVYya3VKUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "celebrity.okezone.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-15T09:54:31Z"
   },
   {
    "k": "news",
