@@ -1,6 +1,48 @@
 {
  "topics": [
   {
+   "t": "Ar Rahman",
+   "q": "ar rahman",
+   "cat": "Musik",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "The Hindu",
+    "INDIA New England News",
+    "Varnam Malaysia"
+   ],
+   "d": "2026-10-19",
+   "url": "https://www.thehindu.com/entertainment/movies/deva-music-composer-deva-amruthavarshini-kannada-movie-deva-death-deva-funeral-deva-tributes-deva-obituary/article71596929.ece",
+   "n": "‘Amruthavarshini’: When Deva gave Kannada cinema an all-time hit with a soulful album",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Belgrano Vs River Plate",
+   "q": "belgrano vs river plate",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Depor",
+    "Olé",
+    "Cadena 3 Argentina"
+   ],
+   "d": "2026-10-19",
+   "url": "https://depor.com/futbol-internacional/argentina/pelota-libre-tv-en-vivo-gratis-river-vs-belgrano-donde-ver-partido-y-canales-de-transmision-espn-tnt-sports-disney-plus-torneo-clausura-2026-video-noticia/",
+   "n": "Partido gratis, River vs. Belgrano EN VIVO: dónde ver partido vía ESPN, TNT Sports y Disney Plus",
+   "vol": 500,
+   "vu": "pencarian"
+  },
+  {
    "t": "Potret Mahalini Tampil Stunning di Synchronize Fest 2026",
    "q": "Potret Mahalini Tampil Stunning di Synchronize Fest 2026",
    "cat": "Selebriti",
@@ -43,38 +85,16 @@
   },
   {
    "k": "news",
-   "u": "Telset.id",
-   "name": "Telset.id",
-   "av": "",
-   "followers": 0,
-   "cap": "Intel GPU D-series Kantongi 480GB LPDDR5X, Rekor Memori AI Terbaru",
-   "snip": "Intel GPU D-series Kantongi 480GB LPDDR5X, Rekor Memori AI Terbaru Telset.id Intel mengungkap konfigurasi GPU AI baru menggunakan arsitektur Xe3P. Vietnam.vn Intel Siapkan GPU D270 dengan Memori AI hingga 480 GB bsinews.id Akselerator AI Ba",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFRva0hYQlUtUC1uX1pzcXNfcHlLX3I4SWJmSFdheGxOWVZ2NGs4V2tIVnBleFdUcFAwYmRBdkRBTVMzWXphbmNWeXpuVHNtQm5sd2IxeFBvX3VDTDNKSUgxOTBlM1RDTjVVaDVacVpMRTktSXJjbDl6QWs5MVROVF9UaWdBTGZFSExUT3VKR3ZxdnktOC11bg?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Telset.id"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-18T21:01:24Z"
-  },
-  {
-   "k": "news",
    "u": "Antara",
    "name": "Antara",
    "av": "",
    "followers": 0,
-   "cap": "Tampil di Synchronize 2026, Andika harap Kangen Band tak bubar lagi",
-   "snip": "Grup musik Kangen Band menyuguhkan aksi panggung dalam gelaran festival musik Synchronize Fest 2026 di Gambir Expo ...",
+   "cap": "iPhoneDuo membludak hingga Andikatak mau Kangen Band bubar",
+   "snip": "Kanal hiburan, gaya hidup, teknologi, dan otomotif ANTARA pada Minggu (18/10) menyajikan beragam berita menarik mulai ...",
    "img": "https://img.antaranews.com/cache/800x533/2026/10/19/IMG_7950.jpeg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5795505/tampil-di-synchronize-2026-andika-harap-kangen-band-tak-bubar-lagi",
+   "url": "https://www.antaranews.com/berita/5795605/iphoneduo-membludak-hingga-andikatak-mau-kangen-band-bubar",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -83,7 +103,95 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-18T18:22:08Z"
+   "ts": "2026-10-19T00:14:17Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "DKI kemarin, Festival Cilung hingga kebakaran di Kepulauan Seribu",
+   "snip": "Sejumlah peristiwa penting dan menarik terjadi di Jakarta pada Minggu (18/10) yang masih menarik untuk dibaca antara ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/12/1000347455.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5795573/dki-kemarin-festival-cilung-hingga-kebakaran-di-kepulauan-seribu",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T23:45:04Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "France Arrests Nearly 2,400 After Looting, Arson During Protests",
+   "snip": "France arrests nearly 2,400 people after cost-of-living protests turn violent, with looting, arson and attacks on public buildings.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2121837/france-arrests-nearly-2400-after-looting-arson-during-protests",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T23:17:31Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Melaney Ricardo Girang, Rumahnya di Jatiwaringin Laku Rp 5 M!",
+   "snip": "Melaney Ricardo Girang, Rumahnya di Jatiwaringin Laku Rp 5 M! detikcom Bantah Bangkrut, Ini Alasan Melaney Ricardo Jual Rumah Haibunda Melaney Ricardo Jual Rumah di Jatiwaringin dalam Sebulan bsinews.id Melaney Ricardo Bantah Isu Bangkrut u",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUNIQUFOcms4SmVjMFltek5TTGI1U3k0eTdyRGotdG5SSW5xTV93SHBpTmUwbmhkaHNlb0s4c0ZEVTdVT3U4Zlc2Nl96d3BzVkE5MndHSXNSeUFaZEEzamtzUzZ4ODVmMDdQUURDNndTTFpNWFZmMWhDQXVZNFRLM3A0RmlDNnRJdjBqek9DQTJCVWs1ejI1ZWJ4bUlZZUo3RUMwLURzVzdSV1nSAbABQVVfeXFMUFdQQVhkVGloM2d6bnMxbDJQLXpIV0hscHA4VjEwZ3JwSXJ3X2ttSzZlWGl4c0Q2Yk5FaXlaZzVkUUdpQjlpZnlSYVYyNlNVNWRwV2tvRGtSUzZMaDlHY25nSDdpVXNXdW91S29JTkVPclRfbmtNa19QMkZ1cUM5V1ZoenVrREtieFRPeG1MNFdBeUswR2hLaEFjTWZNLTVyRXVvcjVwNE5IVXhQTXUybnU?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T23:06:38Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Keluarga Bantah Aron Ashab Diculik, tapi Direhab karena Alkoholik dan Kabur",
+   "snip": "Keluarga Bantah Aron Ashab Diculik, tapi Direhab karena Alkoholik dan Kabur detikHOT Aron Ashab Siapkan Langkah Hukum usai Dituding Bikin Drama Penculikan oleh Keluarga celebrity.okezone.com Ternyata Selama Ini Aron Ashab di Pesantren, tapi",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1F5VS1XZEtGY2tXM19xZTFXREk1VGVsUUgzWS1zY2RtSllid3BTdGNLWE1nREVhQ1loc2tTejFmZlZOUTBsLUxxN3ZfNUJQeGE4SEt0bGU0VnktekhRM0hyWWcyemZlMTBWSkVXWm02V3lwOHV2bnRlQ1h6T2o5QUxWczdNX1JQUTBPMGJubWxOS1d1cVEtWXZfSWtOUmhMYU03dmFPZ05KNzFFWTBkYWVn0gG3AUFVX3lxTE9ZNV9kb21yemV0SmhVRFd5WlVld1JBS1pybEVjVjNkS2MyanZsa25Gdm93RF9QQ2JSM3puc2hXZjJ5bE9vT3FwVUlmbHZNZHlGcXZxMUV5d3U5bEJOVFRVenRPQ290TGhMRTUyVlkwaU9QeEktTjVzaTRlTUFreUVGWDhUc0lBcXBvZzJYTmtycHdxb2pFRGN4eGJqVFEzeVJOMG54cU85NTU4dDhtSDN2SHFwX2prWQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-18T22:10:55Z"
   },
   {
    "k": "news",
@@ -104,7 +212,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T17:05:27Z"
   },
   {
@@ -126,7 +234,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T16:45:30Z"
   },
   {
@@ -148,7 +256,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-18T16:15:17Z"
   },
   {
@@ -216,6 +324,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-18T15:07:10Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Yadi Timo Meninggal Dunia, Raline Shah Mundur dari Stafsus Komdigi",
+   "snip": "Yadi Timo Meninggal Dunia, Raline Shah Mundur dari Stafsus Komdigi detikHOT Yadi Timo, Pemeran Penculik di Petualangan Sherina, Meninggal Dunia Kompas.com Aktor senior Yadi Timo meninggal dunia dalam perjalanan ke RS ANTARA News Bangka Beli",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2lCMnlQQjBmU3BFNWdLdXdub3UwRGJwY2NGSE9iOGRiZFRrQjhuaTl1ZzJNdE5fLU9lUTM1bTBFQTRCLXFmR1hZZmYyNzl4XzNHdmpYMjEyOTFHV0tQR1NDSHRFS2ZLUE0yOGRlalRXdDlEeVg2NGI5Sjg4Z0VvYVVBVlktX0ZPa0JlZ1B5cDNYVzE2YTBBc1NlTFNtbngtS3BhOVlB0gGrAUFVX3lxTE42MERFS1p0TUhQcmcydE5CS0pDQV9INlBIY2k1NkJhTjlxMFBYRGhiUDJLVUxkd3Izc0RudkxGc3l3VkJ3Y0IwNVcxNU5nVzlpeERRWHZScTBELWtQTXlXTUNUZkstVWhJdXI0MW1YR2xUSVlCZmJzNF9SRFBXSzJiMzFOMFRpVVMzX2NKV2d2VzVrdkRyY0dYT01jd0VwWm9STWZ0TXpEVlpSYw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-18T15:00:17Z"
   },
   {
    "k": "news",
@@ -304,28 +434,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-18T13:05:03Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "France: Over 1,800 Arrested After Looting, Arson During Protests",
-   "snip": "Rioters torched buildings and looted shops across France, destroying Limoges' historic town hall amid nationwide cost-of-living protests.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2121827/france-over-1800-arrested-after-looting-arson-during-protests",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-18T12:54:43Z"
   },
   {
    "k": "news",
@@ -532,7 +640,7 @@
    "av": "",
    "followers": 0,
    "cap": "Konser Guns N' Roses di Jakarta Bakal Dibuka oleh 9 Dewa Gitar Indonesia",
-   "snip": "Konser Guns N' Roses di Jakarta Bakal Dibuka oleh 9 Dewa Gitar Indonesia detikcom 9 Dewa Gitar Bakal Tampil di Konser Guns N’ Roses Jakarta, Ada Ian Antono hingga Rhoma Irama Sinar Pagi News - Guns N' Roses Konser di GBK 21 November 2026, H",
+   "snip": "Konser Guns N' Roses di Jakarta Bakal Dibuka oleh 9 Dewa Gitar Indonesia detikcom Konser GNR di Jakarta Auto Spesial, 9 Dewa Gitar Bakal Ikut Panaskan Panggung Warta Ekonomi Rhoma Irama Buka Konser Guns N' Roses di Jakarta, Kaget Saat Ditaw",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -598,7 +706,7 @@
    "av": "",
    "followers": 0,
    "cap": "Chika Jessica Spill Momen Bareng Thayaka, Anak Angkat Ruben Onsu",
-   "snip": "Chika Jessica Spill Momen Bareng Thayaka, Anak Angkat Ruben Onsu detikHOT Ruben Onsu Ungkap Asal-usul Anak yang Diadopsi, Ditemukan dalam Kardus Penuh Semut Dikira Sudah Meninggal VIVA.co.id Adopsi Bayi Laki-laki di Tengah Persidangan Hak A",
+   "snip": "Chika Jessica Spill Momen Bareng Thayaka, Anak Angkat Ruben Onsu detikHOT Ruben Onsu Ungkap Asal-usul Anak yang Diadopsi, Ditemukan dalam Kardus Penuh Semut Dikira Sudah Meninggal VIVA.co.id Selain Betrand Peto, Ruben Onsu Disebut Punya Ana",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -708,7 +816,7 @@
    "av": "",
    "followers": 0,
    "cap": "Asri Welas Tegaskan Ide Netizen Jodohkan Dirinya dengan Desta Gak Masuk Akal",
-   "snip": "Asri Welas Tegaskan Ide Netizen Jodohkan Dirinya dengan Desta Gak Masuk Akal detikHOT Respons Asri Welas Mendadak Dirumorkan dengan Desta Kompas.com Asri Welas Tepis Rumor Pacaran dengan Desta: Dia Seleranya Adik-Adik Media Indonesia Tangga",
+   "snip": "Asri Welas Tegaskan Ide Netizen Jodohkan Dirinya dengan Desta Gak Masuk Akal detikHOT Respons Asri Welas Mendadak Dirumorkan dengan Desta Kompas.com Tanggapi Isu Kedekatan dengan Desta, Asri Welas Singgung Selera Grid.ID Dituding Punya Hubu",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -813,50 +921,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Aron Ashab Ngaku Diculik-Disekap di Tasik, Keluarga Buka Suara",
-   "snip": "Aron Ashab Ngaku Diculik-Disekap di Tasik, Keluarga Buka Suara detikHOT Bukan Diculik, Keluarga Sebut Aron Ashab Masuk Panti Rehabilitasi karena Kecanduan Alkohol celebrity.okezone.com Aron Ashab Ngaku Diculik dan Disiksa, Keluarga Ungkap F",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUlCVlZPTGctN1hOaGpCOFJELTJDOTRiU2lPS2RJZERFcHlBSl8xX245M3hFU3NCaUwzWEFDX2xvOU5WMzdSZjlxb3gzTlVVeFBNSU1RZjJXSDYxa0hmUEp0ZEloS1A5dkRUcVh2aldLVU1SYnBEZW5xY0pWbVduczRXRjV1LXlZZmhBUThsVmtHN2txZ0t0T0ZXWG5feDZ20gGmAUFVX3lxTFBENlFqUEJ0YWV5d09hOGdQNDZuZFhCVlh4VUtoSzlvSlYxcGtRSE9jUlotdlpKZlRNbGJsaDFxdEpCel9pcHJNSG1vQVVWY3ZHQ1VPcGYxYW9yaFVXTE1aQ0RsV3k1RGpaWjZwbUhPVFhla2l3UkgyRzNhVkNXTW1IZTRVRnJWam1JMWV4a2FfTVU3OUNwZ2JmODZkbG82RG5jOG0xNXc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-18T02:34:29Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Reaksi Masayu Anastasia Ketika Diminta Rujuk dengan Lembu Oleh Netizen",
-   "snip": "Reaksi Masayu Anastasia Ketika Diminta Rujuk dengan Lembu Oleh Netizen detikHOT Masayu Anastasia dan Lembu Solid Hadapi Samara Masuk Fase Remaja detikHOT Kompak Urus Anak dengan Lembu Meski Berpisah, Masayu Anastasia: Pisah Tidak Harus Berm",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlU5YVZWVE5BZ0haVUxFS0Znd1Q3MmhubTRGMjROQS1OS1h4dVU2V1pLbzN3NVl2M18tSDAxR3RPalZrMTJhN1lISDgtWHhHc28xTkZRSnp0Q3RCN1g0VFJlUGwtS2NzSTFJZklSRk9kV05KV0pqM19UOGR3SGMtRS1iR0lhUnlRNkFwOXN1Uk5pZGNyeGtSc0FoUmtLN3RFbVBPSUNRQXhteFZ50gGyAUFVX3lxTFBHNHlraHItb0pPN3I3MDNGZXZBX3VETjQzV3V1MXdUbl9KOHZaak4tcmlwZFNtVlVpY2psMFZjUVdJYlR0YWtfRGF0WGdZTjNZUVRKN1JPclZGaE5HUktUMnRUMDNDVnNBNnN0RGVMbW1UUnZtVUxfbE5ZSkNjSllSRW9vWktfV2VXMW5RcFhiOGhzTWp1Mm9OZlVBVzkteDlTMGZXZlZWbFBEMUNZWnFuR0E?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-18T01:16:02Z"
-  },
-  {
-   "k": "news",
    "u": "Kompasiana.com",
    "name": "Kompasiana.com",
    "av": "",
@@ -874,7 +938,7 @@
     "Kompasiana.com"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-17T23:44:26Z"
   },
   {
@@ -884,7 +948,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Zodiak 18 Oktober: Cancer Sabar Hadapi Masalah, Leo Lebih Disiplin",
-   "snip": "Ramalan Zodiak 18 Oktober: Cancer Sabar Hadapi Masalah, Leo Lebih Disiplin Wolipop 3 Zodiak yang Memasuki Era Baru Mulai 18 Oktober 2026, Ada Aries Kompas.com Ramalan Zodiak Hari Ini, Minggu 18 Oktober 2026: Ada yang Beruntung dalam Karier ",
+   "snip": "Ramalan Zodiak 18 Oktober: Cancer Sabar Hadapi Masalah, Leo Lebih Disiplin Wolipop 3 Zodiak yang Memasuki Era Baru Mulai 18 Oktober 2026, Ada Aries Kompas.com Ramalan Zodiak 19 Oktober: Capricorn Berpikir Jernih, Aquarius Jangan Gegabah Wol",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -896,8 +960,30 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-17T23:00:38Z"
+  },
+  {
+   "k": "news",
+   "u": "Bisnis Style",
+   "name": "Bisnis Style",
+   "av": "",
+   "followers": 0,
+   "cap": "Musik-musik Warkop DKI Kembali Hidup di Synchronize Fest 2026",
+   "snip": "Musik-musik Warkop DKI Kembali Hidup di Synchronize Fest 2026 Bisnis Style Indro Warkop Menangis Ingat Mendiang Dono dan Kasino di Synchronize Fest 2026 Kompas.com Tribute to Warkop DKI Hangatkan Synchronize Festival 2026, Indro Kenang Dono",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOendFQkVjZkJyOEw0akhWLXllS1llNlQ5dmxOeXNkY1p5Vk1aQmt3NXJGblY1dWVjbWlSNkdhanItVGk2bzZGOV9VVGJBYUtRQUNHeGU4cDVfVmhUYURlNkUzb091eEV6QXZCWUJQR3hBWXpuMnFRcHJDWE9kejdOX1ZaS3BuVF9KNVJjNTFac25oZ1FnWFZxanVrdFNFWmtHbC1wX2d6Z3JRZWNKdnJkQ04zNFZ2cms?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Bisnis Style"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-17T17:14:49Z"
   },
   {
    "k": "news",
@@ -928,7 +1014,7 @@
    "av": "",
    "followers": 0,
    "cap": "Suara Lantang Musisi Soal Karhutla Bergema di Synchronize Fest 2026",
-   "snip": "Suara Lantang Musisi Soal Karhutla Bergema di Synchronize Fest 2026 detikcom Float di Synchronize Fest 2026 ANTARA Foto The Changcuters Suarakan Soal Karhutla Epaper Media Indonesia Ayu Ting Ting, Shabrina Leanor duet nyanyi di Synchronize ",
+   "snip": "Suara Lantang Musisi Soal Karhutla Bergema di Synchronize Fest 2026 detikcom The Changcuters Suarakan Soal Karhutla Epaper Media Indonesia Float di Synchronize Fest 2026 ANTARA Foto Ayu Ting Ting, Shabrina Leanor duet nyanyi di Synchronize ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -942,28 +1028,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-17T15:00:57Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Impian Terakhir Yadi Timo Mau Punya PH Sendiri Sebelum Meninggal",
-   "snip": "Impian Terakhir Yadi Timo Mau Punya PH Sendiri Sebelum Meninggal detikHOT Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Yadi Timo, Pemeran Penculik di Petualangan Sherina, Meninggal Dunia Kompas.com Aktor senior Yadi T",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTcwM0xrYnBKMVQzUnlmLVdETjJKWE44THFlUm10WG5QMXM5dHgtLWdlb0c1T2MzcWJxbmxtc1I1cGtXNzJRNVpVMFAzS2VVckczNVhNZDFVdXJwd0pzUTZqcEYyazNtaGhyYlJIUXhKZl95WnlYY3pnYlNxUEFDME9oYlhiN2RtY2I5OENMYVBfanZkS2JLNHNGeVI3Nk05NWtyRtIBqgFBVV95cUxQdGlIZEZJakJjUERtdkpXWTlQS25zdnFZaG53c1RIRnU3dDRCZ2l1NW9zVFhfakVnNmZlc2VMdzQwTXhPMWJoQ1k3UnZ3UkloMlUwaU5RMTZ3dEZ1LU92TkwzbEF1UXRxdmJiSnNxTFFZVnZNNXpHUXJickJqZ0VyN1RGSkFKVEhiaTFCYVJZRm80RnpoaHU0N2hOR01kb05FNDhRd1JQei12Zw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-17T14:05:22Z"
   },
   {
    "k": "news",
@@ -994,7 +1058,7 @@
    "av": "",
    "followers": 0,
    "cap": "Muncul Isu Boikot Buntut Rekaman Video Call Ruben Onsu, Nanda Persada Ingatkan Publik Jangan Gegabah",
-   "snip": "Muncul Isu Boikot Buntut Rekaman Video Call Ruben Onsu, Nanda Persada Ingatkan Publik Jangan Gegabah Grid.ID Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Ruben Onsu Merasa Terzalimi hingga Buat 3 Laporan Polisi, T",
+   "snip": "Muncul Isu Boikot Buntut Rekaman Video Call Ruben Onsu, Nanda Persada Ingatkan Publik Jangan Gegabah Grid.ID Alasan Sarwendah Unggah Video Call Ruben Onsu dengan Seseorang detikHOT Psikolog Tegur Sarwendah Usai Unggah VC Ruben: Sayangi Anak",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1016,7 +1080,7 @@
    "av": "",
    "followers": 0,
    "cap": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026",
-   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia Alda Callista Jadi Miss Indonesia 2026, Ini Daftar Lengkap Pemenangnya CNN Indonesia Alda Callista, Wakil Papua Tengah Ukir Sejarah Miss Indonesia RRI.co.id FOTO",
+   "snip": "Alda Callista dari Papua Tengah Raih Mahkota Miss Indonesia 2026 CNN Indonesia Alda Callista Jadi Miss Indonesia 2026, Ini Daftar Lengkap Pemenangnya CNN Indonesia Dian Kharisma Sandang Miss Royale di Ajang Miss Indonesia 2026 - Suara Merde",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1030,28 +1094,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-16T13:30:29Z"
-  },
-  {
-   "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis",
-   "snip": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis celebrity.okezone.com Ruben Onsu Dilaporkan atas Dugaan Pencabulan Kompas.com Ruben Onsu Dilaporkan Atas Dugaan Asusila Sesama Jenis, Pelapor Sebut Korban Lebih dari Sa",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczRNd3lUMFFpanJuU25CQkZzQnY5UENuUUFtM0pHSzZOVnNYT1dGVTFUbWI3WXppZ0x1SlpYa2ZBN1FJRG9wcURnWUF4cmlmTXNNQVBRdElJRVJoNmxhZzB5VmltRUxsTVNxUmhzUWlGelFtVHh5YWtvTFg0TmphS0FYWnJzRFIwMVIzeUtkVWFYSW1nNHU4LXVfajV0c28xZUZqUEU4Nlc5bnFRR2l4dU1RTk1yNTV4Vm40R0xHRHhmSU0zSl9N0gHGAUFVX3lxTFBjZFRnXzU4TTBqaFFmYnNnUTVVWVE4dzQ4LUlpekZOcXJNU2lnbHVqd1J2NVM4Z0ZJX0RBaXFNN0VRX2NIN0Vxc1JiTDZNTEgwb2EzVDlYa1hhRG9IcVVmSmNFcWo2RE9ocEJGdUlVbHltTW92VzFIWUNiZnNPSXRlRzBwOVJ1WjdtZWtTaFRYWVVDTmt6NElPazNlRnNqdWpDXzVQVUNWb3EwOTlmUUdjeWFrQmdQbDUybkljbVRxMVYya3VKUQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "celebrity.okezone.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-15T09:54:31Z"
   },
   {
    "k": "news",
@@ -1096,6 +1138,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-14T06:18:14Z"
+  },
+  {
+   "k": "news",
+   "u": "IDX Channel",
+   "name": "IDX Channel",
+   "av": "",
+   "followers": 0,
+   "cap": "IHSG Turun 2 Persen, Rumor Sanksi MSCI-Otoritas ke BREN hingga DSSA Jadi Beban Pasar",
+   "snip": "IHSG Turun 2 Persen, Rumor Sanksi MSCI-Otoritas ke BREN hingga DSSA Jadi Beban Pasar IDX Channel Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3Zfang3c2NHcnplUlVrR3Y2aThJUlp6THp2TG14bWpnVGRQUld5MlNYRGtaYkRpMElMMGZtalVMVFpHU1FyVnNERUNGcmFna1VTVF84V2FlVlozamFuVm1XNnRidHRmUmQ3N2g1ejI2eVBfS3FBVlNyNmlVMUVqSjJ0ZGRabG83eEFXaTFjOGw1UDIxY1VESFFJZzY0MjNfWk5SY29UOXNSalVRV01LMUNreXNDb281dWRoWF9PTQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "IDX Channel"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-12T08:22:00Z"
   }
  ]
 }
