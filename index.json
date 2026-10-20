@@ -1,6 +1,27 @@
 {
  "topics": [
   {
+   "t": "Kim Jong Un Dead",
+   "q": "kim jong un dead",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "BBC",
+    "Newser",
+    "Korea JoongAng Daily"
+   ],
+   "d": "2026-10-20",
+   "url": "https://www.bbc.com/news/articles/cmy4xnyyg1lyo",
+   "n": "North Korea: What satellite images reveal about Kim Jong Un's summer retreat",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
    "t": "Jizzy Pearl Bastian Anak Vino & Marsha Timothy Raih Medali Emas di ISIF 2026 UI",
    "q": "Jizzy Pearl Bastian Anak Vino & Marsha Timothy Raih Medali Emas di ISIF 2026 UI",
    "cat": "Selebriti",
@@ -43,6 +64,94 @@
   },
   {
    "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Kylie Jenner Debut di Runway Victoria's Secret, Kenakan Fantasy Bra Senilai Rp900 Miliar",
+   "snip": "Bertabur 4.410 berlian, Kylie Jenner pakai Fantasy Bra termahal dalam sejarah Victoria's Secret. Seperti apa?",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cantika.com/read/2121890/kylie-jenner-debut-di-runway-victorias-secret-kenakan-fantasy-bra-senilai-rp900-miliar",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-20T01:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Israel Arrests 10 Suspects over West Bank Settler Violence",
+   "snip": "Israeli police made the arrests following attacks on a US journalist and European diplomats in the occupied West Bank.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2121898/israel-arrests-10-suspects-over-west-bank-settler-violence",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-20T00:07:43Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Aisyah Aqilah - Laura Moane Jadi Kakak Adik di Film The Doll Ghawiah, Sifatnya Berkebalikan",
+   "snip": "﻿Aisyah Aqilah dan Laura Moane mengungkap karakter yang mereka mainkan di film The Doll Ghawiah.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/czrbfGihnBl7v4UGDTZor7B7D20=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376956/original/062045300_1792399971-IMG_6268.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8316482/aisyah-aqilah-laura-moane-jadi-kakak-adik-di-film-the-doll-ghawiah-sifatnya-berkebalikan",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-20T00:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Serial Zona Merah Diangkat ke Layar Lebar pada 2027 Mendatang, Siap-Siap Wabah Zombie Meluas!",
+   "snip": "Film Zona Merah akan mulai tayang di bioskop Indonesia pada 14 Januari 2027.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/tw2Y8BYi8SLXoHOTrIz7aM8Ppyw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377069/original/011755600_1792404063-Grab_Still_Teaser_25.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8316543/serial-zona-merah-diangkat-ke-layar-lebar-pada-2027-mendatang-siap-siap-wabah-zombie-meluas",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-19T23:00:00Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -65,6 +174,28 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Imbas Kontroversi Kakek Buyutnya, Drakor Ha Young Ditunda Tayang 2027",
+   "snip": "Imbas Kontroversi Kakek Buyutnya, Drakor Ha Young Ditunda Tayang 2027 Wolipop Penayangan Drakor Ha Young The Long Shot Trial Ditunda Medcom.id Drama Baru Ha Young 'The Long Shot Trial' Tertunda Penayangan WowKeren Penayangan The Long Shot, ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVE1KOWxWSmo3YVdNSFoxSWEwbzdJekEzc0ZzaEo1THhPMGZDTHJjeG5aZ0VCb2dPWXJqNVNNSzJwUENPWDdBWVd0X0dORlBENm5NUmIxclE5dEJrZ0NnREhvZUxYdW5MemlTQzc0M0txSFlCX1dqc0JoTGJpN3dHNmRGM3RCMk1hdmpoQVpaM1pDVXpDUndjT182OTJVWnZ1b1V1N2Vxd3BEeWluNHRITnZ3LUEtNEtQWnhtNDNFVTDSAcYBQVVfeXFMT19UelU1V0RIbjR1THdicVlydDdYbTJFLXRFRk1fLXloeWJSbllKcDBMM0pscUlyQ0F3dElnbGxiV25lTDF1ZFV3OWJVSGxZUExOWjI2TTZRSDViNmxxSnd1Q2RfbU9ON2p0X0lSdW5teGJWSG52R1lmdTZaMzZvMzhZd0EyUy1LUkIxbVptb2dsMlRKREVOcWk4U0Zlb2hIWk1VQmFTT3J0T3RCc0RBTTR2V1lIdEJjem9lS3ZDN21jZlVxX093?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-19T22:30:57Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -82,7 +213,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-19T17:24:51Z"
   },
   {
@@ -172,6 +303,50 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-19T16:16:27Z"
+  },
+  {
+   "k": "news",
+   "u": "https://www.politikindonesia.id/",
+   "name": "https://www.politikindonesia.id/",
+   "av": "",
+   "followers": 0,
+   "cap": "Ini 6 Kode Redeem Free Fire 18 Oktober 2026, Buruan Klaim",
+   "snip": "Ini 6 Kode Redeem Free Fire 18 Oktober 2026, Buruan Klaim https://www.politikindonesia.id/ Update! 10+ Kode Redeem FF Terbaru Hari Ini 19 Oktober 2026, Sikat Langsung Skin Senjata hingga Bundle Gratis - karawangbekasi.disway.id karawang bek",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1JhdThubUJablptd1QyeVpGVEFQMDFwSUlKTDZ3WjVTNU03clVzMEhJbEtzelRPbjI4UHR4SlM0UUl2bU9xYXBWYnFWbFcxdURqTXBWXzV4TzBNUFZlbHFBR2hrTVp6N0dlcmtyRDV3WFU2dFRxNVNIRk5LcmZzZVlGZGhRZDlEeGJUcHVYdktnZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://www.politikindonesia.id/"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-19T15:58:46Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Kulineran Maudy Ayunda dan Suami, Bekal Telur Rebus hingga Jajan Durian",
+   "snip": "Kulineran Maudy Ayunda dan Suami, Bekal Telur Rebus hingga Jajan Durian detikFood Maudy Ayunda Umumkan Kehamilan Anak Pertama, Sudah 7 Bulan Kompas.com Yeay Selamat! Maudy Ayunda Hamil Anak Pertama detikHOT Maudy Ayunda Umumkan Kehamilan Pe",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFQycjd3ZkEwOFhtS2VONm1OdTFnSG1yNk93RG9YajV4LXB1NjFzZW9aOUlpckJvTG1xSndWX1hGUThSYS1pNTJyRUVQSWVucTVVR1ctOHd5ZTM0cGR6TmhKbThBR1V4MFZzMXRIQ1cwbWVQbmpPcElIdF8yUUF6bTNncWM3Qy12QjRsMU1LYnRTaTBpRTV5Y3MxREhTWExMV2xnTTBoaGluM00xTm5IWFgxbHRuSVXSAbwBQVVfeXFMTXVfdXI5UnZHazFKbHdXZm9laWpxQ1I4M1o4cFVjSnduWHJrbDZTcW5qemI3QmNuM0hkOGFhaUVVVGZraWtTSElGbzdwekRxb3ZLell2SG9ZYy03MXY4LV9NM0JHMU02akpObzNVdU5DSng2X1YtNjlxeUY5MGhSa2RkS25HMG9qUG1Nby1EUTVyNW1Bb1dSTUZLVWhXMDdXRmk4UEpiVFR3Ujl3bW8wak9CRXRlUnd0ejlxM0s?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-19T15:00:29Z"
   },
   {
    "k": "news",
@@ -351,25 +526,25 @@
   },
   {
    "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
+   "u": "detikInet",
+   "name": "detikInet",
    "av": "",
    "followers": 0,
-   "cap": "Will Macron Proceed With Gulf Tour Amid Domestic Unrest?",
-   "snip": "French President Macron plans to visit Gulf states amid mass protests over the rising cost of living and fuel prices, with over 2,000 arrested.",
+   "cap": "Israel Coba Tipu Netizen Dunia dengan Tiruan Film NAZA",
+   "snip": "Israel Coba Tipu Netizen Dunia dengan Tiruan Film NAZA detikInet NAZA Tayang Dimana? Cek Informasi Lengkapnya di Sini - kumparan.com Kumparan.com Kisah Tanah Palestina dalam Film Acehkini.ID Bagaimana AI Lavender Dipakai Militer Israel di G",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2121871/will-macron-proceed-with-gulf-tour-amid-domestic-unrest",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGN3ZHFjN1c4dVJHVnNuNTlfMWtFRE51blRXcktVWHdSUXZ6andNLU9pbE9fdi1RN3pCM1Y5RVRTaTVseHdMTmZVTVduZEhhZ1NpN1ROLXJ3Zzd5VU9RSEFIMk1NZVcwZE85ZTZ3WHpHbnl5R1AtT2F4WTNHeU9xT1k5amUxbExoald5RmEwOVNpb1p1WjJ3TW1md2pGd9IBowFBVV95cUxOQVlZTGUzc2d3YVFJUExwblJpMlhCMVFHTWtmVUMxMnNudnAzSmJVb3FnREJQVk5CZmMwc0pySjRiaG92R2ViVVUzQnY4VWZaeWxfd1hFV0xXZjJOUlM1MmVWcWtMQjJYaHpIU0pyanlUMGNwdVh4Y0dxZnRDdGhsSWxNOFl6M2ltcGVfcWJCcm5oQmpqWi1TUFBZT29Mc3hRYlRv?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Tempo"
+    "detikInet"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-19T09:31:24Z"
+   "ts": "2026-10-19T09:46:14Z"
   },
   {
    "k": "news",
@@ -505,50 +680,6 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Gaya Maudy Ayunda Umumkan Kehamilan, Pamer Bare Baby Bump di Trimester Ketiga",
-   "snip": "Gaya Maudy Ayunda Umumkan Kehamilan, Pamer Bare Baby Bump di Trimester Ketiga Wolipop Yeay Selamat! Maudy Ayunda Hamil Anak Pertama detikHOT Maudy Ayunda Umumkan Kehamilan Anak Pertama, Sudah 7 Bulan Kompas.com Maudy Ayunda Umumkan Kehamila",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTZYVlFBUFVJY2NxSzNkSzZxSll5Q1VudGtBNll4SWhCRmtiQ1J4VDFzTlVyX3VvRjM2X2x5V1U2aExwbDdTeExBVTVBb3lsQ1RFZXA5Mk9KMmh5SG5ZU0otNXl1ZEpITy1tQXhUVDFTdzg1aHNOc0l2U2NLWkdpNXBVakFNTHl2SE52Z1NtMnVBSkkwcV9tNVpxMFhUekNpY0JlSHFVT0ZxZllZc2R2SkpibTRnVXkwRTEtbnk1bUtocDFnMm01R3dXRdIB0AFBVV95cUxOc3hRTElrMWNxLXZqWF9zclhxV1NGbGpVQXRxVkQ3bjRCa0xaSzNjS01zMG9PaDlqaFc3ZUl6V09zX2NrQjFtMDV6cExOb0NpR19UcnhWWEN3aUp4R3Y2SlRINWJXQ0xnTDFtS1c4blpOcnIweUxxM2dZSm1ta0g3UC1rRXRkcmtVZ1h5eTBRWDFwRy1qWF9DQkpNdm1CbWFaMjg4NldDMjYyT1FOZXUzeC1OQ0M0YzdHNm5JMk9wUTBmV2xiVTJXRGRPQ1ZraExx?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-19T08:00:33Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Selamat! Maudy Ayunda Hamil Anak Pertama, Sudah Lebih dari 7 Bulan Mengandung",
-   "snip": "Lewat akun Instagramnya, Maudy Ayunda bagikan kabar kehamilan pertama dengan tiga foto monokrom sarat makna.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cantika.com/read/2121865/selamat-maudy-ayunda-hamil-anak-pertama-sudah-lebih-dari-7-bulan-mengandung",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-19T08:00:00Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -642,7 +773,7 @@
    "av": "",
    "followers": 0,
    "cap": "Tangis Pilu Marsha Aruan di Depan Peti Ibunda",
-   "snip": "Tangis Pilu Marsha Aruan di Depan Peti Ibunda detikHOT Ibunda Marsha Aruan Meninggal Dunia Kompas.com Duka Marsha Aruan Ditinggal Ibunda Selamanya detikHOT Melayat ke Rumah Duka, Gritte Agatha Beberkan Kondisi Marsha Aruan yang Ditinggal sa",
+   "snip": "Tangis Pilu Marsha Aruan di Depan Peti Ibunda detikHOT Duka Marsha Aruan Ditinggal Ibunda Selamanya detikHOT Kenal Mendiang Ibunda Marsha Aruan, Gritte Agatha: Ceria dan Baik Kompas.com Kabar Duka, Ibunda Marsha Aruan Lisa Diana Tambunan Me",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -700,50 +831,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-19T06:53:10Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Sang Kakak Bongkar Kebohongan Aron Ashab yang Ngaku Diculik dan Dipenjara",
-   "snip": "Aron Ashab mengaku diculik dan dipenjara, tetapi sang kakak, Gamyla Ashab, membantah dan menyebut ia menjalani rehabilitasi. Simak kronologi lengkapnya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/NbMbQRrFSHO1gslJLtA2lVNGzWg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376785/original/009456800_1792392571-aronashabklarifikasi.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8316337/sang-kakak-bongkar-kebohongan-aron-ashab-yang-ngaku-diculik-dan-dipenjara",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-19T06:49:30Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Alexa Dangdut Academy 8 Ajak Netizen Blok & Laporkan Akun Palsu di TikTok",
-   "snip": "Alexa Dangdut Academy 8 merasa dirugikan dengan adanya akun palsu yang mengatasnamakan dirinya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/Qegiq8a4ejJyhGRcfRVokOLQ8Gc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376765/original/082957500_1792391531-alexaverse.jateng_1790112224_3992072318775893529_13260381000.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8316325/alexa-dangdut-academy-8-ajak-netizen-blok-amp-laporkan-akun-palsu-di-tiktok",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-19T06:32:11Z"
   },
   {
    "k": "news",
@@ -818,7 +905,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id Sumeks Ramalan 12 Shio Hari Ini: Babi Banjir Hoki, Monyet Harus Waspada! VIVA.co.id Ramalan Shio Hari Ini, Bagaimana Peruntungan Ti",
+   "snip": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id Sumeks Ramalan 12 Shio Hari Ini: Kambing dan Anjing Berpeluang Hoki, Ayam Wajib Waspada VIVA.co.id Ramalan Shio Hari Ini, Bagaimana",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -852,7 +939,7 @@
     "detikInet"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-19T01:15:05Z"
   },
   {
@@ -874,7 +961,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-18T23:06:08Z"
   },
   {
@@ -928,7 +1015,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pesan Terakhir Yadi Timo untuk Putrinya Bikin Haru, Ini Isinya",
-   "snip": "Pesan Terakhir Yadi Timo untuk Putrinya Bikin Haru, Ini Isinya SINDOnews Lifestyle Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Sahabat Ungkap Yadi Timo Meninggal Dunia karena Serangan Jantung celebrity.okezone.com Pr",
+   "snip": "Pesan Terakhir Yadi Timo untuk Putrinya Bikin Haru, Ini Isinya SINDOnews Lifestyle Yadi Timo Meninggal Dunia, Zarima Murka Masa Lalu Diungkit detikHOT Sahabat Ungkap Yadi Timo Meninggal Dunia karena Serangan Jantung celebrity.okezone.com Ak",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -950,7 +1037,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pesona Ayu Ting Ting, Anak Ayah Ojak",
-   "snip": "Pesona Ayu Ting Ting, Anak Ayah Ojak detikHOT Ayu Ting Ting di Synchronize Fest 2026 ANTARA Foto Ayu Ting Ting rencanakan album baru di 2027 ANTARA News Ditemani Kekasih di Synchronize Fest, Ayu Ting Ting: Percintaan Saya Lagi Seru Kompas.c",
+   "snip": "Pesona Ayu Ting Ting, Anak Ayah Ojak detikHOT Ayu Ting Ting di Synchronize Fest 2026 ANTARA Foto Ditemani Kekasih di Synchronize Fest, Ayu Ting Ting: Percintaan Saya Lagi Seru Kompas.com Ayu Ting Ting rencanakan album baru di 2027 ANTARA Ne",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1011,28 +1098,6 @@
   },
   {
    "k": "news",
-   "u": "Kompasiana.com",
-   "name": "Kompasiana.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Raline Shah Mundur : Komdigi Butuh Ahli Algoritma, Bukan Bintang Pesona Halaman 1",
-   "snip": "Raline Shah Mundur : Komdigi Butuh Ahli Algoritma, Bukan Bintang Pesona Halaman 1 Kompasiana.com Apakah Staf Khusus Kementerian Dapat Uang Pensiun? Simak Aturan Resminya Suara.com Raline Shah Pilih Babak Baru dalam Perjalanan Karier Profesi",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHZ5NTJydFJFWkhRajU0bkxLS1ZRV1pBXy13SWxwYzJZdW4zY285QWJIZkdjUkpJOHVkb1RpQVZsVFBIWFR3NXN4Y2kzVU1GRjExWm1zU1FPejV3bmg3bnVGY1I1c2xJVWRsNGl3T29FVDFMWUtxRmV3R3lrNWJjMTZicTlZang0dkM3R3E1N1htbGJTcWV2NG0tSmE3U1dyWXJ2QXAxeWFTZ3dOZ3VpT2FVVDhEbEhrTnlRMVI5SG9vaFFyeTZmUW95b3lNUzNC?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompasiana.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-17T23:44:26Z"
-  },
-  {
-   "k": "news",
    "u": "SINDOnews Lifestyle",
    "name": "SINDOnews Lifestyle",
    "av": "",
@@ -1059,12 +1124,12 @@
    "name": "celebrity.okezone.com",
    "av": "",
    "followers": 0,
-   "cap": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis",
-   "snip": "Artis Inisial RO Dipolisikan Atas Dugaan Pelecehan Seksual Sesama Jenis celebrity.okezone.com Dituduh Cabul, Ruben Onsu Balik Menyerang! Kini Adukan Pihak Pelapor ke Polisi VIVA.co.id Ruben Onsu Dilaporkan atas Dugaan Pencabulan Kompas.com ",
+   "cap": "Pakar Hukum Sebut Polemik Video Call Ruben Onsu Bagai Pisau Bermata Dua",
+   "snip": "Pakar Hukum Sebut Polemik Video Call Ruben Onsu Bagai Pisau Bermata Dua celebrity.okezone.com Pakar Hukum Blak-blakan soal Kasus Video Call Ruben Onsu, Sarwendah Bisa Lolos dari Jerat Akses Ilegal? VIVA.co.id Muncul Isu Boikot Buntut Rekama",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczRNd3lUMFFpanJuU25CQkZzQnY5UENuUUFtM0pHSzZOVnNYT1dGVTFUbWI3WXppZ0x1SlpYa2ZBN1FJRG9wcURnWUF4cmlmTXNNQVBRdElJRVJoNmxhZzB5VmltRUxsTVNxUmhzUWlGelFtVHh5YWtvTFg0TmphS0FYWnJzRFIwMVIzeUtkVWFYSW1nNHU4LXVfajV0c28xZUZqUEU4Nlc5bnFRR2l4dU1RTk1yNTV4Vm40R0xHRHhmSU0zSl9N0gHGAUFVX3lxTFBjZFRnXzU4TTBqaFFmYnNnUTVVWVE4dzQ4LUlpekZOcXJNU2lnbHVqd1J2NVM4Z0ZJX0RBaXFNN0VRX2NIN0Vxc1JiTDZNTEgwb2EzVDlYa1hhRG9IcVVmSmNFcWo2RE9ocEJGdUlVbHltTW92VzFIWUNiZnNPSXRlRzBwOVJ1WjdtZWtTaFRYWVVDTmt6NElPazNlRnNqdWpDXzVQVUNWb3EwOTlmUUdjeWFrQmdQbDUybkljbVRxMVYya3VKUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTVLQVpadlJyR2pBdDkxX2FSOU9rYkQyNXoxM2hUWEsxSkJtVnlyZjBQRktraDNnWUlza0VGTVZqWEI0ZmMxSjFzRUJsMXMwa041Y05yS1dUSXdBTEQ2WERJZzdqZlI1blBTelFrZFI0NFFhd3B3YjJ2ellJSEFRbUpjNElMUXRyRlRBU056WDFEZTF3Z3NDZUJmRzRQS0xwaTZITC1mQ0lCY3ppa1FnUF9iYnUtdkFWemVGXzNNUTk5MlRqRllz0gHGAUFVX3lxTE4tNHlHOFJ6THQzazZmWjEwcVdjTjRLWmdHRHVTZVdIaGN3TVpRNE96a2ItMmdxS3JqZFdOQlZuZE5aMlV0WVIyNUtMREZmb1ZVSFdsMnpUa21ZN1E0TTl2ZTFJSUdSUFdza0NuaVZWLWdSbmdqcFZEelpoWnlXc0E0OHFsR2ZLWFNTbnNKLTgwZWc0YVBFdjZfSUFXTmdHaEN5R3psUTEyZXVVQ3dYdDZRTFdpRTI5UDJQdGdXVDFKZWl4OGN1QQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1073,51 +1138,7 @@
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-15T09:54:31Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Intip Rumah Baru Fajar Sadboy, Sekeluarga Diboyong ke Bekasi!",
-   "snip": "Intip Rumah Baru Fajar Sadboy, Sekeluarga Diboyong ke Bekasi! detikcom Aksi Kocak Fajar Sadboy Masak Bareng Amanda Manopo hingga Buka Warung Makan detikFood Potret Fajar Sadboy Syukuran Rumah Baru, Berbagi Kebahagiaan Bareng Tetangga & Kelu",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTJqWWJqZk83LWZ3T2ZUZExfOXo5cE1kVk5aRkk5LUFMNTBaNXRva1d0SnYwMV9aUWpjaUEyaEw2bk9LMGdaN2I0REtfSEU3cTU5OFRxdnJLRHUzZVBIek9WMnYxakJjMzN0UjFIVXhhYjdWalIxYXd4MnJpZjVFaUhrM0FHWWp2MlkzWEpnLTBzYlZKTXlPa3REamJwc21ldnVxaEJ0bjY1NG53YmtfNUpqTU4teVZNUzVGUnpn0gHDAUFVX3lxTE5oTlJXMGhGYWdsQmh6VldNSUpPa1g3OS1zQkhjR01LM19oc2xiM0lkdmdxcW5yb1JuaXJTUzBqc09fcXVjRzFRYUVYSlFEY1RSRUhtUXJGMlM3RnNJS2VfOXJOZDRmSFNUMW9WTnlPcER2b244NnRNRHE5NERuYk9sazdEOXg3cVhlMG1ZUklKLXB0M2tGT09GX3ZCUTY1amNWM2hmQnhQd1V3cjZ0UVp4WkgzY1FLcmtNWDl5a2tCQk11RQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-14T09:06:03Z"
-  },
-  {
-   "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya",
-   "snip": "Betrand Peto Laporkan Sarwendah Atas Dugaan Illegal Access usai Bobol dan Curi Data Pribadinya celebrity.okezone.com Muncul Isu Boikot Buntut Rekaman Video Call Ruben Onsu, Nanda Persada Ingatkan Publik Jangan Gegabah Grid.ID Pakar Hukum Bl",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNPOVdxellieEpBZDRCLXA2eUN1MzQ2X0cwaFh2MVl5WUhCMUZqTlpyWEhBeHZ5akJ0THFzOU9TbTBtaFRmdXhJSHhKb2RSU2tuaTdJekhMZ2puMEc3LUVGU2ptRVdMMFJ5eDZ3UDNrRy1KYUFFeGNEcEtsdnY1Z0E1c3JyNnhRdjZYT0ExelRPbFVmMWNFWEMyY253WVVfUk5PNTZEN0NIRzc0aUI4cmhsMkFOTGVNME5VaGlXUDMzVmphQjY0RlYzeXRfQlFKRHNnWTRSNjU0QUVTMS1TbGY4RHBNZ9IB5AFBVV95cUxQVmtSX2Y0Z0ZITzM5Z01uVURYQ1RwWURYc0dseXgzWGlFcjdmZTBkZXFhSGpPSXQ1MEpXMzA0X01qTkk3MkQ5MDJKTUZQZUtZSDYtcWtSa3d5MXdzSmxuZEhKcEFjMmNxelduWUdTbndyR05fZHpmcjRaRnYwekdvNEJQaGlPSW9aeHB2SVJWVHYwYmU2RTVJcDlidEY0U0Vjc2E2V1p2MTFZSjk2WDZyV01yZkhxdWVzdktXamFVaEhLcFZxWGxqdVNmcmN0U1ZHdFZCMklicFZ2dkN0ZzVKUmNBNmc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "celebrity.okezone.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-13T00:05:02Z"
+   "ts": "2026-10-13T22:06:38Z"
   }
  ]
 }
