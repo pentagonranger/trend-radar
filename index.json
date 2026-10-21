@@ -1,9 +1,9 @@
 {
  "topics": [
   {
-   "t": "Matheus Cunha",
-   "q": "matheus cunha",
-   "cat": "Selebriti",
+   "t": "Kylian Mbappé",
+   "q": "kylian mbappé",
+   "cat": "Musik",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -11,13 +11,34 @@
    ],
    "src": [
     "Google Trends",
-    "Rádio Guaíba",
-    "ge",
-    "GZH"
+    "Goal.com",
+    "Yardbarker",
+    "Foot-Africa.com"
    ],
    "d": "2026-10-22",
-   "url": "https://guaiba.com.br/inter-toma-decisao-sobre-matheus-cunha-e-felix-torres/",
-   "n": "Inter toma decisão sobre Matheus Cunha e Félix Torres",
+   "url": "https://www.goal.com/en-sa/news/thibaut-courtois-backs-kylian-mbappe-ballon-dor/blt3c56094845ffc6d2",
+   "n": "'Nobody has been better!' - Thibaut Courtois backs Kylian Mbappe for Ballon d'Or and questions 'unclear' voting criteria",
+   "vol": 500,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Klasemen Real Madrid",
+   "q": "klasemen real madrid",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Tribrata News",
+    "Goal.com",
+    "Kompas.com"
+   ],
+   "d": "2026-10-22",
+   "url": "https://tribratanews.polri.go.id/blog/nasional-3/real-madrid-menang-meyakinkan-menjamu-sevilla-4-1-107433",
+   "n": "Real Madrid Menang Meyakinkan Menjamu Sevilla 4-1",
    "vol": 100,
    "vu": "pencarian"
   },
@@ -169,7 +190,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T15:05:57Z"
   },
   {
@@ -191,7 +212,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T15:00:00Z"
   },
   {
@@ -213,8 +234,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T14:14:36Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Pangeran Harry Ingin Berdamai dengan Pangeran William",
+   "snip": "Pangeran Harry Ingin Berdamai dengan Pangeran William Wolipop Pangeran Harry Buka Suara Soal Keretakan Keluarga Kerajaan CNBC Indonesia Pangeran Harry Buka Suara Soal Kepindahan ke Inggris dan Keinginan Rekonsiliasi Keluarga Media Indonesia",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhYdXdJM25UX2dOSUZ1UkZHY2VraWI0bFEwZzY5ckYxS2syYi1LbzkyV2h3V0g3MC01VVNBMWlIUDZ3Zm9EQ2ZVOVJwX21LSGsxU1NXM0Ntdk1jWlpZLVUweVpkdER6WWZYcmJ1aFZYTXgzRmpnWEhnYllIa2NlMFJncUtGcDRNRFJvdTB1OGo2TXlKWElEX0poVy1OdmRERVJfN25CNmVFSk120gGyAUFVX3lxTE5qakdKSHBIZkptUmg2bnk1dGlNZE5TcGZNMkpCc1p0VUp0MWpBY3BSZjdKNlJuZkxYaVppUDJXRVdpSzFrMC1xSFpLVGV6YUVkSEQyMzFHU3ItbEwtLXB4SlJUOVBnc2dqS0R6cExWYTk3cmdQcnVEcFF6dVJpdkVvTFR5MWZHal95dDNEcWMxbHBfWmR5ZElrSUh1ajlVUGxnWl9aVmUxbjlxZXdMbm52RHc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-21T14:08:19Z"
   },
   {
    "k": "news",
@@ -223,7 +266,7 @@
    "av": "",
    "followers": 0,
    "cap": "Warisan Berharga Mendiang Ibunda yang Dipegang Teguh Marsha Aruan",
-   "snip": "Warisan Berharga Mendiang Ibunda yang Dipegang Teguh Marsha Aruan detikHOT Antar Ibunda ke Peristirahatan Terakhir, Marsha Aruan: I Love You So Much Kompas.com Marsha Aruan: Bunda Itu Sangat Baik Sama Semua Orang JPNN.com Ditinggal Sang Ibu",
+   "snip": "Warisan Berharga Mendiang Ibunda yang Dipegang Teguh Marsha Aruan detikHOT Tangis Marsha Aruan di Hadapan Pusara Ibundanya Kompas.com Chicco Jerikho dan Verlita Saksi Perjuangan Marsha Aruan Dampingi Ibunda hingga Akhir Hayat Inilah.com Jad",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -235,7 +278,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T14:07:49Z"
   },
   {
@@ -257,7 +300,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T14:00:00Z"
   },
   {
@@ -279,7 +322,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T13:49:55Z"
   },
   {
@@ -301,7 +344,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-21T12:26:02Z"
   },
   {
@@ -658,28 +701,6 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Kylie Jenner Dikritik Model Senior Usai Tampil di Victoria's Secret",
-   "snip": "Kylie Jenner Dikritik Model Senior Usai Tampil di Victoria's Secret Wolipop Berharga Rp902 M, Apa Sebenarnya Fantasy Bra Victoria's Secret? CNN Indonesia Kylie Jenner Debut di Victorias Secret Fashion Show 2026, Pakai Bra Rp902 Miliar Medco",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkNoVXZUU25NZU1lUnBrekc0djNIdUFPcUtaUHVJNEFBUlNldlJKS1JnZC1nNjdOQ0NqVHJRQkxlODZiRlEzQU1UWkEwMTBxV3RwdkNSVkIxT0lBLWhqZFU3TDhoYzJkeGJQa21ISzdSU0Rja2xaUWNXZzJJR084dWY2QmJDbkZmMWp5Y2U0VThZRTVlMHQ4eHdEMmxtUEt5d2pwenNrb1ktbWVuTnpmLU5mOXZvTWd1ZGVNd1dn0gHDAUFVX3lxTE14dndxM2VoQVZfc2J6Q3BGQVpXWENXN2k1V2JyZS1hZHFFVkNpVjJiT1p6ME1nb0JPa1NtTm11RkRVQmVVR2dNYXl1RmpGOFNyU0tRbzdIVkZLX3RBczE0c3ZsVFI5TWxEM0gxRElKNW9lcVM2dlNaVmFrOGp5SFk0V09BWndYOWpzOEl2VUZGT0lNQkFJbVktSWZzeDdDU3BFa3B6czVDcXBLRDRNcVdoak4xY3RuclRMRWJQWDBpbXU5MA?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-21T05:00:21Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -721,28 +742,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-21T04:05:43Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Baru 18 Tahun, Putri Nicole Kidman Debut di Sampul Majalah Vogue Jerman",
-   "snip": "Baru 18 Tahun, Putri Nicole Kidman Debut di Sampul Majalah Vogue Jerman Wolipop Sunday Rose Debut di Sampul Vogue Jerman pada Usia 18 Tahun Demokratis.co.id Sunday Rose Debut di Sampul Vogue Jerman Edisi November Suara Independent News",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEFPdHhoVGlIWGo4VTFhZENYX2pWU2pfWVZnemM2cmtiMk8xNzl5cE9UTW1kTWF5TEdMYW56Q1JtaW1hMXJwTGFVaVp2bi1hTUxQZnc2Uy1ZVS1yWnkwWWVvV08zYUJpazRiTHpEbmhyMDNZN2lrSzBEMFB2NTBGZDZJYVhDN1dLWTBoNmo2RTJPOXRROUlKejhYSDg1UjJ4WFpzS2IwNXpsYzJsY3Qzb3U1ZENKaXVjQjJV0gHAAUFVX3lxTFBlN3VFTlA0TzYzbkR1TEQ2NGF2b1ZCTGRRZWdfSmpfaVpNWWNqRVQzWnk1Q1p2X28wRHFoU3BuRmRBTkwtMk1QRjRhWWJyeG9TUGdNLUpOdURSNVlfal9HWGF1dW9vVUhSMWk4Nm1wdGYxVTRpajFnZnhqS2pmSEpFVEItNEJHaFNOcHB1MGpyR0JYVEZWM3N1eUp1ZnV1SEtpYThvMkVoS1UxY2xsNmdyd3JKbS1HeTQzYVpXQnVZeA?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-21T03:05:19Z"
   },
   {
    "k": "news",
@@ -790,28 +789,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "The Sacred Riana Soal Jadi Pesulap Indonesia Pertama Raih Les Mandrakes d'Or",
-   "snip": "The Sacred Riana Soal Jadi Pesulap Indonesia Pertama Raih Les Mandrakes d'Or detikHOT Sejarah! The Sacred Riana Pesulap Indonesia Pertama Raih Les Mandrakes d'Or detikHOT The Sacred Riana Raih Penghargaan Sulap Les Mandrakes d’Or di Prancis",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDZnVFNicmF2Q19Wa01Bam5LQlZYMWVZMXFRMlhBYzB5aFVuaC05OVdUNGJBZXcxekVUWTdYakVtY1FtMmtFdy1ERmpVTHlvWU4yNEpuUm1IcTJjaWNiajRPYi12emkxeGZySXhyZkhBcnlyNlVfV1RsdW5XWkJQaEhCODNuR0FpMzlvdkVEYjJDU2JCOEgzdTFJQ2loa1gzdGZ2YlFwNGtTVU1WNXVOTVpNVdIBuAFBVV95cUxQVS16QmdXN01RRnBCUmo5dE1WakFqSGJJOFpnM1hUTlZOYnZWdVVTUk44OUR0UV9qeFVxbHBOdURTRmpkQXVzUWNvTWphTld6Vm9qSGJOYmFzclYzQTFnb3hxcXZKMGN5aVpKbXlTSGVKT1U2WUI4d3RQS2syYnVURGh3bWVYQnBLbHZ2UmVsMkc0X2hGRkFYVWdRMWhiM19FYVdqWjBFVEdGSV9vc3I4TWJvSEw4SU5s?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-21T02:09:50Z"
-  },
-  {
-   "k": "news",
    "u": "detikInet",
    "name": "detikInet",
    "av": "",
@@ -856,25 +833,25 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Axl Rose Kibarkan Bendera Palestina di Panggung Guns N' Roses, Netizen Heboh",
-   "snip": "Axl Rose Kibarkan Bendera Palestina di Panggung Guns N' Roses, Netizen Heboh detikcom Axl Rose Kibarkan Bendera Palestina di Atas Panggung Medcom.id Axl Rose Bentangkan Bendera Palestina saat Guns N Roses Bawakan Civil War di Kolombia Media",
+   "cap": "Hal-hal Bikin The Intern Korea Menarik Ditonton Akhir Oktober 2026",
+   "snip": "Hal-hal Bikin The Intern Korea Menarik Ditonton Akhir Oktober 2026 CNN Indonesia The Intern: ketika Pengalaman Senior Bertemu Ambisi Anak Muda RRI.co.id 5 Alasan The Intern Versi Korea Wajib Ditonton, Dibintangi Choi Min-sik dan Han So-hee ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzZnbFBWVFJNbk0xVUxIZmtqZFh0dE5XUHFxT2k3c29GX0Q0RjF2WFRYZG5aYzFNYjV5SV9mS3JVNHJSalZsTEJLakFPci1fVnRxbXozT19mcVN2bU51YnRtSDRibGtheXZISUhqNHp2aHBaZ0stbGhlbzRfUWs4cDk1cGMycmpQMVBsX2RKX1gzbWJwWkY1LW82NTIwWTN3ZHlJOW1mUWoyaV9uZG9HUU8tNTBHOG5aMDdj0gHAAUFVX3lxTE1JR2oxLVdhMEstaDBiV2s1TlZXOUlzQnBHT1MzTHhyUVBodG9zY3g5WlJ6bXZwbk9WcWFJeEtlSHBVU29YQmxMTGhzdkw0M2tRaXRLM3MtSEM2RkhnWWU0TWNfVjk4YXdWSHp6TkdGMGhpX29pTF9LTTk3SDNybF9IT0tCSTNMbXVmNHg1X3FHUVJlMkhRRl9VaU15aTJ5M0VEMGdhRnpuNnd5NW0wVVhuai1TaUdNYml0WFRpWXdXUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEpTWm5HNzNVTjFDclhUYmtZUUdONjFrRVh3enZhb0pJWWZWTHF0T2xSaFFMOEVmbEVtSHg4R2ctLVJUVTRRaWNPUDZVMXc3aHJmOHQyWENJd1NLTk0yVzNMallZWXByVXRKUXdNSzRpd2VQd2dqU21oTzBxbXdRWGs3S0R3a0lmbllMVDRyTWFsUkp6TlIxaDdUaGpKcnR3MXpJS2pndEs4dFNHekxQeFlhcUtZZjNXdW1JUGxOVjZraVcxS19kREJR0gHPAUFVX3lxTE1fYndVa3AtdkR6Mkc0ZWFWZXhRamFRZTBQdDFLYU1lY1oyaWdoQjY0M1hROGxDOUtpSllvX0pkQ1VjWVBxS25kdTZ0cTJpWkdKNzZ5T0Y4Z1oxS29Yd1NjWjI5UDM5YTRwSkw0WktBSXZUUW5NQ0xXcmtGZ1M2Qk9iemFOeDNrSG9YVjV5MFhGN3l3d25QWGhDVkJUTkYxTUpGRTZUSnBRNDNHNmNMSjVDRlJScGswci1IX3huVm4wU0ZySnY0YkhlbllLQTlnSQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "detikcom"
+    "CNN Indonesia"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-20T22:30:47Z"
+   "ts": "2026-10-20T22:00:05Z"
   },
   {
    "k": "news",
@@ -988,6 +965,28 @@
   },
   {
    "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Rating Doctor X Meroket Tinggi ke Bulan, Nyaris 20 Persen!",
+   "snip": "Rating Doctor X Meroket Tinggi ke Bulan, Nyaris 20 Persen! detikcom 4 Fakta Menarik Doctor X , Drama yang Tuai Protes Dokter Ortopedi Korea celebrity.okezone.com 5 Perbedaan Doctor X Versi Korea dan Jepang, dari Karakter hingga Alur Cerita ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWp0MWJteC1kSmFVakkyRDJBZEdDdTl3YWdTc2RJRlNYNlo1Q0tIZDhsbDd4NXNFXzlrXzJ0cGEyajdxbHViRjczTDFuTEZ0dktweDQ4YmtDR1JKa1Zob3FWZ2NyWUhreFhER3ptUGxSLXRicHU3SmJyTTAxNWdDd0JHZVdrX1dHVzJhVm9QYzQzeTlVdHl2VDhGT3RmZHZleUJZcE1lRdIBrAFBVV95cUxQbml6RzR4WHNKNHhSajVIMEd0aDRvR2p1Rk04cHhUc29qWW45dlpqMDJucjVybUFoTkQweHNCRW5CN2VUZS1qX2R5UENhNDJELUg5YmkzTEFBbk45M3BoOEx2b0FadTJrOGFBa0J4a0J1dDZIZWVxdXNQbkhiT1ZWbUpCVFpFNG5Sc1hERDVieDFsVzZpUXhaMkRfbDV0ZlhVVzVDMjN2dWtXNE9f?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-19T07:29:21Z"
+  },
+  {
+   "k": "news",
    "u": "Sumeks",
    "name": "Sumeks",
    "av": "",
@@ -1029,6 +1028,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-18T09:48:29Z"
+  },
+  {
+   "k": "news",
+   "u": "detikInet",
+   "name": "detikInet",
+   "av": "",
+   "followers": 0,
+   "cap": "Foto yang Dikira AI, Padahal Asli",
+   "snip": "Foto yang Dikira AI, Padahal Asli detikInet Semua Bisa Jadi Ghibli: Menakar Batas Hak Cipta di Balik Tren Editan Foto AI Dandapala Digital Foto 80-an Pakai AI Disebut Bikin Bumi Makin Panas, Kok Bisa? Lentera.co 27 Kode Prompt ChatGPT untuk",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbW5oYTZuMjUxREo5OGlTMURZdmtGRnBzYWJIZkRQbzVHUzluODZqQ1h1QVpIcGdrWmd0blllLTZlWVRxWTd2aUpGcmpFVmM2NGg3dmxCQ1FscjhjSGN5QllfeW1HdmxQeDA3NDBvZE02SlNwTHZpY1RkYmlrdlXSAYQBQVVfeXFMT2pXcWNoemdNSlgxOS1SUXdaV1BDeG10VmQ0V3RUUDVuY0RuYzBXVGF6YjJxS1lnVXF2YW0wTEZ5eUN0dU10U3pSZVBrYXkySkF1V3VJSmprN1BzcDl4cjZyM0ZZektua0tkeDhoSUMyMDlRYzNHUmlhdk5KdFZKM3NuVlF2?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikInet"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-18T02:31:40Z"
   },
   {
    "k": "news",
