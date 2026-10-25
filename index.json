@@ -3,12 +3,122 @@
  "posts": [
   {
    "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Budaya gembala pegunungan di masa lampau dikemas dalam Festival Transhumance di Madrid Spanyol",
+   "snip": "Warga menggiring domba dan kambing saat menyusuri jalanan dalam Festival Transhumance di Madrid, Spanyol, Senin ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/26/CmxztpE000050_20261026_PEPFN0A001.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/foto/5811223/budaya-gembala-pegunungan-di-masa-lampau-dikemas-dalam-festival-transhumance-di-madrid-spanyol",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T23:37:28Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Pemegang hak cipta lagu Elvis Presley gugat perusahaan AI Anthropic",
+   "snip": "Pemegang hak cipta atas lagu-lagu penyanyi legendaris Amerika Serikat Elvis Presley melayangkan gugatan hukum terhadap ...",
+   "img": "https://img.antaranews.com/cache/800x533/2022/03/16/A4CFC196-793A-4576-B595-564888CCCA21.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5811219/pemegang-hak-cipta-lagu-elvis-presley-gugat-perusahaan-ai-anthropic",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T23:37:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "9 makanan untuk program hamil, dari telur hingga sayuran hijau",
+   "snip": "Menjalani program hamil atau promil tidak hanya berkaitan dengan menghitung masa subur dan mengatur waktu berhubungan ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/06/upaya-meningkatkan-kualitas-pelayanan-kesehatan-masyarakat-2879278.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5811203/9-makanan-untuk-program-hamil-dari-telur-hingga-sayuran-hijau",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T23:31:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Ingin cepat hamil? Ini 8 tips promil alami yang bisa dicoba",
+   "snip": "Memiliki momongan menjadi harapan bagi banyak pasangan setelah menikah. Berbagai upaya pun dilakukan untuk meningkatkan ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/06/upaya-meningkatkan-kualitas-pelayanan-kesehatan-masyarakat-2879274.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5811199/ingin-cepat-hamil-ini-8-tips-promil-alami-yang-bisa-dicoba",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T23:22:46Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Panaskan Suasana Panggung DA8 Lewat Duet, King Nassar: Penampilan Solo Juga Gak Kalah Penting!",
+   "snip": "King Nassar menyoroti penampilan solo peserta Dangdut Academy 8 (DA8) di babak TOP 12.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/XwqJ-ZZjsdhuB3hbOS_3agCJ8cY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9320914/original/077208000_1786419466-Anggini-Bhita-Alexa_SO.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8321075/panaskan-suasana-panggung-da8-lewat-duet-king-nassar-penampilan-solo-juga-gak-kalah-penting",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T21:27:32Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast",
-   "snip": "Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast detikHOT Kalina Oktarani Sebut Pertemuan dengan Vicky Prasetyo sebagai Jebakan Demokratis.co.id Kalina Oktarani Merasa Dijebak Bertemu Vicky Prasetyo www.suaralandak.co.id Kali",
+   "snip": "Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast detikHOT Kalina Oktarani Kaget Bertemu Vicky di Podcast, Sempat Ingin Pulang JournalArta Kalina Oktarani Klarifikasi Masalah Lama Saat Bertemu Vicky Prasetyo SuaraGarut.ID Kali",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -20,7 +130,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T16:03:27Z"
   },
   {
@@ -42,7 +152,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T15:43:44Z"
   },
   {
@@ -64,7 +174,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T15:38:18Z"
   },
   {
@@ -487,28 +597,6 @@
   },
   {
    "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Festival Jajanan Bango 2026 Hadirkan Culinary Culture Playground di GBK, Spot Kulineran Akhir Pekan Ini",
-   "snip": "Festival Jajanan Bango 2026 mengusung konsep Culinary Culture Playground! Kepoin deretan menu olahan unik dan aktivitas seru di Hutan Kota GBK.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cantika.com/read/2122308/festival-jajanan-bango-2026-hadirkan-culinary-culture-playground-di-gbk-spot-kulineran-akhir-pekan-ini",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T07:15:00Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -528,6 +616,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T06:47:39Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Rahasia Mesra Pevita Pearce-Mirzan Meer: Rutin Kencan Jalan Kaki Tanpa Gadget",
+   "snip": "Rahasia Mesra Pevita Pearce-Mirzan Meer: Rutin Kencan Jalan Kaki Tanpa Gadget detikHOT 6 Ide Dekor Ulang Tahun dan Anniv Pernikahan Pevita Pearce, Bohemian! IDN Times Potret Pevita Pearce dan Suami Malaysia Rayakan Ultah Pernikahan ke-2 Hai",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeTZDYnF1aHNRQXBsV3c2ckJSLURXWDJHOGxlelRjV3R3TlZjYjJNTUZfZGE1dUs2SjhMT0Y4RzdmdE96TTVIWTVWQTNNeHFKTlJGXzIxU3NIRHk3bXgyT1FkUzctbUt2a2VVdHBpeENSaC1BV0taTGNtWFZlZm82Um83aFdjMHV6SjE0ZHlZZDRHTlBqZGZaeGItVXlIdE53RVV6ZzBmcGdnSmdra3JtdVBrdnPSAboBQVVfeXFMTWh3Y1JkOF9qUVJfZXBOUGZaUmJ2dW9RZ2MtMUlHeDQ4ckQ1RzZMMERTNm54QzdDZkc4al95bTROSVIyQk9mVFZnRWk3YzJWUWVqLUFNbE0teUNXTlFTXzM4cDlTYWp0S1VDcHNocXhFbUhkRHNULW4wa3pHbHh1Ry1MVlVMTkV5RFhiVXJMYnkxQm4wVnZGUHl1Q0NDcjFWZW9RTVlWQzZYb0g2bE9CeTA2LXBNT01URFZ3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-25T05:32:04Z"
   },
   {
    "k": "news",
@@ -594,28 +704,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T04:06:44Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Pevita Pearce Ungkap Beda Kehidupan Jakarta-Malaysia Usai 2 Tahun Nikah",
-   "snip": "Pevita Pearce Ungkap Beda Kehidupan Jakarta-Malaysia Usai 2 Tahun Nikah detikHOT 6 Ide Dekor Ulang Tahun dan Anniv Pernikahan Pevita Pearce, Bohemian! IDN Times Potret Pevita Pearce dan Suami Malaysia Rayakan Ultah Pernikahan ke-2 Haibunda ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDFvd21KMmNpTjE0SDdueUJVc2VqUkxXWi1lT3ZoVFFPTk1HcDJCMVRna3VjNjV0MUQ2TXlnc0lIY0R4MTFkQk5Hb0Qwb0hpdHZ5aktMa2RYSjFBQVpTM3pCWUxuc3QwZWZTT0pJdWxGRjlKYnZJSVpwVlhhNkd5cndOOFVZWURoMFNRbXp6RkEyaE5CYmE4V0ZsR1dCZ0lYNVNNWVJRNTVJNlMxS2fSAbMBQVVfeXFMUENuQmVZaExRQkFGLWw2dHltQlhEYXN5bmZRaWhzZ0otTVlmQUhyY01qRzRycEZzWVhRS0dSN0Mwci0xRS1IcGwwVkFHeDlKTVVxc29idWUzRno4dFdyR2U0YWwtMHhib1ZWSnZUOGJLR3ZqWmFzNVBIckpHVi1iZWFFNHVlVDZtc3hoc0NwbngxNWxFX1FPZUFnVUNWYWgtbm5RYVpNVnBRR3o4VERNaVRxdFE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T04:01:49Z"
   },
   {
    "k": "news",
@@ -724,7 +812,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T23:06:18Z"
   },
   {
@@ -746,7 +834,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T23:01:09Z"
   },
   {
@@ -768,7 +856,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T23:00:00Z"
   },
   {
@@ -817,34 +905,12 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Falcon Kenalkan Cast 'Gasigogi', Sutradara Lee Hwan-kyung Ungkap Alasan Garap Film di Indonesia",
-   "snip": "Ini alasan Lee Hwan-kyung garap Gasigogi di Indonesia. Terus siapa saja pemainnya? Cari tahu di sini!",
-   "img": "https://cdn0-production-images-kly.akamaized.net/pRAlkbawpS20R33xMYkDpLQADj8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381716/original/050231400_1792859950-IMG-20261024-WA0027.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320634/falcon-kenalkan-cast-gasigogi-sutradara-lee-hwan-kyung-ungkap-alasan-garap-film-di-indonesia",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-24T16:39:10Z"
-  },
-  {
-   "k": "news",
    "u": "detikFood",
    "name": "detikFood",
    "av": "",
    "followers": 0,
    "cap": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London",
-   "snip": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London detikFood Jawaban Bunga Citra Lestari soal Rumor Hamil Kompas.com Dua Kali Dikira Hamil, BCL Sentil Netizen yang Sok Tahu: Boleh Gak Sih Berhenti Berasumsi? VIVA.co.id BCL Bant",
+   "snip": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London detikFood Jawaban Bunga Citra Lestari soal Rumor Hamil Kompas.com Dua Kali Dikira Hamil, BCL Sentil Netizen yang Sok Tahu: Boleh Gak Sih Berhenti Berasumsi? VIVA.co.id BCL Diis",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -949,28 +1015,6 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026",
-   "snip": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026 Kompas.com 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini Minggu 25 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2I3NDRKVkZUTUNnckRoR0kzZDFzcnhkSk9HUUJJM2lpQnBjTXJiaUxfME01TmtxWG1FSlkxM0xTNUpQTmZ0Vng0RmVnMUNqRXMzX3M1YVY2ck43cDlsSXNfcmhkNXpzWmNxNGpzZjFQZXhmNTBGYnJOZlpyMU55V3RUQmJWSk1iajlLMTd4NFY3bDFlWnRZbHpWM2xoMnM2b3JzZm9qME1QUk1mLXoxS1lLd0dpWjRwRGhFeWtEU1JQYWc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-24T06:01:00Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -1032,7 +1076,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-23T23:06:09Z"
   },
   {
@@ -1086,7 +1130,7 @@
    "av": "",
    "followers": 0,
    "cap": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian",
-   "snip": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian detikHOT 5 Gaya Prewedding Hana Malasan dan Sean Gelael, Kenakan Adat Sunda di Supermarket Kompas.com Potret Hana Malasan & Sean Gelael Prewedding Adat Sunda di Supermar",
+   "snip": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian detikHOT Potret Hana Malasan & Sean Gelael Prewedding Adat Sunda di Supermarket KapanLagi.com 8 Potret Kulineran Sean Gelael, Ada Pre-Wedding di Supermarket! detikFood I",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1108,7 +1152,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki",
-   "snip": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Siapa Thayaka Anak Angkat Baru Ruben Onsu? CNN Indonesia Bungkam Nyinyiran Netizen, Kuasa Hukum Tegaskan Niat Ruben Onsu Asuh Anak Laki-laki Murni Spontanitas G",
+   "snip": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Awal Mula Ruben Onsu Mantap Angkat Thayaka Jadi Anak, Berawal dari Kajian di Masjid Nabawi VIVA.co.id Bungkam Nyinyiran Netizen, Kuasa Hukum Tegaskan Niat Ruben",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1122,6 +1166,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-21T09:34:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Sumeks",
+   "name": "Sumeks",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id",
+   "snip": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id Sumeks 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini Minggu 25 Oktober 2026, Cek P",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGlDSldfdm9aanczR0NVb3AtQ0dEOHlkeXM5QW9sVklJTzFDQjFPYzlMUGpsTHp3S1MydkRNa29CYWRpdnpmV0dCV1AxSDB1UmZqeEE2TkZlUTdFeXhXRnBCM3BuaDhOcThJUHNQUDhDdjgwREplYW0wRWhXQk5RV0dOcWkyMHAzN1JZZ3VDcS1XeHRoUEMyd1dMcFljNUpLRTJVOUZBSElzTEhuUDE5TGZiUS14UjNMVXR0V3dMZmN5OENVc2IydHFEVlRwRUHSAcABQVVfeXFMUDFya3FGT1o1cXpvNHBGNm1NeFRVaUQ0WlZmcUVQWWdjLWVodEpxeG9QaXFlRkdxVUpIaXpHeFdGb2JQMHJpcDFENFU1dFhlRGdBY1MtZkJLaDVNWXp2V1c1VTlNYjlJVjA0dG9YRktnVjQtMDhxZEhpWk1KWXQ3UWhMSnhvOHpCamVDeV95dU5QUzRZclZOekUtVG1kTUNkNC1la1pXMTdmMkl6d0p5cVNYTTl4bEhVdC1McjR6aU9Y?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sumeks"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-19T04:12:00Z"
   }
  ]
 }
