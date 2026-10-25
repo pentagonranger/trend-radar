@@ -1,9 +1,9 @@
 {
  "topics": [
   {
-   "t": "2026",
-   "q": "2026",
-   "cat": "Musik",
+   "t": "Dandhy Dwi Laksono",
+   "q": "dandhy dwi laksono",
+   "cat": "Film & Series",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -11,18 +11,126 @@
    ],
    "src": [
     "Google Trends",
-    "Institute for the Study of War",
-    "Hullinger Mortuary",
-    "SportsGrid"
+    "Kompas.com",
+    "Kumparan.com",
+    "Tirto.id"
    ],
    "d": "2026-10-25",
-   "url": "https://understandingwar.org/research/middle-east/iran-update-october-23-2026/",
-   "n": "Iran Update, October 23, 2026",
-   "vol": 200,
+   "url": "https://video.kompas.com/watch/1963355/dandhy-laksono-diminta-klarifikasi-soal-film-pesta-babi",
+   "n": "Dandhy Laksono Diminta Klarifikasi soal Film Pesta Babi",
+   "vol": 500,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Dc United Vs Cincinnati",
+   "q": "dc united vs cincinnati",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "小豆島町",
+    "D.C. United",
+    "FC東京オフィシャルホームページ"
+   ],
+   "d": "2026-10-25",
+   "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvRml4dHVyZW5lc3QueG1sIi8+PC9rcnBhbm8+&id=video-dc-united-vs-fc-cincinnati-hd-295",
+   "n": "++[LIVESTREAMS]TV!! DC United vs FC Cincinnati Live 𝐒𝐭𝐫𝐞𝐚𝐦 Soccer 25 October 2026",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "León Vs Toluca",
+   "q": "león vs toluca",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "DAZN",
+    "El Valle",
+    "El Heraldo de León"
+   ],
+   "d": "2026-10-25",
+   "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/leon-vs-toluca-vivo-canales-streaming-horarios-apertura-liga-mx/uf120r4auj8y1sp39kl6g2ro5",
+   "n": "León vs Toluca en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA",
+   "vol": 100,
    "vu": "pencarian"
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Polisi ringkus dua copet dalam konser gratis di Setiabudi",
+   "snip": "Polres Metro Jakarta Selatan mengamankan dua terduga copet dalam konser gratis rangkaian Asikfest 2026 di sebuah pusat ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/25/1001136086.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5810099/polisi-ringkus-dua-copet-dalam-konser-gratis-di-setiabudi",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T00:03:53Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Indonesia U-15 Thrash Fiji 7-1 at 2026 FIFA U-15 World Cup & Festival",
+   "snip": "Indonesia U-15 beat Fiji 7-1 at the 2026 FIFA U-15 World Cup & Festival, with Muhammad Hariri and Dicky Marani scoring twice each.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2122285/indonesia-u-15-thrash-fiji-7-1-at-2026-fifa-u-15-world-cup-festival",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-24T23:59:25Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "6 Cerita Jenaka Mahila di Balik Lagu Memendam Suka, Fase Barunya di Dunia Musik",
+   "snip": "Jenaka Mahila menyebutkan bahwa awalnya lagu ini justru berawal dari celetukan sang ayah, Tora Sudiro.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/qw7zmsvdqtMiE0GVBoqOLT9YisE=/0x1587:5424x4644/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381725/original/028333000_1792862975-MS1.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320642/6-cerita-jenaka-mahila-di-balik-lagu-memendam-suka-fase-barunya-di-dunia-musik",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-24T23:00:00Z"
+  },
   {
    "k": "news",
    "u": "detikNews",
@@ -30,7 +138,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pramono Lepas Ribuan Peserta Lari Marathon Jakarta Running Festival 2026",
-   "snip": "Pramono Lepas Ribuan Peserta Lari Marathon Jakarta Running Festival 2026 detikNews Tekan Polusi Udara dan Suhu Panas Jakarta, BMKG-BPBD DKI Laksanakan Modifikasi Cuaca BMKG Jakarta Running Festival 2026 ANTARA Foto Puluhan ribu pelari dari ",
+   "snip": "Pramono Lepas Ribuan Peserta Lari Marathon Jakarta Running Festival 2026 detikNews Tekan Polusi Udara dan Suhu Panas Jakarta, BMKG-BPBD DKI Laksanakan Modifikasi Cuaca BMKG Pramono Lepas Pelari Full Marathon JRF 2026, GBK Ramai Sejak Dini H",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -41,105 +149,9 @@
    "src": [
     "detikNews"
    ],
-   "hot": [
-    "2026"
-   ],
-   "sc": 75,
-   "ts": "2026-10-24T21:32:05Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Usung konsep baru, Festival Gandrung Sewu 2026 digelar malam hari",
-   "snip": "ANTARA - Festival budaya tahunan Banyuwangi “Gandrung Sewu” kembali digelar pada tahun 2026 dengan ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/USUNG-KONSEP-BARU-FESTIVAL-GANDRUNG-SEWU-2026-DIGELAR-MALAM-HARI.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/video/5809987/usung-konsep-baru-festival-gandrung-sewu-2026-digelar-malam-hari",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [
-    "2026"
-   ],
-   "sc": 75,
-   "ts": "2026-10-24T19:12:25Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Lebih dari Festival Film, Jakarta Film Week 2026 Bangun Ekosistem Sinema",
-   "snip": "Jakarta Film Week 2026 hadirkan ruang pertemuan bagi sineas, pelaku industri, dan penonton melalui berbagai kegiatan.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cantika.com/read/2122262/lebih-dari-festival-film-jakarta-film-week-2026-bangun-ekosistem-sinema",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [
-    "2026"
-   ],
-   "sc": 65,
-   "ts": "2026-10-24T08:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Potret Miss Singapore yang Gagal Ikut Miss Universe 2026 Usai Konflik Lisensi",
-   "snip": "Potret Miss Singapore yang Gagal Ikut Miss Universe 2026 Usai Konflik Lisensi Wolipop 3 Finalis Tersisa dari Asia Tenggara yang Ikut Miss Universe 2026 IDN Times Quynh Anh dan ratu kecantikan Asia Tenggara lainnya angkat bicara setelah tida",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmFwc2lQaDBCcEJCZl9vMHlXeXdVak5raGJMbDJOVzlCN3cteHBoVEdUQ0pDTms3N1BuaWFleGZaR0hxTVNYdmZEazJzZUtNdGFsdzFNWkdwWFVLemZTbnRwYUZnUC1ua2xmNlNseHVvWFV2c3Q3d1dqNVFtQVc0Q3NnQ2RZc0lTQlhjQ0FITzlwcFJMdWdQRTJDX1dUNjhyV3lzRmZSVWFRTW5Ydlp1VldYX04tb2lvNWpBVUdUOVFsUW5Mc0g0c2ZwQ3DSAdIBQVVfeXFMT2NnWl9vYjB4R3ExUXVHb0tpd092UTRmclpYWUJUUzZHeTRfdnlPRkJ4SFd2bnN3S0F4SjFRT1JWTXdpRHJ0OVppd0xuUXFKUUFFZjdHSFdLblNwYlV6bktod1ZycDNYVXRTcVFHZnlTUm8tVVlFSUhQZVhrNy1QclBYQndFSkN1UVRnNHJsY2xXdV8zQmo5TW4zVzlvRWRMRG9XMVJiWDVmSy1CRzNLbVlVUms5RzZGNzhLWUFIUzkwRk14TUtFQTV0SHc2anpFenhR?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [
-    "2026"
-   ],
-   "sc": 65,
-   "ts": "2026-10-24T01:20:46Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Kanye West gelar konser perdana, puluhan ribu penonton padati GBK",
-   "snip": "ANTARA - Penyanyi sekaligus rapper asal Amerika Kanye West menggelar konser perdananya di Indonesia yang ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/KANYE-WEST-GELAR-KONSER-PERDANA-PULUHAN-RIBU-PENONTON-PADATI-GBK.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/video/5809991/kanye-west-gelar-konser-perdana-puluhan-ribu-penonton-padati-gbk",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-24T19:15:46Z"
+   "ts": "2026-10-24T21:32:05Z"
   },
   {
    "k": "news",
@@ -165,28 +177,6 @@
   },
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Umar Pasandre menerima BIA Award atas dedikasi konservasi mangrove",
-   "snip": "Tokoh konservasi mangrove dari Desa Torosiaje, Kabupaten Pohuwato, Gorontalo, Umar Pasandre menerima BIA Award dari ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/24/IMG_5438.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5809959/umar-pasandre-menerima-bia-award-atas-dedikasi-konservasi-mangrove",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-24T17:04:52Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -204,56 +194,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-24T16:57:20Z"
-  },
-  {
-   "k": "news",
-   "u": "Sumeks",
-   "name": "Sumeks",
-   "av": "",
-   "followers": 0,
-   "cap": "5 Zodiak Beruntung Hari Ini dan Angka Hoki Kamis 22 Oktober 2026 - sumeks.disway.id",
-   "snip": "5 Zodiak Beruntung Hari Ini dan Angka Hoki Kamis 22 Oktober 2026 - sumeks.disway.id Sumeks 3 Zodiak yang Diprediksi Beruntung pada 22 Oktober 2026, Ada Aries Kompas.com Ramalan Zodiak Taurus, Gemini, Cancer dan Leo Kamis, 22 Oktober 2026 Me",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTU4YmRrZkFqaHpGSDltcFFNLV95b2d3RkgwNUpUQ2lhcHV2QUZvMERPS2NpOG81VzhSUVNGLXdFYTZfZ0hheFNDa2JqdWhpb3NnZlYxUzR3czBDekVEN25LS2g2TkE5THFRa1FvZmFGWEZUZVo3Rnh4TnItSUZuUk5kZWhTRDJyb2E4azF5WG1MMUxlbnV2anR5dkdrQi1LTmstNW1NZkJTYVN1S2lUbNIBogFBVV95cUxPazFucDR3cHFsTGJSNmctdjdHZWpmWXFQdzN4YnYwbi03X0I4TzRJN1NzdW9tbFgxT3Vlajh0QWFqeEJxclg3Yk9tMXpFTVp4NGF1enI5NnFJMDRoWlpTdFFQYzMxMmRDcDNZX2dpd2xXQmRkSVF1ZmlyQld6enBwa0FUWngyWXd4UnN5MnI1Yl9MRGtKanFkM1JDUHctV1RoS1E?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Sumeks"
-   ],
-   "hot": [
-    "2026"
-   ],
-   "sc": 45,
-   "ts": "2026-10-22T05:01:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Gong Yoo Spill Drama Bareng Song Hye-kyo Tayang Akhir 2026",
-   "snip": "Gong Yoo Spill Drama Bareng Song Hye-kyo Tayang Akhir 2026 CNN Indonesia Drama baru Song Hye-kyo dan Gong Yoo akan ditayangkan 11 Desember 2026 ANTARA News Drama Song Hye Kyo dan Gong Yoo 'Tantara' Tayang Mulai 11 Desember Sumut Pos Gong Yo",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYV9Nb0gxdU1XdGo2RnpPLXJKejRoNm0xOUNHZ01kajY2dXViaXVUaXdVUk9fOVNVRXJaX243UUxacmN6WENOdHVnNHJBWWZXdkowcFhpblZlNFVEalZ3NzVlSnl1MzdCbWRhenMyWVhydS15aVUxOUhEWmNxQUk2eWRiVGhNejgxZTZmZXV0QmlkYUFnekhxdWtPUnZET1RNb1hiMmhoREdUNDAxMEtib2d3Nm1xSlBUSUhIbTBTSdIBxAFBVV95cUxOVFI0cFIwYTkwUmdFVDhYWnlXWl8ydEk1VjBtbEUxZUhnNExiVWYzcllkUF9hdnZaMHE1WnV0TTczaGdaNUxiVG8wZTdTVjBWQWI5NzdUb2s2a0hWaDlrT01vVEFGZ3ctckRBLVlCTEVhNXRGNFpIVENMaHB1Vzdrc1E2ZmY2d3V1VlNmTnJBZHF0QjBIUHcxVGxPVnZUcGVCYnV2Wm5FNGdFYlBPM0ZaS2ktem9yNEFEVDEzTzZGelR4Vkpk?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [
-    "2026"
-   ],
-   "sc": 45,
-   "ts": "2026-10-18T13:49:51Z"
   },
   {
    "k": "news",
@@ -328,7 +270,7 @@
    "av": "",
    "followers": 0,
    "cap": "Cut Memey Syukuri Anak-anak Tak Alami Culture Shock Usai Pindah ke Kanada",
-   "snip": "Cut Memey Syukuri Anak-anak Tak Alami Culture Shock Usai Pindah ke Kanada detikHOT Cut Memey Pasang Foto Rumah Impian di Wallpapper HP, 11 Tahun Kemudian Terwujud detikHOT Cut Memey Ceritakan Anak Anak Beradaptasi di Kanada Demokratis.co.id",
+   "snip": "Cut Memey Syukuri Anak-anak Tak Alami Culture Shock Usai Pindah ke Kanada detikHOT Cut Memey Pasang Foto Rumah Impian di Wallpapper HP, 11 Tahun Kemudian Terwujud detikHOT Cut Memey Tekuni Profesi Instruktur Kebugaran di Kanada SuaraGarut.I",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -367,6 +309,28 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Penampilan Terbaru Janet Jackson di Usia 60, Disebut Bak Kembali Muda",
+   "snip": "Penampilan Terbaru Janet Jackson di Usia 60, Disebut Bak Kembali Muda Wolipop",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0N6YkpMdzRDOHNBSUFncTQzNG51c2x0TThyR3FfMExSZ2RTekxPTEs2VWdSc0JLbjZ4QmlWR1AydFlyWFAwM0p1emVZOFRUYUQyVXVYdnRIR3BhYnU5T0RRekViemFnZERGX3VyeUN1Vi16QWhSSmRmSW5SU01sZjVEYnNnbGszeXRpUWRxU250a2FWZEhyM0hsLU1jbEFMUVVQcGJHbnZtdVVaVnZFanBrT19USk1UOUMxeHFnWm8?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-24T15:00:00Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -386,6 +350,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-24T15:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "8 Potret Kanye West Makan Enak, Doyan Burger hingga Milkshake Jumbo",
+   "snip": "8 Potret Kanye West Makan Enak, Doyan Burger hingga Milkshake Jumbo detikFood Akhirnya, “Runaway” Kanye West Berkumandang di GBK Jakarta Kompas.com Cerita Penggemar Ye di GBK: Nabung, Berburu Pengalaman, hingga Self-Reward - kumparan.com Ku",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkJ5ZkFOWkd1dTh5ZlAxZHVJa21FZ2tzeFFUcGNRbXFkaVRjUXJpNjNiUlFZUF9ZWVNvaE9OdGVOWS1FYjQ5aXFZQ2JTRmFGV1k4YjRHREJSZFVoUXVtNWJXR1NJTVBTcG9LYktGbGhyUHhFSkhQamFfVk9YZVkwdXNsR0puWWJ0OUZCWGJURmZTSm8zd25vVEFRTGFJU1o2dDd5cFlqbk80NDBZeDRHNmhn0gG3AUFVX3lxTE5DQjRGMmFFcGdrUzd0UWhhR21Dc29fRmNOOHVseDcwWWdEV2JhRWd1TU9Fb2diSm1lekFZLWk3ZXVvelRQVldudXJYbHZtaE5VRTZQb2F3SVBrYWZ0QnJGLVI1ZDk1bzV1YkJSVG9MblN1V2ZEV0pBM19pa0k0a1ZacUZ0UndwSm9ZOGE1MlVvbnFIYnU3RWtmdHo0VExzWHF6cFVUS2dNQVpHWVlhUU9PSi1aQlVJNA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-24T14:00:29Z"
   },
   {
    "k": "news",
@@ -719,6 +705,28 @@
   },
   {
    "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Lebih dari Festival Film, Jakarta Film Week 2026 Bangun Ekosistem Sinema",
+   "snip": "Jakarta Film Week 2026 hadirkan ruang pertemuan bagi sineas, pelaku industri, dan penonton melalui berbagai kegiatan.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cantika.com/read/2122262/lebih-dari-festival-film-jakarta-film-week-2026-bangun-ekosistem-sinema",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-24T08:00:00Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -829,25 +837,25 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "Akses dan Rekayasa Lalu Lintas Konser Kanye West di Jakarta",
-   "snip": "Akses dan Rekayasa Lalu Lintas Konser Kanye West di Jakarta CNN Indonesia Kanye West Tampilkan Bumi Biru Menyala hingga Bulan di Dome Stage Kompas.com Cerita Penggemar Ye di GBK: Nabung, Berburu Pengalaman, hingga Self-Reward - kumparan.com",
+   "cap": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026",
+   "snip": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026 Kompas.com Ramalan Shio Hari Ini Sabtu 24 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks 3 Shio Diramalkan Banjir Hoki Akhir 2026, Peluang Sukses",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQnd3REl5dXZ4TkM5dkdDUG11MFpsSDMydmU2aTNySnU4Rnl2WjhveFlBNnpzWGEyMXBjRHVPOWRqTy1yT0RrSGxmYlFLb1laRmJ2QldzaGZad1poQmROSUlYa2xxRmFkMlF6N0Z0NGN0ZFh0SnFwaDVIVnVVOGlTZW8ybDFEcENNM2czc3lpc3RkMWpreGhVVG5aTTdvLV9td1dnOGVKQjRKOFAtS09DNEVoUGtOQ3lJcE9aeGF3dDjSAcYBQVVfeXFMTWxMS0RTcDUzZU9sLWNUYUFySVZ1bl9rdG5mRmRuVGVoUUZvREIxQ2lKamFSU0w1UGpsbkNfVXRjeS1hY1Q4R1B0Y1YyTUFCWlhTUGxqSkd0NHFnOUVhb2RBdUlwV25vQU9ad0J6cHhOaUNCcWxUeGhtel9rc0ZhR2dUb3BhdnY4TEloOW9xNG44M1gxempHUDRBTnpVdzJkbGVqaXhSSllGYnJWVmd4S1RRYTlkOURwcjJRUFNzVkxjWld2Q3lR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2I3NDRKVkZUTUNnckRoR0kzZDFzcnhkSk9HUUJJM2lpQnBjTXJiaUxfME01TmtxWG1FSlkxM0xTNUpQTmZ0Vng0RmVnMUNqRXMzX3M1YVY2ck43cDlsSXNfcmhkNXpzWmNxNGpzZjFQZXhmNTBGYnJOZlpyMU55V3RUQmJWSk1iajlLMTd4NFY3bDFlWnRZbHpWM2xoMnM2b3JzZm9qME1QUk1mLXoxS1lLd0dpWjRwRGhFeWtEU1JQYWc?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "CNN Indonesia"
+    "Kompas.com"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-24T06:25:13Z"
+   "ts": "2026-10-24T06:01:00Z"
   },
   {
    "k": "news",
@@ -939,28 +947,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Maudy Koesnaedi Mainkan Karakter Antagonis Pertama di Teater Njonja Ati Soetji",
-   "snip": "Dalam teater ini, Maudy Koesnaedi melihat adanya ruang untuk mengeksplorasi kemampuan aktingnya.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/DWMCHT3gliBXjPbqdSQXyfdX-yo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381433/original/074578100_1792816843-29869.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320353/maudy-koesnaedi-mainkan-karakter-antagonis-pertama-di-teater-njonja-ati-soetji",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T04:40:42Z"
-  },
-  {
-   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
@@ -1005,12 +991,34 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Miss Singapore yang Gagal Ikut Miss Universe 2026 Usai Konflik Lisensi",
+   "snip": "Potret Miss Singapore yang Gagal Ikut Miss Universe 2026 Usai Konflik Lisensi Wolipop 3 Finalis Tersisa dari Asia Tenggara yang Ikut Miss Universe 2026 IDN Times Quynh Anh dan ratu kecantikan Asia Tenggara lainnya angkat bicara setelah tida",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmFwc2lQaDBCcEJCZl9vMHlXeXdVak5raGJMbDJOVzlCN3cteHBoVEdUQ0pDTms3N1BuaWFleGZaR0hxTVNYdmZEazJzZUtNdGFsdzFNWkdwWFVLemZTbnRwYUZnUC1ua2xmNlNseHVvWFV2c3Q3d1dqNVFtQVc0Q3NnQ2RZc0lTQlhjQ0FITzlwcFJMdWdQRTJDX1dUNjhyV3lzRmZSVWFRTW5Ydlp1VldYX04tb2lvNWpBVUdUOVFsUW5Mc0g0c2ZwQ3DSAdIBQVVfeXFMT2NnWl9vYjB4R3ExUXVHb0tpd092UTRmclpYWUJUUzZHeTRfdnlPRkJ4SFd2bnN3S0F4SjFRT1JWTXdpRHJ0OVppd0xuUXFKUUFFZjdHSFdLblNwYlV6bktod1ZycDNYVXRTcVFHZnlTUm8tVVlFSUhQZVhrNy1QclBYQndFSkN1UVRnNHJsY2xXdV8zQmo5TW4zVzlvRWRMRG9XMVJiWDVmSy1CRzNLbVlVUms5RzZGNzhLWUFIUzkwRk14TUtFQTV0SHc2anpFenhR?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-24T01:20:46Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Pernikahan Yuriska Patricia dengan Asnawi Mangkualam Kian Dekat",
-   "snip": "Pernikahan Yuriska Patricia dengan Asnawi Mangkualam Kian Dekat detikHOT 9 Inspirasi Gaya Pengajian dan Siraman ala Yuriska Patricia, Sweet! IDN Times Yuriska Patricia Menikah dengan Asnawi Mangkualam, Digelar Pengajian dan Siraman Penuh Ha",
+   "snip": "Pernikahan Yuriska Patricia dengan Asnawi Mangkualam Kian Dekat detikHOT 9 Inspirasi Gaya Pengajian dan Siraman ala Yuriska Patricia, Sweet! IDN Times Yuriska Patricia Asnawi Gelar Pengajian dan Siraman di Bandung, Momen Haru Penuh Doa Jela",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1022,7 +1030,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T00:07:07Z"
   },
   {
@@ -1044,30 +1052,8 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-10-23T23:36:53Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "The Rose Buka Konser ROSETOPIA Jakarta dengan Gelegar!",
-   "snip": "The Rose Buka Konser ROSETOPIA Jakarta dengan Gelegar! detikcom The Rose Guncang Jakarta di Konser ROSETOPIA Asia Tour 2026 WowKeren Pamit Hiatus di Konser Jakarta, The Rose Mau Kembali dengan Energi Baik IDN Times Sukses Besar, Konser The ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWJzLWU4QVJpcHhXZFZTbWh5cHZvUTBhY2I3Z3JsWXFQbnNsT3VBV2hXLWlXOFpFdTNOVG91bkZtV0VIVHE4cFBqZEtIaGVRTmlWbTNMLWJ2TE5tM0dOZ3JnQ2ItMWExV2JMVjczd3U0TjNTclJ4c1hQTVJaNTVRUm5IRXdFckl4cEVBWUM3a2xCblpVLWttbi1KQWxEdkg3SG5N0gGoAUFVX3lxTFA0SkNVdjVTU2l0QnhwT2pEdXQ3Mk5HUm9sYWpXLTRhbU8tYW5BLTBUdzZQY05OeFRZR0hiZUtYNnhhU2NLZEJvV3FuN2VzZVZWdGh2eTlTR0dmenZtZnBwNnpjU1VLXzI5dVRfeFdESkhXVGRndzZaV0tyakxoVFlTMTExQi00SVRpN0Y0cWlRYi1nOG82V3k5OHRzdDU0MnBIdWxfY2lnMg?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
    "sc": 30,
-   "ts": "2026-10-23T14:34:24Z"
+   "ts": "2026-10-23T23:36:53Z"
   },
   {
    "k": "news",
@@ -1075,12 +1061,12 @@
    "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Prilly Latuconsina Nangis Lihat Kado dari Omara Esteghlal",
-   "snip": "Prilly Latuconsina Nangis Lihat Kado dari Omara Esteghlal detikHOT Intip Isi Tas Vintage Hadiah Ulang Tahun Prilly Latuconsina dari Omara Kompas.com Prilly Latuconsina Dapat hadia Buku dari Omara Esteghlal, Ternyata Ada fakta Menarik Cumicu",
+   "cap": "Tiwi T2 Spill Kondisi Wajah Usai Operasi, 9 Jam 5 Tindakan Sekaligus",
+   "snip": "Tiwi T2 Spill Kondisi Wajah Usai Operasi, 9 Jam 5 Tindakan Sekaligus detikHOT Tiwi T2 Pamer Wajah Usai Oplas, Netizen Ramai-ramai Singgung Vanessa Angel Tabloidbintang.com",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEJOM1EySjBTZDRRQVJNcFdvZW1EMGRfeHY0dUhWQjJOMWlFcEt5dnV0cnVSYzlZSWdMYWhmVzRXNmVEa1EzaDNUbUVqdVBSeWl1YjJ2eUJhS0M5MVAwQ0gtNjlqQlpxMVgycmhJNnA2SFhheUl4dGxCWmN4aEU1WnNNNzNhRkRHemRSZlYtWXZfampuYVotVGx0Y9IBoAFBVV95cUxQcVppTnVhZzNPaEI4enBONmpfSFBqUVJaa1ZzU0pyQ0pLSExqcUVCdTZpMEtWSHNBbi1Jb0lCZExzbjJxWloyd3ZDSXhQSGtxc1RYSWpocjlvRTFyRzRuN3VaeHdTakZqZHlUaWNTS1dzWGJ2aUZlYUprdTY0V2ctV0J5VUd0bmh4YlZLSEpmdTJfMHotWDYtRmNKNzVEWUlD?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmdaMlRYTGg3cVRUOHRzWWhHbjdOUVBVQmZCOEQ5ZEowaE1hV19OeFIwNDFnYnFwQUhpdFRvYUxaSW5uNFdXdEpQUFJMSFp5Y3cyd0VpeHI2bzN4MURNS0VzMGF2eXpqUkhVbUZzeXVRMFlZWTQxcjhWR3pTOF9qTzVSWnBUMXdOSjd3dXlDVHowbHUzYkc0aWlHbkNYWlNGNk5BSUNZeTXSAa4BQVVfeXFMT1V5cFhZc0tjd29FRjVTeVdWMmRBRUtGZVJ4UWp3VlRiTlFybW9xTV9uQlRqMU5aQ2lydE1oWEl3MTZzaUlRc1R5V21iUXUzTmhncGhCSGZRcksxYnRxVWt3TEhsUUFIYWg1UmswdWpXZzNzRTRhTWUxN2FjUjRhZnptXzFleGV0YkFZQlJXUEl2dERUeXdZejBjVnNXYnVQLW1nanJUaFUtblVZdkxn?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1089,7 +1075,29 @@
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-10-23T09:11:51Z"
+   "ts": "2026-10-23T23:06:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Bikin David Beckham Heran, Victoria Makan Menu yang Sama Ini Selama 25 Tahun",
+   "snip": "Bikin David Beckham Heran, Victoria Makan Menu yang Sama Ini Selama 25 Tahun Wolipop",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGVuMDdNSXhucVZfOHhtWEJNMGZfZWtLbC0tdnY4QV83YlFRdEtuTTJTWGYzMWV0WnlQdDV3czNJelZheml5dGVSa09lRFUtNTVaeGJoQU8yalpqVzRxWV9uajFMZkZFMXFOVGpyN28td0FsWEFjWmFlcUhMZVFtVTl2bjBKYmp3M2IwTEFkX1l6OGUwaFNRaWFLZXhxTlVqcV9EMl82UkZJS1FsVktrMUUtcGJEQlZrcnlxbnV3S0ZNc29qSVHSAcsBQVVfeXFMTkluOXJ6ekZMemExVTJwUUxXQVZpWDgwUjFUeFJZUVBNenVwQVNSQ1hWN09GLVlNcTdhdHJNUE1BUG9WVVZlWHdIZGNWZFVOQXBCbV9URHpqeGRUMThPd293cVNRTkh2UmJ0S083MGNDY2QwSS1aMkctRW9QSkRsamZhWFlBWGtvRWJaRGN4SzFxT1gwQS1zNTQzbDIwYjdyNXFWWjVsVXp6U0x0UHFFSXZvakQ3YWhPUVU5aGI3UjhVLUtiT2JDWjE0b3c?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-23T14:00:32Z"
   },
   {
    "k": "news",
@@ -1137,28 +1145,6 @@
   },
   {
    "k": "news",
-   "u": "Harper's Bazaar Indonesia",
-   "name": "Harper's Bazaar Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Kim Kardashian Rayakan Ulang Tahun ke-46 lewat Dua Gaun dari Arsip Rabanne",
-   "snip": "Kim Kardashian Rayakan Ulang Tahun ke-46 lewat Dua Gaun dari Arsip Rabanne Harper's Bazaar Indonesia Dekorasi Ulang Tahun Kim Kardashian ke-46, Nuansa Bunga dan Lilin Mewah IDN Times Ulang Tahun ke-46, Kim Kardashian Tampil dengan Dua Gaun ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZm4yRjhBUE9HOGo5VnJ5eWJoMXh0c1JOa2J1b0hhaWt2Z2VHMUlJQUhXZzJSOXJLTlBhazdkVTQwb2dXWlFYa3o1MHQtUVpVQWlyVU5BZ0dVYm9ncE44Z0xyV2hJcEZMSUsta0ZKY1prS0JWVy1qUFhoT0VjQmg4Q0VqbjFjQ1VJQkE0MklLLW5ZSmlsRzN4ekJKUnBtQUFhTWZuV21La2FpYThRbG9jUHJVVHM5c0pKUHU3VTVaTHh2UUZGRUhIdkJ3?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Harper's Bazaar Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-23T06:15:00Z"
-  },
-  {
-   "k": "news",
    "u": "celebrity.okezone.com",
    "name": "celebrity.okezone.com",
    "av": "",
@@ -1178,6 +1164,28 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-23T05:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Recap Bulan Madu Andre Taulany dengan Amanda Rigby, Lova yang Temani",
+   "snip": "Recap Bulan Madu Andre Taulany dengan Amanda Rigby, Lova yang Temani detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUhkaThLYUlKQkZYX2daZ3VRdXpGYTZ6UmJXNEZQVE9kbjhlVVFoN2w2REI2aW92X2U2R0RYSURxR1Z2WDNLNVZFQndaT2syYUpwTXJrQjFUX3lCWEM1Y0FQUFJzb1RnRzVqQVFaMXJaRGxoVWd6aDdaeGJKQ0J4SThxOW11Wm9ocmhIajNNRnkwbFRJakptSDczWVRjNG51b1ZYdEM3MTLSAa4BQVVfeXFMT1dSLXkyc0h4R0s4Y0pMMzFQczhjcVQ4blVpRkhGS3plaG1ubWRMNjJ6R3F4Vks3Xy1DNUZrQWVyM1phYWxydGpLekVTYWlpRGtZTUZub016NWNlYld5N3R0S1ZDc2xnbjQwR19kaGc5YUY3dzZHSjdRYVlmdllJMHFsQ1RnWWdyZjVWdzYwdEZNelhxUEZhMmw5SVp2aHIxMF9CMGpubHljbnpNaS13?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-23T05:09:13Z"
   },
   {
    "k": "news",
@@ -1222,6 +1230,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-21T06:18:50Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Gong Yoo Spill Drama Bareng Song Hye-kyo Tayang Akhir 2026",
+   "snip": "Gong Yoo Spill Drama Bareng Song Hye-kyo Tayang Akhir 2026 CNN Indonesia Drama baru Song Hye-kyo dan Gong Yoo akan ditayangkan 11 Desember 2026 ANTARA News Drama Song Hye Kyo dan Gong Yoo 'Tantara' Tayang Mulai 11 Desember Sumut Pos Gong Yo",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYV9Nb0gxdU1XdGo2RnpPLXJKejRoNm0xOUNHZ01kajY2dXViaXVUaXdVUk9fOVNVRXJaX243UUxacmN6WENOdHVnNHJBWWZXdkowcFhpblZlNFVEalZ3NzVlSnl1MzdCbWRhenMyWVhydS15aVUxOUhEWmNxQUk2eWRiVGhNejgxZTZmZXV0QmlkYUFnekhxdWtPUnZET1RNb1hiMmhoREdUNDAxMEtib2d3Nm1xSlBUSUhIbTBTSdIBxAFBVV95cUxOVFI0cFIwYTkwUmdFVDhYWnlXWl8ydEk1VjBtbEUxZUhnNExiVWYzcllkUF9hdnZaMHE1WnV0TTczaGdaNUxiVG8wZTdTVjBWQWI5NzdUb2s2a0hWaDlrT01vVEFGZ3ctckRBLVlCTEVhNXRGNFpIVENMaHB1Vzdrc1E2ZmY2d3V1VlNmTnJBZHF0QjBIUHcxVGxPVnZUcGVCYnV2Wm5FNGdFYlBPM0ZaS2ktem9yNEFEVDEzTzZGelR4Vkpk?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-18T13:49:51Z"
   }
  ]
 }
