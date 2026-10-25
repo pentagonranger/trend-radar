@@ -1,8 +1,8 @@
 {
  "topics": [
   {
-   "t": "Hasil Motogp Australia 2026",
-   "q": "hasil motogp australia 2026",
+   "t": "Terikat Janji Rcti",
+   "q": "terikat janji rcti",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -11,56 +11,298 @@
    ],
    "src": [
     "Google Trends",
-    "Kompas.com",
-    "CNN Indonesia",
-    "Crash.net"
+    "celebrity.okezone.com",
+    "Suara Independent News",
+    "SuaraGarut.ID"
    ],
    "d": "2026-10-25",
-   "url": "https://otomotif.kompas.com/read/2026/10/25/072110115/link-live-streaming-motogp-australia-2026-perpisahan-phillip-island",
-   "n": "Link Live Streaming MotoGP Australia 2026, Perpisahan Phillip Island",
-   "vol": 5000,
+   "url": "https://celebrity.okezone.com/read/2026/10/24/598/3249959/sinopsis-sinetron-terikat-janji-eps-200-sena-pertemukan-davina-dengan-sang-ibu",
+   "n": "Sinopsis Sinetron Terikat Janji Eps 200: Sena Pertemukan Davina dengan Sang Ibu",
+   "vol": 500,
    "vu": "pencarian"
   },
   {
-   "t": "Pramono Jajal Lari 10K Jakarta Running Festival: Jujur Ngos-ngosan",
-   "q": "Pramono Jajal Lari 10K Jakarta Running Festival: Jujur Ngos-ngosan",
-   "cat": "Musik",
+   "t": "Vino G. Bastian hingga Pevita Pearce akan bintangi film “Gasigogi”",
+   "q": "Vino G. Bastian hingga Pevita Pearce akan bintangi film “Gasigogi”",
+   "cat": "Film & Series",
    "reg": "ID",
    "ch": [
     "Portal Berita"
    ],
    "src": [
-    "Liputan6",
-    "detikNews"
+    "Antara",
+    "Liputan6 Showbiz"
    ],
    "d": "2026-10-25",
-   "url": "https://www.liputan6.com/news/read/8320753/pramono-jajal-lari-10k-jakarta-running-festival-jujur-ngos-ngosan",
+   "url": "https://www.antaranews.com/berita/5810611/vino-g-bastian-hingga-pevita-pearce-akan-bintangi-film-gasigogi",
    "n": ""
   }
  ],
  "posts": [
   {
    "k": "news",
-   "u": "Liputan6",
-   "name": "Liputan6",
+   "u": "Antara",
+   "name": "Antara",
    "av": "",
    "followers": 0,
-   "cap": "Pramono Jajal Lari 10K Jakarta Running Festival: Jujur Ngos-ngosan",
-   "snip": "Pramono berhasil menyelesaikan lomba dengan catatan waktu 1 jam 49 menit.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/bDLT6ssWoVX10RTI0H1-3eBYAik=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381820/original/012403900_1792899183-247404.jpg",
+   "cap": "Vino G. Bastian hingga Pevita Pearce akan bintangi film “Gasigogi”",
+   "snip": "Aktor Vino G. Bastian hingga aktris Pevita Pearce akan membintangi film “Gasigogi ()” yang ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/25/b141d250-8acc-4d4d-8314-5dbb9b561524.jpeg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/news/read/8320753/pramono-jajal-lari-10k-jakarta-running-festival-jujur-ngos-ngosan",
+   "url": "https://www.antaranews.com/berita/5810611/vino-g-bastian-hingga-pevita-pearce-akan-bintangi-film-gasigogi",
    "likes": null,
    "com": 0,
    "m": 2,
    "src": [
-    "Liputan6",
-    "detikNews"
+    "Antara",
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 68,
-   "ts": "2026-10-25T03:33:12Z"
+   "ts": "2026-10-25T10:08:47Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6",
+   "name": "Liputan6",
+   "av": "",
+   "followers": 0,
+   "cap": "Indonesia Siapkan Forum Konservasi Terumbu Karang di AS",
+   "snip": "Indonesia menyiapkan forum internasional di Washington pada 2027 untuk memperluas dukungan pembiayaan dan kerja sama konservasi terumbu karang.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/JmDFg9lEdWRShwhhw-z-hiDuXEQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382010/original/060731700_1792924436-Dua_Pria_Menyerahkan_Kotak_Hadiah_Resmi.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/news/read/8320927/indonesia-siapkan-forum-konservasi-terumbu-karang-di-as",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T10:33:52Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "BCL Bantah Rumor Dirinya Dikabarkan Hamil",
+   "snip": "Bunga Citra Lestari membantah rumor yang menyebut dirinya sedang hamil anak kedua. Ia memberikan pernyataan lewat akun threads pribadinya. Baca di sini yuk...",
+   "img": "https://cdn0-production-images-kly.akamaized.net/GUbMYHZld9QlxETn85sH4d5TL1c=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382002/original/023011700_1792923664-BCL_8.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320920/bcl-bantah-rumor-dirinya-dikabarkan-hamil",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T10:20:57Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Aurelie Moeremans Ajak Anak Lihat Ikan di Akuarium, Momen Manis Jadi Ibu",
+   "snip": "Aurelie Moeremans mengajak putranya, Tommy, jalan-jalan ke akuarium. Ia membagikan momen saat mengenalkan ikan warna-warni kepada sang buah hati.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/eZr0MwAl4Jw-_vYJ-YPx2pOFTVo=/0x175:1086x787/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381946/original/008364600_1792912418-SaveClip.App_864620364_18634912657020952_1371639006958628076_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320889/aurelie-moeremans-ajak-anak-lihat-ikan-di-akuarium-momen-manis-jadi-ibu",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T09:05:20Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "6 Lagu yang Menjadi Titik Penting dalam Perjalanan Karier Penciptanya, Lokal dan Internasional",
+   "snip": "Temukan deretan lagu yang menjadi titik penting dalam perjalanan karier penciptanya, mulai dari musisi tanah air hingga kancah internasional yang melegenda.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/0WlWrThY_67w6XH3BB3EHGNDJ9o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3499950/original/004590200_1625285832-tobias-tullius-JdJrqv7BzhM-unsplash_Fotor.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320847/lagu-yang-menjadi-titik-penting-dalam-perjalanan-karier-penciptanya",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T08:30:59Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Jirayut Liburan Bareng Keluarga di Ciwidey, Penuh Kehangatan",
+   "snip": "Jirayut membagikan momen liburan bersama keluarga di Ciwidey, Jawa Barat. Ia mengaku bahagia bisa mengajak keluarga jalan-jalan bersama.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/3JXRs3ON_yk0ydhDZw3siDrOZaw=/0x1032:2160x2249/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381970/original/006885900_1792915132-SaveClip.App_858263863_18247122823313077_8259907310481997856_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320871/potret-jirayut-liburan-bareng-keluarga-di-ciwidey-penuh-kehangatan",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T08:23:40Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "20 Lagu Lawas Indonesia yang Mengingatkan Masa Sekolah, Bikin Kangen Sahabat Lama hingga Cinta Pertama",
+   "snip": "20 lagu lawas Indonesia yang membawa kembali kenangan cinta pertama, persahabatan, dan masa sekolah dulu.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/mU7x7aMg1VlRG5Sar9VYUimY6_0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381963/original/094505500_1792913650-Screenshot_2026-10-25_143208.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320861/20-lagu-lawas-indonesia-yang-mengingatkan-masa-sekolah-bikin-kangen-sahabat-lama-hingga-cinta-pertama",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T08:00:35Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Ye Live in Jakarta 2026 Suguhkan Panggung 360 Derajat dan Visual Megah di GBK",
+   "snip": "Konser Ye Live in Jakarta 2026 sukses menghadirkan pengalaman imersif lewat panggung 360 derajat, tata cahaya megah, dan deretan lagu hits.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/yE0_dQ2rHzPTX8S8pQjYK9baCcc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381959/original/010483400_1792913252-ye-live-in-jakarta-pengalaman-imers-2-8079c.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320856/ye-live-in-jakarta-2026-suguhkan-panggung-360-derajat-dan-visual-megah-di-gbk",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T07:38:33Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Festival Jajanan Bango 2026 Hadirkan Culinary Culture Playground di GBK, Spot Kulineran Akhir Pekan Ini",
+   "snip": "Festival Jajanan Bango 2026 mengusung konsep Culinary Culture Playground! Kepoin deretan menu olahan unik dan aktivitas seru di Hutan Kota GBK.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cantika.com/read/2122308/festival-jajanan-bango-2026-hadirkan-culinary-culture-playground-di-gbk-spot-kulineran-akhir-pekan-ini",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T07:15:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6",
+   "name": "Liputan6",
+   "av": "",
+   "followers": 0,
+   "cap": "Pramono Respons Pelari Jakarta Running Festival Terobos Pembatas",
+   "snip": "Pramono menjelaskan bahwa kategori half marathon dalam JRF telah masuk dalam standar Gold Label sehingga memiliki ketentuan harus dipatuhi peserta.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/qrQXJ8axEw511FsdG0P4hW88R24=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381945/original/018364400_1792912131-247401.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/news/read/8320849/pramono-respons-pelari-jakarta-running-festival-terobos-pembatas",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T07:08:47Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Pihak Sarwendah Luruskan Isu Minta Vila Buat Syarat Damai ke Ruben Onsu",
+   "snip": "Pihak Sarwendah Luruskan Isu Minta Vila Buat Syarat Damai ke Ruben Onsu detikHOT Kubu Ruben Onsu Pastikan Rumah Belum Dilelang Bank CNN Indonesia Ribut Harta Bersama dengan Sarwendah, Kuasa Hukum Singgung Kemampuan Finansial Ruben Onsu SIND",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWJxS1FTS3VjMm9uZDJKQWNmMUxvQ0NWUVNGbkJGX09Ba3lRYm9UTlJtT3BEa282MVI4NWo5R284R2FfT3ZoaEw2Zm1UWUprVGRyc3hEZC1fWTVqNU5ZMEsyZ1VNNldkVTFUMWtKU0VHdmpLWTJ1UlZyTUZTNmZjRU4tX2J4WjNkS0x6cTlHd0tsdExQX0NYX2h3akIyX2dIb3A5M1cwUUwwMTlYenfSAbMBQVVfeXFMTXV4dnh0ZnAtSHhHNEhsY052T084UGl3X043c3lIelZuaGsyODhWWGhkVjZtQ3pIaFlnZWZJSGtETUZ6dXl4bjFETG1YTGNFcllheWlxR3E2QVdaaWRMZ0diQzZabk53WnZ2TDluS3FUUGJsQXd6VHJzdnd3SlZQRVl1VVBxeVcwLVFhTWlUQzNUN3dCYjJtRVFIY2JnbThWN2RBNEpLV0twekNVdjY2ZGhWdms?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T07:04:19Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Tora Sudiro Bercanda Minta Dibuatkan Lagu, Kini Jenaka Punya Single Memendam Suka",
+   "snip": "Candaan Tora Sudiro kepada Ana Achjuman berujung serius hingga lahir single Memendam Suka yang kini dibawakan Jenaka Mahila.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/UxgDxWIAELsklWKqCD_W3CCwwGY=/9x145:1291x867/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381928/original/036105700_1792910048-SaveClip.App_652590057_18563782306040120_382216444969820739_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320837/tora-sudiro-bercanda-minta-dibuatkan-lagu-kini-jenaka-punya-single-memendam-suka",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T06:47:39Z"
   },
   {
    "k": "news",
@@ -169,52 +411,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T04:06:44Z"
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
+   "u": "detikHOT",
+   "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Vino G. Bastian Kagumi Perjalanan Karier Pevita Pearce, Sebut Jago Pilih Film",
-   "snip": "Vino G. Bastian memuji pilihan film Pevita Pearce yang menantang. Keduanya saling melontarkan pujian saat membintangi film Gasigogi.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/oozu_nB7S7KpK6rftH8STWS9UvU=/0x94:1280x815/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381807/original/015037200_1792896488-IMG-20261024-WA0013.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320734/vino-g-bastian-kagumi-perjalanan-karier-pevita-pearce-sebut-jago-pilih-film",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-25T02:57:04Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Kanye West Performs 30 Songs at Jakarta Concert Featuring Giant Globe Stage",
-   "snip": "Ye, formerly known as Kanye West, opened his Jakarta concert with 'King,' performing around 30 songs for thousands of fans at GBK Stadium.",
+   "cap": "Pevita Pearce Ungkap Beda Kehidupan Jakarta-Malaysia Usai 2 Tahun Nikah",
+   "snip": "Pevita Pearce Ungkap Beda Kehidupan Jakarta-Malaysia Usai 2 Tahun Nikah detikHOT 6 Ide Dekor Ulang Tahun dan Anniv Pernikahan Pevita Pearce, Bohemian! IDN Times Potret Pevita Pearce dan Suami Malaysia Rayakan Ultah Pernikahan ke-2 Haibunda ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2122290/kanye-west-performs-30-songs-at-jakarta-concert-featuring-giant-globe-stage",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDFvd21KMmNpTjE0SDdueUJVc2VqUkxXWi1lT3ZoVFFPTk1HcDJCMVRna3VjNjV0MUQ2TXlnc0lIY0R4MTFkQk5Hb0Qwb0hpdHZ5aktMa2RYSjFBQVpTM3pCWUxuc3QwZWZTT0pJdWxGRjlKYnZJSVpwVlhhNkd5cndOOFVZWURoMFNRbXp6RkEyaE5CYmE4V0ZsR1dCZ0lYNVNNWVJRNTVJNlMxS2fSAbMBQVVfeXFMUENuQmVZaExRQkFGLWw2dHltQlhEYXN5bmZRaWhzZ0otTVlmQUhyY01qRzRycEZzWVhRS0dSN0Mwci0xRS1IcGwwVkFHeDlKTVVxc29idWUzRno4dFdyR2U0YWwtMHhib1ZWSnZUOGJLR3ZqWmFzNVBIckpHVi1iZWFFNHVlVDZtc3hoc0NwbngxNWxFX1FPZUFnVUNWYWgtbm5RYVpNVnBRR3o4VERNaVRxdFE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Tempo"
+    "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
-   "ts": "2026-10-25T01:16:48Z"
+   "sc": 40,
+   "ts": "2026-10-25T04:01:49Z"
   },
   {
    "k": "news",
@@ -235,7 +455,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T00:07:41Z"
   },
   {
@@ -245,7 +465,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kandidat Pemeran James Bond Terbaru Jatuh Kepada 3 Aktor Ini",
-   "snip": "Kandidat Pemeran James Bond Terbaru Jatuh Kepada 3 Aktor Ini detikcom Jacob Elordi dan Jack Lowden Masuk Kandidat James Bond Berikutnya? medcom.id Tes Terakhir Seleksi James Bond Digelar Minggu Depan CNN Indonesia Amazon MGM Studios Siapkan",
+   "snip": "Kandidat Pemeran James Bond Terbaru Jatuh Kepada 3 Aktor Ini detikcom Jacob Elordi dan Jack Lowden Masuk Kandidat James Bond Berikutnya? medcom.id Amazon MGM Studios Siapkan Audisi Terakhir Pemeran James Bond RRI.co.id Jack Lowden, Callum T",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -257,30 +477,8 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T00:01:29Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Indonesia U-15 Thrash Fiji 7-1 at 2026 FIFA U-15 World Cup & Festival",
-   "snip": "Indonesia U-15 beat Fiji 7-1 at the 2026 FIFA U-15 World Cup & Festival, with Muhammad Hariri and Dicky Marani scoring twice each.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2122285/indonesia-u-15-thrash-fiji-7-1-at-2026-fifa-u-15-world-cup-festival",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-24T23:59:25Z"
   },
   {
    "k": "news",
@@ -465,7 +663,7 @@
    "av": "",
    "followers": 0,
    "cap": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London",
-   "snip": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London detikFood Jawaban Bunga Citra Lestari soal Rumor Hamil Kompas.com Dua Kali Dikira Hamil, BCL Sentil Netizen yang Sok Tahu: Boleh Gak Sih Berhenti Berasumsi? VIVA.co.id BCL Diis",
+   "snip": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London detikFood Jawaban Bunga Citra Lestari soal Rumor Hamil Kompas.com Dua Kali Dikira Hamil, BCL Sentil Netizen yang Sok Tahu: Boleh Gak Sih Berhenti Berasumsi? VIVA.co.id BCL Buka",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -509,7 +707,7 @@
    "av": "",
    "followers": 0,
    "cap": "8 Potret Kanye West Makan Enak, Doyan Burger hingga Milkshake Jumbo",
-   "snip": "8 Potret Kanye West Makan Enak, Doyan Burger hingga Milkshake Jumbo detikFood Kanye West bawa 30 lagu dari atas replika bumi di Stadion GBK ANTARA News Bali Cerita Penggemar Ye di GBK: Nabung, Berburu Pengalaman, hingga Self-Reward - kumpar",
+   "snip": "8 Potret Kanye West Makan Enak, Doyan Burger hingga Milkshake Jumbo detikFood Kanye West bawa 30 lagu dari atas replika bumi di Stadion GBK ANTARA News Bali Pemprov DKI Klaim Konser Ye & JRF 2026 Hasilkan Perputaran Uang hingga Rp 150 M - k",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -697,162 +895,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T10:37:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Fans Aijing A2O Lite Tawarkan Pinjaman Bantu Lunasi Utang Orangtua",
-   "snip": "Sejumlah penggemar China menawarkan pinjaman untuk membantu ibu Aijing A2O Lite melunasi utang gaji karyawan, tetapi gagasan itu menuai kritik warganet.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/L21kxz5pedSGJvRQuU1Ar1SGPWk=/1x218:1080x826/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381582/original/079737900_1792833964-TECHWORLD_A2O__A2OLITE__NEON_AIJING___________.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320486/fans-aijing-a2o-lite-tawarkan-pinjaman-bantu-lunasi-utang-orangtua",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T09:31:23Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Seungri Bantah Tuduhan Penganiayaan Khusus soal Botol Soju",
-   "snip": "Seungri membantah tuduhan penganiayaan khusus lewat pengacaranya. Ia disebut tak pernah memukul siapa pun dengan botol soju.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/VSDrnNhwjU2ckHnMSefWB0dDhx0=/0x93:960x634/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2241456/original/022474100_1528318586-3.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320482/seungri-bantah-tuduhan-penganiayaan-khusus-soal-botol-soju",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T09:17:32Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Shin Min Ah Ungkap Kehidupan Pengantin Baru dengan Kim Woo Bin",
-   "snip": "Shin Min Ah bagikan cerita kehidupan pengantin baru bersama Kim Woo Bin di You Quiz on the Block, termasuk pujian manis suaminya. Simak selengkapnya di sini!",
-   "img": "https://cdn1-production-images-kly.akamaized.net/cZjE00ro-5sLr4lLQIVbnBlKEYs=/1x101:1080x709/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5451118/original/074831800_1766224232-ClipDown.com_600452744_18402490579135532_3433960160926429489_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320476/shin-min-ah-ungkap-kehidupan-pengantin-baru-dengan-kim-woo-bin",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T09:00:50Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Jenaka Mahila Tak Ikuti Jejak Tora Sudiro dan Mieke Amalia, Ingin Bikin Album Sendiri",
-   "snip": "Jenaka Mahila pilih jalur musik berbeda dari Tora Sudiro dan Mieke Amalia. Simak dukungan keluarga, musisi idolanya, hingga rencana bikin album sendiri!",
-   "img": "https://cdn1-production-images-kly.akamaized.net/01u7pbgWLA8yvPAS8PfDQLKNQTg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4202753/original/097588300_1666675245-tora-1.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320471/jenaka-mahila-tak-ikuti-jejak-tora-sudiro-dan-mieke-amalia-ingin-bikin-album-sendiri",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T08:42:42Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Jenaka Mahila Racik Konsep MV Memendam Suka, Terinspirasi Dua Musisi Berbeda",
-   "snip": "Jenaka Mahila racik konsep MV Memendam Suka dengan inspirasi The Marias dan Katya. Simak cerita di balik visual, pilihan warna, hingga tantangan rekaman lagunya",
-   "img": "https://cdn0-production-images-kly.akamaized.net/B5UXW5IMvdYnbL5v9MYywh63myw=/0x116:1440x927/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4336966/original/067048000_1677251250-jenaka_mahila_325967974_121253824002140_3280230519854058521_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320459/jenaka-mahila-racik-konsep-mv-memendam-suka-terinspirasi-dua-musisi-berbeda",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T08:05:46Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "5 Penyanyi Dangdut yang Tak Ingin Anaknya Terjun ke Dunia Hiburan, Punya Alasan Berbeda",
-   "snip": "5 penyanyi dangdut yang tak ingin anaknya terjun ke dunia hiburan, mulai dari Ira Swara hingga Ayu Ting Ting, beserta alasan di baliknya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/fipEOke49RNnHoRXxyYdWGLkjmQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9327376/original/020408300_1787107303-1200KL.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320427/penyanyi-dangdut-yang-tak-ingin-anaknya-terjun-ke-dunia-hiburan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T07:59:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Tasya Farasya Renovasi Rumah Baru yang Retak, Biayanya Tak Sedikit",
-   "snip": "Tasya Farasya kembali renovasi rumah barunya yang belum setahun dihuni karena bangunan retak. Ia menyebut besi diganti kayu dan biaya capai miliaran rupiah.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/10fJmYDzRjIcOA5Ki9pJF0pppcY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381549/original/029954800_1792828465-tasyafarasya_1792744243_4014152054278826269_174788501.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320450/tasya-farasya-renovasi-rumah-baru-yang-retak-biayanya-tak-sedikit",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T07:54:24Z"
   },
   {
    "k": "news",
@@ -861,7 +905,7 @@
    "av": "",
    "followers": 0,
    "cap": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026",
-   "snip": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026 Kompas.com Ramalan Shio Hari Ini Sabtu 24 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Ramalan 3 Shio Paling Beruntung Pekan Ini, Anjing hingga",
+   "snip": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026 Kompas.com Ramalan Shio Hari Ini Minggu 25 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks Ramalan 3 Shio Paling Beruntung Pekan Ini, Anjing hingg",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -873,30 +917,8 @@
     "Kompas.com"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T06:01:00Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHealth",
-   "name": "detikHealth",
-   "av": "",
-   "followers": 0,
-   "cap": "Shah Rukh Khan Bugar Usia 60 Tahun, Ini Rahasia Fit-nya!",
-   "snip": "Shah Rukh Khan Bugar Usia 60 Tahun, Ini Rahasia Fit-nya! detikHealth",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXpyVzJYdmNaU3Q1VFZoQWRmSFFQUTNyeVhqbTR2cEpfeFZ6ZVhKb2FRaERoMEpncFNjcFg3RjhDNlRHTWxWTGQzZFJVdTkxQUtlVkJLTml2UVBCbkNiRlZfbUQxZWl5ZV9RSFRPM2VRWC03akFWSWVUUlNaZ0lidTlCVl9SX1FwMFFFWnJlanVzSWJNejBDLUF1aDlmSFFuUGtsaWtYU1pTWVVG0gGyAUFVX3lxTE9qaGhyaEJIR3FqaHFDaUwzOW02djlRdFhiUGpWckxoVUloSlp1V0lKWURUVEZUcDR2U1VDTExwV1dnbDJ4c2VBQW5ldXlodW5ucHhvZmRRLUtlVHBpQlpTaURRZWlyenJFbk9vcGxUODJ3UHZrejVJTGhtM0l5c0tUYndISmx1Mlhnanp0Qi0zblJpMVJLS3BqMDhmai1HWXpNYUl2SE51MjlPZF9qOGJHeVE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHealth"
-   ],
-   "hot": [],
    "sc": 30,
-   "ts": "2026-10-24T05:07:07Z"
+   "ts": "2026-10-24T06:01:00Z"
   },
   {
    "k": "news",
@@ -963,28 +985,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-24T02:09:05Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Potret Miss Singapore yang Gagal Ikut Miss Universe 2026 Usai Konflik Lisensi",
-   "snip": "Potret Miss Singapore yang Gagal Ikut Miss Universe 2026 Usai Konflik Lisensi Wolipop 3 Finalis Tersisa dari Asia Tenggara yang Ikut Miss Universe 2026 IDN Times Quynh Anh dan ratu kecantikan Asia Tenggara lainnya angkat bicara setelah tida",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmFwc2lQaDBCcEJCZl9vMHlXeXdVak5raGJMbDJOVzlCN3cteHBoVEdUQ0pDTms3N1BuaWFleGZaR0hxTVNYdmZEazJzZUtNdGFsdzFNWkdwWFVLemZTbnRwYUZnUC1ua2xmNlNseHVvWFV2c3Q3d1dqNVFtQVc0Q3NnQ2RZc0lTQlhjQ0FITzlwcFJMdWdQRTJDX1dUNjhyV3lzRmZSVWFRTW5Ydlp1VldYX04tb2lvNWpBVUdUOVFsUW5Mc0g0c2ZwQ3DSAdIBQVVfeXFMT2NnWl9vYjB4R3ExUXVHb0tpd092UTRmclpYWUJUUzZHeTRfdnlPRkJ4SFd2bnN3S0F4SjFRT1JWTXdpRHJ0OVppd0xuUXFKUUFFZjdHSFdLblNwYlV6bktod1ZycDNYVXRTcVFHZnlTUm8tVVlFSUhQZVhrNy1QclBYQndFSkN1UVRnNHJsY2xXdV8zQmo5TW4zVzlvRWRMRG9XMVJiWDVmSy1CRzNLbVlVUms5RzZGNzhLWUFIUzkwRk14TUtFQTV0SHc2anpFenhR?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-24T01:20:46Z"
   },
   {
    "k": "news",
@@ -1059,7 +1059,7 @@
    "av": "",
    "followers": 0,
    "cap": "LK21/Indoxxi Bahaya! Cek Langganan Netflix–Disney+ dan Streaming Film Legal Sub Indo",
-   "snip": "LK21/Indoxxi Bahaya! Cek Langganan Netflix–Disney+ dan Streaming Film Legal Sub Indo Bisnis Style 23 Link Pengganti Rebahin dan LK21, Nikmati Beragam Hiburan di Libur Akhir Pekan iNews.ID IndoXXI Bahaya, Ini 10 Situs Nonton Film Bioskop Ter",
+   "snip": "LK21/Indoxxi Bahaya! Cek Langganan Netflix–Disney+ dan Streaming Film Legal Sub Indo Bisnis Style IDLIX Ilegal, Ini 5 Situs Nonton Film Indonesia Terbaru dan Aman IDN Times 23 Link Pengganti Rebahin dan LK21, Nikmati Beragam Hiburan di Libu",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1071,7 +1071,7 @@
     "Bisnis Style"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-23T09:52:34Z"
   },
   {
@@ -1080,8 +1080,30 @@
    "name": "detikHOT",
    "av": "",
    "followers": 0,
+   "cap": "Prilly Latuconsina Nangis Lihat Kado dari Omara Esteghlal",
+   "snip": "Prilly Latuconsina Nangis Lihat Kado dari Omara Esteghlal detikHOT Intip Isi Tas Vintage Hadiah Ulang Tahun Prilly Latuconsina dari Omara Kompas.com Prilly Latuconsina Dapat hadia Buku dari Omara Esteghlal, Ternyata Ada fakta Menarik Cumicu",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEJOM1EySjBTZDRRQVJNcFdvZW1EMGRfeHY0dUhWQjJOMWlFcEt5dnV0cnVSYzlZSWdMYWhmVzRXNmVEa1EzaDNUbUVqdVBSeWl1YjJ2eUJhS0M5MVAwQ0gtNjlqQlpxMVgycmhJNnA2SFhheUl4dGxCWmN4aEU1WnNNNzNhRkRHemRSZlYtWXZfampuYVotVGx0Y9IBoAFBVV95cUxQcVppTnVhZzNPaEI4enBONmpfSFBqUVJaa1ZzU0pyQ0pLSExqcUVCdTZpMEtWSHNBbi1Jb0lCZExzbjJxWloyd3ZDSXhQSGtxc1RYSWpocjlvRTFyRzRuN3VaeHdTakZqZHlUaWNTS1dzWGJ2aUZlYUprdTY0V2ctV0J5VUd0bmh4YlZLSEpmdTJfMHotWDYtRmNKNzVEWUlD?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-23T09:11:51Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
    "cap": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian",
-   "snip": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian detikHOT 5 Gaya Prewedding Hana Malasan dan Sean Gelael, Kenakan Adat Sunda di Supermarket Kompas.com Potret Hana Malasan & Sean Gelael Prewedding Adat Sunda di Supermar",
+   "snip": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian detikHOT Potret Hana Malasan & Sean Gelael Prewedding Adat Sunda di Supermarket KapanLagi.com 7 Inspirasi Prewedding di Supermarket ala Hana Malasan dan Sean Gelael IDN ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1093,8 +1115,30 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-23T07:09:57Z"
+  },
+  {
+   "k": "news",
+   "u": "Beautynesia",
+   "name": "Beautynesia",
+   "av": "",
+   "followers": 0,
+   "cap": "7 Drakor yang Langsung Cetak Rating Dua Digit di Episode Perdana",
+   "snip": "7 Drakor yang Langsung Cetak Rating Dua Digit di Episode Perdana Beautynesia 5 Drakor Romantis Komedi Terbaru 2026 yang Tayang di Netflix Beautynesia Rekomendasi Drakor Thriller dan Misteri Terbaik dengan Cerita Penuh Misteri dan Plot Twist",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0kyQ2k4N0VCdEgyTGZtMjJZSVg4MW14TjFjcElYcUFpeHdhaVNsZ1dzNlh1cVpLNGVvbXRVYVRpMWFYWDlNMGRaQl9nQW9BRlhZcmlqM1JwQ0d4WFRnb3U1ZThlUHVUbVFQUERrYndxdUJFTWVFa0NFTTljVTFzc1BaVTBXX0ZBZkFLbkJuRmhudFhHcVlMdjBlM0ZqV1dTMDU2YmRTbzPSAa4BQVVfeXFMTmNMTVNINjZQZFN1UTJpN1ZzXzdJMjlvSVVUdkE2dHV0Z1ptbjVsV2dwQ1p3bW9adWk0bUxBTUFXSHpLaE5xSTE0YjRSbXh3ZDBjdHlSV3VBeDNYemlVTXVsYlozS2FGdEx5SktJRW5GR0U5UFB4eWNWUnRCX2VQYWdaUHNTeU1oaGk1UUpCUXJRNk5vQ2hQWW96dllNTU1vdjFBNnJYN1ZuaVI5cnBR?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Beautynesia"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-21T14:00:00Z"
   },
   {
    "k": "news",
@@ -1102,12 +1146,12 @@
    "name": "celebrity.okezone.com",
    "av": "",
    "followers": 0,
-   "cap": "Tanggapan Sabrina Chairunnisa usai Dituding Tak Tahu Malu karena Kuliah Dibiayai Deddy Corbuzier",
-   "snip": "Tanggapan Sabrina Chairunnisa usai Dituding Tak Tahu Malu karena Kuliah Dibiayai Deddy Corbuzier celebrity.okezone.com Tanggapan Sabrina Chairunnisa Usai Disindir Kuliahnya Dibiayai Deddy Corbuzier Cumicumi Sabrina Chairunnisa Kuliah di Kor",
+   "cap": "Ruben Onsu Sudah Kenalkan Thayaka ke Onyo, Thalia dan Thania Baru Diperlihatkan Lewat Foto",
+   "snip": "Ruben Onsu Sudah Kenalkan Thayaka ke Onyo, Thalia dan Thania Baru Diperlihatkan Lewat Foto celebrity.okezone.com Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Siapa Thayaka Anak Angkat Baru Ruben Onsu? CNN ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbTNiY1Z4V3dkN2JoamR0UFUwTFhkcFpqbnRRTGlqNHBWc0JtQ1lheXVtOG1rRmFwbTQ3a2FfenVlbHFscHdGNjZVV2JmWDBXalBJQ2YzdUEtc19XMzVYWUpudFV3OWhkdUJ5ZXFJeFVQWGZvZmpPelhDWUJQekNVXy1Ma3NDWXRCRlh5MG1CSnBDWGJLYld5cC1ZTUlnMGRmdWZRdlhOSEM1bjlsbjBpd2IxeDYtQlhTbUExUU5QQTg5REtOSkVoaFNhV2xEV3RMUDZvcGJMS3U4UUZ1MWlrcFVDaUJDclc00gHnAUFVX3lxTE5wblB1QkZGNUg0azBkaTBDWWdJVjRJYUkyVjAxSlk0NmhrNkZ4Y3JzNk11bFhrNUh4cHRLX1lKNTgxc19GZDFrSE5JQzQxajE4YTUzeFA3emJZXy0weUYyT3VuSlBHX0FlU2xMd3RFWVNsMFgyTURweC1SWGRhYmRWRXBVSW11MTVLSlNQV1JGWmpoQmRKWFNuSXg5elNIYXRlQmJMZEdmLUJ2aGI2M0ZqTEd5M0J4Ymhqdm9UWWpBcEQ4ZVlUTzBuRzJYR2dERU81bjB0eGxlVVptREgtdFEtYXRYSEdQVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRWI0aHFHWGtaRnJwOE5sb3EyM3ZqNDBCWEswZDBZZW5qYVhXSjJ4VnFDZ1l5aEMxV3UxQUF0YXhiaWVyQzRHNnN2c1Z5TWROcV93LXJsTUJLOVpVazlvNUxVbU5jQWtEQ2g3S1g4UVhVUVI4aHJGUDNKUVNEQW1lM0RmMVMtNEpMNnh5ajh2c3h1djRwdVBvUXJnNmQ0V2F1Q1EzMG5aMmF5OE96MVMzZkV6cHRacDhWYUU0UjhyaFp6SDRkREw4TEZwNTMzV2o3TTdYbDF2NGFpYXJQVGpN0gHeAUFVX3lxTE93VExsNGh0dEtUZGVzVFUxdDFJQ0NoajZ4UG1uXzN1NUtoSmM0LXg5SE44TXNEeUtZTkpQOEZzckJmSnZRQU54ZC1EYkM5Mjg0R2hCQjV3SVRRLUE4RC1qSk5vRDdKcU1hZjZST2lfVDRFTEdfNE41Q1pqSFhvWFVJVFlBcVhCOHJJRHNLV3RGS3lGbmRxejVhRjhJYkZRSXhtWi1wLTNYLVczLWNGd3JJUm4zUUxHZTFnM2VxeXI0aVFXamM1T1B0YXhRU0VZczBvUzhaNG1vQXFWRld2UQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1116,51 +1160,7 @@
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-23T05:30:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki",
-   "snip": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Siapa Thayaka Anak Angkat Baru Ruben Onsu? CNN Indonesia Kuasa Hukum Menjelaskan Alasan Ruben Onsu Mengadopsi Anak JPNN.com Bungkam Nyinyiran Netizen, Kuasa Huk",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkV3STloZTVZRG5DajB2TVpDRzRZNWhFSkhfc2JoM3ZyOUt3emVGMWlUQm1sT3Jvd01pX0ZaQUJOT1JwTURFRTE2Z1FkR0FWT25CeWE3TnY2bWgzSTBoME9HMVVsWENVaWs1VjlLWjRzMjR4UjVVb3VrdkFSUUJBUGQ4Z25CMkowcmlNc1B3Mi1RN21WUDBsSVlONWdwV05VTGhYT0tpUTJoNFhPZmJ4N0dZUWN2c21DbFAwQTJnVFpFTlhBN0E?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-21T09:34:00Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Otong Koil Jawab Soal Hubungan dengan Fanny Soegi",
-   "snip": "Otong Koil Jawab Soal Hubungan dengan Fanny Soegi detikHOT",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFFSa1NSRm02cG52aGF3ZkNQcHI2TVZDMUU1cU04M2xUbE9wdGJvUURxQVZrUGMxQVNQdFVUTl84dURjdjl0UlViWHJSTjNRRUFXc2hlTXFNdzNtb01RYWd5VnUxVjV4RlgzQmx2SVB6ZWszOHlRcU1DLW5QUTk1MUpraDF1N1A3aG9JME9ucS3SAZYBQVVfeXFMTkljbDlKLWJtQUVVcVpvbW9KbEZxVzVpRkE0cW1nOVV6N09OdG1PWGFpUUZCMlkzU2RxbkRkR1ZJLVZzY2hyRDRPUUpMLXhoNjNKd1NnX05mYVA5VzdDVnFZQ195NFBCSFBwVjZOYl9oMnM1MDI0WWIzLXQwLTFSaWRpUzhjTW5XUW51a2NyX0dwdWswZWJR?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-21T06:18:50Z"
+   "ts": "2026-10-19T07:03:44Z"
   },
   {
    "k": "news",
