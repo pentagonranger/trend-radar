@@ -3,47 +3,113 @@
  "posts": [
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
+   "u": "https://www.metapos.id/",
+   "name": "https://www.metapos.id/",
    "av": "",
    "followers": 0,
-   "cap": "KJRI Melbourne gelar festival untuk kenalkan budaya-UMKM Indonesia",
-   "snip": "Konsulat Jenderal Republik Indonesia di Melbourne (KJRI Melbourne), Australia, menyelenggarakan Festival Indonesia 2026 ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/25/DSC04087-1.jpg",
+   "cap": "VITABON Flower Series Resmi Meluncur : Tiga Aroma Bunga Siap Dinikmati dalam Setiap Momen",
+   "snip": "VITABON Flower Series Resmi Meluncur : Tiga Aroma Bunga Siap Dinikmati dalam Setiap Momen https://www.metapos.id/",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5810991/kjri-melbourne-gelar-festival-untuk-kenalkan-budaya-umkm-indonesia",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1MzbVRBc2RmN3E4Tm1DS0E0VlVTLVEwYTRJdVN0TzI5NG1feHg2OFZIRWE4enhLTDZrVTN3ZVhOOUZnSnRYa0RVaGhaQmJLRUtDdktwT0xuODdtSEl6cVFjX3ZrelpCZUxXSjRlZmpxaU5qc3FNOWpCREE5d0w1V3pqTEhnSFR1Ui1wcGN0amhlSE5LMEJnSXBoTTI0ZG1ObU9jdUtMLU5Mc2tOb3pidQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Antara"
+    "https://www.metapos.id/"
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-25T14:43:22Z"
+   "ts": "2026-10-25T16:11:44Z"
   },
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Festival Negeri Kami satukan 38 provinsi dalam satu panggung di TMII",
-   "snip": "Festival Negeri Kami (FNK) 2026 yang digagas oleh International Creatives Exchange (ICE) resmi dibuka di Taman Mini ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/25/1000456456.jpg",
+   "cap": "Tiwi T2 Tunjukkan Wajah Usai Operasi Plastik, Sebut Masih Proses Pemulihan",
+   "snip": "Tiwi T2 menunjukkan wajahnya setelah menjalani operasi plastik dan menyebut bahwa dirinya masih dalam proses pemulihan. Baca selengkapnya di sini yuk...",
+   "img": "https://cdn0-production-images-kly.akamaized.net/tIVWk0ou2YmiYA58XEqH4eKXHGE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382082/original/077481700_1792939643-Tiwi_T2_3.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5810983/festival-negeri-kami-satukan-38-provinsi-dalam-satu-panggung-di-tmii",
+   "url": "https://www.liputan6.com/showbiz/read/8321019/tiwi-t2-tunjukkan-wajah-usai-operasi-plastik-sebut-masih-proses-pemulihan",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Antara"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-25T14:34:48Z"
+   "ts": "2026-10-25T15:43:44Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Gender Reveal Anak Kedua Jessica Mila Jadi Ajang Donasi untuk Korban Karhutla",
+   "snip": "Jessica Mila dan Yakup Hasibuan menggelar acara gender reveal dan mereka melakukan donasi untuk korban Karhutla di Indonesia. Baca di sini yuk...",
+   "img": "https://cdn0-production-images-kly.akamaized.net/Ax68X6kLTWOcS995K-_5ykh3TwA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382089/original/089886500_1792940343-IMG-20261025-WA0001.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8321029/gender-reveal-anak-kedua-jessica-mila-jadi-ajang-donasi-untuk-korban-karhutla",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T15:38:18Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Doa Kyarra Terkabul, Jessica Mila Hamil Anak Perempuan Lagi",
+   "snip": "Jessica Mila kini sedang hamil anak kedua dan jenis kelamin janin yang ada di dalam kandungannya adalah perempuan. Baca selengkapnya di sini yuk...",
+   "img": "https://cdn0-production-images-kly.akamaized.net/z73lwdBq1vXDv8HuxByRJCbNRJw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382074/original/055487300_1792938255-IMG-20261025-WA0000.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8321013/doa-kyarra-terkabul-jessica-mila-hamil-anak-perempuan-lagi",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T15:08:35Z"
+  },
+  {
+   "k": "news",
+   "u": "detikNews",
+   "name": "detikNews",
+   "av": "",
+   "followers": 0,
+   "cap": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu",
+   "snip": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu detikNews Kanye West bawa 30 lagu dari atas replika bumi di Stadion GBK ANTARA News Bali Pemprov DKI Klaim Konser Ye & JRF 2026 Hasilkan Perputaran Uang hingga Rp 15",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYldud3gzdnZ3YTBJY0xJYUFpY1pRM19GY245a05RNF9FZy1tdzZHQXUwNk9lc2FJSTk3SHROcllWX3NmblFGaDVTRnhacFlQZTVpSU9qMHZkQkhtalk4M3BOVjNqWEtRNk8tczVuWnRpZkRjRndLakd2ZTF3LWNmVFVoRDVXXzBadGRKLWNiaVBHeWl4SHFWQVFLbmZaVnR1dmt3QjZpTXZLYUctVTNmd29ra9IBuAFBVV95cUxOcHh0YWw1UlRmQ0Y3dko5OWEwLVpiRUJwdnBwX2djdkV4cnBWUjdDYjZLN09SYjJpdGZNMEl1WTVnR1VpWWpPd3J2aEhFVWhHOVlwbXg4dEV5M0YxZDZzdlRXeHhXNTNCb2hXblZ2UG4xRzcybGRydER3cEc2YVk2OThpTFlEZXQtTzR1Y2pqY29VcDR6V0NvclNDLWItVXRicEJXSW45QXVMNEdtY21yb0xyZ2l4VVlk?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikNews"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T14:47:35Z"
   },
   {
    "k": "news",
@@ -91,6 +157,28 @@
   },
   {
    "k": "news",
+   "u": "Suara.com",
+   "name": "Suara.com",
+   "av": "",
+   "followers": 0,
+   "cap": "2 Sabun Cuci Muka Wardah Terbaik untuk Flek Hitam Usia 40 Tahun ke Atas",
+   "snip": "2 Sabun Cuci Muka Wardah Terbaik untuk Flek Hitam Usia 40 Tahun ke Atas Suara.com Atasi Flek Hitam Menahun Setelah Usia 45 Tahun dengan 9 Cara www.suaralandak.co.id Urutan Pemakaian Wardah untuk Usia 40 Tahun ke Atas, 7 Langkah Bikin Kulit ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUllzcjhYdE41V1ptNXNpWldTY3N6TzdHbFRVem40Q0VZR2FEMGFtMHhNZG5QeDhnZ09zc3N1ZlZsVEJvMmZDclAxcUcyd3h5a2FrSTNFR3psMnZQOVlYMU0zcjJpV0szNldJRnIwRktnaHdXVmFnNlJNQnd4cjlRc05nSVVrcFVOLVYtdFgySkZGUW5acTdkRkFWVlNPclFPTVo4NE4tUjN6RmxCOFVWc241UVB0MWVwYjlhQUpR0gG-AUFVX3lxTE5jSDVENWFwVEprVktnWEJ5bVJvSEVUUzlDbGZzeHVtTl9ybFlnaXNYN0p1R0JvNXA3RnFETS14MmdndnhWMWUwS0JYazFnTGNTOGJ2dFFOSlo0aVVoWktXeGxpNko5eHIxR3U0eUxFb2RiQmw2UXVZQ3FQSGNvaFRZQkVJSURiSzJuNkIyN2ZMQ1E2ckg2X3VXUzgtVERjRlRIOGFkYlVBZ29MX1dvcjU3elIxQWJWMWlJOUJpbVE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Suara.com"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-25T12:32:43Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6",
    "name": "Liputan6",
    "av": "",
@@ -108,7 +196,7 @@
     "Liputan6"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T12:04:02Z"
   },
   {
@@ -130,7 +218,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T11:17:26Z"
   },
   {
@@ -140,7 +228,7 @@
    "av": "",
    "followers": 0,
    "cap": "2 Model Victoria's Secret Dulu Sahabat Kini Berseteru, Diduga karena Tom Brady",
-   "snip": "2 Model Victoria's Secret Dulu Sahabat Kini Berseteru, Diduga karena Tom Brady Wolipop",
+   "snip": "2 Model Victoria's Secret Dulu Sahabat Kini Berseteru, Diduga karena Tom Brady Wolipop Joan Smalls Sindir Pengkhianatan dalam Persahabatan dengan Candice Swanepoel Suara Independent News Joan Smalls Sindir Pengkhianat di Tengah Rumor Tom Br",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -152,7 +240,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T11:00:51Z"
   },
   {
@@ -174,7 +262,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T11:00:12Z"
   },
   {
@@ -196,7 +284,7 @@
     "Liputan6"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T10:33:52Z"
   },
   {
@@ -218,8 +306,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T10:20:57Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Pihak Sarwendah Klarifikasi Isu Vila Jadi Syarat Damai dengan Ruben",
+   "snip": "Pihak Sarwendah Klarifikasi Isu Vila Jadi Syarat Damai dengan Ruben CNN Indonesia Ribut Harta Bersama dengan Sarwendah, Kuasa Hukum Singgung Kemampuan Finansial Ruben Onsu SINDOnews Lifestyle Kasus Dugaan Wanprestasi Ruben Onsu, Pihak Sarwe",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHZNVmNaUllJeW9BWHZtT3hoVUh4eENZYlQ4dmUxSnQzRlpGRmc4REZpcWtUcnFrN3FjUm1MbU5fTHBJRVJnR001RGM4dnFwaVRqSkxrYmxVSjB2dF9Ed3U2eV9PTTZ1Q25ibld4Z1dmbEMwbzk1M09pOHZONGhZd0pCVWxYUHoxcWFWTFdZTTFlZzdITWFwTEY0eEdCa2FWYnFKMlVtbnE5d1lwWXJkc1JMczNTdjIyV3VZV2t0aENoQ0tPSXFEZjJZRdIB0AFBVV95cUxPTFJobzMxNFJQdnRSUE5veW03MGNITV9OOTNnNWhEQkZFdXZ6WU1DR2lGMk5PWGlTVzBiUWV6Sms0LW50X3VIUC1uNU81eFhtQ2dhWW9WSnNfZVpDREk0TGN1emdPR053Mm4ySlZrd2JEbVRpaThCSFNpY094N0F5WlpTRS1zNXEyYk1PUHc1S0pxZkFhQmdXWUNZWkpBbXJsYnUzNGw1dmp4VUQzeGxTVUxOTE5jTHZhajNZOUtwV2F2Y1lhZVBXWTl4Yld4X1B1?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-25T10:00:00Z"
   },
   {
    "k": "news",
@@ -240,8 +350,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-25T09:05:20Z"
+  },
+  {
+   "k": "news",
+   "u": "Suara Surabaya",
+   "name": "Suara Surabaya",
+   "av": "",
+   "followers": 0,
+   "cap": "\"Avengers: Doomsday\" Rilis Trailer Baru, Thor dan Steve Rogers Hadapi Doctor Doom",
+   "snip": "\"Avengers: Doomsday\" Rilis Trailer Baru, Thor dan Steve Rogers Hadapi Doctor Doom Suara Surabaya Poster Terbaru Avengers: Doomsday Disebut Pecahkan Tradisi MCU dalam 18 Tahun Kompas.com Sandra Huller Dilaporkan Jadi Kameo di Avengers: Dooms",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDNSRTJ4ZFdjdno4dXJRUjhBNTdQTjByS3R1REhYYnhvTDdHVExxNU9NTnJKVlZwRG5taGRGT2pDWVBsS0dhbUdUTGlqbWlFNmhrZXBfRFlSTjFNYlpYa3VqUHFMd3VNM0YyS2s0S2daR1ZraV91Q0hfa0Rfaml5Q29SbXIzb2I5VlBma0QycDY0eEJnS3NoZ1lSVFJXeVoweHFLQXBRLW5qemxEd09FRVNxZ0tEV09aeUZfS2ZMRQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Suara Surabaya"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-25T08:40:19Z"
   },
   {
    "k": "news",
@@ -264,28 +396,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T08:30:59Z"
-  },
-  {
-   "k": "news",
-   "u": "detikNews",
-   "name": "detikNews",
-   "av": "",
-   "followers": 0,
-   "cap": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu",
-   "snip": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu detikNews Kanye West bawa 30 lagu dari atas replika bumi di Stadion GBK ANTARA News Bali Pemprov DKI Klaim Konser Ye & JRF 2026 Hasilkan Perputaran Uang hingga Rp 15",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYldud3gzdnZ3YTBJY0xJYUFpY1pRM19GY245a05RNF9FZy1tdzZHQXUwNk9lc2FJSTk3SHROcllWX3NmblFGaDVTRnhacFlQZTVpSU9qMHZkQkhtalk4M3BOVjNqWEtRNk8tczVuWnRpZkRjRndLakd2ZTF3LWNmVFVoRDVXXzBadGRKLWNiaVBHeWl4SHFWQVFLbmZaVnR1dmt3QjZpTXZLYUctVTNmd29ra9IBuAFBVV95cUxOcHh0YWw1UlRmQ0Y3dko5OWEwLVpiRUJwdnBwX2djdkV4cnBWUjdDYjZLN09SYjJpdGZNMEl1WTVnR1VpWWpPd3J2aEhFVWhHOVlwbXg4dEV5M0YxZDZzdlRXeHhXNTNCb2hXblZ2UG4xRzcybGRydER3cEc2YVk2OThpTFlEZXQtTzR1Y2pqY29VcDR6V0NvclNDLWItVXRicEJXSW45QXVMNEdtY21yb0xyZ2l4VVlk?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikNews"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T08:30:06Z"
   },
   {
    "k": "news",
@@ -399,28 +509,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Pihak Sarwendah Luruskan Isu Minta Vila Buat Syarat Damai ke Ruben Onsu",
-   "snip": "Pihak Sarwendah Luruskan Isu Minta Vila Buat Syarat Damai ke Ruben Onsu detikHOT Pihak Sarwendah Klarifikasi Isu Vila Jadi Syarat Damai dengan Ruben CNN Indonesia Ribut Harta Bersama dengan Sarwendah, Kuasa Hukum Singgung Kemampuan Finansia",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWJxS1FTS3VjMm9uZDJKQWNmMUxvQ0NWUVNGbkJGX09Ba3lRYm9UTlJtT3BEa282MVI4NWo5R284R2FfT3ZoaEw2Zm1UWUprVGRyc3hEZC1fWTVqNU5ZMEsyZ1VNNldkVTFUMWtKU0VHdmpLWTJ1UlZyTUZTNmZjRU4tX2J4WjNkS0x6cTlHd0tsdExQX0NYX2h3akIyX2dIb3A5M1cwUUwwMTlYenfSAbMBQVVfeXFMTXV4dnh0ZnAtSHhHNEhsY052T084UGl3X043c3lIelZuaGsyODhWWGhkVjZtQ3pIaFlnZWZJSGtETUZ6dXl4bjFETG1YTGNFcllheWlxR3E2QVdaaWRMZ0diQzZabk53WnZ2TDluS3FUUGJsQXd6VHJzdnd3SlZQRVl1VVBxeVcwLVFhTWlUQzNUN3dCYjJtRVFIY2JnbThWN2RBNEpLV0twekNVdjY2ZGhWdms?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T07:04:19Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -465,28 +553,6 @@
   },
   {
    "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "7 Outfit Selebriti Nonton Konser Ye di Jakarta, dari Shalom Razade hingga Adrian Khalif",
-   "snip": "Tampil kece di konser Ye GBK, intip OOTD dan momen seru Shalom Razade, Enzy Storia, hingga Adrian Khalif. Mana gaya favoritmu?",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cantika.com/read/2122297/7-outfit-selebriti-nonton-konser-ye-di-jakarta-dari-shalom-razade-hingga-adrian-khalif",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T05:30:00Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -506,28 +572,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T05:00:55Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Indonesian Climber Wins Silver at World Climbing Series in Chile",
-   "snip": "Indonesian climber Raharjati Nursamsa won silver in men's speed climbing at the World Climbing Series in Chile, clocking 5.06 seconds in the final.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2122300/indonesian-climber-wins-silver-at-world-climbing-series-in-chile",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T04:57:25Z"
   },
   {
    "k": "news",
@@ -572,28 +616,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T04:01:49Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Jadi Lokasi Konser Andrea Bocelli, Bagaimana Status Kawasan Borobudur?",
-   "snip": "Jadi Lokasi Konser Andrea Bocelli, Bagaimana Status Kawasan Borobudur? Kompas.com Budayawan Panembahan Karyonagoro Tanggapi Polemik Konser Andrea Bocelli di Indonesia celebrity.okezone.com BKSAP: Sensitivitas Terhadap Isu Palestina Harus Ja",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUDB0MTh0Y3JRc3F2d2RCNUFMckR2UkdMaUFZMXAzU2FUc0FqVFlSbXphQUh1R1F6SUl1a3NNVWZXbWU5bU92SXlPMEtHZ05wc1psVGJzMFhXc0ZEd1BiOUVMTmFzZzUyZE5KeW1YVDNUZTRUTUJJbWpYV1diUjd3b1Jla1JQVHNPUTdBSUlQcWtWVDJPbktiTWFIMWlYSDAybDd0N0l2MmJCUEowS1dDa013UG5Zc21peE5MSHBhYkFlMEczajh0cWlWQ0xwd1hwQ0E?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T04:00:00Z"
   },
   {
    "k": "news",
@@ -660,28 +682,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T02:57:04Z"
-  },
-  {
-   "k": "news",
-   "u": "JPNN.com",
-   "name": "JPNN.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis Film Datang Akan Pergi: Senang-senang Berubah Bencana",
-   "snip": "Sinopsis Film Datang Akan Pergi: Senang-senang Berubah Bencana JPNN.com Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT205N3hkRjQ5cnVTN1hhRkRRSWlvc1BPZk50cDJ0R2JRUFJRbDYxSVNjY19neVhHbmpaNUdvWlpNdFg4M0dZNnVHdldTSTE1V1EyWGdMRk1Kb2VqU0kycXpGeWZMOUp6ZTV0S04tbWZxRXhEWXEtTThCRkM3ZXlzT3pMTkVHWlBZN0FmdEx5ZjbSAZMBQVVfeXFMTU5KbWpXZlZlRGZsUkh5ZTBnZm94SmJCSjJFVXQ4a0FOcnMwVFQ2NEJ0Smx0S0dVN0ttQU01TTlnQ2tEck9GWXdaTE5keDdUWF9ZazJmNlJqcHcxd21qVkQ3YlhPQVFRd1dISURNem11OGJ3V3o5VXY5WVpCOE4yTXpJbEtaUVdpcTFLM01SdW1YUWRF?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "JPNN.com"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T02:09:00Z"
   },
   {
    "k": "news",
@@ -812,7 +812,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T16:57:20Z"
   },
   {
@@ -834,30 +834,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T16:48:28Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Peduli Karhutla, Nathalie Holscher Serahkan Honor DJ di Pontianak ke Rumah Zakat",
-   "snip": "Nathalie Holscher dapat pujian atas aksinya berdonasi untuk karhutla dengan menyerahkan honor sebagai DJ.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/FrxhA3-v_Obp-xZBYawtwEY0TAo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381695/original/008496200_1792850848-photo.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320595/peduli-karhutla-nathalie-holscher-serahkan-honor-dj-di-pontianak-ke-rumah-zakat",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T16:39:47Z"
   },
   {
    "k": "news",
@@ -878,7 +856,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-24T16:39:10Z"
   },
   {
@@ -900,30 +878,8 @@
     "detikFood"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-10-24T15:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Jisoo BLACKPINK Punya Lightstick Solo Berbentuk Es Krim, Akan Rilis Single Baru 'Addicted'",
-   "snip": "Jisoo BLACKPINK mengumumkan single digital baru Addicted yang rilis 30 Oktober, bersama lightstick solo berbentuk es krim yang mulai dijual 26 Oktober.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/Ys9NIeLa5n_WtS0f2vBZWKeb0rw=/0x0:1440x811/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9373519/original/012035200_1791967203-SnapInsta.to_848787099_18026686676873531_1846468563156243393_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320586/jisoo-blackpink-punya-lightstick-solo-berbentuk-es-krim-akan-rilis-single-baru-addicted",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
    "sc": 30,
-   "ts": "2026-10-24T13:55:51Z"
+   "ts": "2026-10-24T15:00:00Z"
   },
   {
    "k": "news",
@@ -1020,7 +976,7 @@
    "av": "",
    "followers": 0,
    "cap": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026",
-   "snip": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026 Kompas.com 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan 3 Shio Paling Beruntung Pekan Ini, Anjing hingga Kelinci Berpeluang Sukses Pontianak P",
+   "snip": "4 Shio yang Diprediksi Keluar dari Masa Sulit 24 Oktober 2026 Kompas.com Ramalan 3 Shio Paling Beruntung Pekan Ini, Anjing hingga Kelinci Berpeluang Sukses Pontianak Post Ramalan Shio 26 Oktober 2026: Cek Peruntungan Kamu di Awal Pekan Komp",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1085,12 +1041,12 @@
    "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Asty Ananta Berduka",
-   "snip": "Asty Ananta Berduka detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "cap": "Tiwi T2 Spill Kondisi Wajah Usai Operasi, 9 Jam 5 Tindakan Sekaligus",
+   "snip": "Tiwi T2 Spill Kondisi Wajah Usai Operasi, 9 Jam 5 Tindakan Sekaligus detikHOT Tiwi T2 Tunjukkan Wajah Usai Operasi Plastik, Sebut Masih Proses Pemulihan Liputan6.com Tiwi T2 Asyik Nikmati Kopi hingga Cicip Kuliner Tradisional di Blora detik",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vdy1hbFNMWmhqbm53SmI5aV9hYmxxYzdYZjBoMzhWYV9rUWdBU01fNnBOMVZqUC1pNmFlS29QRExCX0NGaFJGNllyYnFadnZybjBFX3lwT2NNR2dyM3hMQ2h1djBzaDBO0gFuQVVfeXFMT0drUjJXdkVLd0tqRWZHQXFqNkgwcnVFNjg3anhLQkhVZXExMGlRdU9BOXZWZ2xLVElZTEl3V0dCc0FGTGhoOWtqMnZHallpcEU1M3hzYWQ0cU5UZjBNMU1JcWlGZEotaTFaWXY5b3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmdaMlRYTGg3cVRUOHRzWWhHbjdOUVBVQmZCOEQ5ZEowaE1hV19OeFIwNDFnYnFwQUhpdFRvYUxaSW5uNFdXdEpQUFJMSFp5Y3cyd0VpeHI2bzN4MURNS0VzMGF2eXpqUkhVbUZzeXVRMFlZWTQxcjhWR3pTOF9qTzVSWnBUMXdOSjd3dXlDVHowbHUzYkc0aWlHbkNYWlNGNk5BSUNZeTXSAa4BQVVfeXFMT1V5cFhZc0tjd29FRjVTeVdWMmRBRUtGZVJ4UWp3VlRiTlFybW9xTV9uQlRqMU5aQ2lydE1oWEl3MTZzaUlRc1R5V21iUXUzTmhncGhCSGZRcksxYnRxVWt3TEhsUUFIYWg1UmswdWpXZzNzRTRhTWUxN2FjUjRhZnptXzFleGV0YkFZQlJXUEl2dERUeXdZejBjVnNXYnVQLW1nanJUaFUtblVZdkxn?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1099,7 +1055,7 @@
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-10-23T23:36:53Z"
+   "ts": "2026-10-23T23:06:09Z"
   },
   {
    "k": "news",
@@ -1169,47 +1125,25 @@
   },
   {
    "k": "news",
-   "u": "Suara.com",
-   "name": "Suara.com",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "4 Sunscreen Wardah untuk Flek Hitam Usia 40 Tahun ke Atas",
-   "snip": "4 Sunscreen Wardah untuk Flek Hitam Usia 40 Tahun ke Atas Suara.com 2 Sabun Cuci Muka Wardah Terbaik untuk Flek Hitam Usia 40 Tahun ke Atas Suara.com Atasi Flek Hitam Menahun Setelah Usia 45 Tahun dengan 9 Cara www.suaralandak.co.id Urutan ",
+   "cap": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki",
+   "snip": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Siapa Thayaka Anak Angkat Baru Ruben Onsu? CNN Indonesia Bungkam Nyinyiran Netizen, Kuasa Hukum Tegaskan Niat Ruben Onsu Asuh Anak Laki-laki Murni Spontanitas G",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHJ1OFV1ajdKSW9yRVQ1MFpkRG5NYnllNVBRZkZKbG1ZbkVmbE15czktNHJfNXF5ZV9nRnFuVTJoUkdGVVZ6dzVEaTRELThHeEhyZFFqbTJOcVE3UDJaN2JxWHgtY0VaWVFtTzhCN0xEcFdfX19NcjRZR210ZEhXTW5pa0NlY1R2bHI0dGtzUm1pTVN4SE9qcGhVZ0VNS0VXUU84NmdXVTQ1b3PSAasBQVVfeXFMUGhLMkJpd0JwYl9xUmFHNnNuUC1NOE5xa2hNUks1YWZuWHB2OEJxYlFCQnpueEJiTEdadE9TMFdQN3lIcWN0VGM2eEtMUXN1U3RfOTlrVnpmNGxGdGRoY0FGd044U0JSSGFYWHZqWUliY19vWFFIMXY2eUtueVlVX21LZUJMYjB5WHcwYnBsSmhqZjJueXN2MjlTQ19MWUxHa2Z5bzJvNzc4a2Vv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkV3STloZTVZRG5DajB2TVpDRzRZNWhFSkhfc2JoM3ZyOUt3emVGMWlUQm1sT3Jvd01pX0ZaQUJOT1JwTURFRTE2Z1FkR0FWT25CeWE3TnY2bWgzSTBoME9HMVVsWENVaWs1VjlLWjRzMjR4UjVVb3VrdkFSUUJBUGQ4Z25CMkowcmlNc1B3Mi1RN21WUDBsSVlONWdwV05VTGhYT0tpUTJoNFhPZmJ4N0dZUWN2c21DbFAwQTJnVFpFTlhBN0E?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Suara.com"
+    "Kompas.com"
    ],
    "hot": [],
    "sc": 20,
-   "ts": "2026-10-22T12:40:00Z"
-  },
-  {
-   "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Ruben Onsu Sudah Kenalkan Thayaka ke Onyo, Thalia dan Thania Baru Diperlihatkan Lewat Foto",
-   "snip": "Ruben Onsu Sudah Kenalkan Thayaka ke Onyo, Thalia dan Thania Baru Diperlihatkan Lewat Foto celebrity.okezone.com Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Siapa Thayaka Anak Angkat Baru Ruben Onsu? CNN ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRWI0aHFHWGtaRnJwOE5sb3EyM3ZqNDBCWEswZDBZZW5qYVhXSjJ4VnFDZ1l5aEMxV3UxQUF0YXhiaWVyQzRHNnN2c1Z5TWROcV93LXJsTUJLOVpVazlvNUxVbU5jQWtEQ2g3S1g4UVhVUVI4aHJGUDNKUVNEQW1lM0RmMVMtNEpMNnh5ajh2c3h1djRwdVBvUXJnNmQ0V2F1Q1EzMG5aMmF5OE96MVMzZkV6cHRacDhWYUU0UjhyaFp6SDRkREw4TEZwNTMzV2o3TTdYbDF2NGFpYXJQVGpN0gHeAUFVX3lxTE93VExsNGh0dEtUZGVzVFUxdDFJQ0NoajZ4UG1uXzN1NUtoSmM0LXg5SE44TXNEeUtZTkpQOEZzckJmSnZRQU54ZC1EYkM5Mjg0R2hCQjV3SVRRLUE4RC1qSk5vRDdKcU1hZjZST2lfVDRFTEdfNE41Q1pqSFhvWFVJVFlBcVhCOHJJRHNLV3RGS3lGbmRxejVhRjhJYkZRSXhtWi1wLTNYLVczLWNGd3JJUm4zUUxHZTFnM2VxeXI0aVFXamM1T1B0YXhRU0VZczBvUzhaNG1vQXFWRld2UQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "celebrity.okezone.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-19T07:03:44Z"
+   "ts": "2026-10-21T09:34:00Z"
   }
  ]
 }
