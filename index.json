@@ -1,27 +1,65 @@
 {
- "topics": [],
+ "topics": [
+  {
+   "t": "Kings Vs Grizzlies",
+   "q": "kings vs grizzlies",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "HoopsHype",
+    "The New York Times",
+    "NBC Sports"
+   ],
+   "d": "2026-10-26",
+   "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/25/keegan-murray-is-officially-out-tonight-with-a-stiff/92436846007/",
+   "n": "Keegan Murray is officially out tonight with a stiff …",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Vino G. Bastian hingga Pevita Pearce Bintangi Film Gasigogi",
+   "q": "Vino G. Bastian hingga Pevita Pearce Bintangi Film Gasigogi",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "CNN Indonesia",
+    "Liputan6 Showbiz"
+   ],
+   "d": "2026-10-25",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV3ZJYnBZRFk1RmlsSmswOTZRTThBemIwbTlTVGJ6T19iaFR0Z3k5WjF0SU5NTHdFbmhBam1EUVc2bzBEWDczZVpNejM1OGtGa3dvMGJqWnFlbVlwcDJ4a2ZyZVVKeUx3QnFGdGtEbUpzRENYTGpLSWF3RDc2STRWLWFmQmg4cGtiZkl1RTJlWW5BT2lVRk11WmlCRFZaWjl4amlyR3FDbFh0M1MtdWxaaUFmR2tMeG1iZG9WSnpnd9IBxAFBVV95cUxNTXNuOEp4WkZPc3RBakpjeE5USFFobGNaZy1OZ0VTZFhFYUxSNTdOaFRWSmxDdnZwd0E0NVpIZ0d1cGo3Q2R3Zy0tdkdEUTI0d041WGNIVjN0b0lXYjdPNmVxVXNibk41eGNVbzJNd3pKbnpJaEZxc3Jsb0JweS04c1hrazlkS0lGQ0N5dWt3TVIzTTk4NzlKUHFEWTF1V041NXVZSDRLQTlVdGFpOGRFNlBWV0RkT2VLSlFsbnFBZW5LX005?oc=5",
+   "n": ""
+  }
+ ],
  "posts": [
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Budaya gembala pegunungan di masa lampau dikemas dalam Festival Transhumance di Madrid Spanyol",
-   "snip": "Warga menggiring domba dan kambing saat menyusuri jalanan dalam Festival Transhumance di Madrid, Spanyol, Senin ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/26/CmxztpE000050_20261026_PEPFN0A001.jpg",
+   "cap": "Jessica Mila Lebih Santai di Kehamilan Kedua, Pahami Kondisi Tubuh",
+   "snip": "Jessica Mila lebih santai menjalani kehamilan kedua dan merasa lebih aktif. Simak cerita perubahan tubuh, pilihan pakaian, hingga pengalaman mual saat trimester",
+   "img": "https://cdn1-production-images-kly.akamaized.net/duioOHqj061XZ-T2q8uNbgQjQFA=/1x244:1080x852/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5550969/original/072043400_1775713282-SnapInsta.to_658693899_18588592585048176_8971147880524613004_n.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/foto/5811223/budaya-gembala-pegunungan-di-masa-lampau-dikemas-dalam-festival-transhumance-di-madrid-spanyol",
+   "url": "https://www.liputan6.com/showbiz/read/8321175/jessica-mila-lebih-santai-di-kehamilan-kedua-pahami-kondisi-tubuh",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Antara"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-25T23:37:28Z"
+   "ts": "2026-10-26T02:52:13Z"
   },
   {
    "k": "news",
@@ -29,12 +67,12 @@
    "name": "Antara",
    "av": "",
    "followers": 0,
-   "cap": "Pemegang hak cipta lagu Elvis Presley gugat perusahaan AI Anthropic",
-   "snip": "Pemegang hak cipta atas lagu-lagu penyanyi legendaris Amerika Serikat Elvis Presley melayangkan gugatan hukum terhadap ...",
-   "img": "https://img.antaranews.com/cache/800x533/2022/03/16/A4CFC196-793A-4576-B595-564888CCCA21.jpeg",
+   "cap": "Putra Tri Ramadani raih perak di World Climbing Series Santiago",
+   "snip": "Atlet panjat Indonesia Putra Tri Ramadani atau Srondeng meraih medali perak nomor lead putra dalam ajang World Climbing ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/03/putra-posisi-kelima-panjat-tebing-nomor-lead-asian-games-2877300.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5811219/pemegang-hak-cipta-lagu-elvis-presley-gugat-perusahaan-ai-anthropic",
+   "url": "https://ramadhan.antaranews.com/berita/5811335/putra-tri-ramadani-raih-perak-di-world-climbing-series-santiago",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -43,51 +81,29 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-25T23:37:07Z"
+   "ts": "2026-10-26T01:27:37Z"
   },
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
+   "u": "detikHOT",
+   "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "9 makanan untuk program hamil, dari telur hingga sayuran hijau",
-   "snip": "Menjalani program hamil atau promil tidak hanya berkaitan dengan menghitung masa subur dan mengatur waktu berhubungan ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/06/upaya-meningkatkan-kualitas-pelayanan-kesehatan-masyarakat-2879278.jpg",
+   "cap": "Cinta Laura Biayai Sekolah ART, Niatnya Mulia",
+   "snip": "Cinta Laura Biayai Sekolah ART, Niatnya Mulia detikHOT",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5811203/9-makanan-untuk-program-hamil-dari-telur-hingga-sayuran-hijau",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmFieDdOOFdNN29yUTZNODNacEJxQzFKaDBob1BPcFhyTHpudEo3NmtCbkhoNmNJM1RkQm91bGp1NlRHSWtGbEkwZHpWSEVWbmdxcUpoTW9XZmxwc0tmRWJqNndtYVFTWWdlTDljeXlIRXktMEl3MzhyQ3ZNS3R1RW5scWtPVF9HdXfSAY8BQVVfeXFMTjlTLXBYR0hOaDNkemRDRzlSVFhnSHdFZW9udHhIVFZfS2RCckpyX0czZGNuZXR3cG1vdWlMTF9uVmpLVUdLcEVqV1hUMHliejJ6anZOSEhONFFTd2RIejZ1UEh4b3lYalp6OFNIQTk1RUN3cGx2S3lNRUxZT2lOSFozaG9CQkwya1RGdG5LSXc?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Antara"
+    "detikHOT"
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-25T23:31:09Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Ingin cepat hamil? Ini 8 tips promil alami yang bisa dicoba",
-   "snip": "Memiliki momongan menjadi harapan bagi banyak pasangan setelah menikah. Berbagai upaya pun dilakukan untuk meningkatkan ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/06/upaya-meningkatkan-kualitas-pelayanan-kesehatan-masyarakat-2879274.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5811199/ingin-cepat-hamil-ini-8-tips-promil-alami-yang-bisa-dicoba",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-25T23:22:46Z"
+   "ts": "2026-10-25T22:05:01Z"
   },
   {
    "k": "news",
@@ -113,12 +129,35 @@
   },
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Vino G. Bastian Kagumi Perjalanan Karier Pevita Pearce, Sebut Jago Pilih Film",
+   "snip": "Vino G. Bastian memuji pilihan film Pevita Pearce yang menantang. Keduanya saling melontarkan pujian saat membintangi film Gasigogi.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/oozu_nB7S7KpK6rftH8STWS9UvU=/0x94:1280x815/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381807/original/015037200_1792896488-IMG-20261024-WA0013.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8320734/vino-g-bastian-kagumi-perjalanan-karier-pevita-pearce-sebut-jago-pilih-film",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "CNN Indonesia",
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 48,
+   "ts": "2026-10-25T02:57:04Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast",
-   "snip": "Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast detikHOT Kalina Oktarani Kaget Bertemu Vicky di Podcast, Sempat Ingin Pulang JournalArta Kalina Oktarani Klarifikasi Masalah Lama Saat Bertemu Vicky Prasetyo SuaraGarut.ID Kali",
+   "snip": "Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast detikHOT Kaget Ketemu Vicky Prasetyo di Podcast, Kalina Oktarani Merasa Dijebak CNN Indonesia Kalina Oktarani Klarifikasi Masalah Lama Saat Bertemu Vicky Prasetyo SuaraGarut.ID",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -201,25 +240,25 @@
   },
   {
    "k": "news",
-   "u": "detikNews",
-   "name": "detikNews",
+   "u": "Haibunda",
+   "name": "Haibunda",
    "av": "",
    "followers": 0,
-   "cap": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu",
-   "snip": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu detikNews Kanye West bawa 30 lagu dari atas replika bumi di Stadion GBK ANTARA News Bali Pemprov DKI Klaim Konser Ye & JRF 2026 Hasilkan Perputaran Uang hingga Rp 15",
+   "cap": "Potret Amel Putri Ussy Sulistiawaty dan Andhika Pratama Kuliah Kedokteran Hewan di IPB",
+   "snip": "Potret Amel Putri Ussy Sulistiawaty dan Andhika Pratama Kuliah Kedokteran Hewan di IPB Haibunda",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYldud3gzdnZ3YTBJY0xJYUFpY1pRM19GY245a05RNF9FZy1tdzZHQXUwNk9lc2FJSTk3SHROcllWX3NmblFGaDVTRnhacFlQZTVpSU9qMHZkQkhtalk4M3BOVjNqWEtRNk8tczVuWnRpZkRjRndLakd2ZTF3LWNmVFVoRDVXXzBadGRKLWNiaVBHeWl4SHFWQVFLbmZaVnR1dmt3QjZpTXZLYUctVTNmd29ra9IBuAFBVV95cUxOcHh0YWw1UlRmQ0Y3dko5OWEwLVpiRUJwdnBwX2djdkV4cnBWUjdDYjZLN09SYjJpdGZNMEl1WTVnR1VpWWpPd3J2aEhFVWhHOVlwbXg4dEV5M0YxZDZzdlRXeHhXNTNCb2hXblZ2UG4xRzcybGRydER3cEc2YVk2OThpTFlEZXQtTzR1Y2pqY29VcDR6V0NvclNDLWItVXRicEJXSW45QXVMNEdtY21yb0xyZ2l4VVlk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTS1aNkhBc2JfVHh5VEJBZzJsN0N5Sy10Y2s5ZVlISG9kVUdpUFNYWkR0cWJ1OXJGcW5BZVQtVUZVMEFhTXFkbU9nX0JCUmhIY2RwTEg3R0lwSU9SbWp2bGdISG1DelFsQk9qTFNodmtfSFVyenJNU0NjMWlaWm95cnRlVk44RmhoNllzdmRPOXpidm9CRjdpVWliaDFvZEhJRjkyOWJXTnZwUTNpRDk1MV9MTW1xVkEzWVVLbGxid1hpTWNhYmNiaWFJSi1ZQjh2UlFpMkUtS3hqUklVSzJJ0gHkAUFVX3lxTFBRWG92R1Fuck96QTQ0MkVFeEtySERTd1BnbmdJNnNqRGhETWhFbFA2a3hHTWxQM3ZabV9vVDA5c3lkZ3pka3VZS204cENxNDNNZC0xZllldnUtenJVcmNpRU9HOW1YcElmVTBzSzJqdy1fejF4RDdGdDNtQURzUGItR2g4RWhod3pGNWtYXzdiMXBNQy1FbHIyZzhTaDNtc3dhbmJpRnZzTE15MWNaalRnRU53OUxJS2pjV2tQaDc2eVd6X25iQWFacVNxOFpRTk9Lb2xLTHJJSkg5QTNia2pqVnFkSg?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "detikNews"
+    "Haibunda"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-25T14:47:35Z"
+   "ts": "2026-10-25T15:00:13Z"
   },
   {
    "k": "news",
@@ -264,6 +303,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T13:11:16Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik",
+   "snip": "4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini Minggu 25 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sumeks.disway.id Sumeks 3 Shio Diprediksi Melesat dalam Karier Pekan Ini, Ada P",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelJZTzFSM19rY1FQSmJCdlVhNmE4c0JlRGpERFRMbGxMQ1RJM2lIWTFWY1NiSDltaGJrUVl3ZkpvS1lWMmRUOUY4aE9pcjBkcGdVRE5ZUXFaeTFuT1NjY1ZSbGpsMlVvUDljRUd2Wi0zUTh0eG1zRnVUSlRCRVNkSXRCSmV5QXhpcWRkWG9ucTNXVVh5OThVV2lOSmU1MEdVTzR3RUpaTVM4MGRUeHFFa3hPSUVQMEdMbzRlRGU0WUpSZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-25T13:02:00Z"
   },
   {
    "k": "news",
@@ -443,6 +504,28 @@
   },
   {
    "k": "news",
+   "u": "SINDOnews Lifestyle",
+   "name": "SINDOnews Lifestyle",
+   "av": "",
+   "followers": 0,
+   "cap": "Drama Kim Ji Won, Doctor X Diprotes, Muncul Petisi Desak Hentikan Penayangan",
+   "snip": "Drama Kim Ji Won, Doctor X Diprotes, Muncul Petisi Desak Hentikan Penayangan SINDOnews Lifestyle Rating Doctor X Tembus 19,5 Persen, Final Table Debut di Angka 1,9 Persen Kompas.com 7 Sisi Abu-abu Bu Seung Kwon di Doctor X: Mafia in White I",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkVBNHNwQTltbjYxa2xpUk52dDZZcDFxYmVDSVhTWXBJUGo0MThUd2N4emU0Zjk4Q210Y2RWVV9DMEpxVVpVYk5vRDhmaklJWVZfMlZzYTJxRjBSLVlLTXVka0s1ejJBcEhPV3ZPNEgwQmdMdWNQbjBJZ05kdW5VMjlDdlZLZXJlMTg0cUZVZ0NDV3R2djJZV2d1TUZzV3U2TkJxdktpTXVmMVF4enRRRV9Uc2pVOG9qQ0dZZnZuRkh1T2RVdzJtT015aXJPNkXSAdQBQVVfeXFMTUNPcGt2WDRrTkVFRGtNaE5QMDZQR3J3U1ZrLXJVMnNvNEZKSEFydVhzWElZeVIwbHRyZ180Y055Z3c2UmE1NzNmSVZnUkFGX0xvOE9TdG5jN0xVcG5LcGhXYTR1OXgyMFdZZDhPUF9kdDFPeWY3aV9qUWg0OWZiS1ZTbUtBb3ZwRWY3OTFzUHdkMURFRFo0MkpQam1RYjBpcEppU1VmQVJ3VXFfU0JnOWRyYnR5RFNiTG83b19FUUNpU0VrWWFSZXZXSWNkMjB3cExvZ1I?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "SINDOnews Lifestyle"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-25T09:26:41Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -506,6 +589,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-25T08:30:59Z"
+  },
+  {
+   "k": "news",
+   "u": "detikNews",
+   "name": "detikNews",
+   "av": "",
+   "followers": 0,
+   "cap": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu",
+   "snip": "Pramono Senang Konser Ye Sedot 30 Ribu Turis Asing: Dulu Tak Pernah Begitu detikNews Kanye West bawa 30 lagu dari atas replika bumi di Stadion GBK ANTARA News Bali Pramono Sebut Jakarta Makin Berwarna Berkat Konser Musisi Dunia dan Ajang In",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYldud3gzdnZ3YTBJY0xJYUFpY1pRM19GY245a05RNF9FZy1tdzZHQXUwNk9lc2FJSTk3SHROcllWX3NmblFGaDVTRnhacFlQZTVpSU9qMHZkQkhtalk4M3BOVjNqWEtRNk8tczVuWnRpZkRjRndLakd2ZTF3LWNmVFVoRDVXXzBadGRKLWNiaVBHeWl4SHFWQVFLbmZaVnR1dmt3QjZpTXZLYUctVTNmd29ra9IBuAFBVV95cUxOcHh0YWw1UlRmQ0Y3dko5OWEwLVpiRUJwdnBwX2djdkV4cnBWUjdDYjZLN09SYjJpdGZNMEl1WTVnR1VpWWpPd3J2aEhFVWhHOVlwbXg4dEV5M0YxZDZzdlRXeHhXNTNCb2hXblZ2UG4xRzcybGRydER3cEc2YVk2OThpTFlEZXQtTzR1Y2pqY29VcDR6V0NvclNDLWItVXRicEJXSW45QXVMNEdtY21yb0xyZ2l4VVlk?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikNews"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-25T08:30:06Z"
   },
   {
    "k": "news",
@@ -734,7 +839,7 @@
    "av": "",
    "followers": 0,
    "cap": "Rumah Tasya Farasya Retak di Mana-mana, Ini Penampakannya",
-   "snip": "Rumah Tasya Farasya Retak di Mana-mana, Ini Penampakannya detikcom Rumah Tasya Farasya Retak dan Lantai Kolam Turun, Apa Penyebabnya? Kompas.com Cerai dari Ahmad Assegaf, Tasya Farasya Ungkap 6 Tipe Laki-laki yang Jangan Dinikahi VIVA.co.id",
+   "snip": "Rumah Tasya Farasya Retak di Mana-mana, Ini Penampakannya detikcom Rumah Tasya Farasya Retak dan Lantai Kolam Turun, Apa Penyebabnya? Kompas.com Polemik Rumah Memanas, Tasya Farasya dan Mantan Mertua Saling Sindir SINDOnews Lifestyle Cerai ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -746,30 +851,8 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-25T03:02:35Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Vino G. Bastian Kagumi Perjalanan Karier Pevita Pearce, Sebut Jago Pilih Film",
-   "snip": "Vino G. Bastian memuji pilihan film Pevita Pearce yang menantang. Keduanya saling melontarkan pujian saat membintangi film Gasigogi.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/oozu_nB7S7KpK6rftH8STWS9UvU=/0x94:1280x815/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381807/original/015037200_1792896488-IMG-20261024-WA0013.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320734/vino-g-bastian-kagumi-perjalanan-karier-pevita-pearce-sebut-jago-pilih-film",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-25T02:57:04Z"
   },
   {
    "k": "news",
@@ -790,7 +873,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-25T00:07:41Z"
   },
   {
@@ -861,6 +944,28 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "BCL Klarifikasi Kabar Hamil",
+   "snip": "BCL Klarifikasi Kabar Hamil detikHOT Jawaban Bunga Citra Lestari soal Rumor Hamil Kompas.com Dua Kali Dikira Hamil, BCL Sentil Netizen yang Sok Tahu: Boleh Gak Sih Berhenti Berasumsi? VIVA.co.id BCL Bantah Rumor Hamil, Sang Penyanyi Ungkap ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iWnJDa1dSV1hEMVRWLXN2eTlVVTQ3ajY3NHFxbk9kaDRMNHJMUnowTWFjQlNvcDc3dk1UX1hUVVczYjZ6RDBVTEVLUXNoTUNHMV9hYjU5U3RSZVYxM1lZTE1lMWJ3dU1JNzJIblhFVWpwNU3SAXhBVV95cUxOeEtXaEp6QTNUT3NrY21pLXl1bGphdUtnTzVaUEZzc0hMRThuU3BId0NrdzNiaERjdk1takN5TTVzZl9ZcUNFajdtY2dhVWpMc2l6b1Ezczh1TG9iUV9CX1dwdzN4Um9LUVExTnZOczVaaGhoRGwtaDc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-24T22:05:51Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -880,50 +985,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-24T16:57:20Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Pevita Pearce Menangis di Pesawat Saat Baca Skrip 'Gasigogi'",
-   "snip": "Pevita Pearce ungkap perasaannya ketika membaca naskah film Gasigogi. Kok bisa sampai menangis?",
-   "img": "https://cdn0-production-images-kly.akamaized.net/4EVbDPaR_zaEsyV2uofCyk7HKkw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381719/original/027354500_1792860508-IMG-20261024-WA0025.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8320636/pevita-pearce-menangis-di-pesawat-saat-baca-skrip-gasigogi",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-24T16:48:28Z"
-  },
-  {
-   "k": "news",
-   "u": "detikFood",
-   "name": "detikFood",
-   "av": "",
-   "followers": 0,
-   "cap": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London",
-   "snip": "BCL Asyik Rayakan Ultah Suami di Pesawat hingga Makan di London detikFood Jawaban Bunga Citra Lestari soal Rumor Hamil Kompas.com Dua Kali Dikira Hamil, BCL Sentil Netizen yang Sok Tahu: Boleh Gak Sih Berhenti Berasumsi? VIVA.co.id BCL Diis",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTZ4V1hEUTdOUXI4QU05aW1KYWpDcVduMFlGcGJsZjZmTFE4aHd4NGZIYXc3MkVXVGRXMnU4QlFVcWJxU3JpNUNjODJBa3lSRlY5M3hsdnRGeTBFLXBKc21MTzhWXzZ6ZTRCMjNJOWNDVFhvQjhWQlV3WUhlSnNMWE0tcFBRQmZHNTc0a3hKYWRfRUtmUlZKX1Z0MmNuYUdJUWstQU9weWNacnp6QXfSAbMBQVVfeXFMTjRJR1M1MjZSUGtCdl9pdWszR1BXTjdqNm9qN05OVjhDUG5PNkhCZ2dZNW8waWdQMzYyZXYyMWJCN1YzbFBnUDhPQ0Rxal9CR0dqQWNqa2xPTlRJTGdZWVNPTUgwcElhU3h1Vm85TFBaT0hsbnZIaUVQRU03NmZEOHVhaElaODZlbUdCZGpnN290STNDQjdiR1dCRFZjYjVRYnpuNGJVMkVRUW1rc1RyV2hoUUE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikFood"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-24T15:00:00Z"
   },
   {
    "k": "news",
@@ -976,7 +1037,7 @@
    "av": "",
    "followers": 0,
    "cap": "Iben MA Resmi Menikah dengan Natasha Abigeyl Usai 12 Tahun Pacaran",
-   "snip": "Iben MA Resmi Menikah dengan Natasha Abigeyl Usai 12 Tahun Pacaran detikHOT Serunya Iben MA Jajan Es Krim Durian hingga Makan Nasi Uduk Kaki Lima detikFood",
+   "snip": "Iben MA Resmi Menikah dengan Natasha Abigeyl Usai 12 Tahun Pacaran detikHOT Iben M.A. dan Natasha Abigeyl Resmi Menikah setelah 12 Tahun Pacaran RRI.co.id Serunya Iben MA Jajan Es Krim Durian hingga Makan Nasi Uduk Kaki Lima detikFood Iben ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1032,30 +1093,8 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-24T02:09:05Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Pernikahan Yuriska Patricia dengan Asnawi Mangkualam Kian Dekat",
-   "snip": "Pernikahan Yuriska Patricia dengan Asnawi Mangkualam Kian Dekat detikHOT 9 Inspirasi Gaya Pengajian dan Siraman ala Yuriska Patricia, Sweet! IDN Times Yuriska Patricia Asnawi Gelar Pengajian dan Siraman di Bandung, Momen Haru Penuh Doa Jela",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOME9QRVhUTURnRXh3aGsxX0hJUWlEYmU4cXJVWU1UeWpWSGg2TGNZbEw3b1VIVDY3NzJlcXBkXzN5eVJCZTB4eWVRckQ2UjNxRU9YaWVzWmYtdmVhMkNmcGIwYUpzRG9kNmkyall3ZWh1NWdkcFplR3Y4Yl83TkoxSXBXUUdEZHM5UDFHdUtfZ004X21GTkZHS3hLeDFPeG45Q3k00gGoAUFVX3lxTE5wcklvdVI2VzhCWGw1QlVuWnVNQ3pKUy04cFY2RmxrTDJ4UTRnQmY1Q3U0djcwVkFTR2xvbTRBZDhJdFZOcTYxYWRsYVR0NWRWY0x6Z1M5X3VVOVFLUXFyd1JYRkVMVE5wVUstRFB3ZHNPWjNELW5fWVl5aDZxbFZ6VmNNQ09uLUF5RW1NLVFDeVNVSTNsV040UUU5bV9NS0EyRkZlTzRRag?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-24T00:07:07Z"
   },
   {
    "k": "news",
@@ -1085,72 +1124,6 @@
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "Nebulae Cymbal, Simbal Buatan Bandung yang Berawal dari Krisis Moneter 1997",
-   "snip": "Nebulae Cymbal, Simbal Buatan Bandung yang Berawal dari Krisis Moneter 1997 Kompas.com",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWtHZUh3SElpalVabEJFd09mdldZWGhMZGxmc0VRUlYtaDdTTlJVNzRBSmc0dDN1Z1p4SC1IcllXaWhZMGJ1NEl5dTc5WWpkYm4zVjU2b0poTlBsU2I2M193WklNZV9ZS2RCTFYyTUpFR2owSndMQ2pQMFMtVmFYck9fRHpfTi1yQkZRSV9GVnI5ZmpMdmlYS0FPU0NLN2c2NkFta254ZjVIcjZfU3Bka01ING9MQW1UY3JObkVTLS1Eb0R0dDhQczV0X1hFN0cxTUE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-23T12:50:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Bisnis Style",
-   "name": "Bisnis Style",
-   "av": "",
-   "followers": 0,
-   "cap": "LK21/Indoxxi Bahaya! Cek Langganan Netflix–Disney+ dan Streaming Film Legal Sub Indo",
-   "snip": "LK21/Indoxxi Bahaya! Cek Langganan Netflix–Disney+ dan Streaming Film Legal Sub Indo Bisnis Style Gudang Film Ilegal, Ini 6 Situs Nonton Film Online Terlengkap Duniaku.com 23 Link Pengganti Rebahin dan LK21, Nikmati Beragam Hiburan di Libur",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOEZ2bEJLNUJnd01RMDlSTnF1aFB2U1o4R3RVVTRKYkxncDFHbmxJUzJraWRyM3VUem1CTnRHTE5rSkNiTkp0T1pjaFZ0MTJjQWhadVlSMEdEeGE4SWNsTG9hS0hWVjRKZlZJQUQydTFFRnhfV1pqcV9QUU1xUGFEWW1UMjBMOExNUnB0cUNCTWJzNDM4dVo0V0JYOC1yRnRST0J3c0dkTXAyZWtLbU8zeE5wWXROYVh3ZERQbmVySzFEcERZWElHWktnMVJpTkhKZUE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Bisnis Style"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-23T09:52:34Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian",
-   "snip": "Unik! Konsep Prewedding Sean Gelael dengan Hana Malasan Curi Perhatian detikHOT Potret Hana Malasan & Sean Gelael Prewedding Adat Sunda di Supermarket KapanLagi.com 8 Potret Kulineran Sean Gelael, Ada Pre-Wedding di Supermarket! detikFood I",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNW9tdmxITXE0M0Ewa0pNU3lGQmc4XzhZakxrVlh1STNPTVd6bWRKd3hZMXpaQWhxalJvSUtwdGJmeUR2cldac283TzAxbm9lcnQyT2I2UlRUTFVOWlhBWmJyVE44Ym94WHBlT21uSjkyNFpyVDJZd3hFampvcnhBUGZBQlhPalNJNDNpdkxkTnRMTkgxS1NkTG5XS2Zla0VubUVYeHkxZ3dOM03SAbABQVVfeXFMTmc4enZtMUdDNXRScF9YVVBESlJCWGdfclp5RXI1T0pwTFBDV3pJVnBFQlliRmdqVmdyTFBfTWdrMUJGV04xeFlzTUF6SEt1TnB6XzZ3M1hnSTFpTWhIcXFyXzZZUXZQelhBMW5zWUViRnA0VEU2bFpxRUtrSW5zT0U0YnF0VDRia29IbFpYdFF6VWpwZnNWOVNqdHY4dmZnTlVFRnNQTk16cWd0TVhuYUM?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-23T07:09:57Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
    "cap": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki",
    "snip": "Kuasa Hukum Beberkan Alasan Ruben Onsu Kembali Adopsi Anak Laki-laki Kompas.com Awal Mula Ruben Onsu Mantap Angkat Thayaka Jadi Anak, Berawal dari Kajian di Masjid Nabawi VIVA.co.id Bungkam Nyinyiran Netizen, Kuasa Hukum Tegaskan Niat Ruben",
    "img": "",
@@ -1166,28 +1139,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-21T09:34:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Sumeks",
-   "name": "Sumeks",
-   "av": "",
-   "followers": 0,
-   "cap": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini, 19 Oktober 2026: Cek Shio Paling Beruntung dan Angka Keberuntungan - sumeks.disway.id Sumeks 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini Minggu 25 Oktober 2026, Cek P",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGlDSldfdm9aanczR0NVb3AtQ0dEOHlkeXM5QW9sVklJTzFDQjFPYzlMUGpsTHp3S1MydkRNa29CYWRpdnpmV0dCV1AxSDB1UmZqeEE2TkZlUTdFeXhXRnBCM3BuaDhOcThJUHNQUDhDdjgwREplYW0wRWhXQk5RV0dOcWkyMHAzN1JZZ3VDcS1XeHRoUEMyd1dMcFljNUpLRTJVOUZBSElzTEhuUDE5TGZiUS14UjNMVXR0V3dMZmN5OENVc2IydHFEVlRwRUHSAcABQVVfeXFMUDFya3FGT1o1cXpvNHBGNm1NeFRVaUQ0WlZmcUVQWWdjLWVodEpxeG9QaXFlRkdxVUpIaXpHeFdGb2JQMHJpcDFENFU1dFhlRGdBY1MtZkJLaDVNWXp2V1c1VTlNYjlJVjA0dG9YRktnVjQtMDhxZEhpWk1KWXQ3UWhMSnhvOHpCamVDeV95dU5QUzRZclZOekUtVG1kTUNkNC1la1pXMTdmMkl6d0p5cVNYTTl4bEhVdC1McjR6aU9Y?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Sumeks"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-19T04:12:00Z"
   }
  ]
 }
