@@ -1,28 +1,50 @@
 {
- "topics": [
-  {
-   "t": "Fleetwood Vs Arsenal",
-   "q": "fleetwood vs arsenal",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "Tirto.id",
-    "Pontianak Post"
-   ],
-   "d": "2026-10-28",
-   "url": "https://www.goal.com/id/berita/harga-diri-kami-dipertaruhkan-mikel-arteta-beri-peringatan-keras-kepada-para-bintang-arsenal-jelang-laga-kontra-fleetwood-town/blt1703ccf571a9fe75",
-   "n": "‘Harga diri kami dipertaruhkan’: Mikel Arteta beri peringatan keras kepada para bintang Arsenal jelang laga kontra Fleetwood Town",
-   "vol": 100,
-   "vu": "pencarian"
-  }
- ],
+ "topics": [],
  "posts": [
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Yusuf Mahardika Lawan Rasa Takut demi Film Horor Rambut Sewu: Satu Langkah Getih",
+   "snip": "Yusuf Mahardika mengaku berpikir dua kali ketika mendapat tawaran bermain dalam film horor Rambut Sewu: Satu Langkah Getih.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/nKPveI_bKJETjuNtivbjkI__Gyo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9334878/original/016778100_1787903186-Yusuf_Mahardika_as_Damar__2_.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8322707/yusuf-mahardika-lawan-rasa-takut-demi-film-horor-rambut-sewu-satu-langkah-getih",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-27T23:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Tante Ernie 50 Tahun, Dapat Hadiah Liburan ke Maldives dari Pacar Bule",
+   "snip": "Tante Ernie 50 Tahun, Dapat Hadiah Liburan ke Maldives dari Pacar Bule detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEpwQTdrNENfRFd3ZUpMYlVPa1B2Tl9QMEcyc0dMa21od1ZBWHJSUHUtcHlBaUFScVpENnJab0wxYlJtN1lnZk1ta2xINkFxRlROZk1IakNhcHZrZm5rVUtjMHZyUkczeklQb3hnUU1ScXpZQjloWDJkUFAwYjdBU1RIMzYwaUpmb2E2VEJwR2l5SjA0Q2tJVTJfOHAwZG04VEc3WkE5bDVzVXPSAbABQVVfeXFMUDE1SGdPNkZ1R0lpN05zS3NVRXRsTU4yOHpqa08xWmIzYmU0V2ZlYUpjOXdFblBOemc5QXhfbXo1bmYzQ0xwRXVYZEd5bk1yQUpwcS1OdXB4UVFRcTdOV2V3ZHJQMjJzdHdFNFU4SUIyeWhOYXJwdFkwUkNxOVVDTHpJMFJSNWZEVGR4MGNPQ0dnOWprallFT2xvOHk2Uy1SY3BlbUtZbGVtNnV3MWc0OEU?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-27T22:05:07Z"
+  },
   {
    "k": "news",
    "u": "Liputan6 Showbiz",
@@ -42,7 +64,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T16:50:43Z"
   },
   {
@@ -64,7 +86,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T16:05:23Z"
   },
   {
@@ -86,7 +108,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T15:44:36Z"
   },
   {
@@ -108,8 +130,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T15:35:08Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Mantan Asisten Ungkap Tabiat Russell Brand: Punya Nafsu Seksual Luar Biasa",
+   "snip": "Mantan Asisten Ungkap Tabiat Russell Brand: Punya Nafsu Seksual Luar Biasa detikcom Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDNtVFZodkFLazJySnU1MGFzVVZ0SFFRUG0zVXVWdTc3LVNSdGVXNGxHZDBWVnlvSzJNT1hqbkpuUHkxSVBhWTdZNWlsd1hfRnJvS2RFdzNpcnpoY0Z0LTZBUTNnRTNKQlVOaktfS0h5X2F1MjZNZGlzbXNsOXNHQm9USUZWY2g5V1ZhOVc4V3FPU0NsbUU3Y0FlOWNmbW5udVowMVdpa2ozelV1SHBNNTVOdGMzX0FlMGfSAb8BQVVfeXFMTnE2QTJaempxNFlab0Y5TnViZ0hCSFRSQk1PRjRsMzRrQ01mVExBbHpZbXZKaEpSWVBITVo3UnpnM3VsMDlES1pKNGlnN2lyVGZ0bExJN0RJbzdWSW9WdE9ia3lsWFRsbW5JMlBVWWV4cnNzVkRBQndJWHdDYmhfNjBZTVg2T2d6U185V1U2Q3IxenQ3cTNBVGp1NFFadko3RWpZYjllaXN6NHRITVBfN01lV0hHRG5hWXJJY3RNN0E?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-27T15:00:38Z"
   },
   {
    "k": "news",
@@ -130,7 +174,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T14:47:34Z"
   },
   {
@@ -152,7 +196,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T14:30:22Z"
   },
   {
@@ -174,7 +218,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T14:26:53Z"
   },
   {
@@ -196,7 +240,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T13:32:21Z"
   },
   {
@@ -218,7 +262,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T13:31:09Z"
   },
   {
@@ -240,7 +284,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T13:30:01Z"
   },
   {
@@ -262,7 +306,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-27T13:28:10Z"
   },
   {
@@ -330,28 +374,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-27T12:21:13Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Lawsuit Filed Against Red and White Cooperatives",
-   "snip": "A Klaten village head and a civil society coalition filed a lawsuit at the Constitutional Court against the red and white cooperative program.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2122460/lawsuit-filed-against-red-and-white-cooperatives",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-27T11:57:20Z"
   },
   {
    "k": "news",
@@ -557,28 +579,6 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Mengaku Penakut, Yusuf Mahardika Nekat Jajal Film Horor Pertama Lewat 'Rambut Sewu'",
-   "snip": "Yusuf Mahardika cerita pengalamannya syuting film horor pertamanya untuk Rambut Sewu: Satu Langkah Getih.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/nKPveI_bKJETjuNtivbjkI__Gyo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9334878/original/016778100_1787903186-Yusuf_Mahardika_as_Damar__2_.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8322428/mengaku-penakut-yusuf-mahardika-nekat-jajal-film-horor-pertama-lewat-rambut-sewu",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-27T09:57:27Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
    "cap": "Lagu Dita Meychan Tak Ada yang Viral, Ternyata Ini Penyebabnya",
    "snip": "Dita mengungkapkan bahwa lagunya tidak ada yang viral dan menyebutkan penyebabnya. Baca selengkapnya di sini yuk...",
    "img": "https://cdn1-production-images-kly.akamaized.net/x__LfwzmLBt7GYwLLjPysav2Wa0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383638/original/070597100_1793093420-Dita_Meychan_1.jpg",
@@ -594,50 +594,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-27T09:30:20Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Song Hye Kyo Tampil Elegan dengan Dress Hitam, Pesona Awet Mudanya Bikin Terpana",
-   "snip": "Song Hye Kyo membagikan foto terbaru saat menghadiri acara Chaumet. Dress hitam berkilau dan pesona awet mudanya jadi sorotan, difoto oleh Lee Sang Hun.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/HTcEAH4oDVaFOs0vM_FOzH1oKw8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383589/original/015776400_1793092357-SnapInsta.to_868379429_18650681134003019_58954141343225922_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8322362/song-hye-kyo-tampil-elegan-dengan-dress-hitam-pesona-awet-mudanya-bikin-terpana",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-27T09:12:36Z"
-  },
-  {
-   "k": "news",
-   "u": "20detik",
-   "name": "20detik",
-   "av": "",
-   "followers": 0,
-   "cap": "Video Evolusi Fashion Kanye West: Dari Polo Pink ke Yeezy",
-   "snip": "Video Evolusi Fashion Kanye West: Dari Polo Pink ke Yeezy 20detik Konser Kanye West di Jakarta hasilkan perputaran ekonomi Rp600 miliar ANTARA News Bali Siaran Pers: Konser Ye Sedot 25 Ribu Penonton Asing, Indonesia Kian Diperhitungkan di P",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlVabWRYRDdIZ0o5VXlLblEyQUI4MlF3VDFaR2kxS3R1WEVRa0dxU21SVVBYMVBDampSVVVoZm0yUFhOazFJN3VoYkZHRXNQSXNfX0V2Q0Y5WDFCU2FiNmNxSmxqSUE4UEdIbk9CZkdmc3dHZFg4WXBXQTBtbzRvdl9mZnBYblJ4eTNYVWhkOXJrQ3lnSFZ5ZkNXTkE3V29hbVNjMC10SHRRakd4?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "20detik"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-27T08:07:48Z"
   },
   {
    "k": "news",
@@ -690,7 +646,7 @@
    "av": "",
    "followers": 0,
    "cap": "Putri Natalie Sarah Ogah Manfaatkan Nama Orang Tua demi Dapat Pekerjaan",
-   "snip": "Putri Natalie Sarah Ogah Manfaatkan Nama Orang Tua demi Dapat Pekerjaan detikHOT Natalie Sarah Dukung Nadiva Maureen Mandiri Usai Lulus Sarjana bsinews.id Natalie Sarah Dukung Nadiva Maureen Mandiri Usai Lulus Kuliah SuaraGarut.ID Natalie S",
+   "snip": "Putri Natalie Sarah Ogah Manfaatkan Nama Orang Tua demi Dapat Pekerjaan detikHOT Natalie Sarah Dukung Nadiva Maureen Mandiri Usai Lulus Sarjana bsinews.id Nadiva Maureen Pilih Cari Kerja Sendiri usai Lulus Manajemen, Menolak Andalkan Nama O",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -704,6 +660,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-27T05:09:34Z"
+  },
+  {
+   "k": "news",
+   "u": "Sumeks",
+   "name": "Sumeks",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan Shio Hari Ini Selasa 27 Oktober 2026, Lengkap dengan Warna Keberuntungan - sumeks.disway.id",
+   "snip": "Ramalan Shio Hari Ini Selasa 27 Oktober 2026, Lengkap dengan Warna Keberuntungan - sumeks.disway.id Sumeks 3 Shio Ini Jadi Sorotan soal Keuangan Hari Ini, Peluang Cuan Ada jika Tak Gegabah Pontianak Post Ramalan 12 Shio Hari Ini, Selasa 27 ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUxMTGFkT3pJN2hIUWRqQjlySVpKckg4bjRZMzczUWJFUDRrVDh3RHlRZVZaelhLc29uellKVzVYeDFJdXcxSHh1YjdMSjZsQkFCYjhNaEM0TEoyRzFkaUJRUUlEeG0wblVnR054UVhseUpvajJnZThPeEc5QkNCWVpvMkkzUXB0WDJZT0hUQjdWM2k4SGpETy05SkkwdGhEUFd4OUtGcXl3aEJpWFItYkNIQ1dibVRXYy1VTkp4TE83aDUt0gG2AUFVX3lxTE44N3MxbXZ2NHZyNGZIMHJad2dpdG80NWdKcHBTeFFlRU1rTnJMNUhzZVp0UGdGOXVoTnBCNWI2dU9NQXk4ZEJKTnZsQU9vX252VEFTTjc3X3h6Ujc0d0NTWXlDbm1vemEyVGxMVmJyamhMZk93MDRVTmVmcXJienFNSnF2ajNKNjJ1UHFlLVhoTW9qMzJldmxYZkpFZG5YZk5RTnJFRU1ZU2dXWGVsc0UyR3Q2MGpR?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sumeks"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-27T05:03:00Z"
   },
   {
    "k": "news",
@@ -756,7 +734,7 @@
    "av": "",
    "followers": 0,
    "cap": "7 Drama Korea yang Tayang 2026 Raih Rating Tinggi, Ada Doctor X!",
-   "snip": "7 Drama Korea yang Tayang 2026 Raih Rating Tinggi, Ada Doctor X! celebrity.okezone.com 3 Pasangan Drakor November 2026 yang Tak Bisa Berlayar di Dunia Nyata IDN Times 6 Rekomendasi Drama Korea November 2026 Cosmopolitan Indonesia 6 Drakor r",
+   "snip": "7 Drama Korea yang Tayang 2026 Raih Rating Tinggi, Ada Doctor X! celebrity.okezone.com 7 Drama Korea yang Tayang 2026 Raih Rating Tinggi, Ada Doctor X celebrity.okezone.com 3 Pasangan Drakor November 2026 yang Tak Bisa Berlayar di Dunia Nya",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -773,34 +751,12 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Kesaksian Mantan Asisten: Russell Brand Punya Nafsu Seksual yang Luar Biasa",
-   "snip": "Kesaksian Mantan Asisten: Russell Brand Punya Nafsu Seksual yang Luar Biasa detikcom Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXZmbzNQZ2FISGc0SVRTVHF4eWlhOHpzV2tXazhJWk5UcnE4SFUwa18yOVBCUHNlTGhvdExFZTJHWGJsR0FJZVVlQkFXalVsbm5NdWNHeEd0ZUtmemZDWkJwWlN0VzVFVXhLRG5BRTQ5N1g0SVJ0c0tEUW1HZGVqTjJmYk0xTnJ2eXFFWk9TT29aMmVMSU9DNWNCVnVBSGZwVXJxTVhFQklVdDE1a283NlRjWUk4ZEdNaWpn0gHAAUFVX3lxTFBTUV9qZlFQN2stSG1hMVgxUHNYczhvQlNRbnJiX0FiRy00X3VJQzNOU181ZXRReEtJdzRtbWs0WWMyNEhWaGt6Nk16TmdZeWJKTlp1aHZ5ZmQ3aXBfMEh6NWpyRkF4TG9Fd1dZMWd1T1RnYjlMUmRSZmlZVWdraS1FWkdLbWdGV0F0dWN6LXpXUGRSdGZOOEI4V2F1SGNlNUc0eEFqVWtqZmI3WEo4VjQtcldxVFB6b01ZMzNWaGI1Ug?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-27T03:00:36Z"
-  },
-  {
-   "k": "news",
    "u": "celebrity.okezone.com",
    "name": "celebrity.okezone.com",
    "av": "",
    "followers": 0,
    "cap": "5 Bulan Bergulir, Ruben Onsu Berharap Sidang Hak Asuh Anak Ketok Palu Sebelum 2027",
-   "snip": "5 Bulan Bergulir, Ruben Onsu Berharap Sidang Hak Asuh Anak Ketok Palu Sebelum 2027 celebrity.okezone.com Kantongi 61 Bukti dan Singgung Dugaan Eksploitasi Anak, Ruben Onsu Optimis Rebut Hak Asuh dari Sarwendah Grid.ID Sarwendah Luapkan Isi ",
+   "snip": "5 Bulan Bergulir, Ruben Onsu Berharap Sidang Hak Asuh Anak Ketok Palu Sebelum 2027 celebrity.okezone.com Bantah Bukti Ruben Onsu di Persidangan, Pihak Sarwendah Sebut Puluhan Video Hanya Giring Opini Grid.ID Bawa 61 Bukti Lawan Sarwendah, R",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -836,28 +792,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-27T02:09:24Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Respons Kalina Oktarani Dituding Pansos oleh Keluarga Vicky Prasetyo",
-   "snip": "Respons Kalina Oktarani Dituding Pansos oleh Keluarga Vicky Prasetyo detikHOT Kalina Mau Kerja Bareng Vicky Asal Keluarganya Tak Ikut Campur CNN Indonesia Kalina Oktarani Merasa Dijebak Ketemu Vicky Prasetyo di Podcast, Singgung Fitnah Masa",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdEQVlMdzRxX205Mm5LSDBqOFN0dkUzcmk5Tm9TRE1NRk40U3BGWVJTT2dyU0tEbnpsQncyclpmUFltUzh4eXdkSThtX21UV3FZajBtT0FZbjl0RlM1Y1N5TW1jMndzSUl3RmVjTEpuRDlpNkxZXzNUV1NIMHBySnhWLTJHVGIzZWx6UVpCdjNGNlMzRGVmcGR2bkZURWQtdUpmbVV3emIyd9IBrwFBVV95cUxQOC1tY09QZFlXSzl1TDVhWVVPRUlTWTJ6cTlqM05Mczh3NF9rcl9Nd2dDLXBwMGhLZE5UenN1bU1uN0FCSTA2SUhOSjNmSE1qeHlDREVXckZYdE13cGY0Vlo4WGt4LTdqNURHb0tVWTUwU0RKaGJ6Uy0xd28wcVc4SDZQdEdUS0d1NEV5WkthTnpGdWcyUk9qWFA5YWdRdHQ3Z2w2WHJlZ2UyYWhSLUJZ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-27T01:08:30Z"
   },
   {
    "k": "news",
@@ -900,7 +834,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-26T23:15:12Z"
   },
   {
@@ -922,7 +856,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-26T23:00:49Z"
   },
   {
@@ -932,7 +866,7 @@
    "av": "",
    "followers": 0,
    "cap": "Doctor X Kesandung Kontroversi, Ada Petisi ke Majelis Nasional",
-   "snip": "Doctor X Kesandung Kontroversi, Ada Petisi ke Majelis Nasional detikcom Rating Meroket, Doctor X Tiba-tiba Hadapi Petisi Penghentian Penayangan Kompas.com Drakor Doctor X: Mafia in White Dikecam, Singgung Kasus Gwangju Tirto.id Drama Doctor",
+   "snip": "Doctor X Kesandung Kontroversi, Ada Petisi ke Majelis Nasional detikcom Drama Kim Ji Won, Doctor X Diprotes, Muncul Petisi Desak Hentikan Penayangan SINDOnews Lifestyle Drakor Doctor X: Mafia in White Dikecam, Singgung Kasus Gwangju Tirto.i",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -944,7 +878,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-26T22:30:05Z"
   },
   {
@@ -954,7 +888,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pengacara: Cicilan Rp13 M Bukan Cuma Tanggung Jawab Ruben",
-   "snip": "Pengacara: Cicilan Rp13 M Bukan Cuma Tanggung Jawab Ruben CNN Indonesia Klarifikasi Kubu Sarwendah soal Isu Vila Jadi Syarat Damai dengan Ruben Onsu: Hanya Usulan SINDOnews Lifestyle Soal Gugatan Wanprestasi, Ruben Onsu Tolak Opsi Damai yan",
+   "snip": "Pengacara: Cicilan Rp13 M Bukan Cuma Tanggung Jawab Ruben CNN Indonesia Ruben Onsu Belum Mau Berdamai dengan Sarwendah, Kuasa Hukum Ungkap Alasan soal Vila VIVA.co.id Terkait Proposal Damai Gugatan Wanprestasi Sarwendah, Pihak Ruben Onsu Bi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -966,7 +900,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-26T22:15:18Z"
   },
   {
@@ -988,8 +922,30 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-26T22:05:53Z"
+  },
+  {
+   "k": "news",
+   "u": "PT Usaha Konvergensi Media",
+   "name": "PT Usaha Konvergensi Media",
+   "av": "",
+   "followers": 0,
+   "cap": "Peter F. Gontha: Dampak Ekonomi Konser Ye dan Festival Jakarta Bisa Jauh Lebih Besar",
+   "snip": "Peter F. Gontha: Dampak Ekonomi Konser Ye dan Festival Jakarta Bisa Jauh Lebih Besar PT Usaha Konvergensi Media Konser Kanye West di Jakarta hasilkan perputaran ekonomi Rp600 miliar ANTARA News Bali Siaran Pers: Konser Ye Sedot 25 Ribu Peno",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRm9SaEJKdGhmMTFtZHhRZWZKc3dlTDd0VXJIbVI3d2JaYUtfaURMbll3Q1VDSXpUQnlQYWQxT1ZaVEx4aUFiMkRPSmhka1J1LVJFSVU4LWVUYlJoVDJvb0pLU0RaSkVselFjZW41THphQ2R0a0JYOXpZc29maFVnT2NuSENBLThia2dWNldGcGlFYjh6VDREMXlIcUlOTGxPUFZTWEhiNNIBpwFBVV95cUxQRm9SaEJKdGhmMTFtZHhRZWZKc3dlTDd0VXJIbVI3d2JaYUtfaURMbll3Q1VDSXpUQnlQYWQxT1ZaVEx4aUFiMkRPSmhka1J1LVJFSVU4LWVUYlJoVDJvb0pLU0RaSkVselFjZW41THphQ2R0a0JYOXpZc29maFVnT2NuSENBLThia2dWNldGcGlFYjh6VDREMXlIcUlOTGxPUFZTWEhiNA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "PT Usaha Konvergensi Media"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-26T20:51:29Z"
   },
   {
    "k": "news",
@@ -1059,28 +1015,6 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Baru 5 Hari Menikah, Rapper Korea Dituduh ke Motel Bareng Wanita Lain",
-   "snip": "Baru 5 Hari Menikah, Rapper Korea Dituduh ke Motel Bareng Wanita Lain Wolipop Baru Lima Hari Menikah, Rapper Yang Hong Won Dituding Selingkuh dari Won Hyunju Liputan6.com Penuduh Yang Hong Won Bawa Perempuan ke Motel 5 Hari dari Pernikahan ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjl2MWV5bHA5UG9GZW1iLTNiVlhLX0Uzc1lpMW9rM21aTUQxeWJLUjhOS3lhdGhDZ0U0bE1VRDJDTlVReWo4T0NNX3FOdkcwR1lRbk9RR2V5c2FzSkVKMWZmY1Y1X2U1aHZ0ZmRkSG1yUTVBRUlOY19tTXJjbVdMWUZpUFpaRHdSZ1BpaHhSNnNEUEJfX19ycjQ3cDN1aS1QdEhGaDlVd21LTXh4WVVGdGlVd1o2bnhydlA0QnY2dXXSAcYBQVVfeXFMUDdhUm5uc01xRWlnRW1yM0xVbF9ydW9obFNDbmQyUUl2WkJHMzFZbGpmbGM1VWFlTVZZUkx3bVdkWndQaTVUVmNEVlNCcEZSY3VLNEtKdVZBOHhrVE9WM1lXUTZtLWx2dmtXaUFTODR5RHhCMGZSbUx1eTQwY0l2N0JmYXhJQjh1bVJTQ2EzREdGQldyQVdDRVpERVgyb2Q0aW1JNEx0Z21zaWlia0ZnMFR3dm9IQVRjb25CTnlYQzRCM3RNU2xn?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-26T05:00:22Z"
-  },
-  {
-   "k": "news",
    "u": "SINDOnews Lifestyle",
    "name": "SINDOnews Lifestyle",
    "av": "",
@@ -1103,25 +1037,25 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
+   "u": "Trans TV",
+   "name": "Trans TV",
    "av": "",
    "followers": 0,
-   "cap": "Ramalan Shio Tikus Hari Ini: Jangan Terburu-buru Ambil Keputusan",
-   "snip": "Ramalan Shio Tikus Hari Ini: Jangan Terburu-buru Ambil Keputusan Kompas.com Ramalan Shio Hari Ini Selasa 27 Oktober 2026, Lengkap dengan Warna Keberuntungan - sumeks.disway.id Sumeks 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar ",
+   "cap": "Ikang Fawzi Bicara Soal Chiki Fawzi Yang Aktif Jadi Relawan Misi Kemanusiaan",
+   "snip": "Ikang Fawzi Bicara Soal Chiki Fawzi Yang Aktif Jadi Relawan Misi Kemanusiaan Trans TV Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblR2ZldabFp0ME9rV0ktQ0lsRTQ3bldhdjdSYlpwaFQ0TmtjWVpPSmQxR0NCd2VWR1VINDJhNDZBNE90bGVCNVhRcjhodlJMM1lIVjZqWUxXWXVrTzA2Q19YdGNsamJRTmhpMW1oWl90c1RNdTJFa3JYMVpEQkNtdGczdnZ5dFZKYXJoeHZBT3NRWEdCNzg1c0pOT0dQSEwydFA5Y0lHamtMY0VGS1BwUG5MTTJXMHloaU9HXzMxV1RjYzFxVHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHcyaFNHVWJiRm1RQmw1WkRTa1VTS2xpYVlfWjBhenRKZmV2SGN3bzBUdDgwUzBfdGYyRzB4cVBwRzZHTFdSWjlYWG5fUHd0LTd0Q2lraThxVzIteng5Y3dONW5adG1CV3N4MEtET19BXzluZ2FqcC13alo3QVhsUHpKd1hvT3U5VGVueUZMeXNaSl9oWjhPSVZhanViM1dTa0xsOWx4b2RFZ3hSWU56SlY2U0tXaEJWVTNv?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Kompas.com"
+    "Trans TV"
    ],
    "hot": [],
-   "sc": 30,
-   "ts": "2026-10-26T03:32:00Z"
+   "sc": 20,
+   "ts": "2026-10-25T22:25:24Z"
   }
  ]
 }
