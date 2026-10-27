@@ -1,8 +1,8 @@
 {
  "topics": [
   {
-   "t": "Sinetron Terikat Janji",
-   "q": "sinetron terikat janji",
+   "t": "Ballon D'Or 2025",
+   "q": "ballon d'or 2025",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -11,14 +11,35 @@
    ],
    "src": [
     "Google Trends",
-    "SINDOnews Lifestyle",
-    "Inforiau",
-    "Satumedia.id"
+    "Goal.com",
+    "RRI.co.id",
+    "BeritaSatu.com"
    ],
    "d": "2026-10-27",
-   "url": "https://lifestyle.sindonews.com/read/1764843/158/sinopsis-sinetron-terikat-janji-eps-202-bryan-korban-penculikan-dibawa-ke-rumah-sakit-polri-bhayangkara-1792998615",
-   "n": "Sinopsis Sinetron 'Terikat Janji' Eps 202: Bryan Korban Penculikan Dibawa ke Rumah Sakit Polri Bhayangkara",
-   "vol": 500,
+   "url": "https://www.goal.com/id/original/bagaimana-seremoni-ballon-d-or-menjadi-ajang-sepak-bola-yang-setara-dengan-oscar/blte5e545de6f824e88",
+   "n": "Bagaimana seremoni Ballon d'Or menjadi ajang sepak bola yang setara dengan Oscar",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Xxi",
+   "q": "xxi",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Kompas.com",
+    "Kompasiana.com",
+    "Medcom.id"
+   ],
+   "d": "2026-10-27",
+   "url": "https://entertainment.kompas.com/read/2026/10/26/184842466/promo-cinema-day-2026-tiket-bioskop-mulai-rp-25000-di-xxi-cgv-hingga?page=all",
+   "n": "Promo Cinema Day 2026, Tiket Bioskop Mulai Rp 25.000 di XXI, CGV, hingga Cinepolis",
+   "vol": 200,
    "vu": "pencarian"
   },
   {
@@ -68,12 +89,12 @@
    "name": "Antara",
    "av": "",
    "followers": 0,
-   "cap": "Tak cuma bertamu, Nicholas Saputra penasaran nonton film di TIFF 2026",
-   "snip": "Aktor Nicholas Saputra sudah tak asing lagi dengan Tokyo International Film Festival (TIFF) dan tahun ini hadir ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/26/merah-sebelum-fajar-upacara-pembukaan-TIFF-2026.jpg",
+   "cap": "Intip Tokyo International Film Festival 2026, meriah di tengah hujan",
+   "snip": "ANTARA - Tokyo International Film Festival (TIFF) ke-39 memulai rangkaian acara selama 10 hari pada 26 Oktober ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/INTIP-TOKYO-INTERNATIONAL-FILM-FESTIVAL-2026-MERIAH-DI-TENGAH-HUJAN.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5813487/tak-cuma-bertamu-nicholas-saputra-penasaran-nonton-film-di-tiff-2026",
+   "url": "https://www.antaranews.com/video/5813639/intip-tokyo-international-film-festival-2026-meriah-di-tengah-hujan",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -82,7 +103,7 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-26T17:24:54Z"
+   "ts": "2026-10-27T00:50:47Z"
   },
   {
    "k": "news",
@@ -90,12 +111,12 @@
    "name": "Antara",
    "av": "",
    "followers": 0,
-   "cap": "Dian Sastro ingin Kinan hadir sejak film pendek \"Laut Bercerita\"",
-   "snip": "Pemeran Kasih Kinanti (Kinan) di film panjang \"Laut Bercerita\" karya Yosep Anggi Noen, Dian Sastrowardoyo, ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/10/26/IMG_20261026_183938.jpg",
+   "cap": "\"Merah Sebelum Fajar\" di red carpet Tokyo International Film Festival",
+   "snip": "ANTARA - Film terbaru Garin Nugroho \"Merah Sebelum Fajar\" mewakili Indonesia dalam kompetisi utama Tokyo International ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/22MERAH-SEBELUM-FAJAR-22-DI-RED-CARPET-TOKYO-INTERNATIONAL-FILM-FESTIVAL.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5813451/dian-sastro-ingin-kinan-hadir-sejak-film-pendek-laut-bercerita",
+   "url": "https://www.antaranews.com/video/5813627/merah-sebelum-fajar-di-red-carpet-tokyo-international-film-festival",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -104,7 +125,95 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-26T16:56:51Z"
+   "ts": "2026-10-27T00:39:40Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Saksikan Sinetron Kisah Nyata Pagi Selasa 27 Oktober Pukul 08.15 WIB di Indosiar",
+   "snip": "Saksikan Sinetron Kisah Nyata Pagi Selasa 27 Oktober pukul 08.15 WIB di Indosiar.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8321208/saksikan-sinetron-kisah-nyata-pagi-selasa-27-oktober-pukul-0815-wib-di-indosiar",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-27T00:30:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "DKI kemarin, dampak ekonomi JRF & konser Ye hingga stunting di Jaksel",
+   "snip": "Sejumlah peristiwa penting dan menarik terjadi di Jakarta pada Senin (26/10) yang masih menarik untuk dibaca antara ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/25/1001136198.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5813595/dki-kemarin-dampak-ekonomi-jrf-konser-ye-hingga-stunting-di-jaksel",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-26T23:33:06Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Doctor X Kesandung Kontroversi, Ada Petisi ke Majelis Nasional",
+   "snip": "Doctor X Kesandung Kontroversi, Ada Petisi ke Majelis Nasional detikcom Drama Kim Ji Won, Doctor X Diprotes, Muncul Petisi Desak Hentikan Penayangan SINDOnews Lifestyle Drama Doctor X Tampilkan Cerita soal Pemberontakan Gwangju, Arus Kritik",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2twY3pJRGZyTmRpT0NkNjFScU8tejNhSVlKb1prUGtEWGthOUpoVk50X3F1clZoYkpaLVhqSExIZnBReS1iV2dzNUNrR1c2RnQ2aW4zT0lySGVQTXJjZjVOMl9CLWpySVp6RGJrbHViNVpTTGpjbXoxMU9DbmtJSDlaOWpFaWktbEV4TUNhNHNxYlVNMnI5OUNqRFE1RGhJX011WTV4WnNNVmtmeHfSAbMBQVVfeXFMTmoyUl9UVk9RdW52ai03ZEZVaUJZNkd4NDlmYUlmUThzRWFPRXlZYmptMUx3Z0xzX1oybmJNMGREWldQS2d0Y1dQZFVaZ3Z3VUt2dTBZRWdHNV9BVjBfdUZ6UDk3OU9kRFI3Vy1LTEJ5TG9aMm16aXRhRXVUWU5SVG1ZS2ZzeXFveURHRUFrUndFamVnaWFQUkdTSEExdFJFM2dZZ0pUTkdxWXRUb1RVVmEzMmM?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-26T22:30:05Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "8 Artis Indonesia Pindah ke Luar Negeri Tinggalkan Dunia Hiburan",
+   "snip": "8 Artis Indonesia Pindah ke Luar Negeri Tinggalkan Dunia Hiburan detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeW5zMWJDVUtkM01QV2hIOEEyVHN5UFlDZEFLcnNQamZxUF83M09JQk9JNURxb241a0RpbVh2cDFjdGt3VG9EMEhRa1pHdXdrUXZzX2Z0cWw1LVNMWnJiNUdfQlFKQWladFlnb2ktb3pOM0FhbVRfYlFYNldTQTJYeV9TVlNPS0N6ck1yUWdKMEY1ajJZcFpFRHppRE55Rk9MQzdoLdIBqgFBVV95cUxQRW51VExNQzVCd1hWcldiVUVmS3RXMFc3R2Fkekt6THpiWUp4MDQxWm5nOVV6ek5VZFg0XzNBbmsyTnRXZ1JoeE51RkxNbWtBakRrU3gySjI1ZTdKYnVBU1J0dXJoX3hJeklXWGZ4RDEwMGtXZmhEa3BOeUl3WjM0MFhmS0RMdnl2OER5X01kLUVJZ1U4STlGQllycGxTbWVJRXZEYkU3V0xyZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-26T22:05:53Z"
   },
   {
    "k": "news",
@@ -125,30 +234,8 @@
     "detikInet"
    ],
    "hot": [],
-   "sc": 50,
-   "ts": "2026-10-26T15:19:20Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Saksikan Sinetron Kisah Nyata Pagi Selasa 27 Oktober Pukul 06.45 WIB di Indosiar",
-   "snip": "Saksikan Sinetron Kisah Nyata Pagi Selasa 24 Oktober pukul 06.45 WIB di Indosiar.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8321205/saksikan-sinetron-kisah-nyata-pagi-selasa-27-oktober-pukul-0645-wib-di-indosiar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
    "sc": 40,
-   "ts": "2026-10-26T15:00:00Z"
+   "ts": "2026-10-26T15:19:20Z"
   },
   {
    "k": "news",
@@ -205,7 +292,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXowanA1Q3lYbFpYNFM1R3Z1OFF2WVFUcTllT1BRWVljTHlMakc4YWg0WmE5Nk0wNVJuSGdaOXBCS0xyWXdWMU1vYWZyTlptNmFlb2k3VjdfX2FtcFVISkRuTFNZV2wyWGczVG9LcmpNQmJwQjJDbmh2dmZGRkc4M3lLMHZXZjFZRVl6bjRZc1J6cmR2ZW1aTk9EOU9Ma3ZUZ2hqWDV3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXowanA1Q3lYbFpYNFM1R3Z1OFF2WVFUcTllT1BRWVljTHlMakc4YWg0WmE5Nk0wNVJuSGdaOXBCS0xyWXdWMU1vYWZyTlptNmFlb2k3VjdfX2FtcFVISkRuTFNZV2wyWGczVG9LcmpNQmJwQjJDbmh2dmZGRkc4M3lLMHZXZjFZRVl6bjRZc1J6cmR2ZW1aTk9EOU9Ma3ZUZ2hqWDV30gGrAUFVX3lxTE5yZzBvVVdlYTRxQ1d0T1FoWlYzMl85ZGwxSGlLcE43N295V1NaX1gzdm1HaHcxQmdxdHhsYUpudkRTbFJvV1VlNGZ1dUlXVHB6Tjl3a3ZkRHlrUTBHV1ZjVVdZbC1ZSnlYenNBdjByRlVlaDZLLXhGcGY3el9BUFQzWFdXVERWNmpRdzRFMDNXMElwSVRLTUk0UkVSRUN0NTQ0bFQyT1RHTGNuZw?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -381,7 +468,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmh1eHlmQ2laTDlaZm5GZllwbE50eGVNYlFwa1RNbEh0MHljOFJWVEEwcmgwTDlhN0xxQURXM1NoWFpPMkRnOFhITWxOSGFMeTBWX0JOVmt2SGwzZ3VrVWNlNEdLNlFReTU1WlltLVpGSFpRbHZwMFdWX3FaOEVkZnN1NnljVTRmRnd2MDViR2xWS2M0UnNacFR4YV9mTEFkaWxpZVFLQ0FiYzJfS0kxUzdaeF82Z2tZM0xJTHhDSno1M1FBcjZWQtIBzgFBVV95cUxOUXh0Mk9NUXNZbVVpRkdSOGdLaElFTnBCdHdwWGthMS00SW5XYzBuRGVaZmlRWVR1Y1V4clIxVUxlSXJaYmE5SzBiNWZUbzFwLUYteFJLdHlON1dpck5SemFZeXBWa2lvUGkwZDJDT3VZR1loNTlmRGktdUQ5TTlHWlFMNDhvQ1A3ZmpfV2QyY29uTVp5QjdSbUxTYVZSM2lDWndMdFppc1R5MUdsRjZrVzEzbW83TE9mYW9kZVk5T0EyR1FvXzVXeS1Kd1NZZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmh1eHlmQ2laTDlaZm5GZllwbE50eGVNYlFwa1RNbEh0MHljOFJWVEEwcmgwTDlhN0xxQURXM1NoWFpPMkRnOFhITWxOSGFMeTBWX0JOVmt2SGwzZ3VrVWNlNEdLNlFReTU1WlltLVpGSFpRbHZwMFdWX3FaOEVkZnN1NnljVTRmRnd2MDViR2xWS2M0UnNacFR4YV9mTEFkaWxpZVFLQ0FiYzJfS0kxUzdaeF82Z2tZM0xJTHhDSno1M1FBcjZWQg?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -553,7 +640,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kim Soo Hyun Bebas Tuduhan Pelecehan Seksual, Ibu Kim Sae Ron Dipolisikan",
-   "snip": "Kim Soo Hyun Bebas Tuduhan Pelecehan Seksual, Ibu Kim Sae Ron Dipolisikan Wolipop Dituding Merekayasa Pernyataan, Ibu Kim Sae Ron Kini Diserahkan ke Kejaksaan Kompas.com Agensi Kim Soo Hyun Ungkap Deretan Orang yang Didakwa atas Kasus Naras",
+   "snip": "Kim Soo Hyun Bebas Tuduhan Pelecehan Seksual, Ibu Kim Sae Ron Dipolisikan Wolipop Dituding Merekayasa Pernyataan, Ibu Kim Sae Ron Kini Diserahkan ke Kejaksaan Kompas.com Babak Baru Kasus Kim Soo Hyun, Ibu Kim Sae Ron hingga YouTuber Dilimpa",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -589,28 +676,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-26T09:59:31Z"
-  },
-  {
-   "k": "news",
-   "u": "SINDOnews Lifestyle",
-   "name": "SINDOnews Lifestyle",
-   "av": "",
-   "followers": 0,
-   "cap": "Ruben Onsu Hari Ini Diperiksa Polda Metro Jaya Atas Laporan Dugaan Illegal Access",
-   "snip": "Ruben Onsu Hari Ini Diperiksa Polda Metro Jaya Atas Laporan Dugaan Illegal Access SINDOnews Lifestyle Ruben Onsu Jalani Pemeriksaan Kasus Dugaan Illegal Access Hari Ini! celebrity.okezone.com Ruben Onsu Bakal Diperiksa atas Laporan Polisi T",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQkItR3lrd0J4RUdLcHlubl83UlRLYzE1RHdETW9PNkEzUnphR3AyRTExUWRvTTgxb0xrM0tpNEtvbFppUFpUYlRBTlRtZEhWdjFYTlVQVkRqZkcwNi15di1Dbk05QnRCZ3NJQy13bTZVX1lKSldNQmVGVDVRaVM2Vlh3Mk44dTNVWnpZel9rdS1EcnF3bEVxUU8td0szQkZKMThWQUU2YjNnZHVwVllWZTRqeWVkZUIwUUdyb1B0WUMzX3J2Q0Vfbi1kcnRWeFNZcExHZTU5TWzSAd4BQVVfeXFMTjBtY2YxRTh1SlZxdkw5b1NfbXNHNWc2VnRtelRBeVcxeFk3a3NVR3JteGtTOV9YMWxvU0VodmlZTHViNWdqYlduUVBBYUFaLVlsc1BpMjE1Z3NkNV9RV1dON3RjRVhpYzh2ZmQtY3AyN0VTM194Z21sRmgyOTdxbkhvSW9TOExoclAwN0lSTjNFbDNEbWtUb1JXc0R2MDV0dVRYZ3ZNb04tZ1VtZWs0VUpuY2tRa2ZzeTZCbFRHTC10N042QUV1bjRsYlFOY08tbWRoZmdWZ2NDY3ByQkVB?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "SINDOnews Lifestyle"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-26T09:50:04Z"
   },
   {
    "k": "news",
@@ -677,50 +742,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-26T09:08:38Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Foto Kris Jenner Bikin Pangling, Wajah Awet Muda Diduga Hasil Facelift Rp 2 M",
-   "snip": "Foto Kris Jenner Bikin Pangling, Wajah Awet Muda Diduga Hasil Facelift Rp 2 M Wolipop Kris Jenner Pakai Cape Kalajengking Milik Elizabeth Taylor Senilai Rp 1,3 Miliar Kompas.com Kim Kardashian dan Kris Jenner Berbusana Vintage untuk Kencan ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON1JELThYWDRyQTVQTHlrdEQ1ZWlxVlVSNHJ2UkFzMmNMaUwtSzc2dmpIX0tjYkxyQTNmdmpDSjl3NWNJUVBMV1BDWjlQNTlHeHp1VW13WWlsZW1pc1FOSldDM2tXVEpBN3ZZNjdNRWwzalNqa21femJOQ2l3eHlKaDhsZUhHRlRCR1lHdWxBQ2UwSFdFYVZHcXZwcWt2V2dTWldlOHJ3RmxqQUtJNDhlYUdjemF5UjZfTDVZbktUTkdHbDFKblhDdk1mQdIB0AFBVV95cUxPTml6MlhFa3FGZjZ4V0xQclNaMkxQWTVYQk10UUhlazFYX3NzQXRDVVhuS3pBVERxejQ5TkFmNmpXY0czM19ON2RraE5nc3EtNTJfV1RsZk5Wazh3N01VZnFqMS1rRGlCM2ZVdkc2RDlVUUJYWVpza3k1aWtLdm5ib2VOcHJOcFh2a0g3WmZzZFZyLU5feVU1Vlk0Qld0RE1PRjd1RnF4Q0V2cGNZam5BUll6N2U0c0k3ZWk3SDdFMEZWNGFkbmhhNkJ1WGlpQnBD?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-26T09:00:43Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Kenapa Bule Australia Banyak Banget Hadir di Konser Kanye West Jakarta?",
-   "snip": "Kenapa Bule Australia Banyak Banget Hadir di Konser Kanye West Jakarta? detikcom Kanye West Klarifikasi Disebut Marah Saat Konser di Jakarta Kompas.com Imigrasi Sebut Wisatawan Asing Tembus 25 Ribu Orang Jelang Konser Ye Kanye West - kumpar",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUTVPbmtHUUoxT2hadDNjdnAxMDZIcTFzQzh4X0JFeHdZOEJ5X25GTlIyVHpTQWYxd2x5NXhwNTAtNm9UcVdSZWhRZFJTZnJQZUxIME1PSzB2bXBMNzlYYjd0NU5tem1FTEl4NG1xek9MNzl4MExZdWthSlFmRjhpZklrU0szYWJqTVdhUmQ2X3BtR1l1Rk1iaUdyM3lRWFFGZTk0SmFJaWZJN1VSZzVQUmNR0gG3AUFVX3lxTFBYT2Y5Xzhydm9yWWNjNy1XakNDU0YxNlBNcllJS213NXQ1NGZTbTNwTDNRcVhaYURQQ3JwNThaTmRfNmhrOHNQbk0wQkZhTmtjN3Y3MnlWaURKbGw4VktwVVZtV2pkVFc5am5PeTR1Y2xGMHJQZW95YW92SmlSa2kxbVhsZHhHN04zUGRJdEpFT1g5eFF0QjhWNnJ2ZG5BM0x2X2Nuc0d1WVNNMVltNmJpVTlWeWU5dw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-26T09:00:30Z"
   },
   {
    "k": "news",
@@ -856,28 +877,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Seungkwan dan Dino SEVENTEEN Resmi Wamil, Grup Masuki Masa Hiatus",
-   "snip": "Seungkwan dan Dino SEVENTEEN mulai wajib militer pada 26 Oktober 2026, menyusul Mingyu yang bertugas sebagai petugas pelayanan sosial sejak September.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/_exsEWlcwnZNQKyF1qiqRMoX4uM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382561/original/062171100_1793000521-Untitled_Design__55_.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8321452/seungkwan-dan-dino-seventeen-resmi-wamil-grup-masuki-masa-hiatus",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-26T08:10:00Z"
-  },
-  {
-   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
@@ -949,7 +948,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sarwendah Ajak Ruben Negosiasi Bagi 2 Cicilan Rumah Rp13 M",
-   "snip": "Sarwendah Ajak Ruben Negosiasi Bagi 2 Cicilan Rumah Rp13 M CNN Indonesia Pihak Sarwendah Klarifikasi Isu Vila Jadi Syarat Damai dengan Ruben CNN Indonesia Ini Alasan Ruben Onsu Tolak Proposal Damai Sarwendah soal Gugatan Wanprestasi SINDOne",
+   "snip": "Sarwendah Ajak Ruben Negosiasi Bagi 2 Cicilan Rumah Rp13 M CNN Indonesia Pengacara: Cicilan Rp13 M Bukan Cuma Tanggung Jawab Ruben CNN Indonesia Sudah Lelah? Sarwendah Beri Penawaran Menarik untuk Ruben Onsu Warta Ekonomi Sarwendah Minta Vi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -963,6 +962,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-26T07:00:14Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Kanye West Klarifikasi Disebut Marah Saat Konser di Jakarta",
+   "snip": "Kanye West Klarifikasi Disebut Marah Saat Konser di Jakarta Kompas.com Siaran Pers: Konser Ye Sedot 25 Ribu Penonton Asing, Indonesia Kian Diperhitungkan di Panggung Musik Dunia Kementerian Pariwisata Imigrasi Sebut Wisatawan Asing Tembus 2",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXlkV2JRTGxVWmVIR2k1MkMwMVBZTmdyM1dSODdnZzlyMEltc3NSS0l0N3VoMW1reFp4MEdVeDZTZVgzTUllVGNUZ2RWUS1TRFdWSEtEczhpZUxUcWI4ck9kWi1DZndnamdlVGpGelFOZmNudkRGX25tb2tTRkwzMFd6a3Zuc1FtN2NZVVVTV2J3QThXeUV0YVF6OUdOQzFRTnlHQzMwdzAwTTlmZzQwT2o1M01DUlBUS3c?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-26T06:17:00Z"
   },
   {
    "k": "news",
@@ -993,7 +1014,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Tikus Hari Ini: Jangan Terburu-buru Ambil Keputusan",
-   "snip": "Ramalan Shio Tikus Hari Ini: Jangan Terburu-buru Ambil Keputusan Kompas.com 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini Senin 26 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan Sumeks",
+   "snip": "Ramalan Shio Tikus Hari Ini: Jangan Terburu-buru Ambil Keputusan Kompas.com 4 Shio Hidupnya Membaik Senin 26 Oktober 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini Senin 26 Oktober 2026, Cek Peruntungan dan Warna Keberuntungan - sume",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1027,7 +1048,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-25T22:05:01Z"
   },
   {
@@ -1073,28 +1094,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-10-25T14:40:22Z"
-  },
-  {
-   "k": "news",
-   "u": "SINDOnews Lifestyle",
-   "name": "SINDOnews Lifestyle",
-   "av": "",
-   "followers": 0,
-   "cap": "Drama Kim Ji Won, Doctor X Diprotes, Muncul Petisi Desak Hentikan Penayangan",
-   "snip": "Drama Kim Ji Won, Doctor X Diprotes, Muncul Petisi Desak Hentikan Penayangan SINDOnews Lifestyle Rating Doctor X Tembus 19,5 Persen, Final Table Debut di Angka 1,9 Persen Kompas.com Doctor X dan Assassins Tersandung Kontroversi Sejarah RRI.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkVBNHNwQTltbjYxa2xpUk52dDZZcDFxYmVDSVhTWXBJUGo0MThUd2N4emU0Zjk4Q210Y2RWVV9DMEpxVVpVYk5vRDhmaklJWVZfMlZzYTJxRjBSLVlLTXVka0s1ejJBcEhPV3ZPNEgwQmdMdWNQbjBJZ05kdW5VMjlDdlZLZXJlMTg0cUZVZ0NDV3R2djJZV2d1TUZzV3U2TkJxdktpTXVmMVF4enRRRV9Uc2pVOG9qQ0dZZnZuRkh1T2RVdzJtT015aXJPNkXSAdQBQVVfeXFMTUNPcGt2WDRrTkVFRGtNaE5QMDZQR3J3U1ZrLXJVMnNvNEZKSEFydVhzWElZeVIwbHRyZ180Y055Z3c2UmE1NzNmSVZnUkFGX0xvOE9TdG5jN0xVcG5LcGhXYTR1OXgyMFdZZDhPUF9kdDFPeWY3aV9qUWg0OWZiS1ZTbUtBb3ZwRWY3OTFzUHdkMURFRFo0MkpQam1RYjBpcEppU1VmQVJ3VXFfU0JnOWRyYnR5RFNiTG83b19FUUNpU0VrWWFSZXZXSWNkMjB3cExvZ1I?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "SINDOnews Lifestyle"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-25T09:26:41Z"
   },
   {
    "k": "news",
@@ -1159,8 +1158,30 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-24T22:05:51Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Cut Memey Syukuri Anak-anak Tak Alami Culture Shock Usai Pindah ke Kanada",
+   "snip": "Cut Memey Syukuri Anak-anak Tak Alami Culture Shock Usai Pindah ke Kanada detikHOT Cut Memey Pasang Foto Rumah Impian di Wallpapper HP, 11 Tahun Kemudian Terwujud detikHOT Cut Memey Tekuni Profesi Instruktur Olahraga di Kanada Demokratis.co",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDQ3WFNnWS1kcE1nelBsT2tRbXhwWmlzX2NvQVJIQzg4azRtRTlNc3Q2QWsxei1UdVVfT2ZmRHU3T01xaWJ1ZHRoRkhrX1dTeWpYblNkcm5uZmxDRDA1M0h4dmppOVd4Z1RPRUh4eXJWeEx2M2ZBSmNCLUZQbGM0ekYyd1B1T3I3Y19YcUtOemtVQXU1TWk1cEs2U3RsLV9Sb2RnZGxBNjdMSEhqb3VvONIBtgFBVV95cUxPT3lVZzFCaTByQW9FU19VWmhnNkE3VXVoRG96dEE1Ym9MTlZjaExUb3lIVlZxd0dic1k0amoyYWVaWkJlZmxINjh6a0N1ZXNialFPRWwtRExMWEFSOTNBbnBaLTlheDNxNTNFWWdKTVVYdkp1d2lxWWplUWZYVEp3SG9uVFU3bGJOZ2U3eVBzQWl1RGNUbnNlMnRQVi1FQ0tmZHp5a3QxUXRkS3o0UFUxdGs2QzhyQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-10-24T15:02:47Z"
   }
  ]
 }
