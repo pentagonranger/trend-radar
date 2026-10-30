@@ -1,27 +1,6 @@
 {
  "topics": [
   {
-   "t": "Patrick Stewart",
-   "q": "patrick stewart",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "BBC",
-    "The Hollywood Reporter",
-    "Variety"
-   ],
-   "d": "2026-10-30",
-   "url": "https://www.bbc.com/news/live/cq23dve8dgv9t",
-   "n": "Legendary Star Trek actor Sir Patrick Stewart dies aged 86",
-   "vol": 500,
-   "vu": "pencarian"
-  },
-  {
    "t": "Ruben Onsu dan Sarwendah Belum Sepakat Soal Cicilan Rumah",
    "q": "Ruben Onsu dan Sarwendah Belum Sepakat Soal Cicilan Rumah",
    "cat": "Selebriti",
@@ -64,6 +43,72 @@
   },
   {
    "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Patrick Stewart, Aktor Profesor X Meninggal pada Usia 86 Tahun",
+   "snip": "Patrick Stewart, Aktor Profesor X Meninggal pada Usia 86 Tahun detikcom Patrick Stewart, Bintang Star Trek dan X-Men Meninggal Dunia Kompas.com Aktor Pemeran Profesor X, Patrick Stewart, Meninggal Dunia republika.co.id Avengers: Doomsday Ja",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOVZLN1M1bE5qbUwtLXNQVlZNLWlOSFpCYTZZODBlQ0JzZGMyb01TYjVqWC11VmxUbGFPMVJ1VjNWNUJrdlYzTExuRklCY0padHprS2VTeVhqNC1DWUJLdWpRRjN0Z1lDZG9MeER4VHlpZ3R0clFCaXEtWnNYTjllcUxMUThyaU1HcHJ5aWFhUkxnOGR1bG5RVFRYY2JiX0xwTEhYSG1R0gGrAUFVX3lxTFBLaEtGZnFJTmhtc1VOWXE3aW9ldTVIS2dma3NTc3ZQZ3g3TkhqU3lEZ3NyQlJtZWpoNlRZNW5fekl3QjB0dGh4M3ozWmtHUlJKSmo0aDRPbkNmUlpxaXQxX05nWWM1T0t4REFBTkwzb3oyZTdjMmFGbmRiMzVPMjU1bzNTZDFKM0Y4azhwcV9BN3VaaXNFUkJGTXYxM2E5YlYxcTNoWTZtUzM3dw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-10-29T23:09:11Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Natalie Sarah Ogah Ambil Stripping, Pasang Banyak Syarat untuk Syuting",
+   "snip": "Natalie Sarah memang terbilang jarang menghiasi layar kaca dalam beberapa waktu terakhir.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/zNO_rwYPn6MUekzfnl7Xmn_mjdE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385988/original/059965500_1793291289-1000670616.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8324536/natalie-sarah-ogah-ambil-stripping-pasang-banyak-syarat-untuk-syuting",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-29T16:28:58Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Brisia Jodie dan Alden Gelar Tradisi Mitoni 7 Bulanan, Jalani Ritual Adat Jawa Penuh Makna",
+   "snip": "Brisia Jodie dan Jonathan Alden menjelaskan alasan penyelenggaraan mitoni.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/7SWbLCe9hJy-w234GdvFfFAizqs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385944/original/099469000_1793283593-1000672334.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8324530/brisia-jodie-dan-alden-gelar-tradisi-mitoni-7-bulanan-jalani-ritual-adat-jawa-penuh-makna",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-29T16:21:47Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -81,30 +126,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-29T15:15:36Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Cinta Laura Cerita Pengalaman Perdana Lakoni Adegan Dewasa",
-   "snip": "Cinta Laura Cerita Pengalaman Perdana Lakoni Adegan Dewasa detikHOT Cinta Laura Ungkap Proses Adegan Intim di Sleeping with the Enemy Demokratis.co.id Mumet dengan Kerjaan? Ini Rekomendasi Serial untuk Temani Waktu Istirahatmu Beauty HerSto",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEdVMzdCWkI5TkVkUG1JMEJWdHRTQnc5cTBxb1gyN2hPOVZtUlpUXzdRNU1IUm5PVloyVHhHTVZjaTNLelNiblh1S2dBcWlRcmJ2ZkZXWjRQTmFxOUdOOGVrcDlyT182Ql84T3BfWU1NazluUmUyTlhTSFZvdmVCY2diM3lNYTRYNXNvQ2RXQVZud0hzd3J4YmZMVlXSAaIBQVVfeXFMTVdDNmlJN1pTempNQVFMblZEb3FjQnVxQ0ZuX3dvZXZXY056YmxWZ1lQcmMybjdMSl9WdkNBOWdOOTBWaVQ0WHhZc1hPOU10QXRlT3dNZG0wa2d0d1plZi04WGlGc0F4RGkwR2tpYTlZcXJ2cll0Q0dtbTl5Qk9OajV1a0NrREVFZExaaVNQemcxN2tiUU1IeDNkdE9mcFZKU25B?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-10-29T15:05:38Z"
   },
   {
    "k": "news",
@@ -125,7 +148,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-29T15:00:00Z"
   },
   {
@@ -193,6 +216,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-29T14:05:50Z"
+  },
+  {
+   "k": "news",
+   "u": "detikTravel",
+   "name": "detikTravel",
+   "av": "",
+   "followers": 0,
+   "cap": "Konser Andrea Bocelli di Borobudur Tetap Digelar Meski Mendapat Penolakan",
+   "snip": "Konser Andrea Bocelli di Borobudur Tetap Digelar Meski Mendapat Penolakan detikTravel Demi Konsistensi Dukungan Palestina, Mardani Ali Sera Desak Pemerintah Batalkan Konser Andrea Bocelli MUI - Majelis Ulama Indonesia Wasekjen HMI nilai per",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0dTbnJOcFoxLWQ2dGpxdTVQUmQ5dzRyeFpuY0lJcUZQN0FQYVVNejhBTEhsVXcyRF9oNEd1OGN2M0dWeGY5a2YwT3dGYWxnWDZmNWQ4SzY4YkZPVUxvRWNmSV9YUi1zdnZBY0ZyVmhYNGoyR1BpZFQ4cVZ6N1NpOXpha1doUHRfMWZYNzF1TkRQT1draGg1LTF0T0xWVkRFQWpaX3NScDAySEd0OV9tYWRVSXNnalNEZ09hd9IBwgFBVV95cUxNSXF1QVI0c0pFdDVseHE0TTVyOFBPbEs4Zi0xWEx5aEREdFRzb3VBQTVPM0lLUUd0c1ZyV2w5X19xNlBnOTlJMlBObDBQM1VEV0dqdzYyQUxtYmlkUkNhblZyRVR2ZlVQYVhXOTRaWnVsRmE2T2g2RDE2QzAyb1FpOFJYLWJVcG9HbHQ0TjNzNTUtQzg3TzV5NHRiWWZVWWZGNWFEMjBYaVNKX2JwVExzMzhSdXdPSTd6Q2lwYVd6a0Y3QQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikTravel"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-29T14:05:21Z"
   },
   {
    "k": "news",
@@ -486,28 +531,6 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Sarwendah Nilai Ada Pihak yang Berusaha Mengalihkan Perhatian dari Akta 39",
-   "snip": "Pihak Sarwendah menilai bahwa ada pihak yang berusaha mengalihkan perhatian dari akta 39 yang menjadi kesepakatan antara dirinya dengan Ruben Onsu. Baca di sini",
-   "img": "https://cdn0-production-images-kly.akamaized.net/bGT8guxR-d7kmX1oJf8DgxMMHAk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9322348/original/083370400_1786525353-1200LIP.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8324223/sarwendah-nilai-ada-pihak-yang-berusaha-mengalihkan-perhatian-dari-akta-39",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-29T09:18:25Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
    "cap": "Yang Yang dan Chen Duling Reuni di Drama China Modern 'Kiss in the Wind'",
    "snip": "Drama China Kiss in the Wind dibintangi Yang Yang dan Chen Duling. Simak sinopsis, peran, jadwal syuting, sutradara, dan info lengkap adaptasi novel ini.",
    "img": "https://cdn1-production-images-kly.akamaized.net/bt-V4KdAHGcn6qYdkcGchIqbIPM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385716/original/066017000_1793265497-aa.jpg",
@@ -570,28 +593,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Fashion Mila, Tasya, dan April DA7 Jadi Kakak Kelas di DA8",
-   "snip": "Fashion Mila, Tasya, dan April DA7 di Result Top 12 DA8 curi perhatian. Intip gaun elegan, mini dress berpita, dan busana bold mereka sebagai kakak kelas.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/3y7q1SP7bAdnlDP6kxVWtE9OO9I=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385678/original/091791900_1793264384-1D2A4157.JPG",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8324212/fashion-mila-tasya-dan-april-da7-jadi-kakak-kelas-di-da8",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-29T09:00:03Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -614,38 +615,16 @@
   },
   {
    "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Quentin Tarantino Net Worth: How the 'Pulp Fiction' Director Built His Fortune",
-   "snip": "Quentin Tarantino net worth is estimated at $150 million, according to Celebrity Net Worth. See how much he earns per film.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2122602/quentin-tarantino-net-worth-how-the-pulp-fiction-director-built-his-fortune",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-29T06:39:00Z"
-  },
-  {
-   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
    "followers": 0,
-   "cap": "Viral Banget, Cerita Horor Nadia Omara Episode KHW 400 Tembus 40 Juta Views",
-   "snip": "Viral Banget, Cerita Horor Nadia Omara Episode KHW 400 Tembus 40 Juta Views detikcom KHW Part 400 Tembus 44 Juta Penonton, Nadia Omara Ingat Awal Buat Konten karena Hobi Cerita Kompas.com Serial Kisah Horor Wawak Berjudul \"Pulang\" Tembus 38",
+   "cap": "Potret Rumah Nikita Mirzani yang Dijual Rp 9,25 M, Bonus Perabotan Miliaran",
+   "snip": "Potret Rumah Nikita Mirzani yang Dijual Rp 9,25 M, Bonus Perabotan Miliaran detikcom Tetiba Jual Rumah, Nikita Mirzani: Gak Perlu Dikasihani! VIVA.co.id Nikita Mirzani Jual Rumah Beserta Isinya Senilai Rp 9,25 Miliar BeritaSatu.com Nikita M",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEVTOTJhTGx3NThDUjRZejh3Y2pmYkNDa2FicTRoaHRZS3hSQ0xOSTNCMEFEdUhNTjBHX0ptcjRWYnJ5WmVWZjFhZ3FTaDJmbDhLT0hjVmJ6Vm5Cd2VFRFM4Q19DSXdYNDJKdGhlWmpYRHRtNDZaSmJ1VXVzTzBIRGNiZmZxWXFPbV9oS3k1NE9pSVU1NW84d1NqbmFkS09LcVdJRDhJWXQ1cHR2RHo4RE1MQ2tDV082ZFNF0gHAAUFVX3lxTFBTeU92RXhjaC1XMHlpOFhPMXY3aU9UNE9sMk9TTWNlbjlBVmZuSW1xbmNMSWxOa1A1WE5HS2ZmNV9BMkNGLUFyRnBVTDlkdGRjTnZLenhsT1lBX21LVllZenhjQi1sTlVVQlhzUzZzVnhjbGRlay1WVGNla3djVHF0a2QyVjBsOVdOYlpybDl0Q0F6ZU8xMWhSZ0Q0RHV1X0ZuS19YcUtFb0ctOVR6bThkR3Y4c2VfWmtkaS0yaUExeQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSXBNdDJSdV9nQTVrQzRkWklRQ0MzQkJDM3lEcFF6Z3pERThsd055dXhMYlp4bFA3WWxvNTBONl82aTRuTF9SY1VSVTZtVmt3ZUpEekh6MWx5cUhHNVhxTERURjZPazd2bHdOWGFHNDItZGlxX1NpZi00RHBUcjhWM2pKMXRIX2hncDdaVjEwRHRXd0NqdUFGTTFkeG53cGtkM0VZNjFIRW8tUF9aZkZtNVpobWF2MkZxaUZKcGdqMlExTk9WVHhWY0ZHUDN4TUVUUXfSAdcBQVVfeXFMT3lkSDN1TWxZLTY0RmRUWVV1eENrUzdCOUVkNVlLZGQ2dXp1NEhLNlRaYVZFZlBwWjhnaHdHc3Yxck5DSzhMNEhVcVFJMmd0cmJidU1ZN29sOGF0Zk96TXhOVkhidmRiZjRESWZOc3RGalozYVpndDVuSEtOQ095TExCT2w5V08tTjJfZzFzWXhLdjZnWjBFMFhxOHZkQWM5OWdEN0o5T29MSXhFaVgxNVpNcFRFOHFJUzdMVlJ4QUN2anA1enRZYTJxajB6UmRIR2dvTTI4RjA?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -654,7 +633,7 @@
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-29T05:39:10Z"
+   "ts": "2026-10-29T07:02:54Z"
   },
   {
    "k": "news",
@@ -663,7 +642,7 @@
    "av": "",
    "followers": 0,
    "cap": "Vino G Bastian Terharu Kenang Momen Mendiang Ibunda Diislamkan Buya Hamka",
-   "snip": "Vino G Bastian Terharu Kenang Momen Mendiang Ibunda Diislamkan Buya Hamka detikHOT Perankan Buya Hamka, Begini Kesan Mendalam Vino G Bastian MUI - Majelis Ulama Indonesia Vino G. Bastian Cerita Ibunya Mualaf Dibimbing Buya Hamka Vidio MUI n",
+   "snip": "Vino G Bastian Terharu Kenang Momen Mendiang Ibunda Diislamkan Buya Hamka detikHOT Vino G. Bastian Cerita Ibunya Mualaf Dibimbing Buya Hamka Vidio Film Buya Hamka Jadi Tuntunan di Tengah Krisis Keteladanan MUI - Majelis Ulama Indonesia MUI ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -702,34 +681,12 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Nikita Mirzani Jual Rumah Rp 9,5 Miliar, Bonus Perabotan Miliaran!",
-   "snip": "Nikita Mirzani Jual Rumah Rp 9,5 Miliar, Bonus Perabotan Miliaran! detikcom Tetiba Jual Rumah, Nikita Mirzani: Gak Perlu Dikasihani! VIVA.co.id Nikita Mirzani Jual Rumahnya Seharga Rp9,25 M, Minta Netizen Agar Tak Kasihan: Gak Perlu Dikasih",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzFpbTY4UFI5UmNNaTVfeDh3azZCbGM4ZVRKUUtZS0JibEJkRnB0VzJJbEEtazJKM2c3cDhPVGhxdHlHZ19jOHdROEFBTHNyYWRIOTJyeEVjblNhZ1Z5Z0dxVE93VlpMTFl2dUFqSGZmUU9WeFM1VE91VV9pOEFNdV9hUkxSRDJFZFR1SVgxRjV5WGh4cGFRNkIxb3RVaDRkX3VfOXpVejlZdFRackxfQ3Nn0gG3AUFVX3lxTE96cHZvY0JLTGpGUW9fTVgwVjRTVy1wVXZ5ZjdIVEdWaVlxWTd6bWZDOHhYUDNGWDduWnRrQ2xVU0JpckplUlFwaXltTnNBTmpGVU1HTXRZM1F6YmNTWElmeXZxd3VSbms5b19WVXV1ZVgxZXlEMzVwM1JMVzBxcVVtSm9YWUt5bVM2NGlvdkhaX1B1cFdOMUhmQ05ESFptNlB3ZW5xaGREa1RiTUFIR3ljcVNtMlc3RQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-10-29T04:35:55Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Tepis Rumor Asmara, Asri Welas Bocorkan Tipe Idaman Desta",
-   "snip": "Tepis Rumor Asmara, Asri Welas Bocorkan Tipe Idaman Desta detikHOT Ramai Dijodohkan dengan Desta, Asri Welas: Selera Dia Bukan Mama-Mama, tapi Adik-Adik celebrity.okezone.com Asri Welas Tegaskan Hubungannya dengan Desta Hanya Sahabat Demokr",
+   "snip": "Tepis Rumor Asmara, Asri Welas Bocorkan Tipe Idaman Desta detikHOT Ramai Dijodohkan dengan Desta, Asri Welas: Selera Dia Bukan Mama-Mama, tapi Adik-Adik celebrity.okezone.com Asri Welas Ungkap Cuma Sahabatan dengan Desta, Seleranya Bukan Ma",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -834,12 +791,34 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Geulis Pisan! Melly Mono Berkebaya Curi Perhatian",
+   "snip": "Geulis Pisan! Melly Mono Berkebaya Curi Perhatian detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1o0ZlFNMWJIeTZqYkZZWi01VDVoMkMwRzZULUZkMTNFX2xCUEx6SEwwcy1vSWx6cHA1RDBpcjlkT0s0aVUzUFJOdU5qbTJjWTgwMFFYV2RYSS1TTnp2VEY4bGZ5LW91ZllZbEdNVlNoWG95WnRrMjFyZmpYZG9wMmlBNHo1U3dmeVl5UmpSVdIBlAFBVV95cUxQcWhpbTd1MlFqNXpEUGhZVmNJa2hGVzRhWmNwZmR0eWtrNTZqQVVVOTloTGpDRTZlMjl2WnZjWGpXUDNwOGtfVkdGeXQ2UllYbWw0cEhiRjRyQ210empYS1BtMWFSek1ndmJJSC1jX0htSWoyd2tvcF9aeFpReVd1TWZrZl9EM0twaDl6bTRpQkstNFFG?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-29T00:37:45Z"
+  },
+  {
+   "k": "news",
    "u": "VIVA.co.id",
    "name": "VIVA.co.id",
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Kamis 29 Oktober 2026: Ada Kabar Baik soal Karier, Keuangan dan Asmara",
-   "snip": "Ramalan Shio Kamis 29 Oktober 2026: Ada Kabar Baik soal Karier, Keuangan dan Asmara VIVA.co.id Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Ramalan Shio Kamis 29 Oktober 2026: Ada Kabar Baik soal Karier, Keuangan dan Asmara VIVA.co.id Ramalan Shio Hari Ini Kamis 29 Oktober 2026, Lengkap 12 Shio dan Warna Keberuntungan - sumeks.disway.id Sumeks Ramalan 4 Shio 29 Oktober 2026, Di",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -851,7 +830,7 @@
     "VIVA.co.id"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-28T23:30:00Z"
   },
   {
@@ -873,7 +852,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-28T23:20:11Z"
   },
   {
@@ -895,7 +874,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-28T23:03:33Z"
   },
   {
@@ -905,7 +884,7 @@
    "av": "",
    "followers": 0,
    "cap": "Diangkat Dari Kisah Sejarah Penting Indonesia, Laut Bercerita Masih Tayang",
-   "snip": "Diangkat Dari Kisah Sejarah Penting Indonesia, Laut Bercerita Masih Tayang TIX ID Mengenal Karakter Film Laut Bercerita, Biru Laut hingga Asmara CNN Indonesia Ini pesan Daniel andai bertemu Biru Laut hari ini ANTARA News Sutradara Yosep Ang",
+   "snip": "Diangkat Dari Kisah Sejarah Penting Indonesia, Laut Bercerita Masih Tayang TIX ID Review Film Laut Bercerita: Merawat Ingatan, Menjaga Harapan Kompas.com Mengenal Karakter Film Laut Bercerita, Biru Laut hingga Asmara CNN Indonesia Alasan Ev",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -917,7 +896,7 @@
     "TIX ID"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-28T21:53:57Z"
   },
   {
@@ -971,7 +950,7 @@
    "av": "",
    "followers": 0,
    "cap": "3 Zodiak yang Diprediksi Jalani Hidup Lebih Mudah pada 29 Oktober 2026",
-   "snip": "3 Zodiak yang Diprediksi Jalani Hidup Lebih Mudah pada 29 Oktober 2026 Kompas.com Ramalan Zodiak Hari Ini Kamis 29 Oktober 2026, Lengkap 12 Zodiak - sumeks.disway.id Sumeks Ramalan Zodiak Hari Ini: Taurus Tangguh, Virgo Kelola Emosi, Capric",
+   "snip": "3 Zodiak yang Diprediksi Jalani Hidup Lebih Mudah pada 29 Oktober 2026 Kompas.com Ramalan Zodiak Hari Ini Kamis 29 Oktober 2026, Lengkap 12 Zodiak - sumeks.disway.id Sumeks Ramalan Zodiak Cancer dan Leo Kamis, 29 Oktober 2026 Media Indonesi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1010,6 +989,28 @@
   },
   {
    "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Kim Ji Won Diserang Online Imbas Kontroversi Doctor X",
+   "snip": "Kim Ji Won Diserang Online Imbas Kontroversi Doctor X detikcom Kronologi Kontroversi Drama Korea Doctor X Berujung Dipetisi CNN Indonesia 6 Alasan Drama Korea Doctor X Dipetisikan Berhenti Tayang Media Indonesia 3 Pihak Yang Dirugikan Akiba",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGo5X01vdE1Bb0VxSmJMcWVqeHdHakh5dUdCNWNKcENQZ3lpMXQyUE9pUWYxLUp5SDIxNnB6SzNFWS1jbXVSeFRqc3BBeDJYZjNvVVNENExuVzNMZTVRd09PMVFtWEdFRE1LTE9GNXpYVEZrNUI2REJKTGxINmlIVV83ZFAxczQwdnZ0a0UxYlRwdGNVeGNxYVN0LTB0NWczYkRR0gGoAUFVX3lxTE1fbHR4dkV5cC1QQU5HVWJqZ2xIUDVqT2VZLTVmX1RsU19yWTBBMFpKa3B6ZkNxdEdOQ293TDVxRmV4aW8yUndXeUNZOXV4WWQ5d05NNWpjN0V4NGFrZlg1SlFmV1dqZG1KbzljUHdzQlFCS2VsZ1JuVThiZUVIMGw0T1BSR25Vbk1pdTh0RmxtSTVPLTZfaFBoazk2bjhOM2pvanFrbTJWVQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-10-28T05:31:32Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -1027,7 +1028,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-27T22:05:07Z"
   },
   {
@@ -1037,7 +1038,7 @@
    "av": "",
    "followers": 0,
    "cap": "Konser Kanye West Sukses, Menpar Dorong Indonesia Ramai Event Musik",
-   "snip": "Konser Kanye West Sukses, Menpar Dorong Indonesia Ramai Event Musik CNN Indonesia Nonton Kanye West hingga Makan di Ruang VIP, Driver Ojol Ini Cerita Kebaikan Kreator Konten Autralia Kompas.com Konser hingga Ajang Lari Turut Menggerakkan Ek",
+   "snip": "Konser Kanye West Sukses, Menpar Dorong Indonesia Ramai Event Musik CNN Indonesia Nonton Kanye West hingga Makan di Ruang VIP, Driver Ojol Ini Cerita Kebaikan Kreator Konten Autralia Kompas.com Konser Internasional untuk Wisata Berkualitas ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1049,7 +1050,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-10-27T22:00:46Z"
   },
   {
@@ -1073,28 +1074,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-10-27T15:49:42Z"
-  },
-  {
-   "k": "news",
-   "u": "SINDOnews Lifestyle",
-   "name": "SINDOnews Lifestyle",
-   "av": "",
-   "followers": 0,
-   "cap": "Ruben Onsu Hari Ini Diperiksa Polda Metro Jaya Atas Laporan Dugaan Illegal Access",
-   "snip": "Ruben Onsu Hari Ini Diperiksa Polda Metro Jaya Atas Laporan Dugaan Illegal Access SINDOnews Lifestyle Ruben Onsu Dicecar 20 Pertanyaan Soal Laporan Illegal Access CNN Indonesia Ruben Onsu Jalani Pemeriksaan Polisi, Dugaan Peretasan Email Be",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQkItR3lrd0J4RUdLcHlubl83UlRLYzE1RHdETW9PNkEzUnphR3AyRTExUWRvTTgxb0xrM0tpNEtvbFppUFpUYlRBTlRtZEhWdjFYTlVQVkRqZkcwNi15di1Dbk05QnRCZ3NJQy13bTZVX1lKSldNQmVGVDVRaVM2Vlh3Mk44dTNVWnpZel9rdS1EcnF3bEVxUU8td0szQkZKMThWQUU2YjNnZHVwVllWZTRqeWVkZUIwUUdyb1B0WUMzX3J2Q0Vfbi1kcnRWeFNZcExHZTU5TWzSAd4BQVVfeXFMTjBtY2YxRTh1SlZxdkw5b1NfbXNHNWc2VnRtelRBeVcxeFk3a3NVR3JteGtTOV9YMWxvU0VodmlZTHViNWdqYlduUVBBYUFaLVlsc1BpMjE1Z3NkNV9RV1dON3RjRVhpYzh2ZmQtY3AyN0VTM194Z21sRmgyOTdxbkhvSW9TOExoclAwN0lSTjNFbDNEbWtUb1JXc0R2MDV0dVRYZ3ZNb04tZ1VtZWs0VUpuY2tRa2ZzeTZCbFRHTC10N042QUV1bjRsYlFOY08tbWRoZmdWZ2NDY3ByQkVB?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "SINDOnews Lifestyle"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-26T09:50:04Z"
   }
  ]
 }
