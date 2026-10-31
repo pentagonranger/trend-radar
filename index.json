@@ -1,8 +1,29 @@
 {
  "topics": [
   {
-   "t": "Larissa Chou",
-   "q": "larissa chou",
+   "t": "Colorado Rapids",
+   "q": "colorado rapids",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Goal.com",
+    "beIN SPORTS",
+    "Colorado Rapids"
+   ],
+   "d": "2026-11-01",
+   "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-colorado-rapids-v-chicago-fire-fc/blte6f14d9e2abf6618",
+   "n": "Watch Colorado Rapids vs. Chicago Fire FC live today: Who is broadcasting the match on TV and via live stream?",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Aurum Oktavia Winata",
+   "q": "aurum oktavia winata",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -11,14 +32,56 @@
    ],
    "src": [
     "Google Trends",
-    "Demokratis.co.id",
-    "Jawa Pos",
-    "Grid.ID"
+    "CNN Indonesia",
+    "Trans TV",
+    "women.okezone.com"
    ],
    "d": "2026-11-01",
-   "url": "https://demokratis.co.id/larissa-chou-pilih-hidup-sendiri",
-   "n": "Larissa Chou Ungkap Alasan Memilih Hidup Sendiri",
+   "url": "https://www.cnnindonesia.com/olahraga/20261031234546-170-1421872/bagas-maulana-resmi-menikah-dengan-aurum-oktavia-winata",
+   "n": "Bagas Maulana Resmi Menikah dengan Aurum Oktavia Winata",
    "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Pachuca",
+   "q": "pachuca",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "DAZN",
+    "NOTIVER",
+    "Récord"
+   ],
+   "d": "2026-11-01",
+   "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/pachuca-vs-tigres-uanl-vivo-canales-streaming-horarios-apertura-liga-mx/e9o09xa8dzqs1k601fyqq3l9j",
+   "n": "Pachuca vs Tigres UANL en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Ac Milan Vs Inter Milan Standings",
+   "q": "ac milan vs inter milan standings",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "BBC",
+    "Yahoo Sports",
+    "Syracuse.com"
+   ],
+   "d": "2026-11-01",
+   "url": "https://www.bbc.com/sport/football/live/cw99zj4rpd4dt",
+   "n": "AC Milan vs Inter Milan LIVE: Italian Serie A - watch, stats, table & head-to-head",
+   "vol": 1000,
    "vu": "pencarian"
   },
   {
@@ -39,30 +102,6 @@
   }
  ],
  "posts": [
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Larissa Chou soal Perceraian Kedua, Pilih Cintai Diri Sendiri",
-   "snip": "Larissa Chou soal Perceraian Kedua, Pilih Cintai Diri Sendiri detikHOT Larissa Chou Ungkap Alasan Memilih Hidup Sendiri Demokratis.co.id Pilih Cerai dari Ikram Rosadi, Larissa Chou Ungkap Pesan untuk Anak-anaknya Grid.ID Sempat Alami Speech",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYU95UDNBT1I1VWlXU3h4ZWllTlZkanFKeUg2bEFEaVJrUS1OcGhsMlNabFU1eElmaEcweXhXMnJ3Y2ctaWJTWXlvcXJjNUNZSFFaeG5CZWJTLVd2WWVYTktBaEZiTXZScTAzdHBMbUZNRlBxekJEUXVqamlQN0g3dGIwSlJGLXhob29XN191Tm9qWTJCRURYZmRISndtX0XSAaQBQVVfeXFMUGx0MUpUZ2ljLXI4LThpTl82X0FOSlZjRHR3ZGpDUVFrUks4SDRQYlZ0SzNpeHNINWRJOTdwMWJ2RW5XV1JTWlVySUlUZ2x6dWtQQkZna3pGbnl6YXk4aDFIT0VxRWFiSkRScWV6bzk4V0RxdTJzNE0zZkNGSWxhM014Uk84Si0zRU01dWF6dDd3RGdBalBTc1Z1Vk1EVl9wUFZnSXY?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [
-    "Larissa Chou"
-   ],
-   "sc": 75,
-   "ts": "2026-10-31T13:30:21Z"
-  },
   {
    "k": "news",
    "u": "Liputan6 Showbiz",
@@ -92,12 +131,12 @@
    "name": "Antara",
    "av": "",
    "followers": 0,
-   "cap": "Penyanyi tenor Andrea Bocelli gelar konser megah di Candi Borobudur",
-   "snip": "ANTARA - ‎Penyanyi tenor kelas dunia asal Italia, Andrea Bocelli, menggelar konser istimewa di kawasan Candi ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/PENYANYI-TENOR-ANDREA-BOCELLI-GELAR-KONSER-MEGAH-DI-CANDI-BOROBUDUR.jpg",
+   "cap": "DKI sepekan, 15 konser besar JIS lalu prevalensi stunting turun",
+   "snip": "Gubernur DKI Jakarta Pramono Anung Wibowo mengatakan ada 15 konser besar yang telah mengajukan permohonan untuk dapat ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/10/27/Foto-3.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/video/5824239/penyanyi-tenor-andrea-bocelli-gelar-konser-megah-di-candi-borobudur",
+   "url": "https://www.antaranews.com/berita/5824327/dki-sepekan-15-konser-besar-jis-lalu-prevalensi-stunting-turun",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -106,7 +145,7 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-10-31T17:29:53Z"
+   "ts": "2026-10-31T22:22:15Z"
   },
   {
    "k": "news",
@@ -127,7 +166,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T16:33:36Z"
   },
   {
@@ -149,7 +188,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T15:45:29Z"
   },
   {
@@ -171,7 +210,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T15:00:00Z"
   },
   {
@@ -193,8 +232,30 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T14:45:57Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "5 Rekomendasi Drama China Terpopuler Oktober 2026",
+   "snip": "5 Rekomendasi Drama China Terpopuler Oktober 2026 CNN Indonesia 5 Drama China Terbaru dan Terbaik yang Seru untuk Ditonton! iNews.ID 10 Drama China Terpopuler di Youku Sepanjang 2026 versi MyDramaList, Cek Rating dan Sinopsisnya DataIndones",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUm02V09pTnd4YnVaZjJvR0RlanBMOVN5TkljMFdxclRIUzAtWVRoS3ZIVjJTNFdSUUxtcHF6bG53eDMyWWVwc0diOEJFMUl6NjRnVFppLUsyQ09EejllMkFSYy1fcTN0SjFjWmpyOThuU1haUEJJdm1IZmRjY0ZNWlZqNERNZVpZTHBpN2Z1cng5NmZyVTYxOEZwM0Z5MFlFTDlyWTUtaDFRbjZ2WHhDOV9OQdIBuAFBVV95cUxNRmVXSE5LWHVRZHhPN2ZoZGpOOVBTbmRXcnQ1RjVYSVlEeWNQQVNQbDBGX2VOUmFzN005ckxYRy1yLVNoR25NQ0Y5dzVhZVFCUTZnd2tMdGpvQjZZVFhQR0x2V2FNRXhxWlFfbkp4aUhFRWw4RmVvX0RLVjZEU3lORV9IcGFOMnNrVS1WVC1nbDJ5all6ZC10Xzh0YThOVlVjQ2VmTXVzUGhjMzJBOFFMbTNhemhoZ2RL?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-31T14:45:34Z"
   },
   {
    "k": "news",
@@ -215,7 +276,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T14:33:49Z"
   },
   {
@@ -237,7 +298,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T13:40:57Z"
   },
   {
@@ -259,8 +320,30 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-10-31T13:20:16Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "3 Zodiak yang Diprediksi Mengawali November 2026 dengan Bahagia",
+   "snip": "3 Zodiak yang Diprediksi Mengawali November 2026 dengan Bahagia Kompas.com Tanggal Keberuntungan Masing-masing Zodiak Sepanjang November 2026: Ada yang Berpeluang Sukses dalam Karier VIVA.co.id Ramalan Zodiak Hari Ini Hingga 8 November 2026",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDVkaDI3a3ZVNTdEMU1PMVR4ZjhDUktrdXhRWnpvaHNIUDRWbGVNVFlCOW1GUkIzRldobkotZkMtU1NQZ1ZjMFFUcXJwcWxodkNmV3NRNUFGSlhrckhLV2JlcVlWZ0lQcXV3TjhWaUs5eVBiNXBNakxVVW02a21TdDY1SkV1a0NDQ1BKNTR1Q21iMzVjUlZsbTN0TjlGMFVLY2syS01JMnJjYTFCSlNLNVlJOWp0M1J4UWc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-31T12:30:00Z"
   },
   {
    "k": "news",
@@ -327,6 +410,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-10-31T11:38:31Z"
+  },
+  {
+   "k": "news",
+   "u": "Sudutpandang.id",
+   "name": "Sudutpandang.id",
+   "av": "",
+   "followers": 0,
+   "cap": "Polda Jateng Terjunkan 3.229 Personel Gabungan Amankan Konser Andrea Bocelli di Borobudur",
+   "snip": "Polda Jateng Terjunkan 3.229 Personel Gabungan Amankan Konser Andrea Bocelli di Borobudur Sudutpandang.id Aksi tolak konser Andrea Bocelli di Borobudur ANTARA Foto 3.229 personel kepolisian amankan konser Andrea Bocelli ANTARA News Jateng G",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWd0Yk9pR3k3ZDh0b1RHTWViM1ZVdGxjUG5xRVVDd2xwenl5bzkyRXp3bEZzQ0FFME9WeWw4YmpteTZLX1NZeHJQOUxKS2hZaGJ6c0wwY01PTTROeUlnaUVkTUpBdzU1VTd3YUFUUm1OU2tveEZCLThTajJtOUJoNnhQSDJ5cWl4YVNTWFJsVGVtazBYc3A2eExObG1UUG5Tek10aFF1SHBaSTdzOVRiaHIwSzc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sudutpandang.id"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-31T11:19:41Z"
   },
   {
    "k": "news",
@@ -489,7 +594,7 @@
    "av": "",
    "followers": 0,
    "cap": "Penjelasan Tipe-X, Guyon Waton dkk Usai Mundur di RANS Carnival",
-   "snip": "Penjelasan Tipe-X, Guyon Waton dkk Usai Mundur di RANS Carnival detikHOT Penjelasan Tipe-X hingga Guyon Waton Mundur dari RANS Carnival CNN Indonesia Pengisi Acara Rans Carnival Yogyakarta Batalkan Diri Bloomberg Technoz Tak Ingin Sakiti Ha",
+   "snip": "Penjelasan Tipe-X, Guyon Waton dkk Usai Mundur di RANS Carnival detikHOT Tak Ingin Sakiti Hati Warga Jogja, OM Wawes Pilih Batal Manggung di RANS Carnival Suarajogja.id Polresta Sleman Bantah Kapolres Bagi Uang di Bazar Maguwoharjo Tirto.id",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -709,7 +814,7 @@
    "av": "",
    "followers": 0,
    "cap": "Raffi Ahmad Diboikot, Amy Qanita Curhat soal Kebencian",
-   "snip": "Raffi Ahmad Diboikot, Amy Qanita Curhat soal Kebencian celebrity.okezone.com Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Raffi Ahmad Diboikot, Amy Qanita Curhat soal Kebencian celebrity.okezone.com Raffi Ahmad Kena Protes di Forum Pemuda, Peserta Teriak Sambil Acungkan Tiga Jari Rmol.id Aksi Tiga Jari Warnai Pidato Raffi Ahmad di Indonesia Youth Summit 2026, ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -792,6 +897,28 @@
   },
   {
    "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Mie Ayam Donoloyo: Mie Ayam Langganan Bebi Romeo yang Laku 150 Porsi Sehari",
+   "snip": "Mie Ayam Donoloyo: Mie Ayam Langganan Bebi Romeo yang Laku 150 Porsi Sehari detikFood",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHNXc1NISGVqM29XajdSelJmN1IyS1FBZGp6Ti0yRndscWVfdnpRU1NGUnRpdDU4c3lzYWJRVzZ4RGttUjZaTzB4QkwwN1pzbGJKNk96RVdRR1hiN2tVLTdQcHhEenNLdHp2ZjE3SUstUl8wRVFrOWs4STQzcTlvWFlob09Ha1JQSTRZRXZZVXJSZkdMU1lWWTR1VVA2bVZIeXNKR2ppb2FHcDZhUWx1cVNJY0pleUJZNDM1UdIBwgFBVV95cUxNbXI5LUlsVFVQRGQ1aEJ0R21lTld4TUc1dHZJVTdIQ1lhZDhKZDhhdFJIR29FX0ZDR0t4YUhOWks0N3dmaE1uZHB0WTZ5elZtc0JmUEhZUWhHUjgxTVVlNV95M3NQUHZrc0psVGh1QnNRRGczOUxkN3hJbEV3eGZKLUhCUm5rVE9lQzM5UjdHMmxJNjlqZG1IWXFhTmJoTzRYd3lFMzBnWmpJaGJJcEIzbjh5UkF2WXRsdE03X0YwMTlWQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-10-31T06:00:00Z"
+  },
+  {
+   "k": "news",
    "u": "detikInet",
    "name": "detikInet",
    "av": "",
@@ -836,25 +963,25 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
+   "u": "detikHOT",
+   "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Jennie BLACKPINK dan V BTS Dirumorkan Pacaran Lagi, Disebut ke LA Bareng",
-   "snip": "Jennie BLACKPINK dan V BTS Dirumorkan Pacaran Lagi, Disebut ke LA Bareng Wolipop Lihat judul & perspektif lainnya di Google Berita",
+   "cap": "Ruben Onsu Siap Cabut Gugatan Hak Asuh Anak, Ini Syaratnya",
+   "snip": "Ruben Onsu Siap Cabut Gugatan Hak Asuh Anak, Ini Syaratnya detikHOT Ruben Onsu Siap Cabut Gugatan Hak Asuh, tapi Ada Syaratnya CNN Indonesia Hasil Pemeriksaan Psikologis Anak Jadi Bukti Sarwendah Hadapi Ruben Onsu JPNN.com Soroti Bukti dari",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUEyU2RKZU44QkV1elgzLVU2TFlveDI0S3BSNHRMdUlxQnNudzEtRjg5YUhKZTFYMmdfUFlGRnFFSTBpbDFtMWROSV9sQ2ZBTnFvOVVUMm9iVzRjOUMzRjY2enBJV2lFU2QtMlVoc1VROG1WZzFjdFVjcVZrTDZfWU9SMm9kT3ZmbzhJR1NReW9pbTUzNkwwWkVhNllVRFNBTXJVTG1QNU04R29fZFlkWkZIUHpSY3dEVURJaC0wQ3dxVDNs0gHKAUFVX3lxTFBndk5PVXB1YVpwMllYUlF0OHItczJDcmJPeE1Ia0YzLTV6Qkx5bm1wNUVyNkIxTXUxUGV2cUNfUzVibGVwWGhFQVJtNUFFYUlFdmJlT0FqVnJNNnk4c1BKSmdEdk5ITXZ4SFdDcjVyTnlPVTg5ZmcwTGZ5SkhKcm9BVkw4NDdGRzJsVC12cXZTX203UFpMd0otUlM5b0hJZEw1Y2tLeUR5QXZ0Sk9WRzF2V0cwLWNWMUszbnJveWJhZFFFOEIwMmstQWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWdoMTdTQWEtWnI2aDNtM3VYd25hSkFKMjVEMjlQMG9oZG4tYmxsMjVfb2hqZWZHNGtkcnhlN2tVYnhiTWJYUlBXUDdRcDgtY2tKeElZMXRZZXRHUHhEUE9qb293Y3BrMHVyLVJKcl9VLWZPcGxsSWxOcWxvSUlYMlNoQVlNOGQ3RkRDOFBuWV9EblNmTktEU3lDZ9IBoAFBVV95cUxOUUFtcTBiUGQzM3VIUTh4S1JvNXk3S0xnTmNqeVFMRkdSRmJoM1JnWjc1dnozaTRvNjBTZ0V1NVZuZWVWbmpzMVRlbjdsUFZhQlBROFFPUHB3blJfYUI2TDFmc3ZfWFFkNFRWLXZUU0RwRktQMzd0aGJzRnlmXzRtRng3eTEwV0FwTmtmMjJ1bEh6Zl94YTZ6allHSl90bzgy?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Wolipop"
+    "detikHOT"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-10-31T03:00:58Z"
+   "ts": "2026-10-31T04:00:39Z"
   },
   {
    "k": "news",
@@ -919,7 +1046,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-10-30T22:11:55Z"
   },
   {
@@ -929,7 +1056,7 @@
    "av": "",
    "followers": 0,
    "cap": "Patrick Stewart Wafat, Klub Divisi 3 Inggris Beri Penghormatan",
-   "snip": "Patrick Stewart Wafat, Klub Divisi 3 Inggris Beri Penghormatan detikSport Sir Patrick Stewart, Sang Kapten Berpulang Kompas.id Patrick Stewart Dikabarkan Meninggal akibat Alzheimer dan Demensia Lewy Body, Apa Itu? Kompas.com James McAvoy Me",
+   "snip": "Patrick Stewart Wafat, Klub Divisi 3 Inggris Beri Penghormatan detikSport Sir Patrick Stewart, Sang Kapten Berpulang Kompas.id Patrick Stewart Dikabarkan Meninggal akibat Alzheimer dan Demensia Lewy Body, Apa Itu? Kompas.com 5 Rekomendasi F",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -968,56 +1095,12 @@
   },
   {
    "k": "news",
-   "u": "Ahlulbait Indonesia",
-   "name": "Ahlulbait Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Tautan Berita Protes Konser Andrea Bocelli di Situs MUI Tak Lagi Mengarah ke Halaman Artikel",
-   "snip": "Tautan Berita Protes Konser Andrea Bocelli di Situs MUI Tak Lagi Mengarah ke Halaman Artikel Ahlulbait Indonesia Aksi tolak konser Andrea Bocelli di Borobudur ANTARA Foto 3.229 personel kepolisian amankan konser Andrea Bocelli ANTARA News J",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjVnZGYteDFLc2Z6Wi1GdVpIVWRWUHpSOGpZTG9CdDA1aUl3Q1VoWmtpR2ZlcHl2eE5CdUtoc2ZYUTQ4UVIzOFRrUm1OdGxRc3lNNjFEQmpTUnd3a01WYm5reF9lZE5ZSEZIUkw2MG93ek1GajZibkZtLVhua0p6dmpPUE1WTDlHcHpzbDhzQWlVRVpMY2pkdk9ad09wVkhLRW52aEdB?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Ahlulbait Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-30T09:36:08Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Ruben Onsu Siap Cabut Gugatan Hak Asuh, tapi Ada Syaratnya",
-   "snip": "Ruben Onsu Siap Cabut Gugatan Hak Asuh, tapi Ada Syaratnya CNN Indonesia Hasil Pemeriksaan Psikologis Anak Jadi Bukti Sarwendah Hadapi Ruben Onsu JPNN.com Soroti Bukti dari Sarwendah, Minola Sebayang Sebut Hanya Ungkap Kejelekan Ruben Onsu ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOTN4cDVrakVMYUJ0QnhGNldyem9xWEl6THJIMFlqSm15M2tuQTlOYXZZamZvTzBCXzFkQS1TemVnX0RWLXJCNlNfM0hwTHFySG9KTFg5QVExMUtscWJ2M2s4eEc0T2NtSkxFZnFjdlRKSkh5dHpCX2hIMkxFZk5ja05pYUx6YkRJN3dCblU0OENyVURRdlVkQnVob21BNUZNN2VNREUwSElnb29yWUFfeVQzbHc3YzV2Q093MkR30gHDAUFVX3lxTE9fVjVMaDM0Rmp1dEd4cEFVZVBrdUVyTGNBWEkzSGVzSkc2RWt0RWJwRk9scl93R1dIUmJvaDVCTEJzYUh1cmVxckNETzd5b2dOQmlxQjFvdmtTd1VYeC1GSml4QTlHVWpWTzM5Um4wTWFaUUFvMko2eGxrQmFEcVN2X3Z3czRQM2dKMnppYjQwU05tZEFPT1htRERHc2xBQmZ6dlVCdXJIa04xZjdaNXk1ZE9mTjhBaXJ1bUxWN3duTHdpcw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-10-30T08:15:15Z"
-  },
-  {
-   "k": "news",
    "u": "SINDOnews Lifestyle",
    "name": "SINDOnews Lifestyle",
    "av": "",
    "followers": 0,
    "cap": "Sinopsis Sinetron 'Terikat Janji' Eps 203: Henry Berusaha Menebus Kesalahannya kepada Davina",
-   "snip": "Sinopsis Sinetron 'Terikat Janji' Eps 203: Henry Berusaha Menebus Kesalahannya kepada Davina SINDOnews Lifestyle Terikat Janji Episode 202 Bryan Dilarikan ke RS Usai Dibius Etomidate, Sena Curigai Dipa gadget.qoo10.co.id Fenomena 'Terikat J",
+   "snip": "Sinopsis Sinetron 'Terikat Janji' Eps 203: Henry Berusaha Menebus Kesalahannya kepada Davina SINDOnews Lifestyle",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1105,7 +1188,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kebahagiaan LANY Bisa Kembali Konser di Jakarta",
-   "snip": "Kebahagiaan LANY Bisa Kembali Konser di Jakarta JPNN.com Jadwal Konser di Senayan Pekan Ini: LANY dan UNGU CNN Indonesia Makna Lagu \"Soft\" LANY, Cermin dari Tema Tur Dunia Mereka RRI.co.id Kenalan dengan Maisy Kay, Penyanyi yang Dipercaya J",
+   "snip": "Kebahagiaan LANY Bisa Kembali Konser di Jakarta JPNN.com Jadwal Konser di Senayan Pekan Ini: LANY dan UNGU CNN Indonesia Makna Lagu \"Soft\" LANY, Cermin dari Tema Tur Dunia Mereka RRI.co.id Ziva Magnolya Duet Bareng LANY di Jakarta, Intip Re",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1126,30 +1209,8 @@
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "4 Zodiak yang Diprediksi Ketiban Hoki pada November 2026, Ada Libra",
-   "snip": "4 Zodiak yang Diprediksi Ketiban Hoki pada November 2026, Ada Libra Kompas.com 3 Zodiak yang Diprediksi Mengawali November 2026 dengan Bahagia Kompas.com Ramalan Zodiak Hari Ini Hingga 8 November 2026, Cek Keberuntunganmu Bisnis Style [QUIZ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0JiWUhkM0RPZWFWM01rTzdaNzVCYmJ3R0ZtNzRGT2NmUmpXSktRZGZUanRUZXdmZzNLQnBOMEVqTXRDck9nblA0R1RlRFVrdk9ZeUNBeFZDOWFRdkJrN2N5SHpPOW9xX3hDa1NscHFBVXdzMTluTnlJVF84N0diS2N4U2k4Mkl4ZzVzVnF3OGNkYmhFQWdqNHhJOXl6Q1RXSTZXQlZ6c0xQN1Z2V3YyZEJvSTVxVy04VExWM3FkMzRob0EtaHVvbWFB?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-10-28T13:45:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
    "cap": "Kanye West Klarifikasi Disebut Marah Saat Konser di Jakarta",
-   "snip": "Kanye West Klarifikasi Disebut Marah Saat Konser di Jakarta Kompas.com Kanye West, The Weeknd, dan Paradoks Kota Kompas.id Kanye West Sukses Konser di Jakarta, Hadirkan Dome Stage Viral hingga Turis Mancanegara Kompas.com Konser Internasion",
+   "snip": "Kanye West Klarifikasi Disebut Marah Saat Konser di Jakarta Kompas.com Kanye West, The Weeknd, dan Paradoks Kota Kompas.id Kanye West Sukses Konser di Jakarta, Hadirkan Dome Stage Viral hingga Turis Mancanegara Kompas.com Ye Sukses Gelar Ko",
    "img": "",
    "vid": false,
    "vt": "NEWS",
