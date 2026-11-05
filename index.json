@@ -1,9 +1,9 @@
 {
  "topics": [
   {
-   "t": "Sctv",
-   "q": "sctv",
-   "cat": "Musik",
+   "t": "Asep Safrudin",
+   "q": "asep safrudin",
+   "cat": "Selebriti",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -11,15 +11,84 @@
    ],
    "src": [
     "Google Trends",
-    "Dinas Komunikasi, Informatika, Statistik dan Persandian Kabupaten Purworejo",
-    "Sinar Pagi News -",
-    "Kapanlagi Plus"
+    "AP News",
+    "Reuters",
+    "Financial Times"
    ],
    "d": "2026-11-05",
-   "url": "https://dinkominfo.purworejokab.go.id/dinkominfostasandi-purworejo-perkuat-koordinasi-hadapi-padatnya-agenda-november-2026",
-   "n": "Dinkominfostasandi Purworejo Perkuat Koordinasi Hadapi Padatnya Agenda November 2026",
+   "url": "https://apnews.com/article/indonesia-security-forces-deployment-wiretapping-8e598661a904d8af89b35ea04d420506",
+   "n": "Indonesia deploys thousands of troops after generals arrested over wiretapping allegations",
    "vol": 200,
    "vu": "pencarian"
+  },
+  {
+   "t": "Samuele Ricci",
+   "q": "samuele ricci",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Kompas.com",
+    "Goal.com",
+    "VIVA.co.id"
+   ],
+   "d": "2026-11-05",
+   "url": "https://bola.kompas.com/read/2026/11/02/02450058/cesc-fabregas-tak-pikirkan-klasemen-serie-a-usai-kekalahan-inter-di-derby-milan?page=all",
+   "n": "Cesc Fabregas Tak Pikirkan Klasemen Serie A Usai Kekalahan Inter di Derby Milan",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Sinopsis Drama China The Silent Storm, Jing Boran Bongkar Skema Pajak",
+   "q": "Sinopsis Drama China The Silent Storm, Jing Boran Bongkar Skema Pajak",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
+   ],
+   "d": "2026-11-05",
+   "url": "https://www.liputan6.com/showbiz/read/8328751/sinopsis-drama-china-the-silent-storm-jing-boran-bongkar-skema-pajak",
+   "n": ""
+  },
+  {
+   "t": "Drama China Tayang Awal November 2026, Thriller dan Romansa Menyapa",
+   "q": "Drama China Tayang Awal November 2026, Thriller dan Romansa Menyapa",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
+   ],
+   "d": "2026-11-05",
+   "url": "https://www.liputan6.com/showbiz/read/8328750/drama-china-tayang-awal-november-2026-thriller-dan-romansa-menyapa",
+   "n": ""
+  },
+  {
+   "t": "AMI Awards 2026: Bintang Dangdut dan Koplo yang Bawa Pulang Piala",
+   "q": "AMI Awards 2026: Bintang Dangdut dan Koplo yang Bawa Pulang Piala",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
+   ],
+   "d": "2026-11-05",
+   "url": "https://www.liputan6.com/showbiz/read/8328743/ami-awards-2026-bintang-dangdut-dan-koplo-yang-bawa-pulang-piala",
+   "n": ""
   },
   {
    "t": "Bukti Ruben Onsu di Sidang Gugatan Hak Asuh Anak Disebut Cukup, Kuasa Hukum Buka Peluang Tambahan",
@@ -61,23 +130,22 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Sinopsis Sinetron Wajah Cinta yang Lain Episode 122, Rabu 4 November 2026 Pukul 19.55 WIB di SCTV",
-   "snip": "Davin yang sedang berada di kantor sangat terkejut ketika mendengar kabar dari Nadin bahwa Ariana mengalami kecelakaan.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/mfjFN7A6LwADhnanRoqCzWSRZ8Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382839/original/044922500_1793012528-WhatsApp_Image_2026-10-26_at_15.10.091.jpeg",
+   "cap": "Sinopsis Drama China The Silent Storm, Jing Boran Bongkar Skema Pajak",
+   "snip": "Drama China The Silent Storm dibintangi Jing Boran, Zhang Songwen, dan Sun Yizhou. Simak sinopsis, daftar pemain, dan jadwal tayangnya di Youku dan CCTV-8.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/cCdVETWbPhXTKvZMaHZV_Enf8NM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390426/original/050675000_1793835099-SnapInsta.to_886421326_1101109322796331_1648872430653567218_n.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328608/sinopsis-sinetron-wajah-cinta-yang-lain-episode-122-rabu-4-november-2026-pukul-1955-wib-di-sctv",
+   "url": "https://www.liputan6.com/showbiz/read/8328751/sinopsis-drama-china-the-silent-storm-jing-boran-bongkar-skema-pajak",
    "likes": null,
    "com": 0,
-   "m": 1,
+   "m": 2,
    "src": [
-    "Liputan6 Showbiz"
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
    ],
-   "hot": [
-    "Sctv"
-   ],
-   "sc": 75,
-   "ts": "2026-11-04T12:41:27Z"
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-11-04T23:31:39Z"
   },
   {
    "k": "news",
@@ -85,23 +153,45 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Karnaval SCTV Siap Meriahkan Purworejo, Hadirkan Bintang Sinetron dan Musisi Ternama",
-   "snip": "Karnaval SCTV hadir di Purworejo pada 7-8 November 2026 dengan konser musik, bintang sinetron, dan hiburan gratis. Simak keseruannya!",
-   "img": "https://cdn1-production-images-kly.akamaized.net/xgzPOjy1RXsK6qXvTfCIEETZ3TM=/1x0:1080x608/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390274/original/099737600_1793790867-WhatsApp_Image_2026-11-04_at_17.48.05.jpeg",
+   "cap": "Drama China Tayang Awal November 2026, Thriller dan Romansa Menyapa",
+   "snip": "Drama China yang tayang awal November 2026 mencakup Sunshine Through the Rain, The Silent Storm, The Confession Truth, dan When I Meet the Moon. Cek jadwalnya.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/oJwCHI0vWw8iwxapZAj461ONByM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390420/original/022175200_1793834751-HWLMh_XaIAAG1RP.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328552/karnaval-sctv-siap-meriahkan-purworejo-hadirkan-bintang-sinetron-dan-musisi-ternama",
+   "url": "https://www.liputan6.com/showbiz/read/8328750/drama-china-tayang-awal-november-2026-thriller-dan-romansa-menyapa",
    "likes": null,
    "com": 0,
-   "m": 1,
+   "m": 2,
    "src": [
-    "Liputan6 Showbiz"
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
    ],
-   "hot": [
-    "Sctv"
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-11-04T23:25:53Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "AMI Awards 2026: Bintang Dangdut dan Koplo yang Bawa Pulang Piala",
+   "snip": "AMI Awards 2026 menobatkan Lesti, Rhoma Irama, Denny Caknan, hingga Selfi Yamma sebagai pemenang kategori dangdut, koplo, dan hipdut. Simak daftar lengkapnya.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/t2DDx8Xj8Cx2IB7roSJgp4yOfY0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390401/original/095915200_1793833222-SnapInsta.to_886577198_122175953024968741_3213604463196396210_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8328743/ami-awards-2026-bintang-dangdut-dan-koplo-yang-bawa-pulang-piala",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
    ],
-   "sc": 65,
-   "ts": "2026-11-04T11:16:46Z"
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-11-04T23:00:24Z"
   },
   {
    "k": "news",
@@ -155,6 +245,116 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
+   "cap": "Sinopsis dan Karakter Penting GJLS: Berapi-Api, Trio GJLS Comeback dengan Kekocakannya",
+   "snip": "Film GJLS: Berapi-Api dibintangi oleh trio GJLS, Rigen Rakelna, Ananta Rispo, dan Hifdzi Khoir.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/rtxVQncVs55MotNHqKvKS5_FAQo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9380570/original/045541100_1792724826-gjls1280.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8326792/sinopsis-dan-karakter-penting-gjls-berapi-api-trio-gjls-comeback-dengan-kekocakannya",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-05T00:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Dita Karang Berbincang dengan Para Pemeran 'The Remarried Empress'",
+   "snip": "Dita Karang punya kenangan indah nih dengan Shin Min Ah, Lee Jong Suk, Ju Ji Hoon dan Lee Se Young dari The Remarried Empress.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/CTwg4MLnrLa4d3shkL7lua7nfms=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390430/original/030444300_1793835483-image.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8328752/dita-karang-berbincang-dengan-para-pemeran-the-remarried-empress",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-04T23:38:03Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Novel Sally Rooney Dilarang di Inggris, Toko Irlandia Turun Tangan",
+   "snip": "Irlandia siap membantu penjualan novel-novel Sally Rooney yang kini telah dilarang dijual di Inggris.",
+   "img": "https://akcdn.detik.net.id/visual/2026/10/22/novelis-sally-rooney-1792666182344_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261102200653-241-1422503/novel-sally-rooney-dilarang-di-inggris-toko-irlandia-turun-tangan",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-04T23:30:03Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Cakra Khan Raih Piala AMI Awards Lewat Lagu Chrisye, Akui Sempat Jiper dan Butuh Rekaman 6 Jam",
+   "snip": "Bagi Cakra Khan, proyek tersebut menjadi salah satu karya paling bermakna yang pernah ia kerjakan.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/6wJ68o58fhVYdcj4idzrUc9KCjs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390418/original/016977400_1793834602-1000677860.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8328748/cakra-khan-raih-piala-ami-awards-lewat-lagu-chrisye-akui-sempat-jiper-dan-butuh-rekaman-6-jam",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-04T23:25:47Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Sempat Terdepak, KPop Demon Hunters Melesat ke Top 3 Netflix",
+   "snip": "KPop Demon Hunters berhasil melesat langsung ke Top 3 Netflix global setelah terdepak sekitar empat pekan.",
+   "img": "https://akcdn.detik.net.id/visual/2026/06/23/kpop-demon-hunters-2025-1782205282942_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261104113649-220-1423122/sempat-terdepak-kpop-demon-hunters-melesat-ke-top-3-netflix",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-04T22:00:30Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
    "cap": "Pesona Lesti Kejora Pakai Busana Ivan Gunawan di Dangdut Academy 8",
    "snip": "Intip deretan penampilan Lesti Kejora pakai busana karya Ivan Gunawan saat jadi juri di Dangdut Academy 8, dari hitam hingga merah. Yuk simak!",
    "img": "https://cdn0-production-images-kly.akamaized.net/__tQpnKNyTBltG0VpbEL55V0J58=/0x393:3072x2124/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390368/original/098253300_1793811156-Dangdut_academy8_ivan_gunawan__ivangunawan.indonesiaHijab_stylist__suciaurelias.jpg",
@@ -168,30 +368,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T16:57:25Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Daftar Pemenang AMI Awards 2026",
-   "snip": "Daftar pemenang Anugerah Musik Indonesia (AMI) Awards ke-29 rampung diumumkan pada Rabu (4/11).",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/21/ami-awards-2026-1789999044255_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261104215033-227-1423426/daftar-pemenang-ami-awards-2026",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-04T16:46:43Z"
   },
   {
    "k": "news",
@@ -212,30 +390,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T16:39:50Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Usai The Early Spring, Jing Boran Jadi Investigator Pajak Silent Storm",
-   "snip": "Jing Boran bersiap kembali ke layar kaca setelah sukses semakin menarik perhatian pencinta drama China lewat The Early Spring.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/04/drama-china-the-silent-storm-2026-1793760858218_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261104095421-220-1423073/usai-the-early-spring-jing-boran-jadi-investigator-pajak-silent-storm",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-04T16:00:21Z"
   },
   {
    "k": "news",
@@ -256,8 +412,30 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T15:40:30Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Klarifikasi Blue Pongtiwat soal Hubungan dengan Lisa BLACKPINK",
+   "snip": "Klarifikasi Blue Pongtiwat soal Hubungan dengan Lisa BLACKPINK detikcom Blue Pongtiwat Bantah Pacari Lisa BLACKPINK, Hanya Teman Satu Circle Wolipop Lisa BLACKPINK Tanggapi Rumor Kencan dengan Aktor Thailand Blue WowKeren Hasil dari hubunga",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUENVMmlWRlZhdml3a1BKdUg1VnhnQmZPOFJQNUJaSVo2RGhMSTA0R0IweE00TFFiS1ZOUjVhQzlQeDVpUUgxdXRtNUtTMl9lSzIwbHRESmNOeVM4cmRFUXFmcGRNM29MdHBudmxFelYybFRFSXZPZ1k2ZDg2YmY2U3ByQVlBOG9MekMxSkNEZTJUVFhmZWZmQk4zN2NJcFlsU3VkaVBxVXUxWDDSAbABQVVfeXFMTU1SSW85Z29MelVUc0EzeXpZTV9lYjJPRzRKTW1QRGwwcTRzZjEzOU9GbjNMWEtjX1JwWVcyREhvNUJsMkFndE1QOHFFMjJOUjZ4bjRUODQ2VVUzZEdDUzYtOWpycVZIeVhHcHZqZ1VrNG5SLXJ4dllFUncwMnJFSHZkcUdtR0EyLXJhbTlUaUJxMkk2UGV0VXFkUXdTc1RFTFN5M1pkcWQzRkFFMkhETHQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-04T15:08:17Z"
   },
   {
    "k": "news",
@@ -266,7 +444,7 @@
    "av": "",
    "followers": 0,
    "cap": "Foto Pernikahan Supermodel Korea dengan Petinggi Samsung, Beda Usia 25 Tahun",
-   "snip": "Foto Pernikahan Supermodel Korea dengan Petinggi Samsung, Beda Usia 25 Tahun Wolipop Supermodel Korea menemukan cinta setelah usia 40, menikahi pengusaha berusia 70 tahun. Vietnam.vn Penampilan supermodel Korea Selatan yang baru saja menika",
+   "snip": "Foto Pernikahan Supermodel Korea dengan Petinggi Samsung, Beda Usia 25 Tahun Wolipop Supermodel Korea menemukan cinta setelah usia 40, menikahi pengusaha berusia 70 tahun. Vietnam.vn Kim Ja Yeon Nikahi Petinggi Samsung di Swiss CentralBatam",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -278,7 +456,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T15:00:00Z"
   },
   {
@@ -300,8 +478,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T15:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "D'MASIV Putus Kerja Sama dengan RANS Entertainment untuk Tur Asia",
+   "snip": "D'MASIV Putus Kerja Sama dengan RANS Entertainment untuk Tur Asia Kompas.com D'MASIV Tak Lagi Gandeng RANS untuk Konser Asia di Tengah Seruan Boikot Raffi Ahmad celebrity.okezone.com D'Masiv Ganti Promotor Konser Tur Asia, Tinggalkan RANS k",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVhDYUNKbmZ1LTdwa1VOMGl5QlN5eHQtOGp6NDBINWpnQXd5bTRpbjRFLWRCWm5HaktMUk9DaldYRnNGbFRRbGJXWjlESGhTdm5jbE5NQTlRb2dpX3dBSVN6bTVCdUNzcThyZEt1MDBYQWdJTHItQWVnWEt1MFNpc0hLQ1B3dlJzSTlFOC1PMEVCZElxNUpzS2wxZkpZQVpHbWdxOE9BakJSY1NkZnFnYmNmay15RkJBSUZxTXl6eGQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-04T14:44:00Z"
   },
   {
    "k": "news",
@@ -322,7 +522,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T14:23:15Z"
   },
   {
@@ -344,7 +544,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T14:07:46Z"
   },
   {
@@ -366,7 +566,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T13:55:08Z"
   },
   {
@@ -388,30 +588,30 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T13:19:24Z"
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Sinopsis 5 Drama China Rating Tertinggi di Netflix",
-   "snip": "Berikut lima rekomendasi drama China dengan performa dan rating tertinggi di Netflix yang patut masuk daftar tontonan.",
-   "img": "https://akcdn.detik.net.id/visual/2026/08/27/drama-china-the-early-spring-2026-1787803240372_169.jpeg?w=360&q=90",
+   "cap": "Sinopsis Sinetron Wajah Cinta yang Lain Episode 122, Rabu 4 November 2026 Pukul 19.55 WIB di SCTV",
+   "snip": "Davin yang sedang berada di kantor sangat terkejut ketika mendengar kabar dari Nadin bahwa Ariana mengalami kecelakaan.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/mfjFN7A6LwADhnanRoqCzWSRZ8Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382839/original/044922500_1793012528-WhatsApp_Image_2026-10-26_at_15.10.091.jpeg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261102163308-220-1422404/5-rekomendasi-drama-china-netflix-rating-tertinggi",
+   "url": "https://www.liputan6.com/showbiz/read/8328608/sinopsis-sinetron-wajah-cinta-yang-lain-episode-122-rabu-4-november-2026-pukul-1955-wib-di-sctv",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "CNN Indonesia"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
-   "ts": "2026-11-04T13:01:14Z"
+   "sc": 40,
+   "ts": "2026-11-04T12:41:27Z"
   },
   {
    "k": "news",
@@ -432,7 +632,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T12:28:35Z"
   },
   {
@@ -454,7 +654,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-04T12:28:22Z"
   },
   {
@@ -530,7 +730,7 @@
    "av": "",
    "followers": 0,
    "cap": "RANS Buka Suara soal Penonton Bayaran Acara di Yogyakarta",
-   "snip": "RANS Buka Suara soal Penonton Bayaran Acara di Yogyakarta detikFinance RANS Buka Suara soal Pembatalan Musisi dan Dugaan Pengerahan Warga Kompas.com RANS Buka Suara soal Dugaan Pengerahan Massa Bayaran di Carnival Jogja CNN Indonesia Boikot",
+   "snip": "RANS Buka Suara soal Penonton Bayaran Acara di Yogyakarta detikFinance RANS Buka Suara soal Dugaan Pengerahan Massa Bayaran di Carnival Jogja CNN Indonesia RANS Buka Suara soal Pembatalan Musisi dan Dugaan Pengerahan Warga Kompas.com Boikot",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -544,6 +744,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-04T11:30:29Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Karnaval SCTV Siap Meriahkan Purworejo, Hadirkan Bintang Sinetron dan Musisi Ternama",
+   "snip": "Karnaval SCTV hadir di Purworejo pada 7-8 November 2026 dengan konser musik, bintang sinetron, dan hiburan gratis. Simak keseruannya!",
+   "img": "https://cdn1-production-images-kly.akamaized.net/xgzPOjy1RXsK6qXvTfCIEETZ3TM=/1x0:1080x608/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390274/original/099737600_1793790867-WhatsApp_Image_2026-11-04_at_17.48.05.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8328552/karnaval-sctv-siap-meriahkan-purworejo-hadirkan-bintang-sinetron-dan-musisi-ternama",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-04T11:16:46Z"
   },
   {
    "k": "news",
@@ -679,28 +901,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Nassar Ungkap Persiapan Fisik dan Latihan Jelang Konser 7 November 2026",
-   "snip": "Nassar mematangkan persiapan fisik dan latihan jelang konser 7 November 2026. Simak pola tidur cukup, olahraga, dan latihan musik yang dijalaninya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/5JoKhiIciBfM1-EY0fA7l8Wtloo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390032/original/019448900_1793781386-NASSAR_HL-L6.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328370/nassar-ungkap-persiapan-fisik-dan-latihan-jelang-konser-7-november-2026",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T09:19:36Z"
-  },
-  {
-   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
@@ -811,28 +1011,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Shin Min Ah Tampil Bak Permaisuri di Konferensi Pers Drakor The Remarried Empress",
-   "snip": "Shin Min Ah tampil memukau bak permaisuri di konferensi pers drakor The Remarried Empress pada 4 November 2026.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/jLjqJX-7Dpoh3Rtyd_9YyBF_B9M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390010/original/000557300_1793780626-New_Project__8_.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328358/shin-min-ah-tampil-bak-permaisuri-di-konferensi-pers-drakor-the-remarried-empress",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T08:23:45Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
@@ -899,56 +1077,12 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Melly Lee dan Arbil DA7 Rilis Single Duet 'Jangan Pernah Macam Macam'",
-   "snip": "Melly Lee dan Arbil DA7 merilis single duet yang berjudul 'Jangan Pernah Macam Macam'. Baca selengkapnya di sini yuk.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/5Qi0BPa8-IpIsPfeAbH9FcrZFfk=/0x267:1999x1394/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9389919/original/081371000_1793778542-Melly_Lee_-_Arbil_2.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328289/melly-lee-dan-arbil-da7-rilis-single-duet-jangan-pernah-macam-macam",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T07:58:07Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Sandy Tumiwa Suarakan Gerakan Anti Perundungan Lewat Karya Seni Peran",
-   "snip": "Sandy Tumiwa garap film bertema anti-bullying di Kuningan dengan dukungan Pemerintah Derah. Ia berencana berkolaborasi dengan Duta Pariwisata Jabar, Vera Novia.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/qZ115wMx8AMdb1EaXbM3iXV0eyc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9389896/original/056780200_1793777791-L6vera_veranov_1793626970_4021554517092335348_47408616145.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328277/sandy-tumiwa-suarakan-gerakan-anti-perundungan-lewat-karya-seni-peran",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T07:36:54Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Ferry Maryadi Khawatir Harleyava Princy Liburan Sendiri",
-   "snip": "Ferry Maryadi Khawatir Harleyava Princy Liburan Sendiri detikHOT Ferry Maryadi Rutin Video Call Lea Saat Liburan Sendiri Demokratis.co.id Ferry Maryadi Rutin Pantau Kondisi Lea Lewat Video Call SuaraGarut.ID Ferry Maryadi Khawatir saat Harl",
+   "snip": "Ferry Maryadi Khawatir Harleyava Princy Liburan Sendiri detikHOT Ferry Maryadi Rutin Video Call Lea Saat Liburan Sendiri Demokratis.co.id Ferry Maryadi Khawatir Saat Harleyava Princy Liburan Sendiri, Tetap Minta Kabar Setiap Hari gadget.qoo",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -962,28 +1096,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-04T07:04:36Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Jeff Bernat Umumkan Jakarta Masuk Luv Language Tour 2027, Siap Konser Februari Mendatang!",
-   "snip": "Jeff Bernat resmi memasukkan Jakarta dalam Luv Language Tour 2027. Penyanyi R&B ini dijadwalkan konser pada 2 Februari 2027 di Taman Ismail Marzuki.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/dqVnanm1D1ejuzNwdRFpsHZ7qV0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9389851/original/034009500_1793775692-jeffbernat.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8328248/jeff-bernat-umumkan-jakarta-masuk-luv-language-tour-2027-siap-konser-februari-mendatang",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T07:01:32Z"
   },
   {
    "k": "news",
@@ -1006,28 +1118,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-04T07:00:14Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Yuyun Yunita Klaim Masih Alami Intimidasi dari Reza The Groove",
-   "snip": "Yuyun Yunita Klaim Masih Alami Intimidasi dari Reza The Groove detikHOT Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3ZLRUhCZ1QyeXh5bnVnNHdpMV9pdTRqcEtYTDR3Zkl5OXVxRkY4UFR6RlZJRllFZHhOdTRZU0xsLTVmWkhPSzlhQ3BScXppQ1Z4WFRISzJJaWxUVXpqLVVPeG9tajEtNTFjMy1EOVpJWGtSS21KRkdYSERDSjY3Tl94Y0EzLVp3dnBpYlRORVJqMi03azlFTTBqRXc0VVhRT3fSAacBQVVfeXFMUER2UGtoVVVBb0ZfTkZuTGJId2JQT0ZTR3lxUEZvN0xIWVA4ejlyWExyZXhoUWRXR0YtektROUZDWlg2aWQyNWVCMmdHUlloaGVtS1d3dVU3SjRRLWFiTldjQXJVblhLNnBPa3l1bjVtOFlRWXpFRTg3bmlDOU9aa2RHRXRRbk5jUWdCUHBULTMzcjhTcloxb1hKVzdScm5PWnpCcjh5MWs?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T06:03:32Z"
   },
   {
    "k": "news",
@@ -1097,25 +1187,25 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Teka-teki Hubungan Lisa BLACKPINK dan Blue Pongtiwat Terjawab!",
-   "snip": "Teka-teki Hubungan Lisa BLACKPINK dan Blue Pongtiwat Terjawab! detikcom Blue Pongtiwat Bantah Pacari Lisa BLACKPINK, Hanya Teman Satu Circle Wolipop Lisa BLACKPINK Tanggapi Rumor Kencan dengan Aktor Thailand Blue WowKeren Hasil dari hubunga",
-   "img": "",
+   "cap": "Film Zharfa di Vidio: Drama Religi Kolaborasi Indonesia dan Malaysia soal Santri Putri",
+   "snip": "Film Zharfa (2019) merupakan drama religi kolaborasi Indonesia dan Malaysia tentang santri putri yang menghadapi konflik keluarga. Nonton di Vidio.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/ULqZYw6jglouSFsH_cF554UgJ-M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9387758/original/076991900_1793542394-PH_MOBILE_ZHARFA_MAIN_KV__1_.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlVzeXpJUFVrVUp1VVpYQnNpZUNsWkFkOUZobGgxckNLV3N3Umh4NDZaUTVKN0l1UWFNa1l6Qklod3hjUkhfVGNaNml4aG9zUm9EYTMzM2RuNWIwSzhidHVpbDZGeVE0ZXVtWmZuczQ1TkxMc3lVOWs5VU8zRllVakFhYTZFQVFNc3drMHFnMzdKUUg4ZkhaWXRGN25tYlFUd3FJWFNZSFBBbGNOQ3fSAbMBQVVfeXFMTy1zQlpHZmJac2V6YXRVT1hNX01OM0pDN0hIVDNxYS1tTVphNUFSaXhYeG9obHRjSjVHRlVRWUg0Q3ktcTlhRnZobnA1UGZCcUJNWGxOV25XYzltWWJyd2VmTGM2Rm5uUEJoZWk0WGVET0FjSFoxcTJtRHB2VUZnbTVwaHZaT3JaemRYdVNuZ3JaU3habF9yb1VEQ3NJdzZJSjRHN1dKSjNNWUdCUHdHVVEyazA?oc=5",
+   "url": "https://www.liputan6.com/showbiz/read/8326204/film-zharfa-di-vidio-drama-religi-kolaborasi-indonesia-dan-malaysia-soal-santri-putri",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "detikcom"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-11-04T04:30:23Z"
+   "ts": "2026-11-04T04:23:18Z"
   },
   {
    "k": "news",
@@ -1146,7 +1236,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini Rabu 4 November 2026, Lengkap Angka dan Warna Keberuntungan - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini Rabu 4 November 2026, Lengkap Angka dan Warna Keberuntungan - sumeks.disway.id Sumeks Ramalan Shio 5 November 2026: Macan, Kuda, Anjing, dan Babi Mulai Rasakan Kebahagiaan Pontianak Post 4 Shio Diprediksi Punya Koneksi",
+   "snip": "Ramalan Shio Hari Ini Rabu 4 November 2026, Lengkap Angka dan Warna Keberuntungan - sumeks.disway.id Sumeks Peluang Rezeki Menghampiri! Pemilik 3 Shio Ini Punya Peruntungan Menarik pada 5 November 2026 Pontianak Post 4 Shio Diprediksi Punya",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1163,34 +1253,12 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Hannah Hannon Go Public dengan Pemain Bola Jack Brown",
-   "snip": "Hannah Hannon Go Public dengan Pemain Bola Jack Brown detikHOT",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHFkeW5yUV9kbUVVX2JaeVZCdkEzU0NQOVRURVJOb1A2SFJuRy1pWEFhci1HeEMxN1l4MXc3VUJXSGhYckVzelNIX0F0N1c4aXZVcHBNeUZWa3pvSThsMzI1alN0Sk0taS01UDByM19USVFfQUt1S1RBMlhzLVQ2R2VKXzFwbUxmb01TR0JaMS1uLXlqX0HSAZsBQVVfeXFMTTM0M1lKN3VPVmo2Rzh0RDdUek9BeFIyWlQxWFhHT3pqTFZFZVM5Z2RLYjRIZDQ5dEpPelBMa2pLOFRXWEtWNTNUSmVtYkJ5OGtEVUc1eC1zcm5nVk1FVHEwWElYUEtOVmdKbk1fSUtQSjBoZ0VTd3ZxWkFYRXFxWHlEZnhVUGNERXdzdzV0S2Y1eWJzOWJDYmVZaEE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-04T03:36:27Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
    "followers": 0,
    "cap": "8 Potret Fuji Ultah ke-24, Dapat Kejutan Spesial Dari Rakin Khan",
-   "snip": "8 Potret Fuji Ultah ke-24, Dapat Kejutan Spesial Dari Rakin Khan Wolipop Fuji Dapat Kejutan Ulang Tahun dari Rakin Khan, Pura-Pura Terkejut Liputan6.com Rakin Khan Sampaikan Doa Romantis untuk Fuji di Ulang Tahun ke-24 Limapagi",
+   "snip": "8 Potret Fuji Ultah ke-24, Dapat Kejutan Spesial Dari Rakin Khan Wolipop Ulang Tahun Fuji Penuh Kejutan, Rakin Khan Siapkan Surprise Romantis Bareng Sahabat Terdekat Radar Solo Rakin Khan Beri Doa Manis di Ulang Tahun Fuji: Semoga Aku Ada d",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1290,7 +1358,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-03T23:20:06Z"
   },
   {
@@ -1312,7 +1380,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-03T22:00:05Z"
   },
   {
@@ -1427,25 +1495,25 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "Haibunda",
+   "name": "Haibunda",
    "av": "",
    "followers": 0,
-   "cap": "T.O.P Minta Maaf usai Fanbase 20 Tahun Tutup",
-   "snip": "T.O.P meminta maaf kepada pengurus ChoiSeungHyun.com dan penggemar yang terluka atas situasi yang berujung penutupan fan page.",
-   "img": "https://akcdn.detik.net.id/visual/2026/03/20/choi-seung-hyun-atau-top-1773966983713_169.png?w=360&q=90",
+   "cap": "Potret Endhita dan Oncy Ungu yang Dipuji Awet Muda, Kebersamaan dengan Anak Curi Perhatian",
+   "snip": "Potret Endhita dan Oncy Ungu yang Dipuji Awet Muda, Kebersamaan dengan Anak Curi Perhatian Haibunda",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261103120202-234-1422704/top-minta-maaf-usai-fanbase-20-tahun-tutup",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJuX3NleXZGZFBPdEJRbDBhWVA4OWVSbmw1Q3oxM0VWdVpyRVRfNWVVQzMyU0owMEU0ZjA0MGduUEJFdnFVVHhjcFBjVjJOVzJtMWRnemlhcGRtbmpvVVVremdudmNRN1Zzek8tTlpfc2FSaTdQYXdKZjNkZjhfUjI2Mm5yZmFyV2JuWGNkZEEwTm94aFV6SzV1OWxucUJvcUpKcy0zTW16b09ueWJZekdVZlE3dnlzbTJsRzNmeFpjSnRWV3VZdVNMWk5EQlRmdE5BZWxYLTNlNEJzSVlsMXlRVdIB6AFBVV95cUxOSGpPRHRxTlF6T1U2YTVYM1p2ZXlGc0VtYm1fS1hFWXNTNFM4b3FCMF92dl9CTl9FTFZFNXk2NmstNFBPcTlyV29DQVVrc2VRV1d6eGsya1pMOTIza2wtRXRxMzFjamYyckVkYUVzQjY4ZFZxSlhOQ0F4VU5KOVhtNlZ5ZXJoN0taWERzXzRkLWVZdkZQSGFVakRkNklFVTRnZ3laMl9TNkVCVmpubUY0NDh3Z05DbHlGWnVhZXVGRVd6c3hKNGNZTmFMeGdOTmZ4Qk50VTlDbjZ3Z0NQajZlb0FRUWR4UzRS?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "CNN Indonesia"
+    "Haibunda"
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-11-03T09:20:16Z"
+   "ts": "2026-11-03T08:00:00Z"
   },
   {
    "k": "news",
@@ -1471,78 +1539,12 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Aceh Tak Ada Bioskop, Film Pasukan 1000 Janda Siap Gelar Nobar Khusus",
-   "snip": "Aceh Tak Ada Bioskop, Film Pasukan 1000 Janda Siap Gelar Nobar Khusus Kompas.com Cerita Mahmudin dan Malahayati, Ketika Suami Mendukung Perempuan untuk Berjuang republika.co.id Syaura Salsabila, Pendatang Baru yang Bersinar di Film Pasukan ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWF1TVBhclIzbmw0dU1vT1ZJVE5qV0Zmc3dLbENUMjJFMldUaUZfYThrVV9QejB6WndtYnh0eXdBdnI1a3FXckpBQmtvRU9NRGoxR3d5bDVpSGJQVmc5dkRyTVhLRm1sbmlnRm9mU3l6TlZ0cUtGTWFVN1lIbUVqLWthSnI2M05UUENWeU93UFRBWHlUOG5fdVJVc2Zwb0RVbFdaZHBLZmtZZE95aUxyWUx0YlpwOUp6cTFkY2pkNA?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-03T07:15:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "GSI Youth Fest Tetap Digelar di Solo: Ndarboy Genk Mundur, Kehadiran Raffi Ahmad Dibatalkan",
-   "snip": "GSI Youth Fest Tetap Digelar di Solo: Ndarboy Genk Mundur, Kehadiran Raffi Ahmad Dibatalkan Kompas.com Ndarboy Genk Batal Manggung di Solo Imbas Isu Boikot Medcom.id Panitia Batalkan Undang Raffi Ahmad di GSI Youth Fest Hero Summit Suara.co",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaW4tQTBsMzFOc3BVM24zRmR0YmFFcElGb01TT0RLekpVOE5PQWNKUldGTmJmLTFrWTRmTjREdXdnRTVqdURLcjJBSWR6YkZnTWpXT1d1aXU5ZFV6RE9oV29sSEFHUGVpdFdINldKcG1GcExBbWM1YzJHeTBDYnZGZHpKNURqbWtYeW9fdHlQX0dfMzZ4QjZSRk9YRmRpRFFwVGxUTnA5YklNTUR2YkxHUnAxTHY5YzIyaFZ4ZFo1ZHRQdk50aDA3RG5zT0t0Q2Rt?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-03T03:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "5 Rekomendasi Drama China Baru Tayang November 2026",
-   "snip": "5 Rekomendasi Drama China Baru Tayang November 2026 CNN Indonesia Sinopsis dan Jadwal Tayang Drama China When I Meet The Moon, Penutup Trilogi Nanwu Medcom.id Rekomendasi Novel yang Diadaptasi Jadi Dracin 2026, Paling Populer! IDN Times Whe",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUzFiN0U1X0tEQVVuUGtjSDR4ZDZWR3E3SFA0bFdGSzdGWnB3NS1mdlNMWXpZdFpQbVl0YkpNYklNMmdUN1I1Tk5zYXFkcHhYbmI4enphaDIzT0tPZHFIUmZKV05wVTk4aTh4NHBDT1ptakpOaFlDWHpKU2t2Ui1sRG1MdTJQeUM1WlpnZ3U0MU4yVVRkVDJ5SWZzUFBqRTItaDBEdWFvZFo2ZXF5TnBLSUxKdjRyUdIBuwFBVV95cUxNemdBS2dwVmZCWkI2aUxmN2lNc1RXQTRmM1Q2emNuSkx1M09EYkVaVm9Rd0tfdnNyQ0xFUDhBWGxZTF9RTURMM1ktamZfZDA3aXpLY0NTRnYwREw3TEZhVmpaZzBKZWt3cDA0eTJRdzY0bmN4NUtES3oxSVFZaFVvRV9GSnNaX09OYnp0RllZeC15bkVaeVdqcWY0LVZ4Q01Za1B5MWNBanJMWmZka3FDR25vNUVVYUZpNXk0?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-02T10:00:17Z"
-  },
-  {
-   "k": "news",
    "u": "SINDOnews Lifestyle",
    "name": "SINDOnews Lifestyle",
    "av": "",
    "followers": 0,
    "cap": "Disebut Kacang Lupa Kulit karena Kritik Raffi Ahmad, Jerome Polin : Integritas Tak Bisa Dibeli",
-   "snip": "Disebut Kacang Lupa Kulit karena Kritik Raffi Ahmad, Jerome Polin : Integritas Tak Bisa Dibeli SINDOnews Lifestyle Jerome Polin Disebut Kacang Lupa Kulit usai Unfollow Raffi Ahmad, Netizen: Jangan Bawa-bawa Masa Lalu SINDOnews Lifestyle Jer",
+   "snip": "Disebut Kacang Lupa Kulit karena Kritik Raffi Ahmad, Jerome Polin : Integritas Tak Bisa Dibeli SINDOnews Lifestyle Kakak Jerome Polin Buka Suara soal Unfollow Raffi Ahmad: 'Hilang Respect usai Bahas Ojol Dilindas' TribunStyle.com Viral Jero",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1559,12 +1561,34 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Wardatina Mawa soal Kabar Isbat Nikah Inara Rusli dengan Insanul",
+   "snip": "Wardatina Mawa soal Kabar Isbat Nikah Inara Rusli dengan Insanul detikHOT Diam-diam, Wardatina Mawa Kirim Surat ke MUI Soal Dugaan Perzinaan Insanul Fahmi dan Inara Rusli VIVA.co.id Wardatina Mawa Tanggapi Rencana Isbat Nikah Inara Rusli شب",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2hSUkpmTGtsLUplcjhuQXhFY3BEbTF3WXh4WXV2M1EzX0dGblhqdWRldnhTRnhjN0RFakpBbDR2cFQwVzlrQkhDdHVaVDhWRTBaVzJxWEtkd1RULTRIS2tLMC1EVXRwLThxQlB3VFpzbWNFbm9KbFlFb3RTaVo2Z1ZLaWVhT0ItazdIVlBDcHgzWkdGY1pxSEhRUXpuVTlBa05JMdIBqgFBVV95cUxQWEVwaXl0ZDRCTGlUYUFoM3ZRaUdXT1QwSzRETm5JbzNlS1NLenVUbVBDeGlOMGFqT2JUblk3VFF0QUNYRXo3b2NJR2wwYm9lRmFXOThfZFJINTNKckszNVlzOWgyc1VIU3B3YmVyQXJ2ZnB2d0hlbzFFVlhUSkNZNHNqdktQdjFpYzZ2X2V6RE1qWWdiQWVjcEIxRmYtbW55TUlVRXdQdlp0QQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-02T04:05:55Z"
+  },
+  {
+   "k": "news",
    "u": "Scientia Indonesia",
    "name": "Scientia Indonesia",
    "av": "",
    "followers": 0,
    "cap": "Laut Bercerita: Ketika Cerita Beralih ke Layar",
-   "snip": "Laut Bercerita: Ketika Cerita Beralih ke Layar Scientia Indonesia Literasi sebagai Perlawanan: Sebuah Pembacaan Laut Bercerita Kementerian Agama Laut Bercerita di mata mahasiswa Yogyakarta ANTARA News Yogyakarta Laut Bercerita dalam Karya F",
+   "snip": "Laut Bercerita: Ketika Cerita Beralih ke Layar Scientia Indonesia Literasi sebagai Perlawanan: Sebuah Pembacaan Laut Bercerita Kementerian Agama Seminggu Tayang, Film Laut Bercerita Kantongi 500.000 Penonton Kompas.com Laut Bercerita di mat",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1608,7 +1632,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sinopsis dan Daftar Pemain Drakor Misteri Fantasi Dead-End Job yang Tayang di Netflix",
-   "snip": "Sinopsis dan Daftar Pemain Drakor Misteri Fantasi Dead-End Job yang Tayang di Netflix Beautynesia Adegan Foreshadowing dalam Drakor Dead-End Job, Petunjuknya Sudah Muncul Sejak Episode Pertama Medcom.id Lee Jae-wook Bintangi Dead-End Job, D",
+   "snip": "Sinopsis dan Daftar Pemain Drakor Misteri Fantasi Dead-End Job yang Tayang di Netflix Beautynesia Lee Jae-wook Bintangi Dead-End Job, Drama Korea Horor Terbaru Netflix Radar Malang Adegan Foreshadowing dalam Drakor Dead-End Job, Petunjuknya",
    "img": "",
    "vid": false,
    "vt": "NEWS",
