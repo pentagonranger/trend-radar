@@ -1,43 +1,6 @@
 {
  "topics": [
   {
-   "t": "Juventus",
-   "q": "juventus",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "ANSA",
-    "Juventus.com"
-   ],
-   "d": "2026-11-06",
-   "url": "https://www.goal.com/it/notizie/dove-vedere-alkmaar-juventus-diretta-tv-streaming-online/blt0c51b170e9bf5582",
-   "n": "Dove vedere Alkmaar-Juventus in diretta tv e in streaming: canali, data, orario e formazioni",
-   "vol": 2000,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Perseteruan Ruben Onsu dan Sarwendah di Sidang Wanprestasi",
-   "q": "Perseteruan Ruben Onsu dan Sarwendah di Sidang Wanprestasi",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "CNN Indonesia",
-    "detikHOT"
-   ],
-   "d": "2026-11-06",
-   "url": "https://www.cnnindonesia.com/hiburan/20261105162808-234-1423761/fakta-usulan-damai-ruben-hingga-sarwendah-ogah-bayar-cicilan-rp124-m",
-   "n": ""
-  },
-  {
    "t": "Andien Sampaikan Keprihatinan atas Bencana Alam Indonesia di AMI Awards 2026",
    "q": "Andien Sampaikan Keprihatinan atas Bencana Alam Indonesia di AMI Awards 2026",
    "cat": "Selebriti",
@@ -54,46 +17,23 @@
    "n": ""
   },
   {
-   "t": "Lee Jong-suk Curhat Adegan Tanpa Busana The Remarried Empress",
-   "q": "Lee Jong-suk Curhat Adegan Tanpa Busana The Remarried Empress",
+   "t": "Massa Gelar Demo dan Bakar Ban di Depan Trans TV, Minta Ruben Onsu Tak Lagi Tampil di Televisi",
+   "q": "Massa Gelar Demo dan Bakar Ban di Depan Trans TV, Minta Ruben Onsu Tak Lagi Tamp",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
     "Portal Berita"
    ],
    "src": [
-    "CNN Indonesia",
+    "Liputan6 Showbiz",
     "celebrity.okezone.com"
    ],
    "d": "2026-11-05",
-   "url": "https://www.cnnindonesia.com/hiburan/20261103135855-220-1422757/lee-jong-suk-cemas-perankan-burung-di-the-remarried-empress",
+   "url": "https://www.liputan6.com/showbiz/read/8329305/massa-gelar-demo-dan-bakar-ban-di-depan-trans-tv-minta-ruben-onsu-tak-lagi-tampil-di-televisi",
    "n": ""
   }
  ],
  "posts": [
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Perseteruan Ruben Onsu dan Sarwendah di Sidang Wanprestasi",
-   "snip": "Berikut poin-poin perseteruan Ruben Onsu dan Sarwendah dalam kasus wanprestasi cicilan rumah.",
-   "img": "https://akcdn.detik.net.id/visual/2024/06/12/sarwendah-dan-ruben-onsu-1_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261105162808-234-1423761/fakta-usulan-damai-ruben-hingga-sarwendah-ogah-bayar-cicilan-rp124-m",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "CNN Indonesia",
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 68,
-   "ts": "2026-11-05T22:00:05Z"
-  },
   {
    "k": "news",
    "u": "Liputan6 Showbiz",
@@ -119,48 +59,312 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Lee Jong-suk Curhat Adegan Tanpa Busana The Remarried Empress",
-   "snip": "Lee Jong-suk blak-blakan soal tantangan saat memerankan Heinrey dan burung Queen dalam The Remarried Empress.",
-   "img": "https://akcdn.detik.net.id/visual/2026/10/30/drama-korea-the-remarried-empress-2027-1793352758313_169.jpeg?w=360&q=90",
+   "cap": "Massa Gelar Demo dan Bakar Ban di Depan Trans TV, Minta Ruben Onsu Tak Lagi Tampil di Televisi",
+   "snip": "Massa menggelar demo dan membakar ban di depan Trans TV, menuntut Ruben Onsu tak lagi tampil di televisi. Simak respons kuasa hukum dan tuntutan mereka!",
+   "img": "https://cdn0-production-images-kly.akamaized.net/UC_qFRy1h5oEZwnHJTThmVYPfp0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391150/original/054223800_1793874548-IMG-20261105-WA0093.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261103135855-220-1422757/lee-jong-suk-cemas-perankan-burung-di-the-remarried-empress",
+   "url": "https://www.liputan6.com/showbiz/read/8329305/massa-gelar-demo-dan-bakar-ban-di-depan-trans-tv-minta-ruben-onsu-tak-lagi-tampil-di-televisi",
    "likes": null,
    "com": 0,
    "m": 2,
    "src": [
-    "CNN Indonesia",
+    "Liputan6 Showbiz",
     "celebrity.okezone.com"
    ],
    "hot": [],
    "sc": 58,
-   "ts": "2026-11-05T07:00:14Z"
+   "ts": "2026-11-05T10:42:45Z"
   },
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "KKP: 31 juta hektare perairan laut masuk kawasan konservasi",
-   "snip": "Kementerian Kelautan dan Perikanan (KKP) menyatakan bahwa seluas 31 juta hektare laut di Indonesia saat ini masuk ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/05/IMG_20261105_232543.jpg",
+   "cap": "Potret Anya Geraldine Bawa Ular di Gala Premiere Film, Penampilannya Curi Perhatian",
+   "snip": "Aksi Anya Geraldine ini memperlihatkan penampilan yang berbeda dari biasanya. Simak selengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/RXSeOa2yPfd3i7-3e1kD_o91O2Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391433/original/002840200_1793932632-L6anyageraldine_1793801208_4023014403468461030_177756402.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5835447/kkp-31-juta-hektare-perairan-laut-masuk-kawasan-konservasi",
+   "url": "https://www.liputan6.com/showbiz/read/8329659/potret-anya-geraldine-bawa-ular-di-gala-premiere-film-penampilannya-curi-perhatian",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Antara"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-11-05T16:50:50Z"
+   "ts": "2026-11-06T02:37:30Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Jokowi Ditunjukkan Album Alumni UGM oleh Kubu Roy: Belum Pernah Lihat",
+   "snip": "Dalam persidangan, Jokowi mengaku belum pernah melihat buku Album Alumni UGM yang dipertanyakan terkait ijazahnya.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/05/jokowi-hadiri-sidang-sebagai-saksi-di-pn-jakarta-timur-1793878221458_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/nasional/20261106085010-12-1424006/jokowi-ditunjukkan-album-alumni-ugm-oleh-kubu-roy-belum-pernah-lihat",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T02:36:17Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Divonis Bersalah, Russell Brand Langsung Dijebloskan ke Penjara",
+   "snip": "Russell Brand divonis bersalah atas tiga dakwaan kekerasan seksual dan satu dakwaan pemerkosaan hingga langsung dijebloskan ke penjara.",
+   "img": "https://akcdn.detik.net.id/visual/2026/02/25/komika-russell-brand-bantah-tuduhan-pemerkosaan-1771985845597_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261106085715-234-1424007/russell-brand-divonis-bersalah-atas-pemerkosaan-dan-pelecehan",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T02:20:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Shinta Bachir Bawa Barang Branded Sendiri demi Jadi Livia di 'Sleeping with the Enemy'",
+   "snip": "Shinta Bachir mengaku penampilannya harus terlihat sempurna sepanjang cerita.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/bfNdycXbogNzRXC8GnNvIKzGrAM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391414/original/046532900_1793929605-L69106.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8329630/shinta-bachir-bawa-barang-branded-sendiri-demi-jadi-livia-di-sleeping-with-the-enemy",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T01:46:44Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Sukses Mendunia, Industri Drakor Malah Krisis di Korea Selatan",
+   "snip": "Asosiasi bongkar kondisi industri drama Korea yang sesungguhnya terpuruk di dalam negeri, meski sukses secara global.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/05/drama-korea-my-mister-2018-1793885042821_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261105200131-220-1423888/industri-drama-korea-krisis-parah-jerit-minta-bantuan-pemerintah",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T01:00:08Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Jokowi Clears Diploma Photo Rumors: I Had a Mustache, Wore Glasses",
+   "snip": "Former President Jokowi testified at the East Jakarta District Court, confirming the authenticity of his diploma photo during his defamation trial.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2123095/jokowi-clears-diploma-photo-rumors-i-had-a-mustache-wore-glasses",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T00:28:33Z"
+  },
+  {
+   "k": "news",
+   "u": "detikInet",
+   "name": "detikInet",
+   "av": "",
+   "followers": 0,
+   "cap": "Meme dan Jokes Jadul yang Kocaknya Masih Dapet sampai Sekarang",
+   "snip": "Meme dan Jokes Jadul yang Kocaknya Masih Dapet sampai Sekarang detikInet",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmlwcVRIWWFfY2hnZ1gzUE0zdkE3U0dDeVM4N2hncldUOWpXbHFOZFJVQzF0ZkJFcXhkOU9kR0RtOS0yYWN1QjhJS19URHZvb0dPZG9mdlJBT3ZnNWo3OXdfMTVwckNCdHY0Y0JkLURXSDIweWl1ZENrcWpNMmsxN3hSQXRYaFJTX1NRSzJfNFNDTEl4aWszVE5GcVY2N0wtR3ppcDhSWdIBrAFBVV95cUxQVXVGRDd5YU1UeGVCUW1SZGQ5M2dGZWVkWjREalpqWkw4Wml1N3JrZEtBdkh5V0hxSGdVMGk0YlRHZ3VMWTBWbzlaRHJYV0dBc21RY1J3T0hITzQxM3d3RUNJVjdXX1UyOUd4RUFXYlpzbDU0MHcyM3BjLUQzN01zQ1AtRlI4bkhhRC1aRDRMMkVLd1pmbEsxWHFZODdxS1ZHMEVKN3czdkFYdkV1?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikInet"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T00:15:55Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Drummer Rio Alief Menikah Lagi Usai 4 Tahun Istri Meninggal Dunia",
+   "snip": "Drummer Rio Alief Menikah Lagi Usai 4 Tahun Istri Meninggal Dunia detikHOT Rio Alief Menikah dengan Aqila Hakim, Akhiri Status Duda 4 Tahun KapanLagi.com Drummer Rio Alief Menikah Dengan Aqila Hakim Usai Menduda 4 Tahun Liputan6.com",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODRFLW9jNmRIT180QkVSdFBFd2tZYWdKVS0yOXg1MFVpUWtPcFVQSnRmc0pubGZiNjJlN3RQeHVYdXNaTW8tZ2ppZndmaHFraU45ME1SS25OOXJHc2ktcW9CMHVzX3pJWHdnN0hreFJqSmFUZnpWclNTUDVsa1JsLXFCS2ZqYWRqVVpLOHh1aDZtVlVjdjZwemllNXpkZWo1SWtfaGxR0gGrAUFVX3lxTFA2MmVqZDNNY3dDU0hQUmREY2ptQ3ItbWVnU2gxNDNFcmozOXdfSmdBTU5heVlXNnd3czFWUmE5akU5TnNmVnVIZzVUVk5WbWRWN3l1ZUNKWGJ2NDA4ZkxkUnlVTHJpTjFielVSaTI3cXZHQlF1V3FQaWFOUmU5RnNjZTh6cEpDdzlvblphRkQwSE9uZUx6MG9mazV2QjBUc2NrV2M2cTJQSVNqZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-06T00:07:31Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Ada Konser Siapa di Jakarta 7 November 2026?",
+   "snip": "Berikut jadwal konser dan fan meeting di Jakarta pada 7 November 2026.",
+   "img": "https://akcdn.detik.net.id/visual/2026/06/09/byeon-woo-seok-1780996479122_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261104084558-227-1423047/jadwal-konser-dan-fan-meeting-di-jakarta-akhir-pekan-ini",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-05T23:30:06Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Pengakuan Dafne Keen Hadapi Dunia Gelap Hollywood",
+   "snip": "Pengakuan Dafne Keen Hadapi Dunia Gelap Hollywood detikcom",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmtSaGQ1WUFUMWJYRld4OEM3a0pIcC1xWHVXdWdlSzJsbUdJRjJ4UHpSdWdocUVMOUg2SGZuWWh3YXVrRzVqRnExZGRrV3RHYkVwSTd2TWtvQTZ6Vi16QXBVYk1RNjZERV9JQmFGNW9idWhuY0cyR3M3MXE4R0N4OGFUWFBNSEJnVGUyQmJpcDdQNTBNbGtIZXBR0gGfAUFVX3lxTE15NEhLamYtZE52UmpCTEFRNHZiU2ZvVi1JYTV5bWVjM0lsNVlYNzJ4ekE0NWloQ0U1M1QxX1RISmVsUlBHdHQ0SW5Xajd2aXd5akg2MGxsQ2cza3pnRThFUFJvNGlvWFBQRDJKLXpreDA5SkZCTXdKNEdzYkR2MzVFckRVZGJ5WjA4MHJtWGdzSXVPXzRZVk5QUkN4Q2wxQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-05T22:30:41Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "4 Artis Sabar Menunggu Puluhan Tahun untuk Punya Anak",
+   "snip": "4 Artis Sabar Menunggu Puluhan Tahun untuk Punya Anak detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUhvdzFFcW9ZckJlTm1SbWh5OUpBZ1NNTnNxWE90ZkRlNENMR0ZPYUxkMlM1MEU2OFVNX3NwWUtsRmlwUll1SlcwZndQV1RuMW5ab29UazNuVmtDYkgyaVY3VEp6RlNrcWNQVC1nWE1wLW1hZDZoOGQzc09WRm42dk1JWTZKSzAtVGQ1R2h3WF9vV3lLQmfSAZsBQVVfeXFMTk1PR1NfcW45MWRSbjVrRUsxYllrdFBTTWtObFlEYV9Hd3Nnd3l1bFNTbVVHWExTSGxHNHZhWGZIcTNFV0V0NzQ4ZGQ1aWFTZGVaUEhHWHBUTGVLQk9MdVNTMzRmbnVlNm5UaldmYzdyaWU2LXVsYkNNXzg1Vm9ydVA1M2xxbmVMUUo0Y0dTZElXbTZ0MTlJNmpwRTg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-05T22:05:58Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Fakta Usulan Damai Ruben hingga Sarwendah Ogah Bayar Cicilan Rp12,4 M",
+   "snip": "Fakta Usulan Damai Ruben hingga Sarwendah Ogah Bayar Cicilan Rp12,4 M CNN Indonesia Ruben Onsu Setop Bayar Sisa Cicilan Rumah ke Bank, Pengacara Minta Sarwendah Gantian SINDOnews Lifestyle Polemik Memanas, Minola Singgung Kontribusi Sarwend",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYTVxUlZKVFJqaVA4WHV1S21wQ04xZUVOX3ZGSWUwbWoza0RrMHZ2Z0dUQ0RYaDhMN3JjQWJCS1Zqd2hGbjRSRjQ2ZFdoZDM0SV84d2NxR2VMUzN5TFY3bXdOaTQ4bFI1UEc5eDdoaE1yRXExSklMSjFtbVRmdi1GNXN1V0FmbGI3Szd6UkI4anBUa1R5OG9yM0J3eTVsa0NaUHAxWmRZZU9BUG42UHBGZXFYRDVjb1hNWm9JOEFNbDNSeWlCRFJtREdGMU3SAdIBQVVfeXFMTk9XQVJkX3JkNHd6ekdwUkFrbE14WkJaZTA1QWVrNlI3N2JFRE8tTjJrT0hQaW4yTHZraVR6UkEzSE96YkZycG1iMFl3dld4Q1FPeDVzaUNTd1hlQmx4eEFydU5vSVhCUG96bXdKaDAwMlMyUnBhUXNlV1ZfeDVXYnNPdmFFWnNWTG1jejAyT0ZCeXpnbUw0Wi1jUk50MzB6c1p4YVROYVVDaDVoNk9mQWY0OHAxRHBSdjliYVB4eUV2YWJ1OWlLQ00yTGRteFFnaXhB?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-05T22:00:05Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Perseteruan Ruben Onsu dan Sarwendah di Sidang Wanprestasi",
+   "snip": "Berikut poin-poin perseteruan Ruben Onsu dan Sarwendah dalam kasus wanprestasi cicilan rumah.",
+   "img": "https://akcdn.detik.net.id/visual/2024/06/12/sarwendah-dan-ruben-onsu-1_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261105162808-234-1423761/fakta-usulan-damai-ruben-hingga-sarwendah-ogah-bayar-cicilan-rp124-m",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-05T22:00:05Z"
   },
   {
    "k": "news",
@@ -538,6 +742,28 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Langka Kanye West Bersama 4 Anaknya, Gaya Gothic North West Jadi Sorotan",
+   "snip": "Potret Langka Kanye West Bersama 4 Anaknya, Gaya Gothic North West Jadi Sorotan Wolipop Yeezy, Brand Milik Kanye West Siap Kembali ke Runway setelah 4 Tahun Hiatus Wolipop Yeezy Umumkan Pertunjukan Runway Musim 01 di Los Angeles Hypebeast",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVBkNTNjV1Bqc1hTYm5aWmdhN1pHdVl2amFmX3ozbHZSNkI1SnVjMFVxdXNKWHB2TWVISXNvbDNMM1pmbWVWQnRMb0R5NldjVWtsdEhUeVN6T051T0s3ZmdIVTZ6dXNfSnZVd1lVOTZIUUx0Wng1ZW5MdHl1MDZST1A2YW9sREZkSHllOU14ckE5blR6MzY5NWhTMEtnUGZHVDlBcGp1Mkxab09pQm9xb0ZBZG1QaFplNDl0dXNTX3ZLQzR2ZzlJN3RHZkN6QdIB0wFBVV95cUxNNnd3VGdkYUpLcmRZTUp0OU1jMV9ncE4xOTVvM3ZVSFhVNW5YWW9Yc3haWEtqT2VTY0I5TlVfMno5ekJoZDliQ0Q2eUd6djlSSWNWdmNJM3lRSkZ2SU12UF9IeFBTa2x0ZzgzcGZKTWFMYU1CSHNZQmZXTmJ1VExvZFJESkdvRTc5YnhDV200QjE3QzMxeDJqdzdBTzlzeVdpRTBpNnZDYmszdHQ0T2o0S08yRVIySFptNDZ6LUtSeDhqY3cxcVVqMFZQZWxaclR0c1Bn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-05T12:00:00Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -601,6 +827,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-05T11:36:31Z"
+  },
+  {
+   "k": "news",
+   "u": "SINDOnews Lifestyle",
+   "name": "SINDOnews Lifestyle",
+   "av": "",
+   "followers": 0,
+   "cap": "Sinopsis Sinetron 'Terikat Janji' Eps 209: Davina Menjauhi Sena, Akankah Keduanya Benar-Benar Berpisah?",
+   "snip": "Sinopsis Sinetron 'Terikat Janji' Eps 209: Davina Menjauhi Sena, Akankah Keduanya Benar-Benar Berpisah? SINDOnews Lifestyle Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSk9QaDQwN05KMnB4VGh1ZDJ1aF90MFJNbjdPckFkV1ZQcFY5cnNZX0lxT1VhdUxjY3FiN21iZWwzaWNnTGtzdkRxclZMd2FBNmN6SzNDRXBSc2lVNDhmS3VxYnJqY2FONEYzSHpDN0c2UVlBN3dBeG8waUpBb21IbUtJX0RVZlVrOG9IdjJqMHdjdFBKXzQ1cWMzM24xaDlIZnBGWGs2RW9QXzVKd0NNXzBLRkNaWjA0T3NlbEYzRnp4ZjJmWTZMbDBnODBZaU1iS1ZLeDVxYU96Qy1oWFpTTDJ3WWdXWF9xTURhRHQ2WdIB9AFBVV95cUxNR3dHMEJvZ19selg1MFZUakJMR1lKa241LWFZX0JQVjZJUHdNQU56VjM2VWVwZTJtdVdMM0tKVHVveFNQa19iaGlRaTB2QlNYY3I5VmQ5a19fakIxUmVQaENVbHpiTjhmTk84LUpxLUFZSVY4cGlGcmpSMHh4WmQ2Z2k2enZ5eTZkWG96WlJzRm1QZEFEMWNwa0NmV3EzTUROdXlhT1pvQ2NlTEdIN3FrenB2NEFjaEx3d293RnVZbnhFeG4xRFgxV1Ruc25zZ2RCZWxNdDQ0VWl3bkRCV1BHSDY1ZmlpeTZtLTBtako1T0N6RjFE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "SINDOnews Lifestyle"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-05T11:16:36Z"
   },
   {
    "k": "news",
@@ -696,28 +944,6 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Massa Gelar Demo dan Bakar Ban di Depan Trans TV, Minta Ruben Onsu Tak Lagi Tampil di Televisi",
-   "snip": "Massa menggelar demo dan membakar ban di depan Trans TV, menuntut Ruben Onsu tak lagi tampil di televisi. Simak respons kuasa hukum dan tuntutan mereka!",
-   "img": "https://cdn0-production-images-kly.akamaized.net/UC_qFRy1h5oEZwnHJTThmVYPfp0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391150/original/054223800_1793874548-IMG-20261105-WA0093.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8329305/massa-gelar-demo-dan-bakar-ban-di-depan-trans-tv-minta-ruben-onsu-tak-lagi-tampil-di-televisi",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T10:42:45Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
    "cap": "Mengenal Karakter Alma yang Diperankan Acha Septriasa dalam Film Kapan Punya Anak?",
    "snip": "Mengenal karakter Alma yang diperankan Acha Septriasa dalam film Kapan Punya Anak?, perempuan yang berjuang mewujudkan impian memiliki keluarga utuh.",
    "img": "https://cdn1-production-images-kly.akamaized.net/JoQASt0GLi0I0p5wg-Tv4lDcQbc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391138/original/097799500_1793873515-Screenshot_2026-11-02_140024.jpg",
@@ -755,28 +981,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-05T10:00:17Z"
-  },
-  {
-   "k": "news",
-   "u": "VIVA.co.id",
-   "name": "VIVA.co.id",
-   "av": "",
-   "followers": 0,
-   "cap": "Alasan Ruben Onsu Kena Boikot hingga Didemo di Depan Gedung TV",
-   "snip": "Alasan Ruben Onsu Kena Boikot hingga Didemo di Depan Gedung TV VIVA.co.id Ramai Seruan Boikot di TV, Ruben Onsu Tanggapi Santai: Rezeki Milik Tuhan! SINDOnews Lifestyle Massa Gelar Demo, Tuntut Ruben Onsu Didepak dari Program TV celebrity.o",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3Azd1pUeWlEaU5ad0RkU2gyXzB5ZEtvZDQzdVhkMEx4Q1ZzYkMzTlpYS0Fsak9tWFNYMnpqZWdJMXJOODBtdGp1QWRSNE15aUJkQTNjbmt4THpnV3pPRlFYRlNLLVBWOVJzQk4tc3VzaXM4Wm5IWVZyQTduWWtCZE41b3lRSjM1MGU4cXVTY284bF9MLU5GNGZRWU1JTGhlWG9mdHBBODY4RmhlTWl4eDFn0gG3AUFVX3lxTFBsTDdjYlJSU2NUMWZabVpySmRZTDlHVlg0LTFaaWdtNFJiS0FOYk5kNi12TGVSckRpblBEVHVhRl8tMU5VM3R1d0lZcFBWYzZWT2F1dmpTMUtxRUpNWTRGNUFCTjJ4TVFpWVZxd3I3S1FUTzNGcnEwWEtrY3V5dndDU0dibmh2cHdlNTdleW1wVUx1eEVKSVhjTUpXNWsxS01WTi1nOVdNTTdiU3JqV3hJSEhwQW53Yw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "VIVA.co.id"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T09:49:04Z"
   },
   {
    "k": "news",
@@ -824,72 +1028,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Hindia dan Dipha Barus Menang AMI Awards, Speech Untuk Korban Bencana",
-   "snip": "Hindia dan Dipha Barus menyuarakan tentang bencana dan karhutla ketika menyampaikan pidato kemenangan mereka di AMI Awards. Baca di sini yuk.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/yBkLEE-CkYdd0WdNEYTkpvGfQkU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391059/original/048979000_1793870803-Dipha_Barus_dan_Hindia_2.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8329234/hindia-dan-dipha-barus-menang-ami-awards-speech-untuk-korban-bencana",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T09:26:43Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Cakra Khan Minder Bawakan Lagu Chrisye, Kini Justru Menang AMI Awards 2026",
-   "snip": "Cakra Khan mengaku dirinya sempat merasa minder ketika membawakan lagu milik mendiang Chrisye. Baca selengkapnya di sini yuk.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/dfQALhyQgABzfLtAK1VedCNu4fY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391038/original/056713600_1793869580-9481.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8329210/cakra-khan-minder-bawakan-lagu-chrisye-kini-justru-menang-ami-awards-2026",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T09:08:52Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Apa Kabar Christine Panjaitan?",
-   "snip": "Apa Kabar Christine Panjaitan? detikHOT Kurangi Aktiviitas di Dunia Hiburan, ini Yang Dilakukan Christine Panjaitan? - sumeks.disway.id Sumeks Christine Panjaitan Kurangi Aktivitas Hiburan Demi Waktu Keluarga dan Tetap Terbuka untuk Kolabor",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mQTV4RzgwbF96OHBMenU1eVhwRm9lNWpEbGlrX2k4bTc1a2lkWGwyNlpONDh2aGJ0dTl5TldHSTNRdXFlODItWGpGUXhaa2gtRUkzbGc4MW1VV0NrS2ZZMmlCel9zdVJMbUJ4dEM2emR0am5mU3fSAXtBVV95cUxPcWdDdmt2cVFfSmtaTUFGY1BvT0xIcTlGeTF4Q3o2VDc4Y1RPUHlOb1htN2lSX29ySmwySnJYY1I1RTBNY25pRV9fT0dkYUttYVNvTkowdlVNbER1Zk8xa3FCTGlqbjRJSWE1cWpSWGRYR0txcV8wc1VMaGc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T09:06:42Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -912,34 +1050,12 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Penyebab Oki Rengga Berselisih dengan Suporter di Laga PSMS vs Persija",
-   "snip": "Oki Rengga terlibat adu mulut dengan sesama suporter PSMS Medan terkait pembentangan spanduk karhutla. Simak penyebab insiden dan permohonan maafnya.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/g5sKbTBl3Bv5d6NtkW0rbTUuJ7k=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9390959/original/036671600_1793868225-okirengga.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8329168/penyebab-oki-rengga-berselisih-dengan-suporter-di-laga-psms-vs-persija",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T08:43:45Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Alhamdulillah! Fanny Ghassani Hamil Usai Penantian 9 Tahun",
-   "snip": "Alhamdulillah! Fanny Ghassani Hamil Usai Penantian 9 Tahun detikHOT 9 Tahun Menanti, Fanny Ghassani Umumkan Kehamilan Anak Pertama Kompas.com Doa Fanny Ghassani Terkabul Setelah Penantian 9 Tahun: Sehat-Sehat ya Nak! Inilah.com Umumkan Keha",
+   "snip": "Alhamdulillah! Fanny Ghassani Hamil Usai Penantian 9 Tahun detikHOT 9 Tahun Menanti, Ini Gaya Anggun Fanny Ghassani Saat Maternity Shoot Kompas.com Doa Fanny Ghassani Terkabul Setelah Penantian 9 Tahun: Sehat-Sehat ya Nak! Inilah.com Perjua",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -978,12 +1094,34 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Lee Jong-suk Curhat Adegan Tanpa Busana The Remarried Empress",
+   "snip": "Lee Jong-suk blak-blakan soal tantangan saat memerankan Heinrey dan burung Queen dalam The Remarried Empress.",
+   "img": "https://akcdn.detik.net.id/visual/2026/10/30/drama-korea-the-remarried-empress-2027-1793352758313_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261103135855-220-1422757/lee-jong-suk-cemas-perankan-burung-di-the-remarried-empress",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-05T07:00:14Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Mawa Jelaskan Perceraian ke Anak, Singgung Eks Suami Tak Kasih Nafkah",
-   "snip": "Mawa Jelaskan Perceraian ke Anak, Singgung Eks Suami Tak Kasih Nafkah detikHOT Begini Cara Wardatina Mawa Beri Tau Anak soal Insanul Fahmi Punya Pasangan Lagi VIVA.co.id Beda dari Inara Rusli, Wardatina Mawa Ungkap Alasan Tak Lepas Cadar Us",
+   "snip": "Mawa Jelaskan Perceraian ke Anak, Singgung Eks Suami Tak Kasih Nafkah detikHOT Begini Jawaban Wardatina Mawa Saat DItanya Soal Perceraiannya Oleh Sang Putra Cumicumi Wardatina Mawa Ungkap Putranya Sudah Tahu Insanul Fahmi Punya Pasangan Lag",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1022,12 +1160,34 @@
   },
   {
    "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Musisi Bersuara di Panggung Kemenangan AMI Awards",
+   "snip": "Musisi Bersuara di Panggung Kemenangan AMI Awards Kompas.com Musisi Tumpahkan Keresahan di AMI Awards 2026 Kompas.id Pemenang AMI Awards 2026 Kompak Suarakan Kebakaran Hutan CNN Indonesia Daftar Lengkap Pemenang AMI Awards ke-29: Idgitaf, T",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanN2SDl6WEpWaDd1MG95NkxDZU52Q1hOUG1FbXFIR0hpNlQ0RmZNYmFwVlVNajAxcEN4U19oOTNXbW5lcTNILVN2aG9QSWtQTTZIbTJoaHZPTU14NjhoekpCWXlXSDVic1V1U3dHUTNWRjZzd3VCSk15LUdySFUyc0doX1k0UHFVT2kzYmtyWkFXeVpUNDNrRFFZamp0akZ1VUNjNUxiMHBqaHA4NGF6SmVlMFZlSk5x?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-05T05:32:00Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Rahasia Harmonis Vincent Verhaag dan Jessica Iskandar di 5 Tahun Pernikahan",
-   "snip": "Rahasia Harmonis Vincent Verhaag dan Jessica Iskandar di 5 Tahun Pernikahan detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Rahasia Harmonis Vincent Verhaag dan Jessica Iskandar di 5 Tahun Pernikahan detikHOT Gagal Menikah dengan Richard Kyle, Jessica Iskandar Ceritakan Perubahan Hidupnya Usai Dinikahi Vincent Verhaag Grid.ID Vincent Verhaag Ungkap Kehidupan Rum",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1071,7 +1231,7 @@
    "av": "",
    "followers": 0,
    "cap": "Komentar Gak Terduga Andre Taulany saat Amanda Rigby Update Instagram",
-   "snip": "Komentar Gak Terduga Andre Taulany saat Amanda Rigby Update Instagram detikHOT",
+   "snip": "Komentar Gak Terduga Andre Taulany saat Amanda Rigby Update Instagram detikHOT Andre Taulany Pamer Momen Bulan Madu Kedua Bareng Amanda Rigby, Kali Ini Tanpa Anak VIVA.co.id Potret Kamar Villa Mewah Honeymoon Andre Taulany dan Amanda Rigby ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1085,28 +1245,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-05T03:08:51Z"
-  },
-  {
-   "k": "news",
-   "u": "Haibunda",
-   "name": "Haibunda",
-   "av": "",
-   "followers": 0,
-   "cap": "7 Potret Raoul Anak Bungsu Ferry Salim yang Kini Jadi Model",
-   "snip": "7 Potret Raoul Anak Bungsu Ferry Salim yang Kini Jadi Model Haibunda",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhCcjFzM2NSUlYzZVpHTjdjalRjUlhLT2dDb1RSNW5vUmc3X2VCRVktdTl6ZDlOYVdXVVYwRVF5akFBT0ZhOXQ2a0dpcklwREtWUU1kNG90d1loQzh1NU16d2d1M01pZk5CNTc1clVlUEFybmhlMjhzM2hVWjhtQ201cjRlT1AwU1BtTGVsS3ZMMTRDLWZYWHRjMkxQQ0Fvc0hQUV9fenJXSnpPZ2tuVUJZb3FqMGs1TGfSAb8BQVVfeXFMT2U4M0szY1NaMk04ZWxfNVhuWWhJWGxTZDM1Z1NMY0JXcmFibl9Zdk03SXRMY3FsMmRNeUM4LXFjZWxoT1F6WVVvdFJzWWxqSU9JTTVGTVhyR2xyN1Z3d2lacFA1ZlFXTExuVVJsdjhzTmJJX1hVS2dtUDkzYTRSdEx6MDNCd2NadklpMFdOaUhPNldyQk5YRHFfaHJGWjNjQm0tTDBhNmxaWjV5aXBUZmJ1M3dhLU01MGNKQllhWTg?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Haibunda"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-05T02:35:28Z"
   },
   {
    "k": "news",
@@ -1127,7 +1265,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T02:30:09Z"
   },
   {
@@ -1149,7 +1287,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T01:38:24Z"
   },
   {
@@ -1171,7 +1309,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T01:30:44Z"
   },
   {
@@ -1193,7 +1331,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T01:02:42Z"
   },
   {
@@ -1215,7 +1353,7 @@
     "Timelines.id"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T00:47:00Z"
   },
   {
@@ -1237,7 +1375,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T00:44:03Z"
   },
   {
@@ -1247,7 +1385,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Besok 6 November 2026: 7 Shio Beruntung",
-   "snip": "Ramalan Shio Besok 6 November 2026: 7 Shio Beruntung MerahPutih Ramalan Shio Hari Ini 5 November 2026: Tikus hingga Babi, Cek Angka dan Warna Keberuntungan - sumeks.disway.id Sumeks 4 Shio yang Diprediksi Lebih Bahagia di 5 November 2026 Ko",
+   "snip": "Ramalan Shio Besok 6 November 2026: 7 Shio Beruntung MerahPutih Ramalan Shio Hari Ini 5 November 2026: Tikus hingga Babi, Cek Angka dan Warna Keberuntungan - sumeks.disway.id Sumeks Tak Lagi Dibayangi Masalah! 4 Shio Ini Sambut Jumat dengan",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1259,7 +1397,7 @@
     "MerahPutih"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-05T00:40:00Z"
   },
   {
@@ -1281,7 +1419,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-04T23:30:03Z"
   },
   {
@@ -1291,7 +1429,7 @@
    "av": "",
    "followers": 0,
    "cap": "Vokalis D'MASIV Ungkap Alasan Tinggalkan RANS Entertainment sebagai Promotor Tur",
-   "snip": "Vokalis D'MASIV Ungkap Alasan Tinggalkan RANS Entertainment sebagai Promotor Tur Kompas.com D'MASIV Putus Kerja Sama dengan RANS Entertainment untuk Tur Asia Kompas.com Rian Akui DMasiv Akhiri Kerja Sama Konser dengan RANS karena Ramai Isu ",
+   "snip": "Vokalis D'MASIV Ungkap Alasan Tinggalkan RANS Entertainment sebagai Promotor Tur Kompas.com Rian Akui DMasiv Akhiri Kerja Sama Konser dengan RANS karena Ramai Isu Boikot Medcom.id Perjalanan D’MASIV dan Pertunjukan Melangkah Lebih Jauh Mark",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1303,8 +1441,30 @@
     "Kompas.com"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-04T23:29:00Z"
+  },
+  {
+   "k": "news",
+   "u": "celebrity.okezone.com",
+   "name": "celebrity.okezone.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Audi Marissa Tetap Ingin Bercerai, Anthony Xie: Saya Hormati Keputusan Dia",
+   "snip": "Audi Marissa Tetap Ingin Bercerai, Anthony Xie: Saya Hormati Keputusan Dia celebrity.okezone.com Respon Anthony Xie Terkait Keputusan Audi Marissa yang Tetap Ingin Cerai Cumicumi Masih Jalani Sidang Cerai di Pengadilan, Anthony Xie Akui Mas",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2VqMm1vS0RwOXp4V2ZhVmJsMXR2RzhFVW1zbHNOZGtwdU1mSzNLVzE5bFdQUWJUaGRrSUNKNlBwUEVjdDFwMEN4amQyQm80YU03SXJ4V0dSbjhvU3NHc3d6UVpGM21uT0RkcWg4b1hMMmt1UUw0SFcybWQ2OW5JU1lkR0pwa0tZaDYwWUEzcXdVOFBRMzJoWlNJWmpNZ01KU3c4VFdTQVA0UHNHb2hydEU1SjlnVUlDVEFFU2I2OU03dEhUR0JSX9IBxwFBVV95cUxNMGcxTmp2OXF1cUlKT1E2Z1JrYjBzLXFnWkxFSmhWSHIxNk8wenlHZi00M2czdUNzYkM0d3E3WXlucl94bG1TOHdHbFp0bXZuNWw1dktYN1BoQktSUFl0SG5xeWFYZU5NVGFJdXIwTE9OOUQxTnVRenlmai11WG95a1FGUFN2ODUxZEtwVEZTVlVxd3Q4UktZR0Jab3NBb3V0ZnphMFlrRV9WVG94T0NTY3oyT0RPRWZkSUxhZkgtMEtmdDA0cG5F?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "celebrity.okezone.com"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-04T22:50:00Z"
   },
   {
    "k": "news",
@@ -1374,6 +1534,28 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Adegan Ranjang Shin Min Ah Bikin Geger, Fans Auto Mention Suaminya Kim Woo Bin",
+   "snip": "Adegan Ranjang Shin Min Ah Bikin Geger, Fans Auto Mention Suaminya Kim Woo Bin Wolipop Kota Tua di Ceko Ini Disulap Jadi Pasar Kerajaan The Remarried Empress Kompas.com Lee Jong-suk Cemas Perankan Burung di The Remarried Empress CNN Indones",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0lmaC1SWXYxd0lmOERzWnJ5cmVPTU5YUDl0SUY1ejJCMHZNSnp1eGRYTXNudWhQS3JMTXdZTUpWRlg4aVE3U1RrenBhZnlsVUlZNVFrM3pvaFZtZ2EtM1pJUmoyaWZGNkV6d1ZJOWZkaUVYOHQzbVFCVjdqUVpOUzFBV1ZGLWdsWDBQTzRZNlJhVm1oX3RMNDNhR1NuOU9EeG8wVjJpRnlqbVpONm1pX2NQUDA0am5TaXhyQnE0UEROMzlZRDdhRlNMcDjSAdIBQVVfeXFMT0ZTaGVnNnh0Vlk3c013TXZRbmtCcFBVWDBYdEJWTko2NzhUYmZuNXJ2bUpFZ0pMYmJ2Q3lRQUNHRjVZR0lLckZKYlloOXcwRWFWWUxRYTJTU3U0d0VXcUdiMm1WeVNFYXFCQ0FUZF9TVTdTanBrZy1WMmxUMHJKQ1Y0X2hJQVFJRHpUYVN6UG0yZWFMaFhZWkM4S1FJblU4UFNuR3l0TFYxN3BQZlZFUXA4eXY3ZVZDUEQwMlBmck5iR0hjaEdCbVRFb1piMmJOMHZR?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-04T12:30:55Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1418,72 +1600,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Sidang Hak Asuh Anak, Kubu Ruben dan Sarwendah Siap Tambah Bukti",
-   "snip": "Kubu Sarwendah maupun Ruben Onsu mengaku masih memiliki bukti tambahan untuk memperkuat perkara gugatan hak asuh anak.",
-   "img": "https://akcdn.detik.net.id/visual/2024/06/12/ruben-onsu-dan-sarwendah-2_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261104160618-234-1423304/sidang-hak-asuh-anak-kubu-ruben-sarwendah-siap-tambah-bukti",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-04T10:00:41Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Paris Jackson Tuntut Rp 10 Triliun dari Harta Warisan Michael Jackson",
-   "snip": "Paris Jackson Tuntut Rp 10 Triliun dari Harta Warisan Michael Jackson detikcom Paris Jackson Minta Rp10,9 Triliun Warisan Michael Jackson, Tuduh Pengelola Menahan Dana SINDOnews Lifestyle Paris Jackson Tuntut Pengadilan Cairkan Dana Rp10 Tr",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHFIUHhzYy1ISGVMVy0tNXNZTU1jS0tkTkE2QWhIUjNINGZIMm9nQXZXNV81M1V0Y2JZMGRzRWFqT3FqMlVXbW05V2VjUERGQ2NLdmU1YUpNUm9hM1YteXNFS3J3N3NQSndjQnEwR0RaVzBEc0pMQ3pqaU9Ob3V3MHdGRFVaNDZGMFQwdGtFendacng2TXp5YUhyMFJ3VW05dlJKOG1jcHhTOGpzbXZrWEFvN1rSAboBQVVfeXFMTTlubHcyekd5aXRNeG00cnp0N3ZnTmpuU3ZHSU9CaERwTGN6NHlod1I2SUhGcVhQZjN3WDFQNmQ0LUlndkgxOWRtNTdWcXJCT3gtM0FFUGV1aW1rMkxwdzhmYmpPNTdEM1J5X3JSVDVmcEpXQ3MtMzBCQjR5NlluTHBDUUNVZFN4QTVqY1BldTAxUG82X2RuazM1N0NLem5faXVwVDVDY3dRYU53RHBkOVBDc0pxNGwzYkVR?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-04T09:02:35Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Kanker Kembali Kambuh, Nunung Segera Jalani Operasi",
-   "snip": "Nunung mengungkapkan kanker yang sebelumnya sempat bersih kini kambuh kembali.",
-   "img": "https://akcdn.detik.net.id/visual/2023/10/11/tri-retno-prayudati-atau-lebih-dikenal-sebagai-nunung-1_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261104154035-234-1423272/kanker-kembali-kambuh-nunung-segera-jalani-operasi",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-04T09:00:35Z"
-  },
-  {
-   "k": "news",
    "u": "celebrity.okezone.com",
    "name": "celebrity.okezone.com",
    "av": "",
@@ -1503,72 +1619,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-04T06:24:49Z"
-  },
-  {
-   "k": "news",
-   "u": "Haibunda",
-   "name": "Haibunda",
-   "av": "",
-   "followers": 0,
-   "cap": "Potret Endhita dan Oncy Ungu yang Dipuji Awet Muda, Kebersamaan dengan Anak Curi Perhatian",
-   "snip": "Potret Endhita dan Oncy Ungu yang Dipuji Awet Muda, Kebersamaan dengan Anak Curi Perhatian Haibunda",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOblJuX3NleXZGZFBPdEJRbDBhWVA4OWVSbmw1Q3oxM0VWdVpyRVRfNWVVQzMyU0owMEU0ZjA0MGduUEJFdnFVVHhjcFBjVjJOVzJtMWRnemlhcGRtbmpvVVVremdudmNRN1Zzek8tTlpfc2FSaTdQYXdKZjNkZjhfUjI2Mm5yZmFyV2JuWGNkZEEwTm94aFV6SzV1OWxucUJvcUpKcy0zTW16b09ueWJZekdVZlE3dnlzbTJsRzNmeFpjSnRWV3VZdVNMWk5EQlRmdE5BZWxYLTNlNEJzSVlsMXlRVdIB6AFBVV95cUxOSGpPRHRxTlF6T1U2YTVYM1p2ZXlGc0VtYm1fS1hFWXNTNFM4b3FCMF92dl9CTl9FTFZFNXk2NmstNFBPcTlyV29DQVVrc2VRV1d6eGsya1pMOTIza2wtRXRxMzFjamYyckVkYUVzQjY4ZFZxSlhOQ0F4VU5KOVhtNlZ5ZXJoN0taWERzXzRkLWVZdkZQSGFVakRkNklFVTRnZ3laMl9TNkVCVmpubUY0NDh3Z05DbHlGWnVhZXVGRVd6c3hKNGNZTmFMeGdOTmZ4Qk50VTlDbjZ3Z0NQajZlb0FRUWR4UzRS?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Haibunda"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-03T08:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Rigen Rakelna Berduka",
-   "snip": "Rigen Rakelna Berduka detikHOT Ayah Mertua Meninggal Dunia, Rigen Rakelna Kenang Sosok Penuh Kasih Liputan6.com Ayah Mertua Rigen GJLS Meninggal Dunia IDN Times Ayah Mertua Rigen Rakelna Meninggal Dunia, Sang Komika Kenang Kebaikannya Kapan",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vMnpnRExkNlQyTTJnNXBWZVkwZkxtdzVTSmJyUzYzcnhld2hhTDFWalE5bjg2VUxvMXgtYWdvQWNWZkxZM1BfbDBLRVFPSzlFRWF0ZV9aNlgzNmktT2tQVEwwaDRuTkYwQTFj0gFwQVVfeXFMUHVxTzRrMVp4MXd6WlQ2SGM0d2pwaUZnMW44TWZ5WG1QWjRST1NnY2Ryb1J0M1k1eTh3SkkxMDNoTHp5TnQzcU5hZ01lNGZ2SEx4eWpPakE3N0w5R1I1MUNTSnl1OVR0S05uNXJDTlZnXw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-03T07:34:40Z"
-  },
-  {
-   "k": "news",
-   "u": "Scientia Indonesia",
-   "name": "Scientia Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Laut Bercerita: Ketika Cerita Beralih ke Layar",
-   "snip": "Laut Bercerita: Ketika Cerita Beralih ke Layar Scientia Indonesia Literasi sebagai Perlawanan: Sebuah Pembacaan Laut Bercerita Kementerian Agama Seminggu Tayang, Film Laut Bercerita Kantongi 500.000 Penonton Kompas.com Daftar Soundtrack Fil",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanRVN1NITmZEa1hLcXc3Q09WaTNQa29ScGpqV3hSVXRKYzBLZVBQSWJWNXlFN05sSHVHc1hyQlNrbjdHYzNORG1VV0hYWU16b0g1SVZMRTlHbFVlXzBGSDZTOWl4bW0xMWVEWXBRR0dPeVZtdDhmU0hrUGNqUmpRYW82VQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Scientia Indonesia"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-01T05:26:14Z"
   }
  ]
 }
