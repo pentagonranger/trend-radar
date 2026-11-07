@@ -1,6 +1,48 @@
 {
  "topics": [
   {
+   "t": "Bank",
+   "q": "bank",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "The Guardian",
+    "Al Jazeera",
+    "BBC"
+   ],
+   "d": "2026-11-08",
+   "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+   "n": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+   "vol": 500,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Sinetron Terikat Janji Rcti",
+   "q": "sinetron terikat janji rcti",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "SINDOnews Lifestyle",
+    "celebrity.okezone.com",
+    "iNews.ID"
+   ],
+   "d": "2026-11-08",
+   "url": "https://lifestyle.sindonews.com/read/1769129/158/sinopsis-sinetron-terikat-janji-eps-210-bryan-ungkap-sosok-di-balik-penyamaran-ryan-akankah-rama-berhasil-dijebak-1793952712",
+   "n": "Sinopsis Sinetron 'Terikat Janji' Eps 210: Bryan Ungkap Sosok di Balik Penyamaran Ryan, Akankah Rama Berhasil Dijebak?",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
    "t": "Film DESEMBER JANI Tayang Perdana di JAFF 2026 dan Masuk Kompetisi Indonesian Screen Awards",
    "q": "Film DESEMBER JANI Tayang Perdana di JAFF 2026 dan Masuk Kompetisi Indonesian Sc",
    "cat": "Film & Series",
@@ -137,6 +179,28 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Pattinson dan Hoult Disebut Ikut Audisi Rahasia Pemeran James Bond",
+   "snip": "Dua aktor ternama Inggris, Robert Pattinson dan Nicholas Hoult, dilaporkan diam-diam telah mengikuti audisi rahasia peran sebagai agen rahasia James Bond 007.",
+   "img": "https://akcdn.detik.net.id/visual/2026/09/08/robert-pattinson-hadiri-pemutaran-perdana-film-primetime-di-venice-1788850899486_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107193244-220-1424499/pattinson-dan-hoult-disebut-ikut-audisi-rahasia-pemeran-james-bond",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-07T18:00:31Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -181,6 +245,51 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Rekomendasi dan Sinopsis Film Baru Akhir Pekan Ini di Bioskop",
+   "snip": "Berikut sinopsis 5 rekomendasi film baru akhir pekan ini di bioskop.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/05/film-godzilla-minus-zero-2026-1793844784121_169.webp?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261105132536-220-1423650/5-rekomendasi-film-akhir-pekan-godzilla-minus-zero",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "detikcom",
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 48,
+   "ts": "2026-11-06T10:00:17Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Keputusan Tiwi T2 Buat Oplas Matang Banget demi Rasa Percaya Diri",
+   "snip": "Keputusan Tiwi T2 Buat Oplas Matang Banget demi Rasa Percaya Diri detikHOT Cerita Tiwi Operasi di Korea Selatan, Dari Hidung hingga Mini Facelift JPNN.com 3 Selebriti Indonesia Terbaru yang Blak-blakan Akui Operasi Plastik, Ada yang Habiska",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWJEX3U5ZUlYYWZpRVBHd2tsX3FmSTYxTDdQa05VcXhNb3pnX0lmOHpIbnJzblpQcG1hakRUaEkyUnYxVzctdVl2NmFZNURVdDNoaTI4dVhYNjdBWmttWFZmNFFLakN0UHhTS0ZKaFk3S2dsSGxyOUNEZlNpNWUwbUZmUi1POWhqSmxkaFdpelBrSjFDMWZqcktBUUtkMk1yY09TcFF30gGrAUFVX3lxTE9sdnVsazVTekg4YzdOQU05RkU1aXEwOUJuTTE2UjdhbGFES3dWUVdzd29WYTRhc1hDX2d0OEZxZUM0M1AxLVNIdDhncnNsc21TRFZMMlVrQ0wzSW92dkRGRF9KNGVjUGpjRDBuMVlwdlFMb3piNy1LUzdhM0FmajJuYWtrcHF0VWs3V2treFJPTzViOVVFalVQcDg2X3ZGbzRsaXRJVWZPSzVPUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T15:00:16Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -198,7 +307,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T14:09:19Z"
   },
   {
@@ -220,7 +329,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T14:02:11Z"
   },
   {
@@ -242,7 +351,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T13:49:27Z"
   },
   {
@@ -264,7 +373,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T13:20:15Z"
   },
   {
@@ -286,30 +395,8 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T13:18:46Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Respons Nita Gunawan Dicap Cewek Plenger",
-   "snip": "Respons Nita Gunawan Dicap Cewek Plenger detikHOT",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSG9jbVhLbEhJRVFsc3hYUS1qNGo2UURuRVY3ck9HMVFkMExtOGJYMFExb3Z2a214MUhmclNQUXg4eldPLVZJeDU0bnVMcl9XREkycnFpRzVCVk9sQkZId2d5Y3VjSENOSU95UUowcTN6SjUyelJWdnVBYkJRdHBnUndvR2bSAYoBQVVfeXFMTjZTNWNBMGx1OU52WWQtbjMzWVJMX2FUT2FMNDMtZjBSVXRycV81RzZSa211ZnhadlBMeEt6dmZva3RiSDE1YmtLVXRTdDEzOHZYdDRkb0hWV3FJY21uVTA2S2RUZGJOQU9CY0FkUDN6bnlVTnNHRnFxZzVuUFMtQlFSTXJZaDFMX193?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-07T13:09:05Z"
   },
   {
    "k": "news",
@@ -318,7 +405,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pesan Sultan Hamengku Buwono X di Royal Wedding Pura Mangkunegaran",
-   "snip": "Pesan Sultan Hamengku Buwono X di Royal Wedding Pura Mangkunegaran detikTravel Kirab Dhaup Ageng Pura Mangkunegaran ANTARA Foto Rekayasa Lalin dan Kantong Parkir untuk Kirab Gusti Sura RRI.co.id Momen Akrab Titiek Soeharto dan Iriana Jokowi",
+   "snip": "Pesan Sultan Hamengku Buwono X di Royal Wedding Pura Mangkunegaran detikTravel Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -330,7 +417,7 @@
     "detikTravel"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T12:13:23Z"
   },
   {
@@ -352,7 +439,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T12:07:30Z"
   },
   {
@@ -374,7 +461,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T12:00:23Z"
   },
   {
@@ -396,7 +483,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T11:50:35Z"
   },
   {
@@ -418,31 +505,8 @@
     "detikInet"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-07T11:30:08Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Rekomendasi dan Sinopsis Film Baru Akhir Pekan Ini di Bioskop",
-   "snip": "Berikut sinopsis 5 rekomendasi film baru akhir pekan ini di bioskop.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/05/film-godzilla-minus-zero-2026-1793844784121_169.webp?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261105132536-220-1423650/5-rekomendasi-film-akhir-pekan-godzilla-minus-zero",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "detikcom",
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 48,
-   "ts": "2026-11-06T10:00:17Z"
   },
   {
    "k": "news",
@@ -627,7 +691,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ayah Meghan Markle Ditangkap karena Kasus Pelecehan dan Pornografi Anak",
-   "snip": "Ayah Meghan Markle Ditangkap karena Kasus Pelecehan dan Pornografi Anak detikcom Mertua Pangeran Harry Ditangkap karena Kasus Pelecehan Seksual CNN Indonesia Ayah Meghan Markle Ditangkap Atas Kepemilikan Materi Pelecehan Seksual Anak Suara ",
+   "snip": "Ayah Meghan Markle Ditangkap karena Kasus Pelecehan dan Pornografi Anak detikcom Ayah Meghan Markle Ditangkap Atas Kepemilikan Materi Pelecehan Seksual Anak Suara Surabaya Mertua Pangeran Harry Ditangkap karena Kasus Pelecehan Seksual CNN I",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -820,28 +884,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Nassar Berhasil Turunkan BB 30 Kg, Gak Pakai Diet Berlebih",
-   "snip": "Nassar Berhasil Turunkan BB 30 Kg, Gak Pakai Diet Berlebih detikHOT Ada Pasar Nassar dan Penassarun Jelang Konser King Nassar Lost in the Jungle Kompas.com Kostum King Nassar di Konser Lost in the Jungle, dari Raja Rimba hingga Merak Raksas",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDIxdnVxc2NSdzdGc3AzVHpZZ3BYNi1ackgxNFd5SGFOSzFSX1B3X0tYWmxLSFQ0SVhsN2tKb05oMjJEMW9OTlZMbnlSVG9kZWx3MTlfZVBEZjNEcmVrWTdIZEZOcHhrSEhDRGxvckxYN052NXVmN2UtQlczUGRCOVF0cDBVcm1rdzZGWmVLQXI4VUZiNWluWVB1ONIBoAFBVV95cUxNNDlYTjV0Nk1tX0lJVWVhV192VzR4c2JzdlZNR254elZkSm1OWlZaZEZFZGJmU3drWmotRUhSb2t2eXUwcGVkbHlMMWVraHF4T3NCdFQyUmwyVEZ6dGROYmNRem42NmM1Wk9TeW8yOFhPRDhxcm13eFdDQ0hPbTVOQUh4eDQ2XzFVN2RMZ2dtbVdnUUh4MzJFZ1BFUUdVY09a?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T05:08:32Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -869,7 +911,7 @@
    "av": "",
    "followers": 0,
    "cap": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan",
-   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Kuasa Hukum Beri Tanggapan Soal Unjuk Rasa Terhadap Ruben Onsu JPNN.com Ruben Onsu Kantongi Identitas Pendemo, Siap Tempuh Jalur Hukum? ",
+   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Kenapa Ruben Onsu Didemo dan Diboikot? Ini Kronologinya Inilah.com Sindiran Pedas Sahabat Ruben Onsu ke Massa Aksi Boikot: MahaSewa Orat",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -952,6 +994,28 @@
   },
   {
    "k": "news",
+   "u": "Sumeks",
+   "name": "Sumeks",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id",
+   "snip": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id Sumeks Ramalan Shio Monyet dan Ayam Sabtu, 7 November 2026 Media Indonesia Ramalan 12 Shio Sabtu 7 November 2026: Ada yang B",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUJoVWZwSGt2UWpBVjBHcGRBU3c1SjZ1c2Qtb0ZzcTgzOXhzSDhFWnNwVUZ6aXUzb2ZodHlEc3hNaWRkZi03eDQ5WWd3V09vc3RRX1o0aHVvOHZpdlVscE9yaTI2TXVuQ2NKZVlqWUluN1F0QU44TnpfeVMtT3ZYZF95N2d2eWpDcEtGNnEzYzhBSmpyRHlaVkVQWHFYZ19YZ2lIc2VGZUdkTzFDTDJfOU1ueEZIUkdaejV5bEljdDdzNUJXNURod1Zzb0g0VjJKLTBGQkxB0gHHAUFVX3lxTE9GUnlSakFoald5d0I2QWN6UEVpNllLUFNaNFNPeFZ4RlQ5Z1I1MHB1Ti1QYVFxOFU1cjNRZERPREdOamw1N3NVeV81cWpyem9iMUFfOHF5ZnpnSnlmM1l0emtMdUhUMnptVmU4SDRNLTJxdUZEQVJMSjBZREdxUUFvaVVBNjd3VkN0ZFYwWFRQRnNENUtkZlg5NW42WFdFWlNYZE9qQjFzNmNlVVEwTXV1ZVczZlhLblF2VHlHeXN4SE1ac0dXNEE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sumeks"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T03:43:00Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -971,6 +1035,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-07T03:36:38Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Kata Livy Renata Dianggap Tone Deaf, In This Economy Jalan-jalan ke Luar Negeri",
+   "snip": "Kata Livy Renata Dianggap Tone Deaf, In This Economy Jalan-jalan ke Luar Negeri detikHOT Livy Renata Menjawab Kritik Tone Deaf Saat Kerap Liburan ke Luar Negeri demi Menikmati Masa Muda gadget.qoo10.co.id Livy Renata Pilih Nikmati Masa Muda",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajM4Mjh0YXVPME1XcDNDaE5WdVBzaUZaZ21FSVFXb29FbHJyZWU3Uk9yRHN0WmdWOTA0MjA0ZnE2Wi1JSExJZmFZaUE3X0JtdGFxanlROXJmUWNHOFJhcE9iTTZWX3NLOFRUaHZvMEtyTGZtZXhybUJscW5CNGNMNFpkU0I4ZzVSYl9WX2llUE9Kcm1QTXJ1R2hkbEpRVnBuaDJHS3BnMzZXUXdkd280M1k5dDVzM2vSAbwBQVVfeXFMTUdKRlpoOWJ6TEQ5dkl3T1c3S24ya0dfMlJUS09iUnJPdUlKak43V29VVVc1S1pMcDZFMFpNNTlUbTZ1NVRCRDBCQVlJdUZlYjZOUWVIZzR0Q3VTaDJHLUd5d1pLeGZTTVpJQmdaUTJ2S0VWcUpfZm5sano0QXhjazhzZ0I3SFVUMVIxODNWNzNjeFF4al90b09OempMRG93Qnd5M1IxMWpTUDZyZ05mcjFiRjQ1ejVZNnhkWUw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T03:13:31Z"
   },
   {
    "k": "news",
@@ -1172,6 +1258,28 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Imaniar Tolak Buka Jilbab Meski Terancam Gagal Tampil di Panggung",
+   "snip": "Imaniar Tolak Buka Jilbab Meski Terancam Gagal Tampil di Panggung detikHOT Imaniar Tetap Berhijab Meski Sempat Ditolak Panitia Acara Demokratis.co.id Imaniar Tetap Berhijab Meski Sempat Diancam Batal Tampil dan Diminta Kembalikan Uang Muka ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3FVcXJEV1FnQmxMenlHakNnaHVLdHAyZFBzVG80RzhmZm5OVk1NbDA1cUs5VERUaTVJWklHdWVtV1lGWmpKUHpGRXhKMi00YlJfQkZnMHcwdHYzUFBOcTBMMmIwMEtSZzFWMGRwOVVjU2dtZThIb3dXOWNxY2hUMFg2bG92T0J4UGZETktaMFZPLUpUYzNwUURIaVc2d2ZCVDRLNjBB0gGrAUFVX3lxTE8yd0VidVpDU1N4WXJRRUJMcEQ0OHVYOXZPYWpyNVFjNW9CLTdybnRZejJmUkRWUjZEcDRKMUlMZ1dXUjJ4eHVfN0NNbFhyeVRtYVRBUHRYSVhUU0Q1eFpZVTgyVGJoMktmN0d4Y2Y0ajdtaU9WaGpLZFJQUnJZV2xXNURlWEp5dHI4Z3Eyekx3X0EzN0xoLVNrSW5fSG9SM1ZUREFfeWd5Q0k3VQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-06T15:03:01Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1323,28 +1431,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-06T12:59:40Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Gokil! Keanu Reeves Balik Jadi John Wick",
-   "snip": "Gokil! Keanu Reeves Balik Jadi John Wick detikcom Simak lagi warta soal film animasi John Wick, pencatatan hak cipta ANTARA News Keanu Reeves Kembali Jadi John Wick, Kali Ini lewat Film Animasi RRI.co.id Keanu Reeves Kembali Jadi John Wick ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWtUSzJBTVE2REtYNGtNS0N2SWRmcDJGN21Jd1BpaTFUbkNReWRuNHU5N3YtblRzbXYzcnQ5RWZXY2tBUmpkajJEbTJ0dnh4b0RMR1g1SjN4TlZ3NVJ3MHg4QWFrVkRuY2lQclFSWGZaT0hsVzg5RFZTNkRjSjdrc01peWM5RE1P0gGOAUFVX3lxTE5idElyX1d0bWpYLVh4bzlsdnhMRnlwNWx3WWcyc0VxTFp5NTJ4TGxEbTlRMy10azNLbmhRYXNYeFM2MVZFZGxmXzgwbWxhNFhoVjJLTlNKZ19URWhBNlF4Umdodi04TWt2OENscXR5cGlOUVpmTlRVT0Fab0FWdmJWWm5GMVZ3cFFyakswQmc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T12:14:47Z"
   },
   {
    "k": "news",
@@ -1502,28 +1588,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Alasan Ruben Ngotot Minta Sarwendah Ikut Nyicil Rp12,4 M",
-   "snip": "Kubu Ruben Onsu mengungkapkan alasan Sarwendah perlu ikut melunasi cicilan rumah atau utang Rp12,4 miliar di BCA.",
-   "img": "https://akcdn.detik.net.id/visual/2026/08/06/ruben-onsu-dan-sarwendah-1785988168249_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261106105514-234-1424062/alasan-ruben-ngotot-minta-sarwendah-ikut-nyicil-rp124-m",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T05:00:12Z"
-  },
-  {
-   "k": "news",
    "u": "SINDOnews Lifestyle",
    "name": "SINDOnews Lifestyle",
    "av": "",
@@ -1546,12 +1610,34 @@
   },
   {
    "k": "news",
-   "u": "Tribratanews Polda Metro Jaya",
-   "name": "Tribratanews Polda Metro Jaya",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Musisi Bersuara di Panggung Kemenangan AMI Awards",
+   "snip": "Musisi Bersuara di Panggung Kemenangan AMI Awards Kompas.com Minta Doa untuk Karya Baru, Lesti Kejora: Ada Beberapa yang Diproduksi Kompas.com Idgitaf kaitkan Berusaha di Bawah Hujan dengan kondisi masyarakat kini ANTARA News No Na Borong D",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanN2SDl6WEpWaDd1MG95NkxDZU52Q1hOUG1FbXFIR0hpNlQ0RmZNYmFwVlVNajAxcEN4U19oOTNXbW5lcTNILVN2aG9QSWtQTTZIbTJoaHZPTU14NjhoekpCWXlXSDVic1V1U3dHUTNWRjZzd3VCSk15LUdySFUyc0doX1k0UHFVT2kzYmtyWkFXeVpUNDNrRFFZamp0akZ1VUNjNUxiMHBqaHA4NGF6SmVlMFZlSk5x?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-05T05:32:00Z"
+  },
+  {
+   "k": "news",
+   "u": "DIVISI HUMAS POLRI",
+   "name": "DIVISI HUMAS POLRI",
    "av": "",
    "followers": 0,
    "cap": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif",
-   "snip": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif Tribratanews Polda Metro Jaya Cerita Lea Simanjuntak Dapat Tawaran Manggung di Konser Andrea Bocelli Kompas.com Foto Bel",
+   "snip": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif DIVISI HUMAS POLRI Cerita Lea Simanjuntak Dapat Tawaran Manggung di Konser Andrea Bocelli Kompas.com Foto Belajar dari D",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1560,7 +1646,7 @@
    "com": 0,
    "m": 1,
    "src": [
-    "Tribratanews Polda Metro Jaya"
+    "DIVISI HUMAS POLRI"
    ],
    "hot": [],
    "sc": 20,
@@ -1590,28 +1676,6 @@
   },
   {
    "k": "news",
-   "u": "Sudutpandang.id",
-   "name": "Sudutpandang.id",
-   "av": "",
-   "followers": 0,
-   "cap": "Menang AMI Awards 2026, Andien Serukan Empati untuk Korban Bencana dan Kelestarian Lingkungan",
-   "snip": "Menang AMI Awards 2026, Andien Serukan Empati untuk Korban Bencana dan Kelestarian Lingkungan Sudutpandang.id Minta Doa untuk Karya Baru, Lesti Kejora: Ada Beberapa yang Diproduksi Kompas.com Idgitaf kaitkan Berusaha di Bawah Hujan dengan k",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjI1ZVpyeVhNVXVHS1ptTnRKX2hQQzA1dzVEcUlWY054QXhxUExsejFUN0lTNzQxMjNyNmpZNHYyWWgzaWoyYlhmR1lGR2VaeFlOT3ZDVTNGempyM2V2S0JScmpjZjFxZG5xN0lLZVQwM0xyelk1RC1mZHMxMEhOeVVCejVaNi1LWHJHVWxqc1k4TmFPbFVnYlQ4VVVuazZ6LXRsb0lOZWpZdU8xRUU0S1htUVluMERm?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Sudutpandang.id"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-04T16:54:58Z"
-  },
-  {
-   "k": "news",
    "u": "Beautynesia",
    "name": "Beautynesia",
    "av": "",
@@ -1631,28 +1695,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-04T06:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "VIVA.co.id",
-   "name": "VIVA.co.id",
-   "av": "",
-   "followers": 0,
-   "cap": "Ramalan 12 Shio Selasa 3 November 2026: Macan dan Babi Punya Peluang Cuan Menarik",
-   "snip": "Ramalan 12 Shio Selasa 3 November 2026: Macan dan Babi Punya Peluang Cuan Menarik VIVA.co.id 4 Shio yang Diprediksi Beruntung pada 7 November 2026, Ada Kabar Baik Kompas.com Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, K",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3ZCNGw0U05yUkd1NE5LWUl0QkNGelRLbXRadnlDYnFhSVNueHNWb01sYjRyZjk1VUtVUU9wcjVveXVMeFVlZjk5aEVYM0VYYmlTNnJ0aDRiNWRzNmtBRWFwUldHQTk2ellVcDQ4OG5OVU56X3Eybk5NZ0ZJcFVSR1dQV0pBRFpwNWRwSDJpYW9aTFJVaDhNRkE3VFJyWE80ME5RRFdrWkVrcExFQ0JNbm5XS3ZaNklES2dWVkFia9IBxAFBVV95cUxOcFJ2LUV6VlhzeWUwamtMblBEWUlqVkY3cFlOVXZ0cTZMRjk5Q0ppS0d0X192Y0dQVDI2RngwNk5ES19aSHkya1pDZE1SQWpsWUlGWjcwVnVHcF8tUy1ONnpZRzdBQU9zVkpUZHRRQjdobHJ5SzhZWmtBTmFFMkdiVHNyV214dTBMbzI1SER0cWljVU1idGlnTVhscUhYRjlxQXdWOWc0ci0zOTBvVmRzYmJKQThPdWVpUHgxTW95OThIc3Vs?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "VIVA.co.id"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-02T23:30:00Z"
   }
  ]
 }
