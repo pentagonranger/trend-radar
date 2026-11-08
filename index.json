@@ -1,8 +1,8 @@
 {
  "topics": [
   {
-   "t": "Brest Vs Lyon",
-   "q": "brest vs lyon",
+   "t": "Klasemen Liga Italia",
+   "q": "klasemen liga italia",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -11,15 +11,51 @@
    ],
    "src": [
     "Google Trends",
-    "Flashscore.com",
     "Goal.com",
-    "Sports Mole"
+    "Kompas.com",
+    "Kompas.tv"
+   ],
+   "d": "2026-11-09",
+   "url": "https://www.goal.com/id/berita/napoli-curi-poin-dari-pemuncak-klasemen-lazio-antara-lain-berkat-aksi-mengancam-noa-lang/blt448d60585042baa6",
+   "n": "Napoli curi poin dari pemuncak klasemen Lazio, antara lain berkat aksi mengancam Noa Lang",
+   "vol": 1000,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Utrecht Vs Nec",
+   "q": "utrecht vs nec",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Goal.com",
+    "Vietnam.vn"
+   ],
+   "d": "2026-11-09",
+   "url": "https://www.goal.com/id/berita/tempat-menonton-fc-utrecht-vs-nec-saluran-tv-live-streaming-online-waktu-kick-off-dan-performa-terkini-kedua-tim/bltcbc16ad5493d0a7e",
+   "n": "Tempat menonton FC Utrecht vs NEC: saluran TV, live streaming online, waktu kick-off, dan performa terkini kedua tim",
+   "vol": 500,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Detail Penampilan Lesti Kejora di Konser King Nassar, Anggun Pakai Gaun Ivan Gunawan",
+   "q": "Detail Penampilan Lesti Kejora di Konser King Nassar, Anggun Pakai Gaun Ivan Gun",
+   "cat": "Musik",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "detikcom"
    ],
    "d": "2026-11-08",
-   "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lyon-2akflumR/summary/lineups/?mid=E1fxthuQ",
-   "n": "Brest v Lyon 08/11/2026, Lineups",
-   "vol": 200,
-   "vu": "pencarian"
+   "url": "https://www.liputan6.com/showbiz/read/8331087/detail-penampilan-lesti-kejora-di-konser-king-nassar-anggun-pakai-gaun-ivan-gunawan",
+   "n": ""
   },
   {
    "t": "Ayah Fitri Carlina Titip Dua Pesan untuk Anak-anaknya Sebelum Meninggal",
@@ -52,25 +88,32 @@
    "d": "2026-11-08",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2xmaVg1djl3dk9Md04zcEs4VWgwMDdvSGZabEk1VWcweFJJU1cwXzhldDVFTTlaRll2WWRmQjhEdG1QMW5WRnZaNFZIZlhMdWxfWUdTaE93Uml0MmtmanZZTmJTMWFIVkpqR2I0OC1GMlotZktIMFIxd212dzh4VzBCZ0xIcXZkR2pZdTk4cEFWS0JIWXVwWmNlWTdiWTlDUXRiSGd5ZjBOOTFqYldZ0gG0AUFVX3lxTE1Ld2U1OTdZT3gtcUU4UUExQThNMW55dG8ySVlYUVI2SVVLSWlMdS1KYjRWT1p1bkpRZ3lJZU91c2pNYUNkYllqRlBDaW1BZTkxaDcyalB0YmhpcE40dHM3OHNGelRObDVBUlFiT0ptMy1mR2Q0WTNrTVBCVFlPdXJIX3A5bWxzYnBybmxwXy14ZFpvU1k1TTE4X2pWV21lUm9uREY4d1JLcjVZUnBPdGdVeWd4eg?oc=5",
    "n": ""
-  },
-  {
-   "t": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
-   "q": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "CNN Indonesia",
-    "Kompas.com"
-   ],
-   "d": "2026-11-07",
-   "url": "https://www.cnnindonesia.com/hiburan/20261107125206-234-1424414/viral-cegah-spanduk-karhutla-suporter-psms-oki-rengga-minta-maaf",
-   "n": ""
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Detail Penampilan Lesti Kejora di Konser King Nassar, Anggun Pakai Gaun Ivan Gunawan",
+   "snip": "Lesti Kejora tampil memukau dengan gaun karya Ivan Gunawan di konser Nassar, lengkap dengan detail rumbai berkilau. Intip potret lengkapnya di sini!",
+   "img": "https://cdn0-production-images-kly.akamaized.net/gaNXW3gSS2ihosHyi-yE5IXz7nY=/0x146:1170x805/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392940/original/083902900_1794151212-Masi_edisi_konser_king__kingnassar88__ivan_gunawan__ivangunawan.indonesia.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8331087/detail-penampilan-lesti-kejora-di-konser-king-nassar-anggun-pakai-gaun-ivan-gunawan",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Liputan6 Showbiz",
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-11-08T15:46:42Z"
+  },
   {
    "k": "news",
    "u": "Liputan6 Showbiz",
@@ -91,7 +134,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-08T13:37:34Z"
   },
   {
@@ -119,6 +162,50 @@
   },
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Saksikan Sinetron Kisah Nyata Pagi, Senin 9 November Pukul 07.00 WIB di Indosiar",
+   "snip": "Saksikan sinetron Kisah Nyata Pagi, Senin 9 November pukul 07.00 WIB di Indosiar",
+   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8331097/saksikan-sinetron-kisah-nyata-pagi-senin-9-november-pukul-0700-wib-di-indosiar",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-08T16:00:01Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Shinta Bachir Bintangi Serial Sleeping with the Enemy, Girang Adu Akting dengan Cinta Laura",
+   "snip": "Shinta Bachir Bintangi Serial Sleeping with the Enemy, Girang Bisa Adu Akting dengan Cinta Laura",
+   "img": "https://cdn1-production-images-kly.akamaized.net/OnGCY6isWK8qAVAtyYtWSs6lVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392946/original/029531600_1794151286-1000677675.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8331088/shinta-bachir-bintangi-serial-sleeping-with-the-enemy-girang-adu-akting-dengan-cinta-laura",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-08T15:55:18Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -138,28 +225,6 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-11-08T15:30:13Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Detail Penampilan Lesti Kejora di Konser King Nassar, Anggun Pakai Gaun Ivan Gunawan",
-   "snip": "Lesti Kejora tampil memukau dengan gaun karya Ivan Gunawan di konser Nassar, lengkap dengan detail rumbai berkilau. Intip potret lengkapnya di sini!",
-   "img": "https://cdn0-production-images-kly.akamaized.net/gaNXW3gSS2ihosHyi-yE5IXz7nY=/0x146:1170x805/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392940/original/083902900_1794151212-Masi_edisi_konser_king__kingnassar88__ivan_gunawan__ivangunawan.indonesia.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8331087/detail-penampilan-lesti-kejora-di-konser-king-nassar-anggun-pakai-gaun-ivan-gunawan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-08T15:21:09Z"
   },
   {
    "k": "news",
@@ -268,7 +333,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T13:33:47Z"
   },
   {
@@ -290,7 +355,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T12:59:25Z"
   },
   {
@@ -312,7 +377,7 @@
     "detikInet"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T12:37:28Z"
   },
   {
@@ -334,7 +399,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T12:20:22Z"
   },
   {
@@ -356,7 +421,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T12:19:55Z"
   },
   {
@@ -378,7 +443,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T12:11:45Z"
   },
   {
@@ -400,7 +465,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T11:42:49Z"
   },
   {
@@ -410,7 +475,7 @@
    "av": "",
    "followers": 0,
    "cap": "Demam Konser BTS: Harga Hotel Naik, Tiket Pesawat Diburu",
-   "snip": "Demam Konser BTS: Harga Hotel Naik, Tiket Pesawat Diburu detikTravel Daftar Bioskop CGV dan Cinepolis Putar Live Viewing BTS ARIRANG CNN Indonesia Konser BTS di SUGBK Tetap Digelar, PPKGBK Bakal Siapkan Live Viewing di Bioskop pada Hari Ter",
+   "snip": "Demam Konser BTS: Harga Hotel Naik, Tiket Pesawat Diburu detikTravel Daftar Bioskop CGV dan Cinepolis Putar Live Viewing BTS ARIRANG CNN Indonesia Tur BTS Dongkrak Tarif Hotel dan Penerbangan Asia Tenggara SuaraGarut.ID ARMY Indonesia Merap",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -422,7 +487,7 @@
     "detikTravel"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T10:21:32Z"
   },
   {
@@ -444,31 +509,8 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T10:21:25Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
-   "snip": "Oki Rengga tuai polemik usai viral diduga cegah suporter PSMS tak pasang spanduk karhutla saat menjamu Persija. Apa alasan pemeran film 'Gak Ada Matinya' itu?",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/04/gak-ada-matinya-1793791793349_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261107125206-234-1424414/viral-cegah-spanduk-karhutla-suporter-psms-oki-rengga-minta-maaf",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "CNN Indonesia",
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 48,
-   "ts": "2026-11-07T07:01:18Z"
   },
   {
    "k": "news",
@@ -648,28 +690,6 @@
   },
   {
    "k": "news",
-   "u": "riaurealita.com",
-   "name": "riaurealita.com",
-   "av": "",
-   "followers": 0,
-   "cap": "HUAWEI nova 16s Series dan FreeBuds Neo Dipamerkan di Roadshow Jakarta",
-   "snip": "HUAWEI nova 16s Series dan FreeBuds Neo Dipamerkan di Roadshow Jakarta riaurealita.com Huawei Nova 17 Series Dikabarkan Akan Segera Debut - https://jambiindependent.disway.id/ Jambi Independent Spesifikasi Huawei Nova 16s Pro, HP dengan Kam",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHhseGZCSDBDc3BtSm1BeVhOXzFjbjZNNVFKSk9XbER4R2hXd3JrT29mY3plZ1VLdjFLN0JCVlZtdGl2UVRjeGVpNHRocnpNU1hfcjhfTHh0NnJvaDdVazdicHFoU0VvSzRoaFhhckVrMTBoZ1d4WlJmQlEzSUc0a3lyZW5rZlN6bTdwTjBRT0hTYV9FLUVaRUtCeHF3RDZ4UWZsaUVUd3AtQlVtemFUQ0tR0gGwAUFVX3lxTE5qVHNmNE12NkR4cE5MR2JkMWp6RWtiWWVCQ1ZEVzBkMDl4YUROWXBMTERJd3RTU2t1VWVNVURxNUUwQVZMLTZVYmhVOTdId01OVXFWUE9fSGdWZ2VNckU2Q1NvTG11U0NOeVRCMWlCMnpKME12b2lLNzdacjFFZFdfcU1FYkNXeW1ZRHZjUjQ1aTk3eUxieUxxWU5DZmpJY000N2NsNFJYcWNqcWEyUFpy?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "riaurealita.com"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-08T07:16:39Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -697,7 +717,7 @@
    "av": "",
    "followers": 0,
    "cap": "Nassar Ngaku Gak Pernah Trauma, tapi Masih Jomlo",
-   "snip": "Nassar Ngaku Gak Pernah Trauma, tapi Masih Jomlo detikHOT Ungkapan Bahagia King Nassar Usai Konser Tunggal Perdana Dibanjiri Penonton Inilah.com Blak-Blakan Soal Asmara, King Nassar Bilang Begini JPNN.com King Nassar Padukan Musik Dangdut d",
+   "snip": "Nassar Ngaku Gak Pernah Trauma, tapi Masih Jomlo detikHOT Ivan Gunawan Sampai Turun Panggung Urus Ekor 7 Meter Busana King Nassar Inilah.com King Nassar Padukan Musik Dangdut dan Orkestra dalam Konser Tunggal Perdana RRI.co.id Blak-Blakan S",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -755,28 +775,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-08T06:06:11Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Saksikan Sinetron Kisah Nyata Siang Episode Minggu 8 November Pukul 13.30 WIB di Indosiar",
-   "snip": "Saksikan sinetron Kisah Nyata Siang Minggu 8 November pukul 13.30 WIB di Indosiar.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8326545/saksikan-sinetron-kisah-nyata-siang-episode-minggu-8-november-pukul-1330-wib-di-indosiar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-08T06:01:01Z"
   },
   {
    "k": "news",
@@ -1022,6 +1020,28 @@
   },
   {
    "k": "news",
+   "u": "Suara.com",
+   "name": "Suara.com",
+   "av": "",
+   "followers": 0,
+   "cap": "4 Shio Paling Beruntung 8 November 2026: Macan hingga Babi Panen Hoki dan Rezeki",
+   "snip": "4 Shio Paling Beruntung 8 November 2026: Macan hingga Babi Panen Hoki dan Rezeki Suara.com 3 Shio yang Diprediksi Mengalami Peningkatan Karier pada 2026 Kompas.com Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keu",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjhFbE5FaFdnRnRzYVo1OGxpMURQWHk3b1ZSczRMVE9FZTBaNzFlUUJVQWw3SVdldjBEZWNrdl9ZdVRUaHZ6bUw5dDYzcjFYLWRCbzNXN2JsTExrTUFXX20tNVJaT0tXdjFnWngxT3RjSkpUc0o5T2hOeU9NX2RTUnE4RWY1VzVmdXhuX0dBVE1kV0RJSzFrU2FMOGdoNWxBM2JqVFFGLUIyd1hsN2ZDbjNaVWY0eDNWZ1haS0dpLTNUM2dTWDNUZdIByAFBVV95cUxOUkk1V3FadTFpT1lyZ2ItcndzVWs4UFp5UGRXZzlvSFNyTDkwZnMwbmxFMUVaSGpMV3lubEhGLUVBV1lVbFNTeVBRcXh4Zk1Wd0FIeWRvUTdnT29xb2cxaEpGZDE1cjNBREpoZnRDcXgtalVwVnBSWkVDckdQdGZNUmJ0NjhZa2N5bTlHWWNtUUZUNUU2ZE5hdzNnN3I2RTdGMVBKVE42RThxdWpGVUpmT3hySWRHZU4tdGVJOG5taUpfY2dteUVSbA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Suara.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T23:15:11Z"
+  },
+  {
+   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
@@ -1083,7 +1103,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-07T18:00:31Z"
   },
   {
@@ -1105,30 +1125,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T15:50:17Z"
-  },
-  {
-   "k": "news",
-   "u": "detikFood",
-   "name": "detikFood",
-   "av": "",
-   "followers": 0,
-   "cap": "Liburan ke Bangkok dan Jepang, Gaya Kulineran Livy Renata Jadi Sorotan",
-   "snip": "Liburan ke Bangkok dan Jepang, Gaya Kulineran Livy Renata Jadi Sorotan detikFood 4 Selebritas Indonesia yang Pernah Dianggap Tone Deaf Demokratis.co.id Tone Deaf di Era Digital: Ketika Empati Kian Memudar BidikUtama.com Makna Tone Deaf: Dar",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVphRWFsOUFsc1ZSd3B6V1BIMzBMTlJYZFNwdHpvblFzaGFxM0RYTWI2c3BLMi1GczFmU3VzcDJxYzdtemVwalh5XzFjaGd4NGhnclloTkNWT09VOUZNZHZodG1WN0FNc1R3cmw3UnFuWHByaGV3bWJDakwwOTRMYnJyX2lRenFrVmRoek9EanRDUk52YktmaFpnTFNOdkdKbzJnZzB4SEMtVjZpN18zNUZNeUtBZ9IBuwFBVV95cUxPLW9mUVZnZVV6RjBmTEM1NXdrOUZXOFVDdlNZbWJCZVFiekw0c3MyNDg2c2N3OEJITWZvYngtVVhDcWFPS3BWR0JUUWN4dkFfOGxEMHctU2FGeE80a1hVOXlrSXVaQnFIQ2RpZG9TWFg2YUN4SnZUMUZLZ09yVDM4ZFQtSTlOSGpkd1FLMnZPSHNmODFmMWxiNWRYbkU1RGlrb2Y1b2N6Wk9RenB4cmU2Rk1fcDFGbzAxQm80?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikFood"
-   ],
-   "hot": [],
    "sc": 30,
-   "ts": "2026-11-07T15:00:28Z"
+   "ts": "2026-11-07T15:50:17Z"
   },
   {
    "k": "news",
@@ -1198,28 +1196,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Ameena Curhat, Atta Halilintar Tulis Ungkapan Cinta Buat Anak-anak",
-   "snip": "Ameena Curhat, Atta Halilintar Tulis Ungkapan Cinta Buat Anak-anak detikHOT Atta Halilintar Minta Maaf ke Ameena usai Sang Putri Ungkapkan Isi Hati, Janji Jadi Ayah Lebih Baik celebrity.okezone.com Atta Halilintar Buka Suara Soal Curhatan A",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTFDMjVZZGRILVFVVFlSUThuOUNGR0p6bWZGQUwzWTZVTTExczNfTUtuMEU3YXhzMW85TG53azhVb3NDSnpnSjZEdFRtTDA4b3RqUV9CNFZWRkFYZ0ZCTmlkTy1OQnNhYjdoLVNlT3VsckZYS0tVclZHdW9vcGlmbVNfSTRQOHhGUlllaDNwUzluM21tbzlJNHlFWWpMaUktQ1ZlRWNR0gGrAUFVX3lxTE8wYWhMT3JNLXRtTDlJRElkeDVpOVpla1VJN3ExREYxOUdLTTdkUFZ5Q1N4czFPNnh2UjRKOWJLY1hrc2g2dTkzNHFKcWU4SDgwQjcwdFktTXVNLWNCbnlmc2Zfd1drbmZsYmhyc3psX29fYjRlOHIyTnNCTXBsaUh4anVDNVV6QVhlZjlpUUdORnlTTGs4MVY3Z0o3aXQ5ZkZ0VEhrUmJLcG1EUQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-07T10:04:04Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1268,6 +1244,28 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
+   "cap": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
+   "snip": "Oki Rengga tuai polemik usai viral diduga cegah suporter PSMS tak pasang spanduk karhutla saat menjamu Persija. Apa alasan pemeran film 'Gak Ada Matinya' itu?",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/04/gak-ada-matinya-1793791793349_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107125206-234-1424414/viral-cegah-spanduk-karhutla-suporter-psms-oki-rengga-minta-maaf",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-07T07:01:18Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
    "cap": "Mertua Pangeran Harry Ditangkap karena Kasus Pelecehan Seksual",
    "snip": "Ayah Meghan Markle, Thomas Markle Sr., ditangkap atas tuduhan terkait kepemilikan materi pelecehan seksual terhadap anak pada Jumat (6/11).",
    "img": "https://akcdn.detik.net.id/visual/2023/05/18/pangeran-harry-dan-meghan-markle_169.jpeg?w=360&q=90",
@@ -1291,7 +1289,7 @@
    "av": "",
    "followers": 0,
    "cap": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan",
-   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Ruben Onsu Diboikot, Kuasa Hukum Minola Sebayang Buka Suara Soal Potensi Kehilangan Pekerjaan MataMata.com Bantah Terlibat dalam Demo te",
+   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Deddy Corbuzier Heran Ruben Onsu Didemo saat Banyak Isu Penting, Berharap Cuma Pengalihan Isu celebrity.okezone.com Ruben Onsu Diboikot,",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1305,28 +1303,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-07T04:18:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Sumeks",
-   "name": "Sumeks",
-   "av": "",
-   "followers": 0,
-   "cap": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id Sumeks 3 Shio yang Diprediksi Mengalami Peningkatan Karier pada 2026 Kompas.com Shio Paling Hoki November 2026, Siapa Berpel",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUJoVWZwSGt2UWpBVjBHcGRBU3c1SjZ1c2Qtb0ZzcTgzOXhzSDhFWnNwVUZ6aXUzb2ZodHlEc3hNaWRkZi03eDQ5WWd3V09vc3RRX1o0aHVvOHZpdlVscE9yaTI2TXVuQ2NKZVlqWUluN1F0QU44TnpfeVMtT3ZYZF95N2d2eWpDcEtGNnEzYzhBSmpyRHlaVkVQWHFYZ19YZ2lIc2VGZUdkTzFDTDJfOU1ueEZIUkdaejV5bEljdDdzNUJXNURod1Zzb0g0VjJKLTBGQkxB0gHHAUFVX3lxTE9GUnlSakFoald5d0I2QWN6UEVpNllLUFNaNFNPeFZ4RlQ5Z1I1MHB1Ti1QYVFxOFU1cjNRZERPREdOamw1N3NVeV81cWpyem9iMUFfOHF5ZnpnSnlmM1l0emtMdUhUMnptVmU4SDRNLTJxdUZEQVJMSjBZREdxUUFvaVVBNjd3VkN0ZFYwWFRQRnNENUtkZlg5NW42WFdFWlNYZE9qQjFzNmNlVVEwTXV1ZVczZlhLblF2VHlHeXN4SE1ac0dXNEE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Sumeks"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-07T03:43:00Z"
   },
   {
    "k": "news",
@@ -1479,7 +1455,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-06T16:00:23Z"
   },
   {
@@ -1503,6 +1479,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-06T12:59:40Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau",
+   "snip": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau Kompas.com",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkEzdzVGYTI0a2xPUG1HZUpQR0lkNGY4S3VpQmZJMWZ6ZDcxRWtHY3BCblZYbG1ybmJjOW9iRHlxQURaU0NwZWFsdUx0cklTNFNRbm1FUzNxVHE0ajBaR1A3TWRMRkx2OXNpcFhGdHdVODRIc0R1RDA3OG1wWEZwWV9YWkVra1YtU3NITG54cXVWRndqQ2xHWnBLNUJEYlpqYnJJZ29iQndnRFJnTzV5blBTclhWUFBFWnZrUHNkOUhSa1V5RzBObjU1TGM?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-06T05:33:00Z"
   },
   {
    "k": "news",
@@ -1591,6 +1589,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-04T04:44:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Nicolas Cage Ngaku Homeless Usai Rumah Mewah di Malibu Hancur",
+   "snip": "Nicolas Cage Ngaku Homeless Usai Rumah Mewah di Malibu Hancur detikcom Nicolas Cage Tinggalkan Rumah Malibu Akibat Lubang Raksasa Demokratis.co.id Most Pop: Nicolas Cage Curhat Mendadak Jadi Tunawisma Wolipop Rumahnya Nyaris Ditelan Lubang ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUp6NVcydUx6S1JGVHF4MEVwSVpUVzFvX1NrN0kxcF91Z0JqOWJZNUVaZmY2U3RKbFJPalpGOG1uUkwxeV9NMUhhRzhXM3Z1bTJlT1N5cUhRZkdiczJWYmdTU2k3VXlwRV9xY18yR0dLRlIxWVFUczJMeEVhREFQdC11YjBHeUE3YmRpQ0Q2cTM1Y1U5amFvV2JvamlYaG9oYllqTGt1aDF3d9IBrwFBVV95cUxNQ0NpSnZWMjZnN1QwYmpNazZIcDNLVDlxZUV3TGlFM3FBMjJHbFlVcmd5RjF2UDl0Nnc5dzR3Vm1XV3EwMEJVRE9YdnJwYWptclRQYkRNd1JVY2FvOHBvd0lyajBQMVlVV1RHdm9ILWtUR29JaGgwb003Q1JCYjZnNWFvOEVTeFAzMXZRQU9zQ0hlS19qWlYyVVdnbnRYREUyUDlBVWhOSVppQjFndDh3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-03T11:35:36Z"
   }
  ]
 }
