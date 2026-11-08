@@ -1,8 +1,29 @@
 {
  "topics": [
   {
-   "t": "Bank",
-   "q": "bank",
+   "t": "Jakarta",
+   "q": "jakarta",
+   "cat": "Musik",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Reuters",
+    "BBC",
+    "AP News"
+   ],
+   "d": "2026-11-08",
+   "url": "https://www.reuters.com/world/asia-pacific/indonesia-names-fourth-senior-police-officer-wiretapping-suspect-amid-deepening-2026-11-06/",
+   "n": "Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Shio",
+   "q": "shio",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -11,19 +32,19 @@
    ],
    "src": [
     "Google Trends",
-    "The Guardian",
-    "Al Jazeera",
-    "BBC"
+    "Kompas.com",
+    "IDN Times",
+    "Radar Pati"
    ],
    "d": "2026-11-08",
-   "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
-   "n": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
-   "vol": 500,
+   "url": "https://lifestyle.kompas.com/read/2026/11/06/123300620/warna-keberuntungan-12-shio--biru-bagus-untuk-tikus-tak-untuk-kerbau?page=all",
+   "n": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau",
+   "vol": 100,
    "vu": "pencarian"
   },
   {
-   "t": "Sinetron Terikat Janji Rcti",
-   "q": "sinetron terikat janji rcti",
+   "t": "Megawati Hangestri Pertiwi",
+   "q": "megawati hangestri pertiwi",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -32,14 +53,14 @@
    ],
    "src": [
     "Google Trends",
-    "SINDOnews Lifestyle",
-    "celebrity.okezone.com",
-    "iNews.ID"
+    "CNN Indonesia",
+    "VIVA.co.id",
+    "kontan.co.id"
    ],
    "d": "2026-11-08",
-   "url": "https://lifestyle.sindonews.com/read/1769129/158/sinopsis-sinetron-terikat-janji-eps-210-bryan-ungkap-sosok-di-balik-penyamaran-ryan-akankah-rama-berhasil-dijebak-1793952712",
-   "n": "Sinopsis Sinetron 'Terikat Janji' Eps 210: Bryan Ungkap Sosok di Balik Penyamaran Ryan, Akankah Rama Berhasil Dijebak?",
-   "vol": 100,
+   "url": "https://www.cnnindonesia.com/olahraga/20261107185417-178-1424493/megawati-masuk-daftar-3-besar-top-skor-di-red-sparks-vs-hillstate",
+   "n": "Megawati Masuk Daftar 3 Besar Top Skor di Red Sparks vs Hillstate",
+   "vol": 1000,
    "vu": "pencarian"
   },
   {
@@ -59,22 +80,6 @@
    "n": ""
   },
   {
-   "t": "Netflix Umumkan Prequel Stranger Things, Tayang 2028",
-   "q": "Netflix Umumkan Prequel Stranger Things, Tayang 2028",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "CNN Indonesia",
-    "Tempo"
-   ],
-   "d": "2026-11-07",
-   "url": "https://www.cnnindonesia.com/hiburan/20261107150325-220-1424441/netflix-umumkan-prequel-stranger-things-tayang-2028",
-   "n": ""
-  },
-  {
    "t": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
    "q": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
    "cat": "Selebriti",
@@ -84,7 +89,7 @@
    ],
    "src": [
     "CNN Indonesia",
-    "Kompas.com"
+    "republika.co.id"
    ],
    "d": "2026-11-07",
    "url": "https://www.cnnindonesia.com/hiburan/20261107125206-234-1424414/viral-cegah-spanduk-karhutla-suporter-psms-oki-rengga-minta-maaf",
@@ -108,6 +113,30 @@
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "Sumeks",
+   "name": "Sumeks",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id",
+   "snip": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id Sumeks 3 Shio yang Diprediksi Mengalami Peningkatan Karier pada 2026 Kompas.com Ramalan 12 Shio Minggu 8 November 2026: Keli",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUJoVWZwSGt2UWpBVjBHcGRBU3c1SjZ1c2Qtb0ZzcTgzOXhzSDhFWnNwVUZ6aXUzb2ZodHlEc3hNaWRkZi03eDQ5WWd3V09vc3RRX1o0aHVvOHZpdlVscE9yaTI2TXVuQ2NKZVlqWUluN1F0QU44TnpfeVMtT3ZYZF95N2d2eWpDcEtGNnEzYzhBSmpyRHlaVkVQWHFYZ19YZ2lIc2VGZUdkTzFDTDJfOU1ueEZIUkdaejV5bEljdDdzNUJXNURod1Zzb0g0VjJKLTBGQkxB0gHHAUFVX3lxTE9GUnlSakFoald5d0I2QWN6UEVpNllLUFNaNFNPeFZ4RlQ5Z1I1MHB1Ti1QYVFxOFU1cjNRZERPREdOamw1N3NVeV81cWpyem9iMUFfOHF5ZnpnSnlmM1l0emtMdUhUMnptVmU4SDRNLTJxdUZEQVJMSjBZREdxUUFvaVVBNjd3VkN0ZFYwWFRQRnNENUtkZlg5NW42WFdFWlNYZE9qQjFzNmNlVVEwTXV1ZVczZlhLblF2VHlHeXN4SE1ac0dXNEE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sumeks"
+   ],
+   "hot": [
+    "Shio"
+   ],
+   "sc": 65,
+   "ts": "2026-11-07T03:43:00Z"
+  },
   {
    "k": "news",
    "u": "Liputan6 Showbiz",
@@ -137,29 +166,6 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Netflix Umumkan Prequel Stranger Things, Tayang 2028",
-   "snip": "Netflix resmi mengumumkan serial prequel dari waralaba populer Stranger Things berjudul Other Worlds: A Stranger Things Adventure.",
-   "img": "https://akcdn.detik.net.id/visual/2018/04/05/a6921486-12a4-47b1-be4b-8a8dfb2d1a58_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261107150325-220-1424441/netflix-umumkan-prequel-stranger-things-tayang-2028",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "CNN Indonesia",
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 58,
-   "ts": "2026-11-07T09:05:47Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
    "cap": "Viral Cegah Spanduk Karhutla Suporter PSMS, Oki Rengga Minta Maaf",
    "snip": "Oki Rengga tuai polemik usai viral diduga cegah suporter PSMS tak pasang spanduk karhutla saat menjamu Persija. Apa alasan pemeran film 'Gak Ada Matinya' itu?",
    "img": "https://akcdn.detik.net.id/visual/2026/11/04/gak-ada-matinya-1793791793349_169.png?w=360&q=90",
@@ -171,7 +177,7 @@
    "m": 2,
    "src": [
     "CNN Indonesia",
-    "Kompas.com"
+    "republika.co.id"
    ],
    "hot": [],
    "sc": 58,
@@ -179,25 +185,27 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "Pattinson dan Hoult Disebut Ikut Audisi Rahasia Pemeran James Bond",
-   "snip": "Dua aktor ternama Inggris, Robert Pattinson dan Nicholas Hoult, dilaporkan diam-diam telah mengikuti audisi rahasia peran sebagai agen rahasia James Bond 007.",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/08/robert-pattinson-hadiri-pemutaran-perdana-film-primetime-di-venice-1788850899486_169.jpeg?w=360&q=90",
+   "cap": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau",
+   "snip": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau Kompas.com",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261107193244-220-1424499/pattinson-dan-hoult-disebut-ikut-audisi-rahasia-pemeran-james-bond",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkEzdzVGYTI0a2xPUG1HZUpQR0lkNGY4S3VpQmZJMWZ6ZDcxRWtHY3BCblZYbG1ybmJjOW9iRHlxQURaU0NwZWFsdUx0cklTNFNRbm1FUzNxVHE0ajBaR1A3TWRMRkx2OXNpcFhGdHdVODRIc0R1RDA3OG1wWEZwWV9YWkVra1YtU3NITG54cXVWRndqQ2xHWnBLNUJEYlpqYnJJZ29iQndnRFJnTzV5blBTclhWUFBFWnZrUHNkOUhSa1V5RzBObjU1TGM?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "CNN Indonesia"
+    "Kompas.com"
    ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-07T18:00:31Z"
+   "hot": [
+    "Shio"
+   ],
+   "sc": 55,
+   "ts": "2026-11-06T05:33:00Z"
   },
   {
    "k": "news",
@@ -205,12 +213,12 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Kostum King Nassar di Konser Lost in the Jungle, dari Raja Rimba hingga Merak Raksasa",
-   "snip": "Kostum King Nassar di konser Lost in the Jungle, Istora Senayan, tampil penuh kejutan. Ada busana ala rimba, merak raksasa, dan jaket bermotif satwa.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/HJJBNEpwnebQDPtyD2wxECxeTC0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392522/original/043243000_1794069159-1b.jpg",
+   "cap": "Saksikan Sinetron Kisah Nyata Pagi, Minggu 8 November Pukul 08.30 WIB di Indosiar",
+   "snip": "Saksikan sinetron Kisah Nyata Pagi, Minggu 8 November pukul 08.30 WIB di Indosiar.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8330714/kostum-king-nassar-di-konser-lost-in-the-jungle-dari-raja-rimba-hingga-merak-raksasa",
+   "url": "https://www.liputan6.com/showbiz/read/8326541/saksikan-sinetron-kisah-nyata-pagi-minggu-8-november-pukul-0830-wib-di-indosiar",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -219,7 +227,51 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-11-07T16:32:48Z"
+   "ts": "2026-11-08T01:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Seven Beaches Festival 2026 gerakkan ekonomi masyarakat pesisir",
+   "snip": "Bupati Probolinggo Mohammad Haris optimistis penyelenggaraan Seven Beaches Festival 2026 yang digelar pada 7-15 ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/08/WhatsApp-Image-2026-11-07-at-20.56.58-1200x630.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5839235/seven-beaches-festival-2026-gerakkan-ekonomi-masyarakat-pesisir",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-08T00:57:57Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Kemarin, apresiasi lagu Olivia Rodrigo hingga fitur baru Toyota",
+   "snip": "Kanal gaya hidup, hiburan, tekno, dan otomotif pada Sabtu (7/11) menyajikan berita di antaranya penulis \"Christmas ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/05/28/Untitled-design-64.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5839231/kemarin-apresiasi-lagu-olivia-rodrigo-hingga-fitur-baru-toyota",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-08T00:54:21Z"
   },
   {
    "k": "news",
@@ -227,12 +279,12 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "FOTO: Sakral Ritual Tradisi Kuno Kenduri Sko Masyarakat Kerinci",
-   "snip": "Masyarakat Suku Kerinci khidmat menjalani tradisi kuno Kenduri Sko pada Sabtu (7/11).",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/07/tradisi-negak-karangmentang-jelang-kenduri-sko-semurup-1794040644684_169.jpeg?w=360&q=90",
+   "cap": "Polemik Warisan Michael Jackson, Anak Tempuh Jalur Hukum",
+   "snip": "Putri mendiang Michael Jackson, Paris Jackson, resmi menempuh jalur hukum untuk menuntut pembagian warisan ayahnya sebesar US$600 juta.",
+   "img": "https://akcdn.detik.net.id/visual/2020/07/02/paris-jackson_169.jpeg?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261107154953-243-1424453/foto-sakral-ritual-tradisi-kuno-kenduri-sko-masyarakat-kerinci",
+   "url": "https://www.cnnindonesia.com/hiburan/20261104124316-234-1423153/polemik-warisan-michael-jackson-anak-tempuh-jalur-hukum",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -241,7 +293,95 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-11-07T15:50:17Z"
+   "ts": "2026-11-08T00:00:05Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Horor Thailand Inherit Lanjut Sekuel, Masih Dibintangi Davika Hoorne",
+   "snip": "Sutradara Banjong Pisanthanakun memastikan film horor Inherit bakal lanjut sekuel dan tetap dibintangi Davika Hoorne.",
+   "img": "https://akcdn.detik.net.id/visual/2026/10/02/film-horor-thailand-inherit-2026-1790910016037_169.webp?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107203928-220-1424510/banjong-pisanthanakun-resmi-konfirmasi-sekuel-inherit",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-07T23:15:12Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Ketemu Mantan Pas Lagi Acak-acakan, Lagu Astrid Berusia 13 Tahun Viral Lagi",
+   "snip": "Ketemu Mantan Pas Lagi Acak-acakan, Lagu Astrid Berusia 13 Tahun Viral Lagi detikcom",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGREaTh1VUFmQUp0VWtFT3E3QVFrUXk1cVg4cHNlb055RjNUM2JMWjZwMHpaQmZtM2hwWldDa1p5QnFUT3ZGYjhBRF81SFY3YWRsYWFQZ2taOTA5QTNSX3ZxZ3V6RUJIb21kZ0RBNVRmUXF5cHViLVg1N1A3SkxFQnJUcjFJTndGX2lHb1pTUTFMb18yNXVna09aanVKNVlFdGY5X2MwMGNkYWRrVng1QmxNSzB6WGPSAbwBQVVfeXFMTW5tQkMzQ2QwTDVVOEVmOUFYY1hhQWZpcWpVakp4aFRyYi1RcmJOTXM3dXgybEJQODRGNXlkbV9pLUlBY0pVYWEyWDRQQml6clY0aEp6TVdyc1VIQ2VHSXBBLXB4c25YMjhhbmw0QW41OVZCWXl5ZmotMzBCYmtXMXMwYk43WXAwd081X3V3ek4xNXA1bUEyU0dVbXFDbTlyM2xQcHRlbEEtLWNySWhVbUQ2T1JwdnFrZEVwcGw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-07T23:02:59Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Berbagai versi Godziilla dalam film",
+   "snip": "Lebih dari 70 tahun sejak kemunculan pertamanya dari studio Toho Jepang, monster legendaris Godzilla kembali ke layar ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/08/20261108-Berbagai-versi-Godzilla-dalam-film.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/infografik/5839131/berbagai-versi-godziilla-dalam-film",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-07T23:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Keanu Reeves Kembali Jadi John Wick di Film Prequel Animasi",
+   "snip": "Kali ini, Keanu Reeves akan mengisi suara John Wick, sang pembunuh bayaran tersebut dalam film prequel animasi garapan rumah produksi Lionsgate.",
+   "img": "https://akcdn.detik.net.id/visual/2021/08/23/john-wick-2_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107160355-220-1424468/keanu-reeves-kembali-jadi-john-wick-di-film-prequel-animasi",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-07T22:15:39Z"
   },
   {
    "k": "news",
@@ -265,6 +405,118 @@
    "hot": [],
    "sc": 48,
    "ts": "2026-11-06T10:00:17Z"
+  },
+  {
+   "k": "news",
+   "u": "DIVISI HUMAS POLRI",
+   "name": "DIVISI HUMAS POLRI",
+   "av": "",
+   "followers": 0,
+   "cap": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif",
+   "snip": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif DIVISI HUMAS POLRI Cerita Lea Simanjuntak Dapat Tawaran Manggung di Konser Andrea Bocelli Kompas.com MUI Soroti Sikap Pe",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS2R4MTRiTG1kMkEwc1BlR3liNS1nVHlLWEdwRXZPdXRWOGVBeEczUk4yM3RWSG9lcjU2TjJuNjlJdjF6Y1ZFS1Y1YkswVndsWUhraGU5RzdpejVnMGo2Wk93VVB1SjU1R0diY1BDcVZmZUdtOE12MUNuZ2MxclZ3X0x2cE5jRkFUU2gyaW9yZU1PVEcyN3lHN002eG1VYzhBVjlucGhkZVI3SmZCaWdTdWhmV0JnNENQYjZEMWF5NVd6d0Vadk8xTlQxbDctUWNQeEZZYWtuSzFBc3F6N2JfSjktMDdaV3M2bVR0MEdHQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "DIVISI HUMAS POLRI"
+   ],
+   "hot": [
+    "Jakarta"
+   ],
+   "sc": 45,
+   "ts": "2026-11-05T02:36:47Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Pattinson dan Hoult Disebut Ikut Audisi Rahasia Pemeran James Bond",
+   "snip": "Dua aktor ternama Inggris, Robert Pattinson dan Nicholas Hoult, dilaporkan diam-diam telah mengikuti audisi rahasia peran sebagai agen rahasia James Bond 007.",
+   "img": "https://akcdn.detik.net.id/visual/2026/09/08/robert-pattinson-hadiri-pemutaran-perdana-film-primetime-di-venice-1788850899486_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107193244-220-1424499/pattinson-dan-hoult-disebut-ikut-audisi-rahasia-pemeran-james-bond",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T18:00:31Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Kostum King Nassar di Konser Lost in the Jungle, dari Raja Rimba hingga Merak Raksasa",
+   "snip": "Kostum King Nassar di konser Lost in the Jungle, Istora Senayan, tampil penuh kejutan. Ada busana ala rimba, merak raksasa, dan jaket bermotif satwa.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/HJJBNEpwnebQDPtyD2wxECxeTC0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392522/original/043243000_1794069159-1b.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8330714/kostum-king-nassar-di-konser-lost-in-the-jungle-dari-raja-rimba-hingga-merak-raksasa",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T16:32:48Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "FOTO: Sakral Ritual Tradisi Kuno Kenduri Sko Masyarakat Kerinci",
+   "snip": "Masyarakat Suku Kerinci khidmat menjalani tradisi kuno Kenduri Sko pada Sabtu (7/11).",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/07/tradisi-negak-karangmentang-jelang-kenduri-sko-semurup-1794040644684_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107154953-243-1424453/foto-sakral-ritual-tradisi-kuno-kenduri-sko-masyarakat-kerinci",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T15:50:17Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Liburan ke Bangkok dan Jepang, Gaya Kulineran Livy Renata Jadi Sorotan",
+   "snip": "Liburan ke Bangkok dan Jepang, Gaya Kulineran Livy Renata Jadi Sorotan detikFood Makna Tone Deaf: Dari Tuli Nada hingga Tumpulnya Empati Sosial di Media Sosial RRI.co.id 4 Selebritas Indonesia yang Pernah Dianggap Tone Deaf Demokratis.co.id",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVphRWFsOUFsc1ZSd3B6V1BIMzBMTlJYZFNwdHpvblFzaGFxM0RYTWI2c3BLMi1GczFmU3VzcDJxYzdtemVwalh5XzFjaGd4NGhnclloTkNWT09VOUZNZHZodG1WN0FNc1R3cmw3UnFuWHByaGV3bWJDakwwOTRMYnJyX2lRenFrVmRoek9EanRDUk52YktmaFpnTFNOdkdKbzJnZzB4SEMtVjZpN18zNUZNeUtBZ9IBuwFBVV95cUxPLW9mUVZnZVV6RjBmTEM1NXdrOUZXOFVDdlNZbWJCZVFiekw0c3MyNDg2c2N3OEJITWZvYngtVVhDcWFPS3BWR0JUUWN4dkFfOGxEMHctU2FGeE80a1hVOXlrSXVaQnFIQ2RpZG9TWFg2YUN4SnZUMUZLZ09yVDM4ZFQtSTlOSGpkd1FLMnZPSHNmODFmMWxiNWRYbkU1RGlrb2Y1b2N6Wk9RenB4cmU2Rk1fcDFGbzAxQm80?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T15:00:28Z"
   },
   {
    "k": "news",
@@ -397,28 +649,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-07T13:18:46Z"
-  },
-  {
-   "k": "news",
-   "u": "detikTravel",
-   "name": "detikTravel",
-   "av": "",
-   "followers": 0,
-   "cap": "Pesan Sultan Hamengku Buwono X di Royal Wedding Pura Mangkunegaran",
-   "snip": "Pesan Sultan Hamengku Buwono X di Royal Wedding Pura Mangkunegaran detikTravel Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmNZVEtMUTlzWnhyZzFNSGxSMGhZX2dVdUU3RHRHazJBRzlhbTJIdllVVkVsMmwwZ0dXUXhnXzRqMzVrb1dxSkREUlZIdUxoSEJtQ29mU2ZFYTNId2lZb1ZFM1ZpMUZVR2pGcE1sQlRJRjQ3LXZDM3BEMlA5cGxlRVNHOU45eDZlWVI4WU1HUjlUNTVmYTMwR0paVkpDZDI1T1JqNUNqTGhKWDJSaWFNc3VKY9IBuAFBVV95cUxORzRDQjh4LVNpRUl2cmJNTGR0RHFUVTJRVHpfTFRsRjJVSHNXd3Q0UGN4MU4wa0ZwVmFuSGwwR0E5VXVGWUJybHNTVm10ZWN2dFoyMmR0TmdPTUczazhGdktLbzNHLWhoWGtNSFZ5YTRNX2lqRjFUWkw3bmtrTnJhRVhmUVc2ZHBSNWt2ODJ1dGVlTUZlVDRxLUdacWtXb09XUFlSRzhVQ3ROemk4Z1FsalYwR1o2MlRf?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikTravel"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T12:13:23Z"
   },
   {
    "k": "news",
@@ -576,28 +806,6 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "The Weeknd Jadi Artis Pria Paling Tajir, Kantongi Rp 23,5 Triliun dari Konser",
-   "snip": "The Weeknd Jadi Artis Pria Paling Tajir, Kantongi Rp 23,5 Triliun dari Konser detikcom The Weeknd Pecahkan Rekor Penyanyi Pria dengan Penghasilan Tur Terbesar dalam Sejarah Kompas.com The Weeknd telah melampaui Elton John dalam pendapatan t",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWJTY3QxUm1HR20ybFNubjRzc3J5Y0ZHdkxIWDNmQXpvZHgxUmdhRU92TThyYWJPVnAtSW5pNjc5b1l0Yl91OERCZnBKbTdVWlJoMFlCNG9OV1pKT0Q1V2diejFIeU1hdU5UVTFLT3EzTTh2d3hrdEcxaTJlRVVDTXVYQnpjOUtGX3NxeVphVllHSU84dGZfSXFmUGRHQmdRZFl1eUZPREVqNlNiNjctV2lScWJFQjU2blHSAb8BQVVfeXFMTzZzbGFKbTgzQlVxOTlzOUNzOVAxNERKdXJfNmlvUExEVThYV052WFhveDA3QWY4amRNaEQ5Ml9KVzBLVDh2TjRVS21NR2ZhSldGRTdUNzVWRFBiWlF5UFNMQkpub2oxOUlYUWFXNEEwNWdLWFRtUXpKY0VSek1pdVA1WWZZMG1NRzZic3NtdGZsZHhNT0NtTks3MWt2Y1RubVpVUU4zQW5kaXduZGZuT19nNVJpQjVLM3FqZGJjaVU?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T10:01:09Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -639,6 +847,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-07T09:24:16Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Netflix Umumkan Prequel Stranger Things, Tayang 2028",
+   "snip": "Netflix resmi mengumumkan serial prequel dari waralaba populer Stranger Things berjudul Other Worlds: A Stranger Things Adventure.",
+   "img": "https://akcdn.detik.net.id/visual/2018/04/05/a6921486-12a4-47b1-be4b-8a8dfb2d1a58_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261107150325-220-1424441/netflix-umumkan-prequel-stranger-things-tayang-2028",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-07T09:05:47Z"
   },
   {
    "k": "news",
@@ -796,50 +1026,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Saksikan Sinetron Kisah Nyata Siang, Sabtu 7 November Pukul 13.30 WIB di Indosiar",
-   "snip": "Saksikan sinetron Kisah Nyata Siang Sabtu 7 November pukul 13.30 WIB di Indosiar.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/6nLHZbOsVHLvQPDRtP1-oyWDpa8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829165/original/007723300_1715494441-Screenshot_2024-05-12_131307.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8326462/saksikan-sinetron-kisah-nyata-siang-sabtu-7-november-pukul-1330-wib-di-indosiar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T06:00:01Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Eksklusif Yorie Kumalasari, Animator Indonesia di Balik Film Forgotten Island: Relate Sama Ceritanya!",
-   "snip": "Jelang Hari Pahlawan Nasional, intip wawancara eksklusif bareng Yorie Kumalasari seputar tantangan garap efek film Forgotten Island.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cantika.com/read/2121545/eksklusif-yorie-kumalasari-animator-indonesia-di-balik-film-forgotten-island-relate-sama-ceritanya",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T06:00:00Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -994,28 +1180,6 @@
   },
   {
    "k": "news",
-   "u": "Sumeks",
-   "name": "Sumeks",
-   "av": "",
-   "followers": 0,
-   "cap": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id",
-   "snip": "Ramalan Shio Hari Ini, Sabtu 7 November 2026: Cek Keberuntungan, Karier, Keuangan dan Warna Hoki - sumeks.disway.id Sumeks Ramalan Shio Monyet dan Ayam Sabtu, 7 November 2026 Media Indonesia Ramalan 12 Shio Sabtu 7 November 2026: Ada yang B",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUJoVWZwSGt2UWpBVjBHcGRBU3c1SjZ1c2Qtb0ZzcTgzOXhzSDhFWnNwVUZ6aXUzb2ZodHlEc3hNaWRkZi03eDQ5WWd3V09vc3RRX1o0aHVvOHZpdlVscE9yaTI2TXVuQ2NKZVlqWUluN1F0QU44TnpfeVMtT3ZYZF95N2d2eWpDcEtGNnEzYzhBSmpyRHlaVkVQWHFYZ19YZ2lIc2VGZUdkTzFDTDJfOU1ueEZIUkdaejV5bEljdDdzNUJXNURod1Zzb0g0VjJKLTBGQkxB0gHHAUFVX3lxTE9GUnlSakFoald5d0I2QWN6UEVpNllLUFNaNFNPeFZ4RlQ5Z1I1MHB1Ti1QYVFxOFU1cjNRZERPREdOamw1N3NVeV81cWpyem9iMUFfOHF5ZnpnSnlmM1l0emtMdUhUMnptVmU4SDRNLTJxdUZEQVJMSjBZREdxUUFvaVVBNjd3VkN0ZFYwWFRQRnNENUtkZlg5NW42WFdFWlNYZE9qQjFzNmNlVVEwTXV1ZVczZlhLblF2VHlHeXN4SE1ac0dXNEE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Sumeks"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T03:43:00Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -1035,28 +1199,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-07T03:36:38Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Kata Livy Renata Dianggap Tone Deaf, In This Economy Jalan-jalan ke Luar Negeri",
-   "snip": "Kata Livy Renata Dianggap Tone Deaf, In This Economy Jalan-jalan ke Luar Negeri detikHOT Livy Renata Menjawab Kritik Tone Deaf Saat Kerap Liburan ke Luar Negeri demi Menikmati Masa Muda gadget.qoo10.co.id Livy Renata Pilih Nikmati Masa Muda",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajM4Mjh0YXVPME1XcDNDaE5WdVBzaUZaZ21FSVFXb29FbHJyZWU3Uk9yRHN0WmdWOTA0MjA0ZnE2Wi1JSExJZmFZaUE3X0JtdGFxanlROXJmUWNHOFJhcE9iTTZWX3NLOFRUaHZvMEtyTGZtZXhybUJscW5CNGNMNFpkU0I4ZzVSYl9WX2llUE9Kcm1QTXJ1R2hkbEpRVnBuaDJHS3BnMzZXUXdkd280M1k5dDVzM2vSAbwBQVVfeXFMTUdKRlpoOWJ6TEQ5dkl3T1c3S24ya0dfMlJUS09iUnJPdUlKak43V29VVVc1S1pMcDZFMFpNNTlUbTZ1NVRCRDBCQVlJdUZlYjZOUWVIZzR0Q3VTaDJHLUd5d1pLeGZTTVpJQmdaUTJ2S0VWcUpfZm5sano0QXhjazhzZ0I3SFVUMVIxODNWNzNjeFF4al90b09OempMRG93Qnd5M1IxMWpTUDZyZ05mcjFiRjQ1ejVZNnhkWUw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-07T03:13:31Z"
   },
   {
    "k": "news",
@@ -1143,7 +1285,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-07T00:37:04Z"
   },
   {
@@ -1165,7 +1307,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-06T23:20:06Z"
   },
   {
@@ -1187,7 +1329,7 @@
     "celebrity.okezone.com"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-06T23:00:00Z"
   },
   {
@@ -1209,30 +1351,8 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-06T22:32:07Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis Inherit, Film Horor Reuni Banjong dan Davika Hoorne",
-   "snip": "Sinopsis Inherit tentang hancurnya reputasi dan citra keluarga kaya raya setelah sosok roh kelabang kuno merasuk ke silsilah darah mereka.",
-   "img": "https://akcdn.detik.net.id/visual/2026/10/02/film-horor-thailand-inherit-2026-1790910016184_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261105142153-220-1423681/sinopsis-inherit-teror-roh-kelabang-hancurkan-keluarga-kaya",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-06T22:00:05Z"
   },
   {
    "k": "news",
@@ -1255,28 +1375,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-06T16:00:23Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Imaniar Tolak Buka Jilbab Meski Terancam Gagal Tampil di Panggung",
-   "snip": "Imaniar Tolak Buka Jilbab Meski Terancam Gagal Tampil di Panggung detikHOT Imaniar Tetap Berhijab Meski Sempat Ditolak Panitia Acara Demokratis.co.id Imaniar Tetap Berhijab Meski Sempat Diancam Batal Tampil dan Diminta Kembalikan Uang Muka ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3FVcXJEV1FnQmxMenlHakNnaHVLdHAyZFBzVG80RzhmZm5OVk1NbDA1cUs5VERUaTVJWklHdWVtV1lGWmpKUHpGRXhKMi00YlJfQkZnMHcwdHYzUFBOcTBMMmIwMEtSZzFWMGRwOVVjU2dtZThIb3dXOWNxY2hUMFg2bG92T0J4UGZETktaMFZPLUpUYzNwUURIaVc2d2ZCVDRLNjBB0gGrAUFVX3lxTE8yd0VidVpDU1N4WXJRRUJMcEQ0OHVYOXZPYWpyNVFjNW9CLTdybnRZejJmUkRWUjZEcDRKMUlMZ1dXUjJ4eHVfN0NNbFhyeVRtYVRBUHRYSVhUU0Q1eFpZVTgyVGJoMktmN0d4Y2Y0ajdtaU9WaGpLZFJQUnJZV2xXNURlWEp5dHI4Z3Eyekx3X0EzN0xoLVNrSW5fSG9SM1ZUREFfeWd5Q0k3VQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T15:03:01Z"
   },
   {
    "k": "news",
@@ -1421,7 +1519,7 @@
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRFaHN6SEhVdTNacnhHcUJra1p1MFRGSFRxTGQ0X1VERXVIYU4yWFg0M0M4V1dfU1BEZ0VIVmpaLUxpd1dldG8wVlBJV1dzOHFCNTFuVk1QVUJZcEtoQkhsT1RUWmxDSk9PakNTR01WWThNa2NKMkIzYmdWOUR5c2ZCUmNWdzd2VjJmc2tmSXdWcTd4SUMtY0p4RmpQQXF4NmZQbVFhc1RlVWxPbkNqcThzNHLSAawBQVVfeXFMTXlyNXJfeXdGMUdyeHNIM0F4Q2NsWFJGNmt6TkliTUptXzRPRmxEd2t2dE94RlIxSjFRbndvLVBnWnQ3aDh4TnZHdy1BWFZ0a3dxMGJuYjNJV1J2QzBnRmRsMXJoVk5rQnpXZF9RcXFqXzRxZGFackRBVkhyRGpXeGxQLVFrc3hyUzlMLW9KXzdBelNOd1h4YjZxQ2hDcVBkY1RBdWFmRUZkTGtjNQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRFaHN6SEhVdTNacnhHcUJra1p1MFRGSFRxTGQ0X1VERXVIYU4yWFg0M0M4V1dfU1BEZ0VIVmpaLUxpd1dldG8wVlBJV1dzOHFCNTFuVk1QVUJZcEtoQkhsT1RUWmxDSk9PakNTR01WWThNa2NKMkIzYmdWOUR5c2ZCUmNWdzd2VjJmc2tmSXdWcTd4SUMtY0p4RmpQQXF4NmZQbVFhc1RlVWxPbkNqcThzNHI?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1461,7 +1559,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pacaran dengan T.O.P Jadi Bahan Haters, Nana: Apa Saya Lakukan Kesalahan Besar?",
-   "snip": "Pacaran dengan T.O.P Jadi Bahan Haters, Nana: Apa Saya Lakukan Kesalahan Besar? detikHOT Dihujat karena Pacaran dengan T.O.P, Nana: Saya Tak Perlu Minta Maaf SINDOnews Lifestyle Geram Dihujat karena Pacaran dengan T.O.P, Nana: Apa Kesalahan",
+   "snip": "Pacaran dengan T.O.P Jadi Bahan Haters, Nana: Apa Saya Lakukan Kesalahan Besar? detikHOT Kenapa Nana Dihujat Usai Pacaran dengan T.O.P? Inilah.com T.O.P ke Birthday Cafe Bareng Pacar, Sapa Penggemar Setia - harian.disway.id HARIAN DISWAY Na",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1497,94 +1595,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-06T08:45:15Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Penyebab Industri Drama Korea Berdarah-darah di Negara Sendiri",
-   "snip": "Belasan asosiasi bongkar penyebab industri drama Korea sekarang malah berdarah-darah di negara sendiri walau sukses secara global.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/06/ilustrasi-set-pembuatan-drama-korea-1793936473422_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261106102649-220-1424049/asosiasi-bongkar-biang-kerok-krisis-industri-drakor-di-korea",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T08:45:15Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Anthony Xie Ungkap Alasan Batal Rujuk dengan Audi Marissa",
-   "snip": "Anthony Xie mengungkapkan alasan batal rujuk hingga lanjut cerai dengan Audi Marissa.",
-   "img": "https://akcdn.detik.net.id/visual/2025/11/20/audi-marissa-dan-anthony-xie-1763633121139_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261106114821-234-1424081/batal-rujuk-anthony-xie-ngaku-ikuti-keputusan-audi-marissa",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T07:30:14Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis La Bola Negra, Perwakilan Spanyol di Piala Oscar 2027",
-   "snip": "Sinopsis La Bola Negra mengeksplorasi tentang cinta, kehilangan, rahasia keluarga, dan trauma lintas generasi.",
-   "img": "https://akcdn.detik.net.id/visual/2026/10/19/la-bola-negra-1792375926339_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261105212756-220-1423913/sinopsis-la-bola-negra-perwakilan-spanyol-di-piala-oscar-2027",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T06:15:13Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau",
-   "snip": "Warna Keberuntungan 12 Shio: Biru Bagus untuk Tikus, Tak untuk Kerbau Kompas.com",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkEzdzVGYTI0a2xPUG1HZUpQR0lkNGY4S3VpQmZJMWZ6ZDcxRWtHY3BCblZYbG1ybmJjOW9iRHlxQURaU0NwZWFsdUx0cklTNFNRbm1FUzNxVHE0ajBaR1A3TWRMRkx2OXNpcFhGdHdVODRIc0R1RDA3OG1wWEZwWV9YWkVra1YtU3NITG54cXVWRndqQ2xHWnBLNUJEYlpqYnJJZ29iQndnRFJnTzV5blBTclhWUFBFWnZrUHNkOUhSa1V5RzBObjU1TGM?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T05:33:00Z"
   },
   {
    "k": "news",
@@ -1632,28 +1642,6 @@
   },
   {
    "k": "news",
-   "u": "DIVISI HUMAS POLRI",
-   "name": "DIVISI HUMAS POLRI",
-   "av": "",
-   "followers": 0,
-   "cap": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif",
-   "snip": "Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif DIVISI HUMAS POLRI Cerita Lea Simanjuntak Dapat Tawaran Manggung di Konser Andrea Bocelli Kompas.com Foto Belajar dari D",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS2R4MTRiTG1kMkEwc1BlR3liNS1nVHlLWEdwRXZPdXRWOGVBeEczUk4yM3RWSG9lcjU2TjJuNjlJdjF6Y1ZFS1Y1YkswVndsWUhraGU5RzdpejVnMGo2Wk93VVB1SjU1R0diY1BDcVZmZUdtOE12MUNuZ2MxclZ3X0x2cE5jRkFUU2gyaW9yZU1PVEcyN3lHN002eG1VYzhBVjlucGhkZVI3SmZCaWdTdWhmV0JnNENQYjZEMWF5NVd6d0Vadk8xTlQxbDctUWNQeEZZYWtuSzFBc3F6N2JfSjktMDdaV3M2bVR0MEdHQQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "DIVISI HUMAS POLRI"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-05T02:36:47Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -1681,7 +1669,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sinopsis dan Daftar Pemain Drakor The Remarried Empress",
-   "snip": "Sinopsis dan Daftar Pemain Drakor The Remarried Empress Beautynesia Shin Min-a Comeback Lewat The Remarried Empress, Film The Eyes Juga Hadir di Vidio Vidio Shin Min Ah dan Ju Ji Hoon Lakoni Adegan Ranjang dalam The Remarried Empress, Penon",
+   "snip": "Sinopsis dan Daftar Pemain Drakor The Remarried Empress Beautynesia Shin Min-a Comeback Lewat The Remarried Empress, Film The Eyes Juga Hadir di Vidio Vidio Proyek Shin Min-ah Bareng Ju Ji-hoon selain The Remarried Empress CNN Indonesia Shi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1695,6 +1683,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-04T06:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Patrick Stewart Meninggal, Syahrini Siap Konser Tunggal",
+   "snip": "Patrick Stewart Meninggal, Syahrini Siap Konser Tunggal detikcom Profil Patrick Stewart, pemeran profesor X yang wafat di usia 86 ANTARA News 11 Film yang Dibintangi Patrick Stewart, Terakhir Ada Avengers: Doomsday Media Indonesia 5 Aktor y",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlpwOGdETC1hNXZSUjNWWndJeFY3MDRMbmttdXR5d1Fya3ppMHVjT0w0c3lzbUhFdG5sUFNpYVRqNkdvbFdlR0NnUTFxaFZIdVVmaG9wLVFXQlZkTUxCdnlhbFJGUEFDdHJmZ2p3TWRXQW05cmlwSFlNV1pHUGczaU1VYlpLYl9vMElPZEkyY2xoaXB4QVhHM1Y4aDh6cmlI0gGmAUFVX3lxTE9MYk5jakVOTEtIU0d2cXVxVUlralZ0WkdpRmNTdGJQb1p1Q3pWbkNTcFc3aVRWbW4tcGNNVXhIQ2s2X2RsQThXM3JMVGw1eVo2Z1Rnd1gwb3FrUzBuV2pZR2pITTRORlBwUkwtMTY2a3JaQ1JGM2pzUlNEd2l0VEhyZEJIbUNIUzlHMGVycHZvaUxlZmFsQTZFb3g4YWVydEg5c0RJYmc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-01T15:03:32Z"
   }
  ]
 }
