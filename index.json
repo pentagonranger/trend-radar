@@ -1,9 +1,9 @@
 {
  "topics": [
   {
-   "t": "Klasemen Liga Italia",
-   "q": "klasemen liga italia",
-   "cat": "Film & Series",
+   "t": "Ruben Onsu",
+   "q": "ruben onsu",
+   "cat": "Selebriti",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -11,19 +11,19 @@
    ],
    "src": [
     "Google Trends",
-    "Goal.com",
     "Kompas.com",
-    "Kompas.tv"
+    "celebrity.okezone.com",
+    "Inilah.com"
    ],
    "d": "2026-11-09",
-   "url": "https://www.goal.com/id/berita/napoli-curi-poin-dari-pemuncak-klasemen-lazio-antara-lain-berkat-aksi-mengancam-noa-lang/blt448d60585042baa6",
-   "n": "Napoli curi poin dari pemuncak klasemen Lazio, antara lain berkat aksi mengancam Noa Lang",
-   "vol": 1000,
+   "url": "https://entertainment.kompas.com/read/2026/11/07/111836366/akhirnya-muncul-koordinator-demo-boikot-ruben-onsu-minta-maaf-dan-akui",
+   "n": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan",
+   "vol": 100,
    "vu": "pencarian"
   },
   {
-   "t": "Utrecht Vs Nec",
-   "q": "utrecht vs nec",
+   "t": "Club Leon",
+   "q": "club leon",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -32,13 +32,34 @@
    ],
    "src": [
     "Google Trends",
-    "Goal.com",
-    "Vietnam.vn"
+    "Rebaño Pasión",
+    "MILENIO",
+    "DAZN"
    ],
    "d": "2026-11-09",
-   "url": "https://www.goal.com/id/berita/tempat-menonton-fc-utrecht-vs-nec-saluran-tv-live-streaming-online-waktu-kick-off-dan-performa-terkini-kedua-tim/bltcbc16ad5493d0a7e",
-   "n": "Tempat menonton FC Utrecht vs NEC: saluran TV, live streaming online, waktu kick-off, dan performa terkini kedua tim",
-   "vol": 500,
+   "url": "https://chivaspasion.bolavip.com/noticias/noticias-de-chivas-hoy-11-de-noviembre-cade-cowell-santiago-sandoval-mercado-de-pases-y-tabla-de-posiciones",
+   "n": "Noticias de Chivas HOY, 8 de noviembre: Cade Cowell, Santiago Sandoval, mercado de pases y tabla de posiciones",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "10 November",
+   "q": "10 november",
+   "cat": "Musik",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "The Film Stage",
+    "Reuters Connect"
+   ],
+   "d": "2026-11-09",
+   "url": "https://thefilmstage.com/the-best-films-old-and-new-from-the-39th-tokyo-international-film-festival/",
+   "n": "The Best Films, Old and New, from the 39th Tokyo International Film Festival",
+   "vol": 100,
    "vu": "pencarian"
   },
   {
@@ -111,7 +132,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-08T15:46:42Z"
   },
   {
@@ -162,6 +183,118 @@
   },
   {
    "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan",
+   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Mau Diboikot, Kubu Ruben Onsu Singgung Dugaan Demo Bayaran: Bisa Berujung Pidana Warta Ekonomi Sosok Jalal yang Dicari Ruben Onsu usai D",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMlFTYnVzaUZ4eG1PdHJhSzM5R0cyQndwT0J4OTI1a081VFl6ZWJ2YllHTm9jQkdwbHpURFpkZ1FvX3VUaVN2ZjhVR3RZNXpkNDAxaWlVcktZaVVJdmlnS3FVZmd5M0RtRkRBRU04dldoWTk5TTF3dWFIeDRVcGpjXzRDUXVraEE3akt4YjdlazVJal9qc0N0ZDd2emNCQmxNUnkzbFBWaTNVck10cVBycUJza1VucUk2b0l6ZmFBRjJ6cTBvMmtRSw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [
+    "Ruben Onsu"
+   ],
+   "sc": 55,
+   "ts": "2026-11-07T04:18:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Festival Wayang Semesta 2026 di Semarang satukan 3 kelompok legendaris",
+   "snip": "ANTARA - Festival Wayang Semesta 2026 digelar di Lapangan Pancasila, kawasan Simpang Lima, Kota Semarang, Jawa Tengah, ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/SANS_FESTIVAL-WAYANG-SEMESTA-2026-DI-SEMARANG-SATUKAN-3-KELOMPOK-LEGENDARIS.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/video/5840427/festival-wayang-semesta-2026-di-semarang-satukan-3-kelompok-legendaris",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-09T00:12:41Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Indonesian Theater Group Earns Special Jury Award at Seoul Festival",
+   "snip": "Indonesian theater group Lab Teater Ciputat wins a Special Jury Award at Seoul's 2026 PADAF for its production \"Malin Kundang Lirih.\"",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2123231/indonesian-theater-group-earns-special-jury-award-at-seoul-festival",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-09T00:11:44Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Dokumenter Justin Timberlake Akan Bahas Britney Spears",
+   "snip": "Justin Timberlake siapkan serial dokumenter bahas kehidupannya, termasuk insiden yang melibatkan Janet Jackson saat Super Bowl 2004.",
+   "img": "https://akcdn.detik.net.id/visual/2024/06/21/justin-timberlake-1_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261104075835-220-1423028/justin-timberlake-siapkan-dokumenter-bahas-insiden-super-bowl",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-08T23:20:06Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Bigetron juara MPL Indonesia Season 18",
+   "snip": "Bigetron By Vitality (BTR) berhasil mempertahankan gelar juara atau back-to-back champion Mobile Legends: Bang Bang ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/09/IMG_2684.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5840395/bigetron-juara-mpl-indonesia-season-18",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-08T17:35:07Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -179,7 +312,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T16:00:01Z"
   },
   {
@@ -201,7 +334,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T15:55:18Z"
   },
   {
@@ -223,7 +356,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T15:30:13Z"
   },
   {
@@ -245,7 +378,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T15:17:58Z"
   },
   {
@@ -267,7 +400,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T15:07:34Z"
   },
   {
@@ -289,8 +422,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T15:07:26Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Pemenang AMI Awards 2026, Panggung Luar Biasa Nassar",
+   "snip": "Pemenang AMI Awards 2026, Panggung Luar Biasa Nassar detikcom Idgitaf Ingatkan Pentingnya Saling Jaga lewat Lagu Epaper Media Indonesia Ingat Pesan Ayah, Lesti Kejora Mau Coba Genre Baru Kompas.com Kolaborasi Enau dan Ari Lesmana Berjaya di",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWRXSkFkQzByQ1lEVzl1Vy0teV9zbnF1ZnFFd1NtU1RqRkV6RjJHRUE3b3BHMGEyd0lxV3VxOW5zOWVVb3RUX2pFLThFM1RLRmRhNjBhN244ZmloNTdkWnJwTHBnUmJncWE4Vmt2UVRmUU40ZEl5OENMTmtaNzZkMThXZTBWTEVXM255aEVTclFNOHBYdDVxM1RJbUfSAaIBQVVfeXFMUHpjb1VlTjJTdkgzRFA0TGtrSTVwNTM4MnhCTGJ2bWtCZjg5cW1hY2xIZWVWdUZzYVNqQUFlbHhhQWtvYVJKWF9HTkNZdVgyWEJVYS13N3V3a3ExLTY3VWFFWkVaQm51WEtfQXkzNXBwSmNnMWFsenZfMjR1ZDdFVVByenRIVEdsZzdGMm1sTU1aclptcGF5XzdhXzl6ZGZhdEJn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-08T15:03:57Z"
   },
   {
    "k": "news",
@@ -311,8 +466,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-08T14:20:04Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Riders Desy Ratnasari di Lokasi Syuting Apa Saja Sih?",
+   "snip": "Riders Desy Ratnasari di Lokasi Syuting Apa Saja Sih? detikHOT Tak Mau Pusing Mengenai Rider, Desi Ratnasari: Yang Penting 12 Jam Nyata Media Desy Ratnasari Tetap Aktif di Dunia Hiburan Meski Jadi Anggota DPR rentak.id Desy Ratnasari Cukup ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc3UzX3UyWjdfSVFxQTZQemhJT1pkYzc5dEE0RXU4eHdZdnhVaXZOZUJzbzdPa0VyQkFTVXFCeVhXcjZMNkZOM3FYR0tMVVc3b3RlWnQzT3BQLXU4cUx5NTMtYTh4MDcwUjhUMjNxU1BMUkZVaHA5Q285ZEktelpmTkxzeXBueEZHUFN4RzFJOXZMYzlm0gGaAUFVX3lxTE4xdEVQYVJZV1J5YWRQYlVLRThWaVpuOXZjM29rRDdjYXBNRDBWOFBQQ0g5NzJDU203N3lpWUZjejdnb0loakE0ODREUGx3UHF6eGRGcWw0bk1Ld2czZFo2WjV4SkxMaTF0X3E0anhFMmNDZVJNTDUxWG5jbFdDZ2o5VW5zWnhDRFhqeDJtaUlyckU4SUVVZzg1VXc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-08T14:05:55Z"
   },
   {
    "k": "news",
@@ -335,6 +512,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-08T13:33:47Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Atta Halilintar Tersentuh dan Minta Maaf Usai Ameena Curhat Soal Perasaan Hati",
+   "snip": "Atta Halilintar Tersentuh dan Minta Maaf Usai Ameena Curhat Soal Perasaan Hati detikHOT Atta Halilintar Minta Maaf ke Ameena Usai Sang Putri Curhat Merasa Kurang Disayang: Papa Janji Jadi Lebih Baik VIVA.co.id Viral Curhatan Ameena Merasa K",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUl0eGFvLXpHUVEzQ09hYnNOS0lDM1dNNjlTRGRkTXBQNkdfNWlHRjBjRW41Uzc5VnVzaGx0cUJtSTg2V1lnMGRIanZ5VmRQTDR4cVk5ekY2b2xmZGdzUW1RUks4c3RBVGJBdUFlN0JWUl9oSmNhanU3ZlE5bDFnNTBMT1dCY0hKa2I3aXFyQUZhZ2ZBTTN2a1FGa25XclZhSUN0TkhJMnAtOXF0NnB3YVFQdDJFcVXSAbwBQVVfeXFMUEpJd3c1R3RfTFpFRXNUS1g5RDFNc1FYVG1nbEVtYjQ3b0JrUW82MEpDdHkzRmhCZzdGS3hYak9PZEFZbmJ0OWFzTUtNNHpab2YwbHlXcXlnUlUtcUZSLUc5eW5SRHZmT1RsVmk1TWY5TXNxLUtHMk9sN2Fnbjl3Zm5LNU1uTmtnUlJqV2dNSmU2RXI3aS1DcWU2TWdFMkpFWVRpdlRRYmUwVC15Nm1pc0lZMTF5OWpXclp6ek4?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-08T13:02:22Z"
   },
   {
    "k": "news",
@@ -467,28 +666,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-08T11:42:49Z"
-  },
-  {
-   "k": "news",
-   "u": "detikTravel",
-   "name": "detikTravel",
-   "av": "",
-   "followers": 0,
-   "cap": "Demam Konser BTS: Harga Hotel Naik, Tiket Pesawat Diburu",
-   "snip": "Demam Konser BTS: Harga Hotel Naik, Tiket Pesawat Diburu detikTravel Daftar Bioskop CGV dan Cinepolis Putar Live Viewing BTS ARIRANG CNN Indonesia Tur BTS Dongkrak Tarif Hotel dan Penerbangan Asia Tenggara SuaraGarut.ID ARMY Indonesia Merap",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3V2bDNrREQtelJjeUF1bGlSdVMtcTk1NHlPYmZJeTdReS0wMlZiSWJjczZYTjFlMjBhYVpCakVvVDRVX2lqN09DRjFkQWZtb2xhaUV5aDdoOXpvVmFIYXpoVjdoSGl3alNoMTdkZEhjZEw3VHRjeDhYSE9jNjhsbWR1a3pvWG9xWjNnWl9WTE51bkh2aTlfZDE3bTBrWkpHUzdZ0gGoAUFVX3lxTFAxT3dqYmxnV05NZ1VpZ0E0RlBoZnFkRnV5R3BpOUlvNzlPc0lYQjg2X0Q0YXg1Vk9PMlNuUFZyZHF2Z1lKblJZeEZHQnBXUi1JWnNJcVZkazE2VE51R1Fwc042SGRmMUNQZWVjT0Z6TVViMGl4S1d4VktVcEVzY1ZBQ3pRQ0ctTTR0WVlXdGhDRFdJTXkzQnpYM2U1SEQyY1VhbnFldVZKag?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikTravel"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-08T10:21:32Z"
   },
   {
    "k": "news",
@@ -717,7 +894,7 @@
    "av": "",
    "followers": 0,
    "cap": "Nassar Ngaku Gak Pernah Trauma, tapi Masih Jomlo",
-   "snip": "Nassar Ngaku Gak Pernah Trauma, tapi Masih Jomlo detikHOT Ivan Gunawan Sampai Turun Panggung Urus Ekor 7 Meter Busana King Nassar Inilah.com King Nassar Padukan Musik Dangdut dan Orkestra dalam Konser Tunggal Perdana RRI.co.id Blak-Blakan S",
+   "snip": "Nassar Ngaku Gak Pernah Trauma, tapi Masih Jomlo detikHOT Nostalgia Perjalanan King Nassar di Awal Karier, Pernah Terima Amplop Kosong JPNN.com Konser King Nassar Lost in The Jungle: Bintang Tamu, Kostum, dan Fakta Menariknya Inilah.com Kin",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -775,28 +952,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-08T06:06:11Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Indonesian Police Deny Arresting Two Former Chiefs in Illegal Wiretapping Case",
-   "snip": "Indonesian police deny reports that two former chiefs were arrested in a case involving alleged illegal wiretapping and data deletion.",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2123206/indonesian-police-deny-arresting-two-former-chiefs-in-illegal-wiretapping-case",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-08T05:59:01Z"
   },
   {
    "k": "news",
@@ -871,7 +1026,7 @@
    "av": "",
    "followers": 0,
    "cap": "Nadine Chandrawinata Hamil Anak Ketiga Jenis Kelamin Laki-laki",
-   "snip": "Nadine Chandrawinata Hamil Anak Ketiga Jenis Kelamin Laki-laki detikHOT Nadine Chandrawinata dan Dimas Anggara Gelar Gender Reveal, Calon Anak Ketiga Laki-Laki Medcom.id Spill Jenis Kelamin Anak Ketiga, Nadine Chandrawinata: Akhirnya Punya ",
+   "snip": "Nadine Chandrawinata Hamil Anak Ketiga Jenis Kelamin Laki-laki detikHOT Nadine Chandrawinata dan Dimas Anggara Gelar Gender Reveal, Calon Anak Ketiga Laki-Laki Medcom.id Nadine Chandrawinata Hamil Anak Ketiga, Ini Faktanya Inilah.com Spill ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -937,7 +1092,7 @@
    "av": "",
    "followers": 0,
    "cap": "Berkebaya di Seoul, Dita Karang Glamor Wawancara Pemain The Remarried Empress",
-   "snip": "Berkebaya di Seoul, Dita Karang Glamor Wawancara Pemain The Remarried Empress detikcom Proyek Shin Min-ah Bareng Ju Ji-hoon selain The Remarried Empress CNN Indonesia Shin Min-a Comeback Lewat The Remarried Empress, Film The Eyes Juga Hadir",
+   "snip": "Berkebaya di Seoul, Dita Karang Glamor Wawancara Pemain The Remarried Empress detikcom Proyek Shin Min-ah Bareng Ju Ji-hoon selain The Remarried Empress CNN Indonesia Pecahkan Rekor! The Remarried Empress Jadi Serial Korea Paling Laris Mani",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -949,7 +1104,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-08T00:04:15Z"
   },
   {
@@ -971,7 +1126,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-08T00:00:25Z"
   },
   {
@@ -993,7 +1148,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-08T00:00:05Z"
   },
   {
@@ -1015,7 +1170,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-07T23:15:12Z"
   },
   {
@@ -1037,7 +1192,7 @@
     "Suara.com"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-07T23:15:11Z"
   },
   {
@@ -1059,7 +1214,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-07T23:02:59Z"
   },
   {
@@ -1081,7 +1236,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-07T22:15:39Z"
   },
   {
@@ -1284,50 +1439,6 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan",
-   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Deddy Corbuzier Heran Ruben Onsu Didemo saat Banyak Isu Penting, Berharap Cuma Pengalihan Isu celebrity.okezone.com Ruben Onsu Diboikot,",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMlFTYnVzaUZ4eG1PdHJhSzM5R0cyQndwT0J4OTI1a081VFl6ZWJ2YllHTm9jQkdwbHpURFpkZ1FvX3VUaVN2ZjhVR3RZNXpkNDAxaWlVcktZaVVJdmlnS3FVZmd5M0RtRkRBRU04dldoWTk5TTF3dWFIeDRVcGpjXzRDUXVraEE3akt4YjdlazVJal9qc0N0ZDd2emNCQmxNUnkzbFBWaTNVck10cVBycUJza1VucUk2b0l6ZmFBRjJ6cTBvMmtRSw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-07T04:18:00Z"
-  },
-  {
-   "k": "news",
-   "u": "BBC",
-   "name": "BBC",
-   "av": "",
-   "followers": 0,
-   "cap": "Raffi Ahmad dan influencer pendukung Prabowo diboikot, mengapa?",
-   "snip": "Raffi Ahmad dan influencer pendukung Prabowo diboikot, mengapa? BBC Raffi Ahmad Diserukan Diboikot Usai Aksi di Bundaran HI, Akademisi Soroti Kekecewaan Publik terhadap Pemerintah Sumsel Update Rhenald Kasali Sentil Raffi Ahmad, Ingatkan Me",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OV0FFVk5kM3Y2WjJmZF9obWh2UEViNGF5SFZzUjFJSGlCdV8wajl3LXVYazNMYzBzTWVMVVJUREVIY0pobHVNSkw2OXRVaVBORXl5WWhTM1E4YnBYUjk5cTdR0gFnQVVfeXFMT1NGUDU5a2dXXzZ5NEo5cVk4UnE2Y21MZGdaUlJ4aUVqZHZMajU1NjdzUGU4dk1RT3EyUXRUbVFCUERMSlhwWXB2bGZCbDN3bVdsdUJrMWVHZERNMllmMHE2OTVJVjBUQQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "BBC"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-07T01:37:33Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1389,30 +1500,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-06T23:20:06Z"
-  },
-  {
-   "k": "news",
-   "u": "celebrity.okezone.com",
-   "name": "celebrity.okezone.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Ruben Onsu Tolak Damai dengan Sarwendah dalam Gugatan Wanprestasi",
-   "snip": "Ruben Onsu Tolak Damai dengan Sarwendah dalam Gugatan Wanprestasi celebrity.okezone.com Fakta Usulan Damai Ruben hingga Sarwendah Ogah Bayar Cicilan Rp12,4 M CNN Indonesia Mediasi dengan Sarwendah Gagal, Ruben Onsu Siap Hadapi Sidang Pokok ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHNUejdIOWowd2Q4VFBBWnpoUmVaakIwWVhCYlp1R19rRU01XzJzT2NGM1hfRXM0QndPSUNaVGs1bldpUFJUamFFaVViYS1xWlhqQ2FPSnlPUlQ0N19yMzdBMXVWRVhIOE90TXVFbkRQSXJXcllQNFRySVVQMW85WTRET3lRMUlDTWJJZ3ctUmNMaEVDVTFYaGFiWjEzaS1ka1g5bGxzQWsyYUlVb2VVNzFzQUpNSnhEVThWU0NBRdIBvgFBVV95cUxOaVdoaWt4OERfbjkzZTVuRlJXUlpXUi0xU2F3SHQzdTkzbFRNNzBFOGhzcUZ3TGFlZkVEaWlxTl9WSGFFd1o4X0lOOXZJU3kxaFRKVWJ4TnJkTUNaYWNYdTlVdlRyX2pRTW5maU80YmJ2MTU3YlY1di1PTlMxM3hreFpaQVhHNnZ3cjFtUU5wMmpXUlY1QlhZOTF2UnVNQkpjWFRpcmN1UjhhTjdlb21RcWZoR0xsc3pJdnp0RFpB?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "celebrity.okezone.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T23:00:00Z"
   },
   {
    "k": "news",
@@ -1433,30 +1522,8 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 30,
-   "ts": "2026-11-06T22:32:07Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Signal 2 Dipastikan Tayang Mulai 7 Desember",
-   "snip": "tvN memastikan drama Korea Signal Part 2 atau Signal 2 tayang 7 Desember dengan tetap menampilkan Cho Jin-woong.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/06/drama-korea-signal-1793970678024_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261106200903-220-1424272/signal-2-dipastikan-tayang-mulai-7-desember",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
    "sc": 20,
-   "ts": "2026-11-06T16:00:23Z"
+   "ts": "2026-11-06T22:32:07Z"
   },
   {
    "k": "news",
@@ -1504,6 +1571,28 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Fakta Usulan Damai Ruben hingga Sarwendah Ogah Bayar Cicilan Rp12,4 M",
+   "snip": "Fakta Usulan Damai Ruben hingga Sarwendah Ogah Bayar Cicilan Rp12,4 M CNN Indonesia Ruben Onsu Tolak Damai dengan Sarwendah dalam Gugatan Wanprestasi celebrity.okezone.com Mediasi dengan Sarwendah Gagal, Ruben Onsu Siap Hadapi Sidang Pokok ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYTVxUlZKVFJqaVA4WHV1S21wQ04xZUVOX3ZGSWUwbWoza0RrMHZ2Z0dUQ0RYaDhMN3JjQWJCS1Zqd2hGbjRSRjQ2ZFdoZDM0SV84d2NxR2VMUzN5TFY3bXdOaTQ4bFI1UEc5eDdoaE1yRXExSklMSjFtbVRmdi1GNXN1V0FmbGI3Szd6UkI4anBUa1R5OG9yM0J3eTVsa0NaUHAxWmRZZU9BUG42UHBGZXFYRDVjb1hNWm9JOEFNbDNSeWlCRFJtREdGMU3SAdIBQVVfeXFMTk9XQVJkX3JkNHd6ekdwUkFrbE14WkJaZTA1QWVrNlI3N2JFRE8tTjJrT0hQaW4yTHZraVR6UkEzSE96YkZycG1iMFl3dld4Q1FPeDVzaUNTd1hlQmx4eEFydU5vSVhCUG96bXdKaDAwMlMyUnBhUXNlV1ZfeDVXYnNPdmFFWnNWTG1jejAyT0ZCeXpnbUw0Wi1jUk50MzB6c1p4YVROYVVDaDVoNk9mQWY0OHAxRHBSdjliYVB4eUV2YWJ1OWlLQ00yTGRteFFnaXhB?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-05T22:00:05Z"
+  },
+  {
+   "k": "news",
    "u": "Beautynesia",
    "name": "Beautynesia",
    "av": "",
@@ -1523,28 +1612,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-05T14:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Musisi Bersuara di Panggung Kemenangan AMI Awards",
-   "snip": "Musisi Bersuara di Panggung Kemenangan AMI Awards Kompas.com Ingat Pesan Ayah, Lesti Kejora Mau Coba Genre Baru Kompas.com Idgitaf kaitkan Berusaha di Bawah Hujan dengan kondisi masyarakat kini ANTARA News Afgan Cetak Sejarah Raih Trofi R&B",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanN2SDl6WEpWaDd1MG95NkxDZU52Q1hOUG1FbXFIR0hpNlQ0RmZNYmFwVlVNajAxcEN4U19oOTNXbW5lcTNILVN2aG9QSWtQTTZIbTJoaHZPTU14NjhoekpCWXlXSDVic1V1U3dHUTNWRjZzd3VCSk15LUdySFUyc0doX1k0UHFVT2kzYmtyWkFXeVpUNDNrRFFZamp0akZ1VUNjNUxiMHBqaHA4NGF6SmVlMFZlSk5x?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-05T05:32:00Z"
   },
   {
    "k": "news",
