@@ -1,19 +1,40 @@
 {
  "topics": [
   {
-   "t": "Atta Halilintar Minta Maaf Kepada Ameena, Janji Jadi Ayah yang Lebih Baik",
-   "q": "Atta Halilintar Minta Maaf Kepada Ameena, Janji Jadi Ayah yang Lebih Baik",
+   "t": "Trip",
+   "q": "trip",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "NVIDIA Newsroom",
+    "The Information",
+    "The New York Times"
+   ],
+   "d": "2026-11-11",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "n": "Statement From NVIDIA Board of Directors",
+   "vol": 200,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Russell Brand Terbukti Bersalah Atas Kasus Pemerkosaan-Kekerasan Seksual",
+   "q": "Russell Brand Terbukti Bersalah Atas Kasus Pemerkosaan-Kekerasan Seksual",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
     "Portal Berita"
    ],
    "src": [
-    "Liputan6 Showbiz",
+    "detikcom",
     "CNN Indonesia"
    ],
    "d": "2026-11-10",
-   "url": "https://www.liputan6.com/showbiz/read/8332562/atta-halilintar-minta-maaf-kepada-ameena-janji-jadi-ayah-yang-lebih-baik",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFVOR0ExQWdtTWtzQThwVnBVbFBvaFpKMDdVMHpWSXEybXE4TWI0X3hMaER5VjdmUjYtN00yWlpxcHlLWHE5NGJibVVBR0JaZGZfTFo0WVpmdTdKYzJzamRsQ0htaG9ETGZsWkZFWFd1MmpIc01lckFIN3hzSkloZkVLM2lmRTVybTJRR25QRDBqb2FHdjMtZ3d5d0hjazdhMkxyRG15aEtabHRER0ZjQ3lqaHk3TTJK0gG-AUFVX3lxTE9NT2NZNlNlcE41ZkZma0NmTVVSa2dXVG1UUGtwdDZvaFdocTdIdmR4aWoyM3dSYnBLSG1WaEtfMDNpSTFFejZHNjdTU0RyOHVWdVZHazVrdWFvb3hsVTBfSm4tS1VNLXl5VnpfN21CVXBPWUp2RHVtcFlocjJ1Yk8xOVRhaTdHa1FKSmljT0Z1ZEZaaTU5bEdUUjk2RG53WmxGUnpQVU9wLUlLNUVIX1dhYnNEaElldHBCU0tjM1E?oc=5",
    "n": ""
   },
   {
@@ -31,79 +52,31 @@
    "d": "2026-11-10",
    "url": "https://www.cnnindonesia.com/hiburan/20261110112650-220-1425314/sinopsis-midway-bioskop-trans-tv-10-november-2026",
    "n": ""
-  },
-  {
-   "t": "Anak Sulung Celine Evangelista Ikut Debat Internasional di Bangkok",
-   "q": "Anak Sulung Celine Evangelista Ikut Debat Internasional di Bangkok",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Liputan6 Showbiz",
-    "detikHOT"
-   ],
-   "d": "2026-11-10",
-   "url": "https://www.liputan6.com/showbiz/read/8332330/anak-sulung-celine-evangelista-ikut-debat-internasional-di-bangkok",
-   "n": ""
-  },
-  {
-   "t": "Russell Brand Divonis 10,5 Tahun Penjara atas 4 Kejahatan Seksual",
-   "q": "Russell Brand Divonis 10,5 Tahun Penjara atas 4 Kejahatan Seksual",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "CNN Indonesia",
-    "detikcom"
-   ],
-   "d": "2026-11-10",
-   "url": "https://www.cnnindonesia.com/hiburan/20261110091111-234-1425242/russell-brand-divonis-105-tahun-penjara-atas-4-kejahatan-seksual",
-   "n": ""
-  },
-  {
-   "t": "Ramalan 12 Shio Selasa 10 November 2026: Monyet Dapat Hari Menyenangkan, Anjing Prospek Karier Keuangan Menjanjikan",
-   "q": "Ramalan 12 Shio Selasa 10 November 2026: Monyet Dapat Hari Menyenangkan, Anjing ",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "VIVA.co.id",
-    "Kompas.com"
-   ],
-   "d": "2026-11-10",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZDN1M2Q5VU5CR3VGa0hITVYzY01kSWlFakZHa1dRc0hiZVJUQ1J2cnZWc1JWQ2dlWGtJdGxRUUNvUjhNNmxqYjVpbHo4RWVkWmNibWNMNVU2eUdJSDBtUlpIb1hUd28tN3RpcFBJZ3BZenp3by1nZlpEMmhpNnJnVzc5SlZsYUduZ3BzZXR1ODRKeVNTcWh0eW1lNzR4QlBoS2QzalhhQlFQWUdONVIwUnRpTGh4UFZZU3F3Y24yWEY0aDEzS0VpSWVEUE93aGVoc0dWek9rRzUxTWlhcVA0U0g3Tm1ERUk5RWt30gHwAUFVX3lxTE9INW8taXpSdFVoTmdVUGFBTW43V0JkOHlRUjNFbmNKajh0TDZvRnoyTWxPNmFENXFjNnBzV3JXXzBIV2p6T3NNQWp3M21McEM3c2xPZ1J6UlVFMTd6dVZzeVFLTFBrMnVVUHF6NzlLT3VVOHlPbEI5TVFWZ3Q2Y1ZrYnpMTHpzdzFXa3E5NXB4MHMtSzhyYXdPZnN4V3lwdjlOek45WGlEanF1WUVRejVNT1pXYkpSaV9RbVhzUXdxYVp2RU5EZEliVUpDbkVoazhSVU1SVkJVVmpNTU5GUFA3bVlqZW1MWG9JaTU1NXZNZw?oc=5",
-   "n": ""
   }
  ],
  "posts": [
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Atta Halilintar Minta Maaf Kepada Ameena, Janji Jadi Ayah yang Lebih Baik",
-   "snip": "Setelah curhatan Ameena viral di media sosial, Atta Halilintar meminta maaf kepada anak sulungnya itu dan berjanji menjadi ayah yang lebih baik. Baca di sini yu",
-   "img": "https://cdn0-production-images-kly.akamaized.net/zSt3ZhPYq90PKhglGSlt_6VWw0U=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9394605/original/087491700_1794311262-Atta_Halilintar_3.jpg",
+   "cap": "Russell Brand Divonis 10,5 Tahun Penjara atas 4 Kejahatan Seksual",
+   "snip": "Russell Brand divonis 10 tahun enam bulan penjara atas kasus pemerkosaan dan beberapa kekerasan seksual.",
+   "img": "https://akcdn.detik.net.id/visual/2026/02/25/komika-russell-brand-bantah-tuduhan-pemerkosaan-1771985643928_169.jpeg?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8332562/atta-halilintar-minta-maaf-kepada-ameena-janji-jadi-ayah-yang-lebih-baik",
+   "url": "https://www.cnnindonesia.com/hiburan/20261110091111-234-1425242/russell-brand-divonis-105-tahun-penjara-atas-4-kejahatan-seksual",
    "likes": null,
    "com": 0,
    "m": 2,
    "src": [
-    "Liputan6 Showbiz",
+    "detikcom",
     "CNN Indonesia"
    ],
    "hot": [],
    "sc": 58,
-   "ts": "2026-11-10T11:47:37Z"
+   "ts": "2026-11-10T06:00:13Z"
   },
   {
    "k": "news",
@@ -134,22 +107,21 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Anak Sulung Celine Evangelista Ikut Debat Internasional di Bangkok",
-   "snip": "Jemima, putri sulung Celine Evangelista, ikut debat internasional AWMUN XVI di Bangkok pada 6-9 November 2026. Celine ungkap rasa bangga lewat Instagram.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/rYgEhjHz3wZBBSo9wowhgdDfFpY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9394324/original/044043700_1794300189-L6celine_evangelista_1794254571_4026817680304143349_28441950.jpg",
+   "cap": "Rizkina Nazar Umumkan Cerai, Berpisah dengan Satria Utama Secara Baik-Baik",
+   "snip": "Rizkina Nazar umumkan resmi berpisah dari Satria Utama sejak pertengahan 2026. Keduanya sepakat berpisah baik-baik dan fokus membesarkan anak. Simak klarifikasi",
+   "img": "https://cdn0-production-images-kly.akamaized.net/ORvKa5Vt0nRKcXxL0mXKryky67s=/0x424:2268x1702/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9394798/original/062172700_1794363871-Alittle_denim__a_lot_of_catching_up._Good_times_with_the__brandnobrand.official_fam________.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8332330/anak-sulung-celine-evangelista-ikut-debat-internasional-di-bangkok",
+   "url": "https://www.liputan6.com/showbiz/read/8332792/rizkina-nazar-umumkan-cerai-berpisah-dengan-satria-utama-secara-baik-baik",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "Liputan6 Showbiz",
-    "detikHOT"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 58,
-   "ts": "2026-11-10T08:43:53Z"
+   "sc": 50,
+   "ts": "2026-11-11T02:26:15Z"
   },
   {
    "k": "news",
@@ -157,45 +129,131 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Russell Brand Divonis 10,5 Tahun Penjara atas 4 Kejahatan Seksual",
-   "snip": "Russell Brand divonis 10 tahun enam bulan penjara atas kasus pemerkosaan dan beberapa kekerasan seksual.",
-   "img": "https://akcdn.detik.net.id/visual/2026/02/25/komika-russell-brand-bantah-tuduhan-pemerkosaan-1771985643928_169.jpeg?w=360&q=90",
+   "cap": "The Dudas Minus One Jelaskan soal Isu Endorse yang Viral",
+   "snip": "Desta Mahendra, Ariel NOAH, dan Gading Marten, klarifikasi soal endorsement miliaran rupiah yang disoroti masyarakat baru-baru ini.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/11/ariel-noah-desta-dan-gading-marten-dari-grup-the-dudas-minus-one-akhirnya-memberikan-klarifikasi-soal-endorsement-yang-mencapa-1794355654165_169.jpeg?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261110091111-234-1425242/russell-brand-divonis-105-tahun-penjara-atas-4-kejahatan-seksual",
+   "url": "https://www.cnnindonesia.com/hiburan/20261111064531-234-1425674/desta-ariel-noah-dan-gading-marten-klarifikasi-soal-endorse",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "CNN Indonesia",
-    "detikcom"
+    "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 58,
-   "ts": "2026-11-10T06:00:13Z"
+   "sc": 50,
+   "ts": "2026-11-11T02:00:09Z"
   },
   {
    "k": "news",
-   "u": "VIVA.co.id",
-   "name": "VIVA.co.id",
+   "u": "Tempo",
+   "name": "Tempo",
    "av": "",
    "followers": 0,
-   "cap": "Ramalan 12 Shio Selasa 10 November 2026: Monyet Dapat Hari Menyenangkan, Anjing Prospek Karier Keuangan Menjanjikan",
-   "snip": "Ramalan 12 Shio Selasa 10 November 2026: Monyet Dapat Hari Menyenangkan, Anjing Prospek Karier Keuangan Menjanjikan VIVA.co.id Ramalan Shio Hari Ini Selasa 10 November 2026, Kerbau Bersinar, Kuda Perlu Waspada - sumeks.disway.id Sumeks 11.1",
+   "cap": "Jangan Asal Ikuti Beauty Influencer, Ini Alasan Rutinitas Skincare Mereka Belum Tentu Cocok",
+   "snip": "Rutinitas skincare yang berhasil pada influencer belum tentu memberikan hasil serupa pada kulitmu. Simak alasannya.",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZDN1M2Q5VU5CR3VGa0hITVYzY01kSWlFakZHa1dRc0hiZVJUQ1J2cnZWc1JWQ2dlWGtJdGxRUUNvUjhNNmxqYjVpbHo4RWVkWmNibWNMNVU2eUdJSDBtUlpIb1hUd28tN3RpcFBJZ3BZenp3by1nZlpEMmhpNnJnVzc5SlZsYUduZ3BzZXR1ODRKeVNTcWh0eW1lNzR4QlBoS2QzalhhQlFQWUdONVIwUnRpTGh4UFZZU3F3Y24yWEY0aDEzS0VpSWVEUE93aGVoc0dWek9rRzUxTWlhcVA0U0g3Tm1ERUk5RWt30gHwAUFVX3lxTE9INW8taXpSdFVoTmdVUGFBTW43V0JkOHlRUjNFbmNKajh0TDZvRnoyTWxPNmFENXFjNnBzV3JXXzBIV2p6T3NNQWp3M21McEM3c2xPZ1J6UlVFMTd6dVZzeVFLTFBrMnVVUHF6NzlLT3VVOHlPbEI5TVFWZ3Q2Y1ZrYnpMTHpzdzFXa3E5NXB4MHMtSzhyYXdPZnN4V3lwdjlOek45WGlEanF1WUVRejVNT1pXYkpSaV9RbVhzUXdxYVp2RU5EZEliVUpDbkVoazhSVU1SVkJVVmpNTU5GUFA3bVlqZW1MWG9JaTU1NXZNZw?oc=5",
+   "url": "https://www.cantika.com/read/2123364/jangan-asal-ikuti-beauty-influencer-ini-alasan-rutinitas-skincare-mereka-belum-tentu-cocok",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "VIVA.co.id",
-    "Kompas.com"
+    "Tempo"
    ],
    "hot": [],
-   "sc": 58,
-   "ts": "2026-11-09T23:28:00Z"
+   "sc": 50,
+   "ts": "2026-11-11T01:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Film Ramayana Ada 2 Versi di Bioskop, Apa Bedanya?",
+   "snip": "Berikut perbedaan dua versi film Ramayana: Rise of a Legend yang tayang mulai 11 November di bioskop Indonesia.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/10/film-ramayana-2026-1794284853427_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261110121411-220-1425337/beda-versi-directors-cut-dan-internasional-film-ramayana",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-11T00:40:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Tempo",
+   "name": "Tempo",
+   "av": "",
+   "followers": 0,
+   "cap": "Malaysia's Najib Razak Moves to House Arrest over 1MDB Scandal",
+   "snip": "Former Malaysian Prime Minister Najib Razak arrived home Tuesday to serve the remainder of his corruption sentence under house arrest.",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://en.tempo.co/read/2123380/malaysias-najib-razak-moves-to-house-arrest-over-1mdb-scandal",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Tempo"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-10T23:47:44Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Dongker Batal Tampil di Tiga Festival Musik, Ada Apa?",
+   "snip": "Band punk rock asal Bandung, Dongker, belakangan ini menghadapi pembatalan penampilan dalam sejumlah acara musik.",
+   "img": "https://akcdn.detik.net.id/visual/2026/10/11/konser-dongker-di-kalibaru-jakarta-1791691824927_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261110133159-227-1425384/dongker-batal-tampil-di-tiga-festival-musik-ada-apa",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-10T23:20:06Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Deretan Selebritas Putuskan Berhijab di 2026",
+   "snip": "Deretan Selebritas Putuskan Berhijab di 2026 detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0w2Mk1OV1BzTERoUjhSU0FzUTEyYjg2dVR2djB4Z01GMFl5WVhMN1VPNjFqSnVFSG1ISzU5STRvZWZmQTZLNVdMcnBfM29CNHlLcFZILVVsSkt0cGRHM0hiS1d4NUx2ZHlCR3ZEY3JtbkRsdFFHTFBnN19JTXN3cUg3bXYtUlQ3NnfSAY8BQVVfeXFMT1NaWjMzWmV1cXU3aklHMmJmN05uZEVwaXFiVlFnOUt3T09YemtwSVJ2V0pQRXYzaVBiN2d1ZEJvSUx1cVpfbldSSGxQZ1RBamFHSHFhWTdnV2RmZXNQNE10TEh6V1R6X3R5WS1MVFdXTkZaMWdTbFFkYWlLVnFXWk83S0RaNEZxOGZuallQOHc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-10T22:12:29Z"
   },
   {
    "k": "news",
@@ -221,6 +279,28 @@
   },
   {
    "k": "news",
+   "u": "Rmol.id",
+   "name": "Rmol.id",
+   "av": "",
+   "followers": 0,
+   "cap": "Dua Kementerian Sewa Influencer, KPK Dalami Proyek Rp14,69 Miliar Perusahaan Raffi Ahmad",
+   "snip": "Dua Kementerian Sewa Influencer, KPK Dalami Proyek Rp14,69 Miliar Perusahaan Raffi Ahmad Rmol.id RANS Klaim Kontrak Influencer Rp14,69 M Mengacu ke Rate Card Komersial Kompas.com Proyek Influencer Rp14,6 M Disorot, RANS Milik Raffi Ahmad Bu",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHg3MjhBYk0tZXB2cXhvc3pIcEZrT2hWZkVQLTBwSHZuX09uaS10ci1Vclh3RTQtOUxpVmM2UUJwOXZkQzRtcVZiQUlnY2pEMjNWa3A4d0Z0SHRRZndOQjhkX2RTMGU3THdjQkd3UWx4d1JYWENZVnZDeGF5a0hyVXhYcVdsNWhuZmhiQkNkUVBiQ3h1RWlIYk1jWU9RM2RCTnVHSkJmZmh4ci05MV92Nlh6QlQxQUV0Vm5EdU9jRGJ2TkhodnY4M1ZYWWE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Rmol.id"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T17:25:00Z"
+  },
+  {
+   "k": "news",
    "u": "Jambi Ekspres",
    "name": "Jambi Ekspres",
    "av": "",
@@ -238,7 +318,7 @@
     "Jambi Ekspres"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-10T17:05:00Z"
   },
   {
@@ -260,7 +340,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-10T16:52:42Z"
   },
   {
@@ -375,6 +455,28 @@
   },
   {
    "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Zhao Lusi Jadi Brand Ambassador Valentino, Perubahan Gaya Jadi Sorotan",
+   "snip": "Potret Zhao Lusi Jadi Brand Ambassador Valentino, Perubahan Gaya Jadi Sorotan Wolipop Strategi Valentino di Pasar Asia: Tunjuk Zhao Lusi Jadi Duta Global dan Pembawa Arah Baru - Berita Senator Berita Senator Potret Zhao Lusi Ultah ke-28, Bi",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmhWUTdvU2FiMHVzUUJfM3lNejVnVFpXRnc0T2otamp2NjVTaXZCbk5ITG44V19wMW1Vc0Y3S3hKN2ZmdV93cWZXMU9qVHV0aFk2bTMyVG5vVDlhR0xOMlVKclpIMlg5ZElMWXIzamFfM2dMTHRRc3A3QUhyZ1hHZ3IxMFBpb2hESjlpelhyWWVwMDg2Q2dmZU5iSkpyX0FKNFNWWGZ5NTByRml0aXZwS1Z5VVpRb0NqWkZpOGdRVFRWd9IBxwFBVV95cUxNVXpLM2ZsM3dJTGZGdFFBOHFvTUhSdzhWekJsSUxGbVdMQUNwdFhFMEZnMDhCNUFvX2FJYUJKWFI4UGl6ZFRpLTl6VDc5NUhtVlFzT2ZqcjMwdFpXM2NVT1V5ZTB3XzFoWWYwblVicmpNVV9pV2MwWnppVmdNZS1ybkZWX3owVzJMR1pmRFljSUNvYnpheU9Gc1oxWmtxLUoyRU5IZkM0VnNCYldneS1BV09xN20ybXRoOXgxMmdiaDYtb0Y3bXVn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T15:00:16Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -416,6 +518,50 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-10T14:49:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Jarrakpos.com",
+   "name": "Jarrakpos.com",
+   "av": "",
+   "followers": 0,
+   "cap": "DPRD Kabupaten Magelang Kembali Didatangi GPK ATB dan FAUIB untuk Tagih Janji",
+   "snip": "DPRD Kabupaten Magelang Kembali Didatangi GPK ATB dan FAUIB untuk Tagih Janji Jarrakpos.com Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif Tribratanews Polda Metro Jay",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmN4azlPWW5JOFRPa2JJWEIwZ1MxVEVUNWFnY1hCSFVuRnQySzloTzhVR2o2cWRUR3YtcXNLYnpPZXRSTGVNa3Nrdlh4Ymx5d2tyQS1oN0JhUWZKS01na2VlNEdwb0plWElBc0tPSkc5OW5UckdjUkMwUlV4VWg5SVJUTFlURUFQUHJFOHdNRHljZkRfeGQ1M2NhZXE4Vk9HdG5UbzlxZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Jarrakpos.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T14:02:19Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Serunya! The Dudas Minus One Jajan di Malang hingga Camping di Bromo",
+   "snip": "Serunya! The Dudas Minus One Jajan di Malang hingga Camping di Bromo detikFood",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlJvaVZJemstQXV5QTNXTVBmZDc2UU5lNFczNF9ON1FJckZXZkFiMFJReDlfcXpYeEdHZVNmNHc0OWxpTkxMX1JySjFNcExsRG40Q0YtaWdibTFHa2g3SE5ZN1EtOEpZbmlHT2tvUDRUbjRnS2djTGpwMlI1YV9qS3dUc1Y2MDNHV2lTZFBHVUIybXJpSVlwcHE3cnJzblhvXzNhQ2d0NUlSOWdyMkhiN3JSUdIBuAFBVV95cUxOR3k2T3FhTmhuMlh4OEJxOVhIR3A1cUJBcGhiSlBLTTRWVjh3Y2tFRFhhdDNzX2RicEloWGpIX01BVUVwZEV3MU5wRE51NEh0Z2dzakJXeWFRR1pKUjRscVYxcGVkRlR3YzkwREd3ajdDUVNTeDAybWpTdzM5OTZjOHdrcnBPajVZb2FNbnBldmR6RW02VkhhLTdvcFd2WnJqSXNnOXVfRzYwZl9CME5TOWdlZkk1U3M4?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T14:00:51Z"
   },
   {
    "k": "news",
@@ -595,6 +741,28 @@
   },
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Atta Halilintar Minta Maaf Kepada Ameena, Janji Jadi Ayah yang Lebih Baik",
+   "snip": "Setelah curhatan Ameena viral di media sosial, Atta Halilintar meminta maaf kepada anak sulungnya itu dan berjanji menjadi ayah yang lebih baik. Baca di sini yu",
+   "img": "https://cdn0-production-images-kly.akamaized.net/zSt3ZhPYq90PKhglGSlt_6VWw0U=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9394605/original/087491700_1794311262-Atta_Halilintar_3.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8332562/atta-halilintar-minta-maaf-kepada-ameena-janji-jadi-ayah-yang-lebih-baik",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T11:47:37Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -614,28 +782,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-10T11:45:19Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "Is Hollywood Ready for a Johnny Depp 'Comeback'?",
-   "snip": "After turbulent years and the relatively silent ones that followed, Johnny Depp is making his big Hollywood comeback with 'Ebenezer.'",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2123349/is-hollywood-ready-for-a-johnny-depp-comeback",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-10T11:15:05Z"
   },
   {
    "k": "news",
@@ -969,6 +1115,50 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Ashanty Bijak Tanggapi Protes Ameena ke Atta Halilintar soal Kasih Sayang",
+   "snip": "Ashanty Bijak Tanggapi Protes Ameena ke Atta Halilintar soal Kasih Sayang detikHOT Belajar dari Ameena, Studi Ungkap Pola Asuh yang Bikin Anak Cemburu CNBC Indonesia Atta Halilintar Minta Maaf usai Curhatan Ameena Viral CNN Indonesia Belaja",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1RtczhfYjJNZDUzSXlRYkxHcXBZNnR3MURncEZzUWFObU44NFFWc2RtNEpqN3d4blo5eVNzWVIxM0NyNzNSaDJKVHZELWp1UTlWb196ZExNNmhIdnJwQjBVcFppNFRUaVE1T1dERzB4bWQ3cjRic3NlS3FwM0hVRVhLUWt1Q0NCOUlhbFp2b2V4RVNfLVoxaGxPTEtkNVNvcnF3dmJSQTY0a3U3akRUV9IBtgFBVV95cUxQZEVla1ZzOWs5YkZNaWRxMFhoclV0N3lDSXEwdmQxdjl3N3Jad0w4dHBodnRxaXVyVHZLYjRuNmxZZVBSWFJualFIT3BiVXRkM3pvQ3d3dy1HRUZ4OUU0T1lTWG1yY09IcHBZVDdrT2c3X3dLc2RReWVtZl81ZTdIWk95cjVtLVBLUklzZlBRV2szUEZCM3Y2S1R0N2RRaDNidnF4UjJXU3JHY2NMMnc1RGUtb0xrUQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T07:17:50Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Patung Sexy Robot Konser The Weeknd Tuai Polemik di Malaysia",
+   "snip": "Patung Sexy Robot Konser The Weeknd Tuai Polemik di Malaysia CNN Indonesia Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkNMcTdOSEoyb3RnbnRjRzF0SHdlNHFEaFd4VTQyaHFFM2doMDdLbXpMTHJfMVpnOW02bmpqbS1qZnBuR0loWS1FaGtwRUhpSDN3WnJDeDYzT1QyWGRmbG1pMTRLbUxXdmVQMUxPT2FQVWZXNnFsSW9BRGJ3Q1NrcnRydVNyRjl5RXFBV1BnZUY5ZERXUVExcUx3SzNETmEwajNvSVROTFRCajZOd01XTGg1LXpHUTJQUmdNaW9uQ0hZUdIBxwFBVV95cUxPTnU5SUtqVHZvS2dCTU03MEtXNld0Tk9KUmZCbzBaM2VVQzdsNTNKZnFYSzdDNngwSUZrcUZhYVUwZ1NhX2p2WW1Saml3UzNPUUVTTkVnOTJ3d0FfaFNnSTY1SVViTFdxNnpRYnQyWVNSQ2RxWWxlUElXQ0w2eVVKZDI1eUNnOGVaZVAxaThfOG0wWjBieFhjcUtneFVvU1Vja0RSckFPa2FzU19zcjdJd1JSWVJBYzFHWTFrX25NVGRQZnZaLWRN?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T07:00:14Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -991,34 +1181,12 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Mediasi Wanprestasi Gagal, Rumah Jaminan Ruben Onsu dan Sarwendah Terancam Dilelang Bank",
-   "snip": "Mediasi Wanprestasi Gagal, Rumah Jaminan Ruben Onsu dan Sarwendah Terancam Dilelang Bank Kompas.com Kubu Ruben Pastikan Mediasi Utang Rp12,4 M Buntu, Pilih Lanjut Sidang CNN Indonesia Rumah Cilandak Terancam Dilelang, Ruben Onsu Sudah Bahas",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVNYYVJMZU9GRTd5S1pSN28yYi1ZY1c3VDI5THBKN3VTdlNyem1RaVRISUo3dkE2QkQweEsyWlBPU0xBWmh2QU1XWVFQS3J6SllXSkIxOFB4TkN0QXRYZTFLWkxPSWVRTnpBaVl1cURaOV9OckFWSG1tNzczdHBDNDVUMHFvbmpOdEZJUjJLZFN5am9YSFJPMFZIeFZoZm9qRjRWNTZoZVkwc201ZHE2NXJTT0sxQVNCTmVxNmN1Wm0?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-10T06:55:00Z"
-  },
-  {
-   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
    "followers": 0,
    "cap": "3 Panggung Batal, Dongker Gak Kapok Bersuara",
-   "snip": "3 Panggung Batal, Dongker Gak Kapok Bersuara detikcom Musik dan Kepekaan Sosial atas Situasi Bangsa Kompas.id Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara Kompas.com Konser Obat Stress Untuk Rakyat ANTARA Foto Diterpa Isu Pemba",
+   "snip": "3 Panggung Batal, Dongker Gak Kapok Bersuara detikcom Musik dan Kepekaan Sosial atas Situasi Bangsa Kompas.id Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara Kompas.com Konser Obat Stress Untuk Rakyat ANTARA Foto Dongker Batal Tam",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1032,28 +1200,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-10T06:25:41Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Malaysia Selidiki Dugaan Ajaran Sesat di Konser The Weeknd",
-   "snip": "Malaysia Selidiki Dugaan Ajaran Sesat di Konser The Weeknd CNN Indonesia Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUFwSF9JeEpWVS02MTVvOUFZbG9vYm9MX0lVZF9QQnlCa1VOUGhEaW5sZ3hRTkFfTURjNVRtWUs3THNHbENGUEludGMwMDY2SDlKejBPSkJWU1NvZmdPWG1MOGNWbU5sQW5rM3RFWkxlR0dpdUNmWTVYWkdyUlVfRHZudzBuQ3BYY3ZGOVBxNXlUZ3JQVTBJRU1ua2RtSzI3YVNCaEFTVUdFRnNIRTlibmRqYU5fUUdVUXNfc0txLTZZTS14Nms4?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-10T05:45:00Z"
   },
   {
    "k": "news",
@@ -1076,6 +1222,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-10T05:10:41Z"
+  },
+  {
+   "k": "news",
+   "u": "Haibunda",
+   "name": "Haibunda",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Kirana Anak Semata Wayang Anggun C. Sasmi yang Kini Berusia 19 Tahun",
+   "snip": "Potret Kirana Anak Semata Wayang Anggun C. Sasmi yang Kini Berusia 19 Tahun Haibunda",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVFRenFvcVZ5UzJJX3NxZzJra1BRcE55aGNYTkkyQmx2Znl4NlJyd2FrbVRYTTRCRjFnRVRCQ1dSZzlZMk1LRjlXMF9sNXZCbldfaFpFZHNLNnZfZGxUT0hUb3cwNWRyVDJIZFhFNXloTy1QdGpwdmVCUTZDaEw1TkhXOVRQb25PR2tCTlFSdThpUy1tMmFhTWY3N1YzTi1ZcjMzS3NzNHB3ckZZQzh4MWVnMXNvRWlMbUxYREFYLUdwY0UyVEF4aERlUVVhLWfSAdQBQVVfeXFMTzlKNmR0TFluX2daaWxKTVh3bHYyUHFvR3djVTlZZUpmeGN2bGJISmpwRDZwSGxLWENrZmFJZTE5ZGhTa1NKenM1dm9fQ1hTajdsYWNfRHdVajB4UTJfdUlkcG9WSGdsOHRYdWxLSkxWWGtkMmpySkhvS2lCaXZEbU1aTHFDV2xzemVwMzZkUFpfeXhadlBfVF8wbUl5ODNFdFZLQl9XS0lWb0M3MWVtcmRvU0NSZVFjQ1dRTThzYm85ZGdlclhfa3Q4QXg1STIwVFcyY28?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Haibunda"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-10T04:55:47Z"
   },
   {
    "k": "news",
@@ -1106,7 +1274,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pengacara soal Ruben Onsu Diancam Dilaporkan Atas Dugaan Doxing",
-   "snip": "Pengacara soal Ruben Onsu Diancam Dilaporkan Atas Dugaan Doxing detikHOT Ruben Onsu Buka Peluang Seret Dalang Demo ke Jalur Hukum CNN Indonesia Ruben Mau Diboikot Gegara Isu LGBT, Ini Kata Orang Terdekat Warta Ekonomi Siap Minta Bantu Polis",
+   "snip": "Pengacara soal Ruben Onsu Diancam Dilaporkan Atas Dugaan Doxing detikHOT Ruben Onsu Buka Peluang Seret Dalang Demo ke Jalur Hukum CNN Indonesia Ruben Mau Diboikot Gegara Isu LGBT, Ini Kata Orang Terdekat Warta Ekonomi Ruben Onsu Bongkar Sos",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1162,7 +1330,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-10T02:20:09Z"
   },
   {
@@ -1172,7 +1340,7 @@
    "av": "",
    "followers": 0,
    "cap": "Habis Kena 'Cancel' di Jogja, RANS Mundur dari Konser D'MASIV",
-   "snip": "Habis Kena 'Cancel' di Jogja, RANS Mundur dari Konser D'MASIV CNBC Indonesia Sempat membantah, RANS akhirnya mundur dari tur D’MASIV IDNFinancials Kontrak Miliaran dengan Pemerintah-Konser Batal, RANS Jebol Rp100 - Market Bloomberg Technoz ",
+   "snip": "Habis Kena 'Cancel' di Jogja, RANS Mundur dari Konser D'MASIV CNBC Indonesia Sempat membantah, RANS akhirnya mundur dari tur D’MASIV IDNFinancials Kontrak Miliaran dengan Pemerintah-Konser Batal, RANS Jebol Rp100 Bloomberg Technoz Ramai Isu",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1184,7 +1352,7 @@
     "CNBC Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-10T02:10:49Z"
   },
   {
@@ -1206,30 +1374,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-10T01:20:08Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Jonathan Frizzy ke Ririn Dwi Arianty: I Love You",
-   "snip": "Jonathan Frizzy ke Ririn Dwi Arianty: I Love You detikHOT Dikabarkan Segera Nikah, Jonathan Frizzy dan Ririn Dwi Ariyanti Bangun Bisnis Bareng JPNN.com Bakal Segera Naik Pelaminan, Jonathan Frizzy Puji Ririn Dwi Ariyanti: 'Ubah Dunia Gelap ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcjNDX1ZuMmhLSWpSMFd6LXZuNjlqcS1mOWJNbXJoVXM4NUw3OHItcmdKaDBIck9zQW5QN19sZ1pEc2hKOVBPbEwtamRiWXZ5dlN5ck0tQlEwRGNqQ1VoQVpkSU9lSTZ3RWZqaHFMcFR5WWwwUlZNXzU4c21Na0VhSUx0cVAzb0lsX2VkQy130gGTAUFVX3lxTE5WcEM4MWdaVFVHNG5MN3d5OW01NElvWnFyMjNnYkpETjRlT3ZCc0tySzIwVGh6V2lSc2FXTmVNZzVnZFBGbFVTMlJIX2JqZFVFY1dYcFdMNWtyMXl5VzBGckw1bUdKaC1fUHhKSXRKSDlubHRpY21TaU5Mdkc4bUZkRkIwUTBDeUtGeE5NbXdLM1VEVQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-10T01:07:16Z"
   },
   {
    "k": "news",
@@ -1250,7 +1396,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-10T00:20:07Z"
   },
   {
@@ -1260,7 +1406,7 @@
    "av": "",
    "followers": 0,
    "cap": "Respons Bijaksana Sule soal Hoax Nikahi Yuni Shara",
-   "snip": "Respons Bijaksana Sule soal Hoax Nikahi Yuni Shara detikHOT Sule Buka Suara Terkait Isu Akan Menikahi Yuni Shara Cumicumi Banyak yang Percaya Hoax Nikahi Yuni Shara, Sule Prihatin Netizen Mudah Termakan Framing: Bahaya TribunStyle.com Respo",
+   "snip": "Respons Bijaksana Sule soal Hoax Nikahi Yuni Shara detikHOT Respons Sule Usai Dikabarkan Menikah dengan Yuni Shara: Tahunya Nikah, Kalau Mimpi Sih Iya VIVA.co.id Sule Buka Suara Terkait Isu Akan Menikahi Yuni Shara Cumicumi Heboh Dikabarkan",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1272,7 +1418,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-10T00:04:46Z"
   },
   {
@@ -1282,7 +1428,7 @@
    "av": "",
    "followers": 0,
    "cap": "James Gunn 'Dimakzulkan' dari DC Studios, Netizen: Karma Henry Cavill!",
-   "snip": "James Gunn 'Dimakzulkan' dari DC Studios, Netizen: Karma Henry Cavill! detikInet James Gunn Lengser, Bagaimana Nasib Superman dan Batman? CNN Indonesia James Gunn dan Peter Safran Mundur dari DC Studios Kompas.com James Gunn dikabarkan heng",
+   "snip": "James Gunn 'Dimakzulkan' dari DC Studios, Netizen: Karma Henry Cavill! detikInet James Gunn dan Peter Safran Mundur dari DC Studios Kompas.com James Gunn Lengser, Bagaimana Nasib Superman dan Batman? CNN Indonesia James Gunn dikabarkan heng",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1294,8 +1440,30 @@
     "detikInet"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-09T23:47:03Z"
+  },
+  {
+   "k": "news",
+   "u": "VIVA.co.id",
+   "name": "VIVA.co.id",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan 12 Shio Selasa 10 November 2026: Monyet Dapat Hari Menyenangkan, Anjing Prospek Karier Keuangan Menjanjikan",
+   "snip": "Ramalan 12 Shio Selasa 10 November 2026: Monyet Dapat Hari Menyenangkan, Anjing Prospek Karier Keuangan Menjanjikan VIVA.co.id Ramalan Shio Hari Ini Selasa 10 November 2026, Kerbau Bersinar, Kuda Perlu Waspada - sumeks.disway.id Sumeks 11.1",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZDN1M2Q5VU5CR3VGa0hITVYzY01kSWlFakZHa1dRc0hiZVJUQ1J2cnZWc1JWQ2dlWGtJdGxRUUNvUjhNNmxqYjVpbHo4RWVkWmNibWNMNVU2eUdJSDBtUlpIb1hUd28tN3RpcFBJZ3BZenp3by1nZlpEMmhpNnJnVzc5SlZsYUduZ3BzZXR1ODRKeVNTcWh0eW1lNzR4QlBoS2QzalhhQlFQWUdONVIwUnRpTGh4UFZZU3F3Y24yWEY0aDEzS0VpSWVEUE93aGVoc0dWek9rRzUxTWlhcVA0U0g3Tm1ERUk5RWt30gHwAUFVX3lxTE9INW8taXpSdFVoTmdVUGFBTW43V0JkOHlRUjNFbmNKajh0TDZvRnoyTWxPNmFENXFjNnBzV3JXXzBIV2p6T3NNQWp3M21McEM3c2xPZ1J6UlVFMTd6dVZzeVFLTFBrMnVVUHF6NzlLT3VVOHlPbEI5TVFWZ3Q2Y1ZrYnpMTHpzdzFXa3E5NXB4MHMtSzhyYXdPZnN4V3lwdjlOek45WGlEanF1WUVRejVNT1pXYkpSaV9RbVhzUXdxYVp2RU5EZEliVUpDbkVoazhSVU1SVkJVVmpNTU5GUFA3bVlqZW1MWG9JaTU1NXZNZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "VIVA.co.id"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-09T23:28:00Z"
   },
   {
    "k": "news",
@@ -1348,7 +1516,7 @@
    "av": "",
    "followers": 0,
    "cap": "3 Zodiak yang Diprediksi Beruntung pada 10 November 2026, Ada Aries",
-   "snip": "3 Zodiak yang Diprediksi Beruntung pada 10 November 2026, Ada Aries Kompas.com Ramalan Zodiak Selasa 10 November 2026: Siapa yang Beruntung dalam Cinta dan Karier? - sumeks.disway.id Sumeks Ramalan Zodiak Aries, Taurus, Gemini dan Cancer Ra",
+   "snip": "3 Zodiak yang Diprediksi Beruntung pada 10 November 2026, Ada Aries Kompas.com Ramalan Zodiak Selasa 10 November 2026: Siapa yang Beruntung dalam Cinta dan Karier? - sumeks.disway.id Sumeks 3 Zodiak Beuntung soal Finansial pada 11 November,",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1431,34 +1599,12 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Ruben Onsu Buka Peluang Seret Dalang Demo ke Jalur Hukum",
-   "snip": "Kubu Ruben Onsu membuka peluang untuk menyeret pihak-pihak yang terlibat dalam aksi demonstrasi memboikot presenter tersebut beberapa waktu lalu.",
-   "img": "https://akcdn.detik.net.id/visual/2026/07/22/ruben-onsu-1784691550094_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261109184002-234-1425102/ruben-onsu-buka-peluang-seret-dalang-demo-ke-jalur-hukum",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-09T12:00:04Z"
-  },
-  {
-   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
    "cap": "5 Gaya Lesti Kejora di Konser Nassar, Bertabur Kristal dan Aksen Rumbai",
-   "snip": "5 Gaya Lesti Kejora di Konser Nassar, Bertabur Kristal dan Aksen Rumbai Kompas.com King Nassar Pernah Dibayar Amplop Kosong hingga Diberi Koran, Menangis di Konser Tunggal iNews.ID Bukan Sekadar Goyang, King Nassar Paksa Erwin Gutawa Lakuka",
+   "snip": "5 Gaya Lesti Kejora di Konser Nassar, Bertabur Kristal dan Aksen Rumbai Kompas.com 12 Kostum King Nassar di Konser \"Lost in the Jungle\", Serba Megah Kompas.com King Nassar Pernah Dibayar Amplop Kosong hingga Diberi Koran, Menangis di Konser",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1497,28 +1643,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Indonesian Dance Festival 2026 Perkuat Pertukaran Seni Lintas Negara",
-   "snip": "Memasuki edisi ke-18 sejak1992, festival tahun ini menandai 34 tahun perjalanan mendukung perkembangan seni tari, khususnya tari kontemporer di Indonesia.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/09/indonesian-dance-festival-1794218544431_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261109165940-246-1425064/indonesian-dance-festival-2026-perkuat-pertukaran-seni-lintas-negara",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-09T10:47:10Z"
-  },
-  {
-   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
@@ -1541,34 +1665,12 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Musisi Bersuara di Panggung Kemenangan AMI Awards",
-   "snip": "Musisi Bersuara di Panggung Kemenangan AMI Awards Kompas.com Idgitaf Ingatkan Pentingnya Saling Jaga lewat Lagu Epaper Media Indonesia Ingat Pesan Ayah, Lesti Kejora Mau Coba Genre Baru Kompas.com Afgan Raih Piala AMI Awards 2026 lewat Kate",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanN2SDl6WEpWaDd1MG95NkxDZU52Q1hOUG1FbXFIR0hpNlQ0RmZNYmFwVlVNajAxcEN4U19oOTNXbW5lcTNILVN2aG9QSWtQTTZIbTJoaHZPTU14NjhoekpCWXlXSDVic1V1U3dHUTNWRjZzd3VCSk15LUdySFUyc0doX1k0UHFVT2kzYmtyWkFXeVpUNDNrRFFZamp0akZ1VUNjNUxiMHBqaHA4NGF6SmVlMFZlSk5x?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-05T05:32:00Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "5 Artis Ini Pilih Jadi Driver Online demi Sambung Hidup",
-   "snip": "5 Artis Ini Pilih Jadi Driver Online demi Sambung Hidup detikHOT Raeshard Octaviansha Ceritakan Pengalaman Lucu Jadi Sopir Taksi Online Demokratis.co.id Raeshard Octaviansha Jadi Sopir Taksi Online untuk Nafkahi Keluarga Limapagi Raeshard O",
+   "snip": "5 Artis Ini Pilih Jadi Driver Online demi Sambung Hidup detikHOT Raeshard Octaviansha Ceritakan Pengalaman Lucu Jadi Sopir Taksi Online Demokratis.co.id Raeshard Octaviansha Blak-blakan Soal Bekal Hello Kitty Saat Jadi Driver Ojol Finansial",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1582,28 +1684,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-05T01:38:24Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Ricuh di Depan JIExpo Kemayoran Diwarnai Lemparan Batu, 33 Orang Luka Termasuk Bahar Bin Smith",
-   "snip": "Ricuh di Depan JIExpo Kemayoran Diwarnai Lemparan Batu, 33 Orang Luka Termasuk Bahar Bin Smith Kompas.com Polres Metro Jakarta Pusat Hadir Berikan Pelayanan Humanis, Aksi Unjuk Rasa dan Konser Andrea Bocelli Berjalan Kondusif Tribratanews P",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVk4MzdSc0lEbjRDam1yZkhQaWw2ZFN6TGM2dWNUbmd2ZW0zSXE1SUxWWjRnOThRMXVQWXdqb3VHbUxHLWh3bHgwUFlIaVBHV181LXhIOVR3X1VZVTJvWFhUbzE0ZWN6UXliYnlEcXVSVmVtdVF6QndoMDVELUFUb2tRNHFRR2pFSU1ZVnpOd1AtZFZ3RUZiWEVhZ2k2bkNPTjA5enhUWGpROUNfRVgyQmdxeWVvSEwwZUoyRy1tNzdNZw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-04T04:44:00Z"
   }
  ]
 }
