@@ -1,6 +1,43 @@
 {
  "topics": [
   {
+   "t": "Chelsea F.C.",
+   "q": "chelsea f.c.",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "BBC",
+    "Talk Chelsea",
+    "Flash Scores"
+   ],
+   "d": "2026-11-13",
+   "url": "https://www.bbc.com/sport/football/articles/c6x298z020ddo?xtor=AL-72-%5Bpartner%5D-%5Baol.com%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+   "n": "Aston Villa transfer rumours: Romeo Lavia",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Lukman Sardi Akhirnya Wujudkan Keinginan Jadi Bintang Film Action Lewat Serangan Balik",
+   "q": "Lukman Sardi Akhirnya Wujudkan Keinginan Jadi Bintang Film Action Lewat Serangan",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
+   ],
+   "d": "2026-11-12",
+   "url": "https://www.liputan6.com/showbiz/read/8334133/lukman-sardi-akhirnya-wujudkan-keinginan-jadi-bintang-film-action-lewat-serangan-balik",
+   "n": ""
+  },
+  {
    "t": "Respons Haru no na, Jadi Girl Group Indonesia Pertama yang Masuk Lineup Coachella 2027",
    "q": "Respons Haru no na, Jadi Girl Group Indonesia Pertama yang Masuk Lineup Coachell",
    "cat": "Musik",
@@ -36,6 +73,29 @@
  "posts": [
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Lukman Sardi Akhirnya Wujudkan Keinginan Jadi Bintang Film Action Lewat Serangan Balik",
+   "snip": "Lukman Sardi mengaku sudah lama ingin membintangi film action dengan karakter jagoan yang tidak biasa seperti Hari.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/S23fLMnvNZRkzqB2jLl93MNIBww=/367x1183:2074x2145/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9396384/original/021341200_1794478439-IMG_2137.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8334133/lukman-sardi-akhirnya-wujudkan-keinginan-jadi-bintang-film-action-lewat-serangan-balik",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 58,
+   "ts": "2026-11-12T16:44:22Z"
+  },
+  {
+   "k": "news",
    "u": "Tempo",
    "name": "Tempo",
    "av": "",
@@ -54,7 +114,7 @@
     "Kompas.com"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-12T16:01:04Z"
   },
   {
@@ -82,6 +142,28 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Batal Main The Hunger Games, Aktor Ini Jadi Mendalami Agama",
+   "snip": "David Henrie mengaku kegagalan dirinya terpilih untuk bermain dalam film The Hunger Games (2012) ia anggap sebagai \"hal terbaik di dunia\".",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/10/david-henrie-1794316761308_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261110204147-234-1425632/batal-main-the-hunger-games-aktor-ini-jadi-mendalami-agama",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-12T22:15:30Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -104,50 +186,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Lukman Sardi Akhirnya Wujudkan Keinginan Jadi Bintang Film Action Lewat Serangan Balik",
-   "snip": "Lukman Sardi mengaku sudah lama ingin membintangi film action dengan karakter jagoan yang tidak biasa seperti Hari.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/S23fLMnvNZRkzqB2jLl93MNIBww=/367x1183:2074x2145/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9396384/original/021341200_1794478439-IMG_2137.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8334133/lukman-sardi-akhirnya-wujudkan-keinginan-jadi-bintang-film-action-lewat-serangan-balik",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-12T16:44:22Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Ub pimpin perburuan gelar FIBA 3x3 World Tour Zaisan",
-   "snip": "Tim bola basket 3x3 Ub asal Serbia menjadi unggulan pertama dalam FIBA 3x3 World Tour Zaisan 2026 yang akan berlangsung ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/12/1000594411.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5850491/ub-pimpin-perburuan-gelar-fiba-3x3-world-tour-zaisan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-12T16:05:22Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -165,7 +203,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T16:00:23Z"
   },
   {
@@ -187,7 +225,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T15:49:27Z"
   },
   {
@@ -209,7 +247,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T15:00:00Z"
   },
   {
@@ -219,7 +257,7 @@
    "av": "",
    "followers": 0,
    "cap": "Jensen Huang Mundur Usai Selingkuh, Sosok Ini Ditunjuk Jadi Bos Baru Nvidia",
-   "snip": "Jensen Huang Mundur Usai Selingkuh, Sosok Ini Ditunjuk Jadi Bos Baru Nvidia detikNews CEO Nvidia Jensen Huang Mengundurkan Diri Kompas.id Selain Alice, Jensen Huang Juga Dikabarkan Selingkuh dengan Petinggi Nvidia Kompas.com Premarket mover",
+   "snip": "Jensen Huang Mundur Usai Selingkuh, Sosok Ini Ditunjuk Jadi Bos Baru Nvidia detikNews CEO Nvidia Jensen Huang Mengundurkan Diri Kompas.id Trump Nilai eks CEO Apple Tim Cook Bisa Gantikan Jensen Huang Sebagai CEO Nvidia - kumparan.com kumpar",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -231,7 +269,7 @@
     "detikNews"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T14:46:55Z"
   },
   {
@@ -253,7 +291,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T14:08:14Z"
   },
   {
@@ -275,7 +313,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T14:02:29Z"
   },
   {
@@ -297,7 +335,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T14:00:40Z"
   },
   {
@@ -319,7 +357,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T13:57:02Z"
   },
   {
@@ -341,7 +379,7 @@
     "Tempo"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T13:30:01Z"
   },
   {
@@ -363,7 +401,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T13:15:55Z"
   },
   {
@@ -385,7 +423,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T13:15:31Z"
   },
   {
@@ -407,8 +445,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T12:15:54Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Aldi Taher Kini Buka Usaha Sate: Pakai Daging Asli Bukan 3D",
+   "snip": "Aldi Taher Kini Buka Usaha Sate: Pakai Daging Asli Bukan 3D detikHOT Aldi Taher Buka Restoran Baru, Kini Jualan Sate hingga Sop Domba detikFood Aldi Taher Sulap Kegemaran Makan Sate Jadi Peluang Bisnis Liputan6.com Aldi Taher Buka Tempat Ma",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY21pRGZKY0ZoeDBFYjFRTTVHUDdKVUN5ZVdFSHl3SnI2b1ZidDM4STZZUkhJZHR5aU9NdHo0UVVlODk5RzB4U0JBR09EWnhaZ2hIVFpKU196WlNwLVpZWHEzbWo0ZDBFdnppVDRmb0dLbzFSRy1hdlpaakdpRzBqWW95MDBKVV9mUFdBdFVqVGxBalFHMUlrQ3Q1NnLSAaIBQVVfeXFMTXFoVHFsbG8tdFVxaDZSQ0xXZW1oZVhpblFkdmlkX2FFTERkZjJGU2l4Z0o1R0taVm8wTGxnRzlHU2RSc1c5ek5sdnpwNEJ0dmc3UHE0STNXU1B2ZXJJNVpxcjNqM0RPU3Z0aVhXdGJqRUtpZmN5WEV5V3ZEbFZJSGhMZ0ZaUkpJSGgzQ1M3YTQ1RjlZNWpPOUdHRjR1LWRnTjZn?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-12T12:06:29Z"
   },
   {
    "k": "news",
@@ -429,7 +489,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-12T12:02:12Z"
   },
   {
@@ -786,28 +846,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "NCT 127 dan NCT Dream Akan Tampil di Coachella 2027",
-   "snip": "NCT 127 dan NCT Dream akan tampil di Coachella 2027 pada 10 dan 17 April. Simak lineup, headliner, dan jadwal penjualan tiketnya selengkapnya di sini!",
-   "img": "https://cdn1-production-images-kly.akamaized.net/cq0NOeRxnTnP4AME6Fj_OUxvpZc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9396135/original/029888200_1794470600-The_return_to_innocence______Passes_on_sale_Friday__11-13_at_12pm_PT.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8333957/nct-127-dan-nct-dream-akan-tampil-di-coachella-2027",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-12T08:12:46Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -962,6 +1000,28 @@
   },
   {
    "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "4 Shio yang Diprediksi Temukan Kedamaian pada 12 November 2026",
+   "snip": "4 Shio yang Diprediksi Temukan Kedamaian pada 12 November 2026 Kompas.com Ramalan Shio 13 November 2026, Tikus hingga Ayam Perlu Lebih Waspada detikcom Ramalan Shio Tikus, Kerbau, Macan dan Kelinci Rabu, 11 November 2026 Media Indonesia 5 S",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTN3ZGFzaEwwLWdOa1NNVGt3RHhqNjdFSHd2NUdPQ0hMekNMYzNTWVd3aUpqZEE0RVhMb3JYdnpLZVAwY09RblZDajRoNHAxYjg4bTF5bzJ6aWt2U3BjeWZRNnlxTXNnYkdCeC1yY3l6am53VmFxTnlaV0t6X2pnZmxKcTB4dG41cm1yd25IbFgzVWE0ZDBoNy1MVUVRYWxNelQ2ay1LU2dlOWcwZThMTGVpdmlDUFdU?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-12T03:32:00Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -989,7 +1049,7 @@
    "av": "",
    "followers": 0,
    "cap": "Pemerintah Amerika Serikat: Kita Harus Bawa Tom Cruise 'Pulang'",
-   "snip": "Pemerintah Amerika Serikat: Kita Harus Bawa Tom Cruise 'Pulang' detikcom Industri Film AS Desak Pemerintah Terapkan Insentif Pajak Federal SuaraGarut.ID Industri Film AS Desak AS Tarik Kembali Produksi Hollywood Suara Independent News Indus",
+   "snip": "Pemerintah Amerika Serikat: Kita Harus Bawa Tom Cruise 'Pulang' detikcom Industri Film AS Desak AS Tarik Kembali Produksi Hollywood Suara Independent News Industri Film AS Desak Pemerintah Hadirkan Insentif Pajak Federal cwibc.co.id Industr",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1072,28 +1132,6 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Sosok Kontroversial Nathan Lacy, Koboi Tampan yang Pacari Bella Hadid",
-   "snip": "Sosok Kontroversial Nathan Lacy, Koboi Tampan yang Pacari Bella Hadid Wolipop Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnAySjhzaXZqUEpOOWt2Q2E0RUpFci1XQmlNRmlHTFZ2QkduUUhmZEtKUEozZ0ZpdFNHaU1YV3E3Q3NSUk15bnFmR0lPVkRkYnBvampTUWdIR2VlZS04Q2VITDFndVQxOVhoOW9kdVpSWnpNYnA1NWNmMTZmZWVkeG1DY1BGb0lmcDJKUDNfSFRpUW5YdVJYVGhrOW4xcUVqVDIwenpYM2g5aUVIcDd5YVF2TzJxakx6Szc2Y1FhbUfSAcYBQVVfeXFMUEgybHZmMFJXVGRObi1fSEI4bGNDeEV6ekZqNG1FblkwTmx1YVdpUW9iOUlPbVE5azhoU2w2X1pBX0VIV0lHREpROVFGOS10QlpubV9SYTV1ZmV0RFp3R1pzV0pxT2VuZ0xUV25NS0hFcEJJaU1HT2t3Z1dKQzNXemNEVFREczNkZzdJNGpSYU5JbnpTV05OZ2U1bFNRUUtfVlpPODJjZmJXM181OC1QWUlmNTVhcDkxbHpLTlYtb3c3SXhicV9R?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-12T01:30:41Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -1121,7 +1159,7 @@
    "av": "",
    "followers": 0,
    "cap": "Anindya Salsa Bicara Usai Disorot, Tegaskan Hubungan dengan Desta Selesai",
-   "snip": "Anindya Salsa Bicara Usai Disorot, Tegaskan Hubungan dengan Desta Selesai detikHOT Anindya Salsa Klarifikasi soal Tudingan Jadi Simpanan Desta Kompas.com Terpopuler: Kisah Selvi Ananda Mualaf, Sosok Anindya Salsa yang Ngaku Pernah Dekat den",
+   "snip": "Anindya Salsa Bicara Usai Disorot, Tegaskan Hubungan dengan Desta Selesai detikHOT Anindya Salsa Klarifikasi soal Tudingan Jadi Simpanan Desta Kompas.com Gibran Rakabuming Mundur, Klarifikasi Anindya Salsa soal Desta detikHOT Anindya Salsab",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1199,7 +1237,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-11T22:00:36Z"
   },
   {
@@ -1223,28 +1261,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-11T16:00:01Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Berubah Usai Oplas, Sarita Abdul Mukti Disinggung Soal Jodoh",
-   "snip": "Berubah Usai Oplas, Sarita Abdul Mukti Disinggung Soal Jodoh detikHOT Sarita Abdul Mukti Habiskan Lebih dari Rp 1 M Untuk Oplas detikHOT Sarita Abdul Mukti Rogoh Kocek Lebih dari Rp1 Miliar untuk Oplas Liputan6.com Sarita Abdul Mukti Operas",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2lBYVo0Q0dSVWVBdEh4Y2c3WEVZaDhrZUo1LUs2Z2FYUDY2YUZkamRGTHF2Z2J1aV9ja1ZyMmMtYmZFejUzb2NhX3NuLXdJT3o0RHJYY05ZbzFqMERiOVY3c0ZlU3ZGRzJQSU5qY2E4aEVOUnV5NkZTYkJzVUdGOGdUeVVzbGpNQ3R0SE8xNlNPdjhhWTFQT053ZzFKUdIBowFBVV95cUxQdVg2NDlGOVUtZFloQVFycFhuQnhSWVUxTWw5LWRiejY5dWlrNnp1VDRTTGl2Q1laWmxvUGZ1X1BDcHd3UmtOUk5RNDVZOWlmUG9MWFMwRF9rRDctUVdTRktNMWN0cEtwZHI2WFlKQXR5MEE0MHJPaUhSaFE2UEJFYU1BVUluTUlsaHctMzJNZnE2cmhPaERXMjZMMHYwREhUa2V3?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-11T15:02:56Z"
   },
   {
    "k": "news",
@@ -1402,28 +1418,6 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Curhat Jang Nara Nyatakan Cinta ke Suami Duluan, Cinlok Saat Syuting",
-   "snip": "Curhat Jang Nara Nyatakan Cinta ke Suami Duluan, Cinlok Saat Syuting Wolipop",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXpfZ1JaTGctSHZyM3FoYWNNeGx3LUxNMUF2c0hqbGphbXVrek1fbGpfNFBsWlM3OTRfNXA4cTJsZk9qUU1TZE5qb2lrbVdIcDlmcnM5QTBCTzJnLVJuVkhsVUx6M0l2aHRHSjVMTmJLT1lGaDBmS0NNaEd5cXNIWW1DQlJiM0pjVGZHemdhNWdQTURObEJLUUVIZjJRVGNNVEJVWXIxRTdXYTQtQndqbjZaTmhzc2NZSnZUQzVRRdIBxAFBVV95cUxOdXQxeThyOGJuNUhjaXFzMWV5Y0hKUWdRSmJFU0pRMXZJVzJWZHlrd2k5S01qRF9xRGx0TGN6RUI3MHhCTTVUdXBUenRqSWk0MmprUHRuZjB2andfYW1zVC04SEN1MDEwX0I2d0FpbG1BanEteS1NVlpZNXpXZE84bmRGdVVpaFI5NnBIbmg1NTBOS3NuSnRlb0FTOXNfbzJhejVXMkpQUWtmcmg1S1hWY0dLU08wU0VvaUhkTFo3ajBVVlcx?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-11T11:00:17Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1443,72 +1437,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-11T10:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "3 Shio yang Diprediksi Bangkit dari Masa Kurang Beruntung pada 2026",
-   "snip": "3 Shio yang Diprediksi Bangkit dari Masa Kurang Beruntung pada 2026 Kompas.com Ramalan Shio Hari Ini Senin 9 November 2026, Macan Paling Hoki, Ular dan Monyet Waspada - sumeks.disway.id Sumeks Ramalan Shio Besok 8 November 2026, 8 Shio Beru",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHdFUHZ2WUkxbXdlOEtWSUw3WGk0c1YwUE00ejAzaU5hQ01VVkllbHJ2R3RmdjdQLVBQVWxteGFFaHpYemxjdTBOaXUwQnFNLW50ZVppMFA4ZC1kNHBFOHFMN3BvOHhpOXZidFZ5cGh2d3VSaGNOdFZkWEQ2MHM0UHRVN1hhRlRBVkxKcnVQbjY0Y09XN09EMzgwRXVzWl9MckpmeHZQdFpjNk9GbEFBeUxIN2xCYzlCbGltQWxqajBnSjZBZXc1NVN6TQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-11T09:05:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Billy Joel Bakal Naik Panggung Lagi setelah Sempat Dilarang Dokter",
-   "snip": "Billy Joel secara mengejutkan mengumumkan akan menggelar konser meskipun dokter sudah memintanya tidak lagi tampil.",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/10/billy-joel-1789049344249_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261110201017-227-1425614/billy-joel-bakal-naik-panggung-lagi-setelah-sempat-dilarang-dokter",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-11T09:00:02Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis Ramayana: Part 1, Awal Mula Konflik Rama dan Ravana",
-   "snip": "Sinopsis Ramayana: Part 1, Awal Mula Konflik Rama dan Ravana CNN Indonesia Penghasilan Fantastis Ramayana: Rise of a Legend yang Disebut Film India Termahal Kompas.com 5 Fakta Menarik Film Ramayana, Biaya Produksi hingga Beda Versi CNN Indo",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnB4cWpjc1MyVWtScGF1TGN6VnBNVTNJWTNueEhTcGIzQU9FcVc3akhlQnQ4QVhEM1dLMGI1TlpNbnRiRXFwR2sxWllVdV9LSm9iTk9DSjNmR3pHSXpMemR5bTdiQnlWV21HNDdxV1o5Rk9sZEFfZmJUS1NxUlQxOWc2dHFiVGFoeEpEalZxdVB6TVNhelphaDJiNGF2cVVQa0tHNXNPcE90OVQwb3ZoaWRzRjVLUlVKVU1HY1R5UdIBxAFBVV95cUxNWHNzLVlHNG53bnpGRldveW5Oejl6UXhJb2FObHhKSXVuREtYSnBMajc4SDZNM1FCY2pqLVVxS0FLa1lHQjYzc0dCWnlQNFgxYjc4el95VUdOcTlSbzMyWVY0WVNnOVVlX1p1VnA2Y0pSOUFobHh4bzVvVU5WWWtwV0VQcmhxLWM3MjhvdnV6eWt4Wnhmb05OS0JCTjFabWxGdDROVnlHVkZPZEVYRUxWNjZwblhRb3pHMjFBZE41UjhEUGlf?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-11T04:40:11Z"
   },
   {
    "k": "news",
@@ -1538,30 +1466,8 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Mediasi Ruben-Sarwendah soal Utang Rp12,4 M Berakhir Buntu",
-   "snip": "Mediasi Ruben-Sarwendah soal Utang Rp12,4 M Berakhir Buntu CNN Indonesia Mediasi Wanprestasi Gagal, Rumah Jaminan Ruben Onsu dan Sarwendah Terancam Dilelang Bank Kompas.com Ruben Stop Bayar Cicilan, Sarwendah Tak Terima Rumah Cilandak Dilel",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3lSbDhOa0tNRWVTTzU0SHM1czNtak9oVll4NlMyRnR6LWFMcGVUV2pYSWVBZEdSZkpBVHF2WGtGLVRHbm5RRWpPanNSQk12ZkxSSkpiV1d2dHl5XzhSZHQ5TC1UejJjemFac2FIV0QydXJuaUEzcXk2S0l4TmZwTGk1dE8xTVBocTZlb0hlVGFYd0liSmFiaW51V3lEbkY4SmU2dDdkeHVocERSMm8yUkJsWE83OVYxRld2bW1R0gHDAUFVX3lxTE1JNVZFd09xMnVWenNXbFZ4MmFtLUdXLWRfQ2xSSDZoMFRTcWoyN1NuNjdBVDlHR2ZLLVJ5TGNoNzY2NG1pNWd1UlRzR2VzcWRyMUdjM3VMUk5xUmFLUHh0OHNjZ1F3cndaVWt1ajV0c1pfTUN1aHdZT21sNXNaeS1HZ2lFbXFzek1tbFBOZ1ZVMFVGV25hVGtweU50T0w2cll3b1RUT2dJV0FnWFBLQkxUcm1uTF9uU3BsWFZDM01mVmhNbw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-10T12:30:44Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
    "cap": "James Gunn Lengser, Bagaimana Nasib Superman dan Batman?",
-   "snip": "James Gunn Lengser, Bagaimana Nasib Superman dan Batman? CNN Indonesia James Gunn Buka Suara soal Mundur dari DC Studios Kompas.com Mundur dari Pimpinan DC Studios, James Gunn Siap Kembali Fokus Garap Film - inforadar.disway.id Inforadar.id",
+   "snip": "James Gunn Lengser, Bagaimana Nasib Superman dan Batman? CNN Indonesia Nasib Batman, Superman Setelah James Gunn Tinggalkan Jabatan Pimpinan DC Studio Kompas.com Adaptasi Live-Action Naruto Kehilangan Produser detikcom Rekam Jejak Jeremy La",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1578,12 +1484,56 @@
   },
   {
    "k": "news",
+   "u": "Emitennews.com",
+   "name": "Emitennews.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Pecah Kongsi, D’MASIV dan 10.883 SID Tinggalkan Emiten Raffi-Nagita",
+   "snip": "Pecah Kongsi, D’MASIV dan 10.883 SID Tinggalkan Emiten Raffi-Nagita Emitennews.com Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzl5aXFWTzlMZVFrUm5WV3AyclFBbDJRdHRveXBNYXl2aTJQNDlEeGRzWTl4QzFzYnY0Y1FTVU9GRUJucEJmZGpXcTl0WWJ1a2ljTFBCWGJfTE8zZFM4QzhkZjZnanp4TFk3aEdwaHhXNTd4RW1FYlJvaVA0bnRkWWRqV0g5b2piVGV4ak8zZ2RqcDBaUVNr?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Emitennews.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-10T00:05:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "12 Kostum King Nassar di Konser \"Lost in the Jungle\", Serba Megah",
+   "snip": "12 Kostum King Nassar di Konser \"Lost in the Jungle\", Serba Megah Kompas.com Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUxZVG1CWHBtSVNXMHZWU0hybjhKTWplNndlRTlXOFEzQ3ZENzNoZnloOHpQRHg1ZFhnVm9yVGtDSm1WczNtTDhPOXQ3TkJrVWFURE9fcnU1UmN2cV9RenF6SjN0OVRzYlRUblF3elp5N3AxVW5NUVlzcWRiajNqeUlKbDdGOVNrekRXbFlYcWhIMldXOXVNUnY2WW5EUzdKZEotLTRtb25sS051REFFei1LYWZkNGNx?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-09T05:15:00Z"
+  },
+  {
+   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
    "cap": "Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara",
-   "snip": "Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara Kompas.com Di Tengah Pembatasan Ruang Sipil, Dongker Tetap Bersuara Melalui Musik LBH Jakarta Musik dan Kepekaan Sosial atas Situasi Bangsa Kompas.id Fadli Zon Tanggapi Dugaan Pembat",
+   "snip": "Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara Kompas.com Di Tengah Pembatasan Ruang Sipil, Dongker Tetap Bersuara Melalui Musik LBH Jakarta Musik dan Kepekaan Sosial atas Situasi Bangsa Kompas.id Konser Obat Stress Untuk Rakyat ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1605,7 +1555,7 @@
    "av": "",
    "followers": 0,
    "cap": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan",
-   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Namanya Kembali Diseret dalam Demo Ruben Onsu, Sarwendah: Kenapa Saya Lagi? Warta Ekonomi Pengacara soal Ruben Onsu Diancam Dilaporkan A",
+   "snip": "Akhirnya Muncul, Koordinator Demo Boikot Ruben Onsu Minta Maaf dan Akui Hanya Turuti Pesanan Kompas.com Namanya Kembali Diseret dalam Demo Ruben Onsu, Sarwendah: Kenapa Saya Lagi? Warta Ekonomi Ruben Onsu Respons Santai Oknum Pendemo yang A",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1619,6 +1569,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-07T04:18:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Oki Rengga Minta Maaf, Bantah Larang Suporter Bentangkan Spanduk Karhutla",
+   "snip": "Oki Rengga Minta Maaf, Bantah Larang Suporter Bentangkan Spanduk Karhutla Kompas.com Tanggapi Polemik Oki Rengga, Adjis Doaibu: 100 Persen Kesalahan Oki Kompas.com Dinilai Bela Oki Rengga, Arie Kriting Akhirnya Minta Maaf SINDOnews Lifestyl",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHBFTWRBVktHZ0hkNGY1SUlyWFhPQmNkbmllSENHcF9HMG5IZVVHVTBXSVZzUEgzQ1ZKd2tPOWNJd1E5VDdLZEowMnM2a0tfOUF3bXhHWlpxZkxOb1l0ZW5iNkMtcEd6MzBsV3ZmdW1Zc1NMUGdta3FjSjluLWZKY0RBOEJtWnlrTVpFN3RhRkw3Ry1iOEhjazB4eWYzc3RINDFEbC1KTGtINEltX1dMXzdTQ20yN05NWlMwX1VmZ0t4VUthMzc5eWUyaw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-06T08:10:00Z"
   }
  ]
 }
