@@ -1,8 +1,8 @@
 {
  "topics": [
   {
-   "t": "M",
-   "q": "m",
+   "t": "Huawei Watch D3",
+   "q": "huawei watch d3",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -11,20 +11,20 @@
    ],
    "src": [
     "Google Trends",
-    "ESPN",
-    "The Boston Globe",
-    "MLB Trade Rumors"
+    "detikHealth",
+    "kontan.co.id",
+    "Aktualita.co"
    ],
    "d": "2026-11-14",
-   "url": "https://www.espn.com/mlb/story/_/id/50473029/sources-jake-bauers-red-sox-agree-4-year-58m-deal",
-   "n": "Sources - Jake Bauers, Red Sox agree to 4-year, $58M deal",
-   "vol": 100,
+   "url": "https://health.detik.com/kebugaran/d-8752056/hipertensi-kerap-tak-terdeteksi-seberapa-penting-pantau-tekanan-darah-24-jam",
+   "n": "Hipertensi Kerap Tak Terdeteksi, Seberapa Penting Pantau Tekanan Darah 24 Jam?",
+   "vol": 200,
    "vu": "pencarian"
   },
   {
-   "t": "Liechtenstein Vs Azerbaijan",
-   "q": "liechtenstein vs azerbaijan",
-   "cat": "Film & Series",
+   "t": "Pesangon",
+   "q": "pesangon",
+   "cat": "Selebriti",
    "reg": "ID",
    "ch": [
     "Google Trends",
@@ -32,13 +32,34 @@
    ],
    "src": [
     "Google Trends",
-    "Goal.com",
-    "Sports Mole",
-    "AzerNews"
+    "Kompas.id",
+    "CNN Indonesia",
+    "detikTravel"
    ],
    "d": "2026-11-14",
-   "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-liechtenstein-v-azerbaijan/blt8851f569e896ddb6",
-   "n": "Watch Liechtenstein vs. Azerbaijan live today: Who is broadcasting the match on TV and via live stream?",
+   "url": "https://www.kompas.id/artikel/uu-pelindungan-ketenagakerjaan-dinilai-pro-buruh-kemenaker-pengusaha-tetap-dilindungi",
+   "n": "Kemenaker: UU Pelindungan Ketenagakerjaan Pro-Buruh dan Pro-Pengusaha",
+   "vol": 500,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Tentara Bayaran",
+   "q": "tentara bayaran",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "detikNews",
+    "Kompas.com",
+    "ANTARA News Bali"
+   ],
+   "d": "2026-11-14",
+   "url": "https://news.detik.com/berita/d-8752231/15-wni-jadi-tentara-bayaran-rusia-rata-rata-mantan-admin-judol",
+   "n": "15 WNI Jadi Tentara Bayaran Rusia, Rata-rata Mantan Admin Judol",
    "vol": 100,
    "vu": "pencarian"
   },
@@ -92,6 +113,30 @@
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Polisi: Sindikat Tentara Bayaran Rusia Gunakan Kekasih Rekrut WNI",
+   "snip": "Polres Metro Jakbar ungkap sindikat tentara bayaran Rusia yang memanfaatkan kekasih WNI sebagai perekrut. Iming-iming upah jutaan rupiah jadi daya tarik.",
+   "img": "https://akcdn.detik.net.id/visual/2022/04/08/pemampakan-tentara-chechen-bertempur-bela-rusia-di-ukraina-3_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/nasional/20261113231203-12-1427063/polisi-sindikat-tentara-bayaran-rusia-gunakan-kekasih-rekrut-wni",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [
+    "Tentara Bayaran"
+   ],
+   "sc": 65,
+   "ts": "2026-11-13T18:00:40Z"
+  },
   {
    "k": "news",
    "u": "CNN Indonesia",
@@ -163,16 +208,38 @@
   },
   {
    "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Kenapa mayoritas film di Indonesia rilis hari Kamis? Ini alasannya",
+   "snip": "Pernahkah Anda memperhatikan bahwa banyak film Indonesia mulai tayang di bioskop pada hari Kamis? Mulai dari film ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/08/16/IMG_20260702_165952.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5853267/kenapa-mayoritas-film-di-indonesia-rilis-hari-kamis-ini-alasannya",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T00:16:36Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Polisi: Sindikat Tentara Bayaran Rusia Gunakan Kekasih Rekrut WNI",
-   "snip": "Polres Metro Jakbar ungkap sindikat tentara bayaran Rusia yang memanfaatkan kekasih WNI sebagai perekrut. Iming-iming upah jutaan rupiah jadi daya tarik.",
-   "img": "https://akcdn.detik.net.id/visual/2022/04/08/pemampakan-tentara-chechen-bertempur-bela-rusia-di-ukraina-3_169.jpeg?w=360&q=90",
+   "cap": "FOTO: Rosalia Cetak Sejarah di Latin Grammy Awards 2026",
+   "snip": "Penyanyi Spanyol Rosalía menyapu Latin Grammy Awards 2026 di Las Vegas, Amerika Serikat, Kamis (12/11) waktu setempat.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/13/rosalia-bikin-sejarah-di-latin-grammy-2026-1794553152820_169.jpeg?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/nasional/20261113231203-12-1427063/polisi-sindikat-tentara-bayaran-rusia-gunakan-kekasih-rekrut-wni",
+   "url": "https://www.cnnindonesia.com/hiburan/20261113140114-229-1426824/foto-rosalia-cetak-sejarah-di-latin-grammy-awards-2026",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -181,7 +248,73 @@
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-11-13T18:00:40Z"
+   "ts": "2026-11-13T23:51:24Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Prediksi Setlist Konser 5SOS Jakarta 2026, Ada 26 Lagu",
+   "snip": "Berikut prediksi setlist konser 5SOS Jakarta 2026 pada 14 November dan 6 Desember di Indonesia Arena.",
+   "img": "https://akcdn.detik.net.id/visual/2022/09/22/5-seconds-of-summer-1_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261113094602-227-1426701/prediksi-setlist-konser-5sos-jakarta-2026-ada-26-lagu",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-13T23:20:07Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Anindya Salsa Luruskan 4 Hal Soal Pernah Pacaran dengan Desta",
+   "snip": "Anindya Salsa Luruskan 4 Hal Soal Pernah Pacaran dengan Desta detikHOT Pernah Dekat dengan Desta, Ini Profil Anindya Salsa detikcom Bukan 'Simpanan', Anindya Salsa Akui Pernah Pacaran dengan Desta Mahendra Cumicumi Siapa Anindya Salsa yang ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR21Nb0lwb09sTGNIWXI5cWtCOTZyYUFkVUJCUFJkb3pGYnJWdEpwTXI5eThqdkNiM05WaEJ1ek1acEpDRmg2X2NyTi1EQVNpMWR1eV91NzhDb0NFNW5yYk12ZzVpemlGa2JBSkFNN0x2cHd3ZFNUc3MydHhiWmY0ZlE2amFRalZ5QjRxMTMtSXdVX2g2VWUyMV9RTnNHR0900gGmAUFVX3lxTE1rWFFxNUduRXJWeE95WEJOY19xSnQwNFVjT0FVMThaTHJLcTh2M2hveUEzSU5mdndUbmJzWWhMV1ZONjFPeDlzeXZ2SzhXcXZoUDJmRGY5U2hRSlJabENBNlhQSnN4NDdqR2x3T01FR0VYTVl6OVFqSG5RZUdnTTBxdk1SLTQyeThrWjE5VXJabHVrQm8wQ09qNXNScm4zU3hYYjhhcGc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-13T22:05:11Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Jadwal Konser dan Festival di Jakarta Akhir Pekan Ini, 14-15 November",
+   "snip": "Sejumlah musisi mancanegara, mulai dari musisi lokal, Australia, Korea, hingga anime expo bakal digelar di Jakarta pada Sabtu (14/11) dan Minggu (15/11).",
+   "img": "https://akcdn.detik.net.id/visual/2026/04/28/5-seconds-of-summer-1777369020484_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261113174721-227-1426984/jadwal-konser-dan-festival-di-jakarta-akhir-pekan-ini-14-15-november",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-13T22:00:26Z"
   },
   {
    "k": "news",
@@ -202,7 +335,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-13T16:00:07Z"
   },
   {
@@ -224,8 +357,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-13T15:37:30Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "26 Tahun Menikah dengan Bambang Trihatmodjo, Mayangsari: Setiap Hubungan Ada Cerita",
+   "snip": "26 Tahun Menikah dengan Bambang Trihatmodjo, Mayangsari: Setiap Hubungan Ada Cerita detikcom Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0E2R3VMMGlSdWpud0I3SnRCb1FSS2tiYmVsZ00zZ0JXVXptaXNTUUdWUWNva0dlTXZFVGZid2pmazdRbFJiVDEzLW1zRjhYcG1qVERLX1RBYXFWMUlyZUJFcTFiNnZ2U0VRWGdPMmdOOWh4MnUzNzRDX1FYYkNLY2pFNlFrOWlkNXl2ZmlNZFZwTnRlZVlqZTdRbjFRS184ajVGRzN2UEozQjRRRW9wSThmQWs4bUMtNy1WU0Jha1FxRzdO0gHKAUFVX3lxTE8xYUFuNmc5QklsWjZsWlNqdVNrX21jVmFaanBsUk9tbXBBdmNNYVJ4dnBPQXFhT3lRWjhNN200cmViRUlMV25mcHRjVEVPOVlHaTZuTHo3dTZwV2JUb2x0VnQ2U0wzaFFocW5CRC1rZUpHVFNpWERNNFdNMnhzTkFhbTZ2Y0lSSnFSVHRZS2QtVDRHdHhrbFVteFVjSHNDeWE2bEw0MF9ldl9Hd21ZelRxNnNCWGNrUXRhYjNLVVBIUkk5TVBEZjA1TWc?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-13T15:15:06Z"
   },
   {
    "k": "news",
@@ -234,7 +389,7 @@
    "av": "",
    "followers": 0,
    "cap": "Skandal Selingkuh dengan Mata-mata China Berlanjut ke Parlemen AS",
-   "snip": "Skandal Selingkuh dengan Mata-mata China Berlanjut ke Parlemen AS detikNews Bagaimana Klaim Spionase Muncul dari Perselingkuhan Jensen Huang? CNN Indonesia Sosok Colette Kress, CEO Nvidia Baru Gantikan Jensen Huang CNBC Indonesia Dulu Perfe",
+   "snip": "Skandal Selingkuh dengan Mata-mata China Berlanjut ke Parlemen AS detikNews Menguak MSS, Mesin Intelijen China yang Diduga Terlibat Skandal Nvidia CNBC Indonesia Bagaimana Klaim Spionase Muncul dari Perselingkuhan Jensen Huang? CNN Indonesi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -246,7 +401,7 @@
     "detikNews"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-13T15:05:03Z"
   },
   {
@@ -314,6 +469,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-13T14:00:15Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta",
+   "snip": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta detikcom Rundown Konser 5 Seconds of Summer Hari Ini Kompas.com Prediksi Setlist Konser 5SOS Jakarta 2026, Ada 26 Lagu CNN Indonesia 5SOS konser di Jakarta: Ini jadwal dan daftar p",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzA0U29xS0lRcF9EaG9GS2RQSVktMXBSdTJuWXlhcUNBSnFNT0VDbzBWSGhtOGNUNS1ILUhhd1NkZGphaVhnaEhiSXJfUVIxREJ3T3BMaENIOTFHTDRFYnppOXQ3ajMxWXo3cWtIMlg5Um5TUlFnWlFoUFBwcFliWTczS3Fsd25PUjZKQll3bU9YUFBIQTRtWHJ1LThrV0VpZmJn0gGoAUFVX3lxTE9SOGZObWxqNGh1bW9TYzFRLW9faGVBX1l3VzlFWU1SS2s1M1g4U1ZHcTVVSndJOG5zNnVsWVdaZHZvbXhFM2x6U2Y1dDd1b0hYRUxCQWd2bnE1cWhFbUM5bm1vU2FqVnU2ZVU1TndzR1ZPZGp5STRENFB2US1aaEtxZEpzZGVOcTI5Z0tGUjFiSmdfWVNXSG5NV3piWDJmekFIQnRqQ244NA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-13T13:30:29Z"
   },
   {
    "k": "news",
@@ -801,28 +978,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Mayangsari Bicara 26 Tahun Pernikahan dengan Bambang Trihatmodjo",
-   "snip": "Mayangsari Bicara 26 Tahun Pernikahan dengan Bambang Trihatmodjo detikHOT Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1N1N3dMLTktLW5QZ0c3NTRPRHU5dDA1cGtqRkg4VTNPSW5xQ1Buejh2WTlSLU0taXBNZHM5Zy1VNFB2dHNEcE9FaV9fRmcweHJLdU9JMFp4MThKMVlRRkFvb21jdzlzc1dtZ1BaZ1gtOWU4T24xZmpMQjNJNmFIb1IzSzMxZDRhV1Nma0dPVy1EQjJoVkgtNnNza3NjRC1OazNhcNIBqgFBVV95cUxObUpwVWt1UzFSYzNVaVN3blYzYmtCZWNDN00tSFdnY1JGcW5NNENsUkRoV2VuTks1bHV4UDVnSndSU1NwYkNJU0NXSFZKMlRpX2g5Ynk4a0ZuMV9mbTRzRkpHanBRU0VYZU1rRnFpbnhXREhYaGV2cXJVWXlJU3Z3c0ZpSVViZmt3aGNHRGVpMV9yUmRuRmpSaVFRWVNDRVFGVzlmY3hENG1adw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-13T08:07:44Z"
-  },
-  {
-   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
@@ -1026,7 +1181,7 @@
    "av": "",
    "followers": 0,
    "cap": "Sambut Konser BTS, Bakal Ada 'Purple Jakarta' di Bundaran HI hingga Monas",
-   "snip": "Sambut Konser BTS, Bakal Ada 'Purple Jakarta' di Bundaran HI hingga Monas detikNews BTS dan Guns N’ Roses Melambungkan Hasrat Jakarta Sebagai Magnet Konser Global Kompas.id Konser BTS 3 Hari di Jakarta, Dampak Ekonomi Diprediksi Lebih dari ",
+   "snip": "Sambut Konser BTS, Bakal Ada 'Purple Jakarta' di Bundaran HI hingga Monas detikNews BTS dan Guns N’ Roses Melambungkan Hasrat Jakarta Sebagai Magnet Konser Global Kompas.id Konser BTS 3 Hari di Jakarta, Pemprov DKI Siapkan Transportasi hing",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1114,7 +1269,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kronologi Dugaan Pelecehan DJ Panda ke Angel Ozawa",
-   "snip": "Kronologi Dugaan Pelecehan DJ Panda ke Angel Ozawa detikHOT DJ Panda Siap Hadiri Panggilan Bareskrim Terkait Dugaan Pelecehan Seksual yang Dilaporkan Ozawa VIVA.co.id Model AO Ngefans dan Akrab Dichat sama DJ Panda, Kuasa Hukum Sebut Bukan ",
+   "snip": "Kronologi Dugaan Pelecehan DJ Panda ke Angel Ozawa detikHOT DJ Panda Blokir Akun AO Setelah Dilaporkan ke Bareskrim, Ungkap Isi Chat sejak 2024 tvOneNews DJ Panda Dilaporkan Model atas Dugaan Pelecehan Seksual, Ini Responsnya Informasi.com ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1172,6 +1327,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-13T04:00:10Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Mau Tahu Gak Nama Ririn Dwi Ariyanti di HP Jonathan Frizzy?",
+   "snip": "Mau Tahu Gak Nama Ririn Dwi Ariyanti di HP Jonathan Frizzy? detikHOT Dikabarkan Segera Nikah, Jonathan Frizzy dan Ririn Dwi Ariyanti Bangun Bisnis Bareng JPNN.com Jonathan Frizzy Bantah Segera Menikah dengan Ririn Dwi Ariyanti, Fokus Bangun",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTFpQW9VWmE4MGs5aVlFWFhqQWViYXhkV3dXYndJTTA5enlLandrdXJnX1I0SFNTV2JlLWtXUWpVblU4MGxsaXJ3ZnpsRGYtN2JYMnc5dVU1YlR2SHYzOWIxeXdvYUNiVGowOWZ1Z3gycWRNekx4X19CR1NzWlVpcGkxa2hhT1JVQ0xQZGJ6cWtORS1kVzJLbVVJMDTSAaIBQVVfeXFMUG1lMjJ1d0E2SnoyZ3pwaUJOUVprWFBqbFo4VjAwRG1NblIwSGxQYUNZLWhQOUhDQzVwQ0wtNmo5Y0hnVFJfbUFTMExvSW14djNJS1h1cUZMZ0VBMHRTV2hiYmx5SlpET1k5cjF2Y1dTVUctMFNYeElCUDQxeElrdWVfdG5jU3FKQXYzcnZoX0FVbHFveEpxMHJrLVpwaGN2d053?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-13T03:03:53Z"
   },
   {
    "k": "news",
@@ -1241,28 +1418,6 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Pernah Dekat dengan Desta, Ini Profil Anindya Salsa",
-   "snip": "Pernah Dekat dengan Desta, Ini Profil Anindya Salsa detikcom Bukan 'Simpanan', Anindya Salsa Akui Pernah Pacaran dengan Desta Mahendra Cumicumi Siapa Anindya Salsa yang Mendadak Curi Perhatian? IDN Times Natasha Rizky Diingatkan Soal Nafkah",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEljSFo1bU9aSGNSdk1kSmJrNHJ5T3VDVVlSVTByQmotTzNXamZ3U0tUWXJFUXdIRlZWdmZicmFiNW4wTnp2VVdqcmJ3blF4UmJkYXg3aGtXbFFZRlFqYURHcGkyQkhqSlBKWUlJZXgxQjh3TGxraTJjSGV5UWJDTU9CWDR4VEl1QkpTOFl6YmJQWWFFbUx0NkdB0gGfAUFVX3lxTE5RUFh4WG9UbzFvYzdOclRhd2EyY0h0dURJR0R5Y3N2OFcxd004UU5mamJSdmZpczVGWTV5QUx6M0UzN2lEUEtMMVlkR0xOU1lldHhodG5ONFZJT2pwUFpRb1ROOUpZMmo5NGVDd2RoWndWQ3N1N29xZmtqQmduSjl1bDFWalZwRzZVQ3BuX29rclRST3Foekd5VFR3WHZBRQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-13T01:15:23Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -1280,7 +1435,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T01:08:19Z"
   },
   {
@@ -1290,7 +1445,7 @@
    "av": "",
    "followers": 0,
    "cap": "James Gunn Cabut dari DC, Henry Cavill Mau Jadi Superman Lagi",
-   "snip": "James Gunn Cabut dari DC, Henry Cavill Mau Jadi Superman Lagi detikcom Apa yang dikatakan Henry Cavill tentang kemungkinan kembali sebagai Superman? Vietnam.vn Henry Cavill Bilang Masih Mau Perankan Superman, Ada Peluang? IDN Times Perganti",
+   "snip": "James Gunn Cabut dari DC, Henry Cavill Mau Jadi Superman Lagi detikcom Apa yang dikatakan Henry Cavill tentang kemungkinan kembali sebagai Superman? Vietnam.vn Mungkinkah Henry Cavill Kembali sebagai Superman? 'Jangan Pernah Mengatakan Tida",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1302,30 +1457,8 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T01:01:15Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Transformasi Pria yang Oplas Setelah Diselingkuhi, Bikin Mantan Menyesal",
-   "snip": "Transformasi Pria yang Oplas Setelah Diselingkuhi, Bikin Mantan Menyesal Wolipop Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnZpXzNFLV9LRzJVQTVSMFMzeno2bTNrbS1qSUFhOVRhejJ1MGJJVWFfbVpsMml1VXZYbU9YeGdQUUsyX3lDanB4VTFxdnNmbTZrNmlnVDJtYWJLY1dUZnlqM3NRU2hVVXZSTGN3OUI0QjBNVWpRUVk0U0sxSzE1ZFBhTTd5d1RySUhPbHpFUVJTOVIyVktYbFZZem1pU0lkWkVwMHUtbTBNMUJYX3pXTHRPZ3V1OF82WERPdnAwendiYS1q0gHKAUFVX3lxTE8yMFdPYWNveWpSZXZYeS1GU09CSDEyWWU5RGE2S29XTk14OHU2YThKUVJSd2g5Vnh4UWZtaTZqWjFtb2s5all5OGtobzd0d2p5WEFlOExHLUJZalVZWWI4Q1hGNTZxRVlTY3pKZmJQR0JUQUd0djluV0NwamtDYVB2TVB0YmNaLWExcmhCVGdZekNuNlhqZ1BSeTdZalJKS2lQbTFEQ0RLRWVZcExST3pVQk55R3J6NVZRWmV5S0FhZ1poUHNoLUZXMmc?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-13T01:00:29Z"
   },
   {
    "k": "news",
@@ -1346,7 +1479,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T00:00:07Z"
   },
   {
@@ -1368,30 +1501,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-12T23:20:06Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Ini Alasan Pemerintah Amerika Serikat Mau Tom Cruise 'Pulang'",
-   "snip": "Ini Alasan Pemerintah Amerika Serikat Mau Tom Cruise 'Pulang' detikcom Pemerintah Amerika Serikat: Kita Harus Bawa Tom Cruise 'Pulang' detikcom Hollywood Desak Insentif Pajak AS demi Bawa Pulang Tom Cruise CNN Indonesia Industri Film AS Des",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUNWOWdrQ2s2NUd6NVRWVm93WXBvaHJNMU9HUlkxYVJfWHVkS1NJRmltQ09BV3JmY3gySjVWUmxFdkpXUDBfRHhEUVZza2ZLY1E0anBnZkFNRENBMlNaQzlfb3VPdE9XdjdHTHNaVjNERGduQ2RXR2hLdmVmYnVIeWRmZURxYUlVWDNaeFBEajBlWENNMEhHbjNTMzRDYUNxSXZz0gGoAUFVX3lxTE9QS3JiajB3VnNZcEJxRjVYX1lkWVNUdlNNcUpDclJsY29vWHpEZTFUdFV2ZksxMG8tVmtwV2IwLXJJWTBmNkg4TDZwaERuMC0teDlvRU01cGVnMGtkX1JCaGozeTVra1pYdFF1cU9Mc05DMllpdXJnbk1OTXVFRDVKLWlJX0JjckhfOV9TcXBPSTUtQ3BYNk9BMnZ6Vmw3UnlRb2tGbkdLSg?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-12T22:30:21Z"
   },
   {
    "k": "news",
@@ -1412,7 +1523,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-12T22:15:30Z"
   },
   {
@@ -1466,7 +1577,7 @@
    "av": "",
    "followers": 0,
    "cap": "Potret Pemain Sita dalam Film India Ramayana, Penampilannya Jadi Kontroversi",
-   "snip": "Potret Pemain Sita dalam Film India Ramayana, Penampilannya Jadi Kontroversi Wolipop Sinopsis dan Daftar Pemain Ramayana: Part One, Epos India Ranbir Kapoor dan Yash Kompas.com 5 Fakta Menarik Film Ramayana, Biaya Produksi hingga Beda Versi",
+   "snip": "Potret Pemain Sita dalam Film India Ramayana, Penampilannya Jadi Kontroversi Wolipop Sinopsis dan Daftar Pemain Ramayana: Part One, Epos India Ranbir Kapoor dan Yash Kompas.com 10 Film India Termahal Sepanjang Masa: Siapa Lawan Ramayana? CN",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1480,50 +1591,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-12T15:00:29Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Jadwal Tayang dan Sinopsis Lagi Probation: Kerja Ngejar Apa Sih?",
-   "snip": "Sinopsis Lagi Probation tentang dunia kerja anak muda, mulai dari tekanan pekerjaan dan lingkungan kerja tidak sehat hingga tantangan finansial.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/12/film-indonesia-lagi-probation-2026-1794441976502_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261112070239-220-1426133/sinopsis-lagi-probation-kerja-ngejar-apa-sih-kisah-magang-gen-z",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-12T14:00:40Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Sinopsis Pasukan 1000 Janda, Perjuangan Inong Balee",
-   "snip": "Pasukan 1000 Janda merupakan film yang mengangkat kisah Laksamana Malahayati, sosok perempuan yang memimpin pasukan Inong Balee.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/12/pasukan-1000-janda-1794488148069_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261112194447-220-1426575/sinopsis-pasukan-1000-janda-perjuangan-inong-balee",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-12T13:15:31Z"
   },
   {
    "k": "news",
@@ -1568,28 +1635,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-11T15:03:39Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Kevin Andrean Abadikan Tanda Cinta dengan Sylvia Fully Berbentuk Tato",
-   "snip": "Kevin Andrean Abadikan Tanda Cinta dengan Sylvia Fully Berbentuk Tato detikHOT",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExnMHk5aUlrNTYtc0dSY0lNRDNrV2xKUVZUbzJ5eV9waE90Q3hTVS1QS0N0UmJOQXRNOGF6Mkd1eVNOaXlKNXFoUDRyUkplMGw1d2lzVEJRS3RaWXM0ajdVeGxkOWhjOFdmS2RGUnlDZEl6WmJfRnhRR2NDNndXTTFwbEl6d2Nkb1YzcDhTdDl3dnltNlZfOTg2TGZ2bHhfQWczQmNVakRhTVnSAbABQVVfeXFMTWdWXzE3UF9RSkx6M21BOXJhQW03RHFPV3BRQTd1RDVXZm85eUFTcmtkUk5aeG1WUkk1RHFvYXJEdHFCRU1uVlJYTVRQcWxScy13VjE4eHBLNmFTRmY0Yk9kRDFZVnZJNlMxSkNGX1VRbWthMi1oLVJmM3VGVlhYNDJOOHd6cVFJQkxLUGdWYV93TUNOamg4TjhpOGNaSUdlOFB2VEJDemNNSG5GbzZYYjQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-11T14:02:43Z"
   },
   {
    "k": "news",
@@ -1642,7 +1687,7 @@
    "av": "",
    "followers": 0,
    "cap": "Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara",
-   "snip": "Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara Kompas.com Di Tengah Pembatasan Ruang Sipil, Dongker Tetap Bersuara Melalui Musik LBH Jakarta Buat Apa Melarang Band Dongker Tampil di Tiga Festival Tempo.co Fadli Zon Respons Dugaan",
+   "snip": "Dongker: Mohon Maaf jika Kami Tidak Santun di Mata Negara Kompas.com Di Tengah Pembatasan Ruang Sipil, Dongker Tetap Bersuara Melalui Musik LBH Jakarta Fadli Zon Respons Dugaan Intervensi Penampilan Dongker CNN Indonesia Sukatani Manggung d",
    "img": "",
    "vid": false,
    "vt": "NEWS",
