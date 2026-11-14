@@ -1,6 +1,22 @@
 {
  "topics": [
   {
+   "t": "Tim bangun replika kapal perang untuk set laga film Pasukan 1000 Janda",
+   "q": "Tim bangun replika kapal perang untuk set laga film Pasukan 1000 Janda",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Antara",
+    "CNN Indonesia"
+   ],
+   "d": "2026-11-14",
+   "url": "https://www.antaranews.com/berita/5854783/tim-bangun-replika-kapal-perang-untuk-set-laga-film-pasukan-1000-janda",
+   "n": ""
+  },
+  {
    "t": "Sambut Kelahiran Putri Pertama, Avril Lavigne Kini Jadi Ibu",
    "q": "Sambut Kelahiran Putri Pertama, Avril Lavigne Kini Jadi Ibu",
    "cat": "Selebriti",
@@ -63,25 +79,32 @@
    "d": "2026-11-14",
    "url": "https://www.cnnindonesia.com/hiburan/20261114145737-234-1427188/kronologi-ko-kyung-pyo-mabuk-tabrak-truk-hingga-adegan-tv-dihapus",
    "n": ""
-  },
-  {
-   "t": "Ini Isi Pidato IShowSpeed Full Bahasa Indonesia Saat Menang \"Streamer of the Year\"",
-   "q": "Ini Isi Pidato IShowSpeed Full Bahasa Indonesia Saat Menang \"Streamer of the Yea",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Kompas.com",
-    "CNN Indonesia"
-   ],
-   "d": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYi1yTkcxMTVvaHgyWFhZUmdBWmk3TURudURmdzViMTdkU1BYNGs0N3UtVUJud2FTVllXTTN0NU5QcHVUaFExVWpxNFAwd0dDSmxoT2tQWGt1UXZFQ3hPdmF1ZmNlVHpQZEJtZm1OVG40TDAzZVpLaFE2OE9EQmlsZmxGQ0R5RV84Sk0tS2FxOG1jdDhRUUc1MU94bnhleUtHbUZQdFRVZlUxUkxDeEJXU19wS092LUR6NWxXUllmZ2pzOTNWcUE?oc=5",
-   "n": ""
   }
  ],
  "posts": [
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Tim bangun replika kapal perang untuk set laga film Pasukan 1000 Janda",
+   "snip": "Tim penata artistik film yang disutradarai Archie Hekagery, \"Pasukan 1000 Janda\", yang sedang tayang di ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_20261114_200857.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5854783/tim-bangun-replika-kapal-perang-untuk-set-laga-film-pasukan-1000-janda",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "Antara",
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 68,
+   "ts": "2026-11-14T15:46:47Z"
+  },
   {
    "k": "news",
    "u": "CNN Indonesia",
@@ -102,7 +125,7 @@
     "Kompas.com"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-14T11:40:12Z"
   },
   {
@@ -125,7 +148,7 @@
     "karawang bekasi disway"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-14T11:20:18Z"
   },
   {
@@ -148,7 +171,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-14T10:24:33Z"
   },
   {
@@ -176,6 +199,94 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Drummer Roger Taylor Mundur dari Duran Duran",
+   "snip": "Drummer Roger Taylor mengumumkan keluar dari band legendaris Duran Duran setelah bergabung dengan grup tersebut sejak 1979.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/14/roger-taylor-of-duran-duran-1794630625800_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261114113100-227-1427125/drummer-roger-taylor-mundur-dari-duran-duran",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T19:01:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "Gitaris U2 The Edge pernah membuat treatment untuk sekuel film Elf",
+   "snip": "Gitaris grup musik U2, The Edge, mengungkapkan bahwa dirinya pernah membuat rancangan cerita (treatment) untuk sekuel ...",
+   "img": "https://img.antaranews.com/cache/800x533/2023/12/05/bUntitled-1.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5854855/gitaris-u2-the-edge-pernah-membuattreatment-untuk-sekuel-film-elf",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T17:41:23Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Amerika Mulai Bikin Ajang Penghargaan untuk AI Music",
+   "snip": "Amerika mulai menggelar ajang penghargaan untuk musik-musik buatan AI.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/14/ilustrasi-ai-1794651561876_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261114171210-227-1427230/musik-ai-mulai-dirayakan-dan-diberi-penghargaan-di-as",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T17:00:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Nikita Willy dan Indra Priawan Kompak Ikut HYROX Seoul, Tuai Pujian",
+   "snip": "Nikita Willy membagikan momen bersama Indra Priawan di HYROX Seoul. Keduanya tampil kompak dan menuai pujian warganet.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/FAP8EhQXMhYVspF29TvsFQRHfT8=/0x754:2688x2269/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397883/original/063231600_1794673601-SaveClip.App_902585929_18657920047019735_6483714663480609412_n.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335487/nikita-willy-dan-indra-priawan-kompak-ikut-hyrox-seoul-tuai-pujian",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T16:35:31Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -195,6 +306,28 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-11-14T15:26:35Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia",
+   "snip": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia detikFood Ini Isi Pidato IShowSpeed Full Bahasa Indonesia Saat Menang \"Streamer of the Year\" Kompas.com IShowSpeed Sampaikan Pidato Kemenangan dalam Bahasa Indo",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzdIRGV4SlpWSi1yQXRwZm1kQUxJRG9Za2R0cEFPdTNna0J6MU1qcGJmVnJiakZNd3BzTFBOR2laNXlaZ1RWOU14cHlwUGZLajYxOUk3Q3dlQlphZDRQZUtTN0luaHh1OEplRm50a3R0MzVNZ2VHMk81RFhGTlpsR3hWek84eDlOTGVIR1NKZUFsWHJ5eHk5VHR0bmpiUnFxckJwTmhPYVdRUUtxRHQzaUVyTXNWVjY2R1lGMzRPTkd0OUHSAcgBQVVfeXFMTWZqZmtIMnVkVTdxNHNhSEFUTFJZZmxTb21mQWVFaWkxa29ZV1FGNWRsVU9FbEFsRUpTcEFtYm5NaDZIVTJqOVpwbDFXM2x2Y3lwQVhnN0hVeTdxNkJuVE9JYU1CRkdHdWtqRFdZcldhY0lfbFpVZEtlZ1ZLQTlNQUlrQXFvQVdkelNIUVJLbGlMZEFkYUxRNkk2RjllbVhYUWI3NTRFMWFuX2d2UENDbkdCNER5bWh4WXRmMlRxWU1fT0hjcU03bFA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T15:00:32Z"
   },
   {
    "k": "news",
@@ -242,25 +375,25 @@
   },
   {
    "k": "news",
-   "u": "detikTravel",
-   "name": "detikTravel",
+   "u": "Wolipop",
+   "name": "Wolipop",
    "av": "",
    "followers": 0,
-   "cap": "Duh! Aksi Tipu-tipu ke Wisman di Tokyo Makin Banyak",
-   "snip": "Duh! Aksi Tipu-tipu ke Wisman di Tokyo Makin Banyak detikTravel Polisi Tokyo Selidiki Penipuan Wisatawan di Kawasan Shinjuku Lensa Hukum Wisatawan Asing Jadi Korban Pemerasan di Shinjuku Tokyo, Kerugian Tembus Rp 44,46 Miliar Jawa Pos Polis",
+   "cap": "Gaya Putri Catherine Zeta-Jones Pinjam Baju Gucci Ibunya dari 30 Tahun Lalu",
+   "snip": "Gaya Putri Catherine Zeta-Jones Pinjam Baju Gucci Ibunya dari 30 Tahun Lalu Wolipop Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEYtS2VqLVg2SmNYdXJMSVMzSzFUbk9jVXRYX1NpLXlHaDFTNVhQZEJzS2RaU19iYUVjc0NQU0hOV3lsTDZzdHBqTVRfRTZERWZtbzhVRU9XVjRibWM3b3paM2M0NWJERm94NGRSWURBeTNjMF9HZU5QYmU2eGpadE95d0F3TjlrWWFkSjFDcWhET2ZFZFVmdjY5dHkwUdIBowFBVV95cUxNXzRUOVRJVm5XcnJjbHplVEdQRXBGUnBaVFpiOUZHNnpNemxCdjVZWFdEbWxBY0tSZGtHckJsVnhDLUV2dy12N2J2UEpRNHh5OXMyemdZZ1NkbW1kTGpvSmV4WXA4dEluTEtRNlBJb05ZX2NEYU9hRkR0UGFOUnFuRU1CcFd2emJBWFc0TGZpYlZkOGJVaFdCVmtHclNzMmNjTVc4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU41UHowM2dUdDJhTXd5MFRZbWFoT1IxbFdVVU53c1o4bXpsWDZKUzJtSTJMRVN1WU9mVzg1T19IaDhJQVVJVkhvbnJmMHhRdGVsSERlcGhPeEJNanRtMlozbUljYzNMNWh1ZElzYUd1QWY0bk9LSXNuVXdIMGhTcTdxQjJ0UXE4bzd0WTUtTnh4UXRlU2VsNW1FNmNESEM2blZLWFN5cWc2YjRKSXlucXgwTEdLZWVLbmRmQWtqbEQxVzBKUnF0Rm1R0gHPAUFVX3lxTE9VZkhJSUhpOVdFOGQ4Nm56Y3dOSjRkSGQxS1FUZGtLZG45aUp3bnNoTlI1NnZ0NElGV2plWWxPejhTQ2NyZUF3RFRHNXBUSkszZ3RYMy1zd3NHMmxJV0hLMHBGbnZzd0R4UEVYRVQzSV91b2x5QzR6T2QtckRFV2k3S1AwVDNiaGFxa09FNEVHanRuRjBsM2h5REtlaVFnaEpXa2xUX3dIMUZyQ3FWN0sxbmhGcWlvQVNGMF9kcElNSWE5MXZCbTFRYkNDN2NWRQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "detikTravel"
+    "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
-   "ts": "2026-11-14T14:11:05Z"
+   "sc": 40,
+   "ts": "2026-11-14T14:00:00Z"
   },
   {
    "k": "news",
@@ -281,7 +414,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T14:00:00Z"
   },
   {
@@ -303,7 +436,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T13:22:13Z"
   },
   {
@@ -325,7 +458,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T13:07:55Z"
   },
   {
@@ -347,7 +480,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T13:05:07Z"
   },
   {
@@ -369,7 +502,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T12:55:35Z"
   },
   {
@@ -391,8 +524,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T12:46:10Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Wanda Hamidah Tak Arahkan Shalima ke Dunia Hiburan: Jadi Biasa Aja",
+   "snip": "Wanda Hamidah Tak Arahkan Shalima ke Dunia Hiburan: Jadi Biasa Aja detikHOT Wanda Hamidah Tanggapi Ketertarikan Putrinya pada Politik Koridor.co.id Putrinya Ikut Demo, Wanda Hamidah Sebut Anak Belajar dari Apa yang Dilihat rentak.id Wanda H",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd256Wi0yZkJkQmZrbXE2bGUtNDBHcTJOZC11MDVkQ2VlVkdFMDlHZUk5MXZkVGJiVXVxeVR3UXlMNE1vdGNDazYydTBsdnMtR01LMmpBODVrSFBTN3pHLXNMX2FrVTNPa0NNR0NMUjk3NWdQZHU1bXJsOXkzNWpldG9TVzkwOElhYV9QcExVOExocVpSdzRBR3B1M3Fac3pzVmVHaEJ30gGrAUFVX3lxTE5ZVW5sS29aV3pidjItanNRNkN6b3dsZGU4SEk1NnFXckFSNlJkeFdsMklzZ013X2xmMjNqM2xFdk4zd3c5dkhLdE56NnZjQ2ZZT2ZUQTF1UVVIMUlRd1FOdEtmX2ZzMHc0Vndmazc0LXVzdjlqRjBZbWptNEp2UFRkZEc0U2VTNGFCdThKTmItYkUzRTdZZ2xHSU1XYjc2V2dsdUg5LWlkbXRnbw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-14T12:09:46Z"
   },
   {
    "k": "news",
@@ -413,7 +568,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T12:05:14Z"
   },
   {
@@ -435,7 +590,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T11:51:05Z"
   },
   {
@@ -457,30 +612,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T11:23:21Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Vincent Verhaag Ungkap Alasan Jessica Iskandar Operasi Hidung Lagi",
-   "snip": "Vincent Verhaag Ungkap Alasan Jessica Iskandar Operasi Hidung Lagi detikHOT Jessica Iskandar Ungkap Hasil Operasi Hidung: Ujungnya Maju 2 Mili detikHOT Jessica Iskandar Pamer Wajah Diperban di Korea Selatan Netizen Beri Beragam Reaksi - inf",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkxhN1BUUXlpYkVEZzFJWFhiVGZMajF6RjBVeVppN3kyVlBCTzRCVmUyVloxUS1KdEdvNDYyY0tjVUF1ZnZCNGtYSlB1ZDNkNW9LSFY4UGN6Y19CWkJsVG12eEhfUzJTLUdwU2x2Qm5jYWI3RmVxSTMzOENiX1Bxd09MUm02dFR4Q2x2Mm9QX1NqcWY2RGRnYkZ0QmVFaEpPLWhfTlItWdIBrAFBVV95cUxQME9xejZTYy02bXFHbnJnSDh2V3YydXNBdzZIUzNyN1NlcmNtZjVWal84eE9SaU5IRE04WTVKWEpza2pKLXFRakd4WURFR2h2bUxCcDVxOFg5ZmhGazl4OHplUVlfY1pLa25IUkV4NkdRNW9tbTVsUmZIWG5MalF4Y09IdlFEak83czRaeF9rOFU1ZTVsLXhhdXAxRlU0NTdCalVjb2t6YWtfWFI0?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-14T11:08:03Z"
   },
   {
    "k": "news",
@@ -501,7 +634,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T11:05:45Z"
   },
   {
@@ -523,7 +656,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T10:32:43Z"
   },
   {
@@ -545,7 +678,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T10:30:44Z"
   },
   {
@@ -567,7 +700,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T10:30:17Z"
   },
   {
@@ -589,7 +722,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T10:00:07Z"
   },
   {
@@ -611,31 +744,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T09:32:40Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Momen IShowSpeed Pidato Bahasa Indonesia di Streamer Awards 2026",
-   "snip": "Streamer sekaligus kreator konten IShowSpeed kembali memamerkan dirinya dalam berbahasa Indonesia.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/13/thumbnail-video-1794564112559_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261113165919-238-1426951/momen-ishowspeed-pidato-bahasa-indonesia-di-streamer-awards-2026",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "Kompas.com",
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 48,
-   "ts": "2026-11-13T10:30:07Z"
   },
   {
    "k": "news",
@@ -658,6 +768,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-14T09:20:16Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Anak Perempuan Mulai Kenal Cinta, Judika Kurangi Jadwal Manggung",
+   "snip": "Anak Perempuan Mulai Kenal Cinta, Judika Kurangi Jadwal Manggung detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1h5aUU2V2FTbkZpWWY1cWYyaVhoWXZfSnRPM3dodldJelNMWk9FRkhjMXM1OWwtby1nLUt6SktCVVpybjI3TGk3Y185azNtOUJyZ0Z0N3pjQ2MwVzhZNnNOZXZfdUtBemc3NVpaWWxSdHFCanhKSDdHaUJJX2tqQl9JNVhqa2JobzBMc1pxZG4wVFJrY0dNRmlaQl9IbDNwQUo40gGoAUFVX3lxTE5OUUJKVTBsNG85VERtVEp1d21NclpKZUJta0VuME9yeGJIbUFWaG80Z1RnUHhDNVdVMUFVQ1B5VUVrU2loMkNHWGRpU0JkOGhJd05wcmdvNHByZzFqdFpfSTFRX0FkUmhNamFzRGVoMHkwMUNpZEl2REEzZ3RoYWdhNnZuZ1dnb1YwYl9rTHB1aFpLeEJoLV9sQ3BtRFNVYTlFZEEtUjNPbA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-14T09:06:02Z"
   },
   {
    "k": "news",
@@ -754,7 +886,7 @@
    "av": "",
    "followers": 0,
    "cap": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran",
-   "snip": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran https://janalokajournal.id/ Gibran Turun Istana Naik Innova Zenix Ditangisi Netizen, Feni Rose: Cek Kalung Berlian Istrinya! Suara.com Klarifikasi Feni Rose Usai Senggol P",
+   "snip": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran https://janalokajournal.id/ Klarifikasi Feni Rose Usai Senggol Penampilan Mewah Istri Gibran Rakabuming Raka: Mohon Maaf Ya Grid.ID Gibran Turun Istana Naik Innova Zenix D",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -952,7 +1084,7 @@
    "av": "",
    "followers": 0,
    "cap": "Intelijen AS Masih Bingung, Benarkah Selingkuhan CEO Nvidia Agen China?",
-   "snip": "Intelijen AS Masih Bingung, Benarkah Selingkuhan CEO Nvidia Agen China? detikInet Skandal seks di Nvidia menambah tekanan terhadap Gedung Putih BBC Skandal Selingkuh dengan Mata-mata China Berlanjut ke Parlemen AS detikNews Benarkah Ada Ope",
+   "snip": "Intelijen AS Masih Bingung, Benarkah Selingkuhan CEO Nvidia Agen China? detikInet Skandal seks di Nvidia menambah tekanan terhadap Gedung Putih BBC Benarkah Ada Operasi Intelijen China di Balik Skandal Asmara Bos Nvidia Jensen Huang? Kompas",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -966,28 +1098,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-14T05:20:15Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Ayu Ting Ting dan Kevin Gusnadi Asyik Double Date Bareng Sahabat",
-   "snip": "Ayu Ting Ting dan sang kekasih, Kevin Gusnadi, double date bersama Ussy Sulistiawaty, Andika Pratama, serta Wendi Cagur dan istri. Simak momen kebersamaannya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/ogwsTls99Vpv6XWk-zYvnfVac4E=/77x148:1170x764/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9356073/original/012326300_1790152211-____Wardrobe_by_-__renzilazuardi_Accessories_by_-__franknco_idStyled_by_-__dinaryulwtTeam_up_with_.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8335156/ayu-ting-ting-dan-kevin-gusnadi-asyik-double-date-bareng-sahabat",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T04:56:57Z"
   },
   {
    "k": "news",
@@ -1206,7 +1316,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T16:00:07Z"
   },
   {
@@ -1282,7 +1392,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta",
-   "snip": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta detikcom Prediksi Setlist Konser 5 Seconds of Summer di Jakarta Kompas.com 8 Event Weekend di Jakarta 14-15 November, dari Anime sampai Anabul CNN Indonesia Siap Nonton Konser 5SOS",
+   "snip": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta detikcom Prediksi Setlist Konser 5 Seconds of Summer di Jakarta Kompas.com 8 Event Weekend di Jakarta 14-15 November, dari Anime sampai Anabul CNN Indonesia 5 Event Jakarta Akhir P",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1413,12 +1523,12 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Rekomendasi dan Sinopsis Film Baru Tayang Akhir Pekan Ini",
-   "snip": "Berikut sinopsis 5 rekomendasi film akhir pekan ini di bioskop dan Netflix, seperti Ramayana hingga Serangan Balik.",
-   "img": "https://akcdn.detik.net.id/visual/2026/08/21/film-ramayana-2026-1787313779758_169.png?w=360&q=90",
+   "cap": "Momen IShowSpeed Pidato Bahasa Indonesia di Streamer Awards 2026",
+   "snip": "Streamer sekaligus kreator konten IShowSpeed kembali memamerkan dirinya dalam berbahasa Indonesia.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/13/thumbnail-video-1794564112559_169.jpeg?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261113083447-220-1426674/5-rekomendasi-film-akhir-pekan-ramayana-dan-pasukan-1000-janda",
+   "url": "https://www.cnnindonesia.com/hiburan/20261113165919-238-1426951/momen-ishowspeed-pidato-bahasa-indonesia-di-streamer-awards-2026",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1427,7 +1537,7 @@
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-11-13T10:00:29Z"
+   "ts": "2026-11-13T10:30:07Z"
   },
   {
    "k": "news",
@@ -1436,7 +1546,7 @@
    "av": "",
    "followers": 0,
    "cap": "Jumat 13 November 2026 Jadi Hari Baik bagi 4 Shio Ini, Siapa Saja?",
-   "snip": "Jumat 13 November 2026 Jadi Hari Baik bagi 4 Shio Ini, Siapa Saja? Kompas.com Ramalan Shio Besok 15 November 2026: 9 Shio Cuan Tambahan MerahPutih Jumat Bawa Hoki! Ramalan Shio Hari Ini 13 November 2026, Ada yang Dapat Kabar Mengejutkan - s",
+   "snip": "Jumat 13 November 2026 Jadi Hari Baik bagi 4 Shio Ini, Siapa Saja? Kompas.com 4 Shio yang Diprediksi Beruntung pada 14 November 2026, Ada Naga dan Ular Kompas.com Jumat Bawa Hoki! Ramalan Shio Hari Ini 13 November 2026, Ada yang Dapat Kabar",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1450,50 +1560,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-13T09:05:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Comeback, Johnny Depp Rela Dibayar 'Lebih Kecil' di Ebenezer",
-   "snip": "Johnny Depp disebut rela dibayar jauh lebih kecil dari biasanya dalam comeback aktor tersebut di film Ebenezer.",
-   "img": "https://akcdn.detik.net.id/visual/2023/05/17/johnny-depp-disambut-meriah-dipembukaan-festival-film-cannes_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261111203120-220-1426076/comeback-johnny-depp-rela-dibayar-lebih-kecil-di-ebenezer",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-13T08:00:42Z"
-  },
-  {
-   "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Pengantin Wanita Viral Karena Gaya Jalannya saat Menuju Altar, Bak Peragawati",
-   "snip": "Pengantin Wanita Viral Karena Gaya Jalannya saat Menuju Altar, Bak Peragawati Wolipop Adro Law Berjalan Bak Peragawati Menuju Altar di Kolombia bsinews.id Viral di TikTok! Pengantin Wanita Ini Berjalan Menuju Altar Bak Peragawati dengan Lag",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZWU1Z3N5NEdZaHB0bXo0WGhkSXVCQlFLYWxGUExOVzE3cFdGVHlIR295Qm45X0xpdnlrUDgwTjUzT1M3b2ItS3dCQ3F4akZXSzE2SUpfeDk0a2pUbFZFdjB3V2dFdlRuRlZVTHpVdkFUSkNBUlZFV1FDVkpxbHdDWWRLTTFJQ2I4bGgxcFdyYS1Iei1ZU1pVMTJQN1V0WTFLZHpicG1UdnZ5YnZvaC1CVjcyM3UzN191bGpiaG9qcVc0TXfSAcgBQVVfeXFMTWNpMUlZN0tqbUdYeF94MlNnNzZTUXpVN3FpSzNZbTZKTTRHeWt2cnM3VlhQbWEwOVRVMFNsQTREbUJXalE1bkc2ZEV0OXNrd1VWV3FQaU1IUDhSWUxIUEN0SmZaNEJQS3dOQndXd3hyenprV1VIU1lIbVRmX1ZrTFNmblFGY290RWUtaEpub3d1blduVlhIMHFveUVrTnlLVHFFbklIaEloX3ZnajF3bjZ1VWE0b2JleHNtRkRZVHRnWFdpenlUQWU?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-13T06:30:53Z"
   },
   {
    "k": "news",
