@@ -1,29 +1,8 @@
 {
  "topics": [
   {
-   "t": "France U20",
-   "q": "france u20",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "MadeInSaint-Etienne",
-    "Mediasportif",
-    "Les Titis du PSG"
-   ],
-   "d": "2026-11-15",
-   "url": "https://madeinsaint-etienne.ouest-france.fr/infos/article-asse-quelle-performance-pour-nadir-el-jamali-avec-l-equipe-de-france-u20-face-au-danemark-u20-545640.html",
-   "n": "ASSE - Quelle performance pour Nadir El Jamali avec l'équipe de France U20 face au Danemark U20 ?",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Arul Efansyah",
-   "q": "arul efansyah",
+   "t": "Jobe Bellingham",
+   "q": "jobe bellingham",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -32,19 +11,19 @@
    ],
    "src": [
     "Google Trends",
-    "TABIRkota",
-    "realita.co",
-    "Barito Post"
+    "SPORTbible",
+    "BBC",
+    "The Guardian"
    ],
-   "d": "2026-11-15",
-   "url": "https://tabirkota.com/2026/11/hendak-cek-sound-di-wisata-pagat-hst-arul-metal-dirujuk-ke-rshd-barabai/",
-   "n": "Hendak Cek Sound di Wisata Pagat HST, Arul Metal dirujuk ke RSHD Barabai",
+   "d": "2026-11-16",
+   "url": "https://www.sportbible.com/football/football-news/jobe-bellingham-england-ballon-dor-winners-717606-20261115",
+   "n": "England star Jobe Bellingham names every Ballon d'Or winner since 2000 in incredible video",
    "vol": 100,
    "vu": "pencarian"
   },
   {
-   "t": "Armenia Vs",
-   "q": "armenia vs",
+   "t": "Panama Vs",
+   "q": "panama vs",
    "cat": "Film & Series",
    "reg": "ID",
    "ch": [
@@ -53,14 +32,14 @@
    ],
    "src": [
     "Google Trends",
-    "Goal.com",
-    "Sports Mole",
-    "Sportaran"
+    "Concacaf | Official Website",
+    "news.bet365.com",
+    "Yahoo Sports"
    ],
-   "d": "2026-11-15",
-   "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-latvia-v-armenia/blt9d2d7ef16acbc7ea",
-   "n": "Watch Latvia vs. Armenia live today: Who is broadcasting the match on TV and via live stream?",
-   "vol": 500,
+   "d": "2026-11-16",
+   "url": "https://www.concacaf.com/competitions/nations-league/news/curacao-panama-draw-in-nations-league-quarterfinal-opener",
+   "n": "Curaçao, Panama draw in Nations League Quarterfinal opener",
+   "vol": 200,
    "vu": "pencarian"
   },
   {
@@ -73,8 +52,8 @@
    ],
    "src": [
     "Liputan6 Showbiz",
-    "CNN Indonesia",
-    "Kompas.com"
+    "detikcom",
+    "CNN Indonesia"
    ],
    "d": "2026-11-15",
    "url": "https://www.liputan6.com/showbiz/read/8335810/avril-lavigne-umumkan-kelahiran-anak-pertama-di-usia-42-tahun",
@@ -147,8 +126,8 @@
    "m": 3,
    "src": [
     "Liputan6 Showbiz",
-    "CNN Indonesia",
-    "Kompas.com"
+    "detikcom",
+    "CNN Indonesia"
    ],
    "hot": [],
    "sc": 86,
@@ -174,7 +153,7 @@
     "https://janalokajournal.id/"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-15T12:15:15Z"
   },
   {
@@ -202,6 +181,94 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "9 Kebiasaan Unik dari Film Bollywood dan Para Bintangnya",
+   "snip": "Mulai dari tradisi namaste hingga kebiasaan aneh para aktor, berikut sejumlah hal unik yang lekat dengan kehidupan masyarakat India.",
+   "img": "https://akcdn.detik.net.id/visual/2026/01/15/film-india-kabhi-khushi-kabhie-gham-2001-1768476528096_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261113072227-220-1426655/9-kebiasaan-unik-di-film-india-dan-kehidupan-bintang-bollywood",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-15T19:30:38Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Komentar Noah Tentang Video Klip 'Putusin Aja' Bikin BCL Terharu",
+   "snip": "BCL terharu mendengarkan komentar dari putranya, Noah, tentang video klip Putusin Aja yang baru ia rilis. Baca di sini yuk.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/c5hASGXG-LIBqsdznlGooKeDdc8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9398223/original/069965800_1794756717-IMG-20261111-WA0127.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335825/komentar-noah-tentang-video-klip-putusin-aja-bikin-bcl-terharu",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-15T16:29:50Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "PMKRI desak aktor intelektual karhutla dijerat hukum",
+   "snip": "Pengurus Pusat Perhimpunan Mahasiswa Katolik Republik Indonesia (PP PMKRI) mendukung Polri untuk menindak tegas ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/15/5c194d51-b901-4f62-b934-66948ef6110f.jpeg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5856019/pmkri-desak-aktor-intelektual-karhutla-dijerat-hukum",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-15T16:08:46Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Unge Tampil Paling Depan di \"Putusin Aja\", Lugas dan Berani Tanpa Filter",
+   "snip": "BCL menyebut penampilannya di single 'Putusin Aja' sebagai karya yang lugas. Baca di sini yuk.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/pxWD-OgqMyTCjnStrtOadRRYkqA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9396482/original/042874100_1794487595-IMG-20261111-WA0101.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335821/unge-tampil-paling-depan-di-putusin-aja-lugas-dan-berani-tanpa-filter",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-15T15:21:41Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -220,7 +287,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 58,
+   "sc": 48,
    "ts": "2026-11-14T16:35:31Z"
   },
   {
@@ -229,8 +296,30 @@
    "name": "Wolipop",
    "av": "",
    "followers": 0,
+   "cap": "Rumah Chris Hemsworth Dibobol Perampok Bersenjata, Istri Sempat Terbangun",
+   "snip": "Rumah Chris Hemsworth Dibobol Perampok Bersenjata, Istri Sempat Terbangun Wolipop Rumah Mewah Chris Hemsworth 'Thor' Dibobol Maling, 3 Mobil Dibawa Kabur detikcom Rumah Chris Hemsworth Dirampok, Tiga Mobil Berhasil Ditemukan Polisi IDN Time",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlYzR2FwTlQ2TTVTdkxDNDdmUXNqNnZ2VmVaaU9OdEdIbUh4dFdGZkRTc1FBdHJqdG92Wi1lazhXbGg1MjJTTEx2dE9QOUlFd3M0djFGcmRRaHRtc0NRWGlwYUE2amNnbFNHMjN1S2d5VGNWSU1CWEdFRzV6U3pFLXNQSmxWWmlDdjZxSXVCQkwwTjVlUDhtUzRORGg1ZDhZWTE1X0s4cF8wTzdDMHQ1YnExVElPR3UtTXZralZYZW9iYnRWWlHSAcsBQVVfeXFMUDBNaDQ0ZmVraEZrQzl5NHBTQzN0QVhGaGQyRXVqMEJ4Qzh0QmtkdFlKSHFQcWdoSHBtMWk4aXh2OEhwVGRlRGFxMTRod0QyblY1Yzl0X1ljX1AyaTEyaXVxRFdfZWVwWU1qNG9ETlFOTThSUm12SVA0T1FQejhQdlJFSENZbW5LcUlfV1FmV1p6ZlNFMnVrMHg1dlh6emphRUtIenZ4b2FscUVtYTJ5ZmJ3NVhWVm1QNUc3ckFYdGJ5X0R2R0JWR1JWRlE?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T14:00:40Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
    "cap": "Foto Syifa Hadju Liburan ke Amerika Bareng Suami, Kecantikannya Bikin Terpana",
-   "snip": "Foto Syifa Hadju Liburan ke Amerika Bareng Suami, Kecantikannya Bikin Terpana Wolipop",
+   "snip": "Foto Syifa Hadju Liburan ke Amerika Bareng Suami, Kecantikannya Bikin Terpana Wolipop Lihat judul & perspektif lainnya di Google Berita",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -242,7 +331,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T13:05:56Z"
   },
   {
@@ -264,7 +353,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T12:42:45Z"
   },
   {
@@ -286,7 +375,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T12:39:34Z"
   },
   {
@@ -308,7 +397,7 @@
     "Liputan6"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T12:33:16Z"
   },
   {
@@ -318,7 +407,7 @@
    "av": "",
    "followers": 0,
    "cap": "Doctor X Tamat, Bertahan dengan Rating Dua Digit",
-   "snip": "Doctor X Tamat, Bertahan dengan Rating Dua Digit detikcom Doctor X Tutup Episode Akhir dengan Peringkat Nomor 1 Kompas.com 8 Plot Twist Tak Terduga di Ending Doctor X: Mafia in White IDN Times Teka-teki Lokasi Syuting Doctor X: Age of the W",
+   "snip": "Doctor X Tamat, Bertahan dengan Rating Dua Digit detikcom Doctor X Tutup Episode Akhir dengan Peringkat Nomor 1 Kompas.com Gye Su Jeong Praktik di Indonesia, Bolehkah Klaim Gak Pernah Gagal? IDN Times Lokasi Syuting Doctor X di Indonesia Ja",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -330,7 +419,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T12:04:40Z"
   },
   {
@@ -352,7 +441,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T11:37:33Z"
   },
   {
@@ -374,8 +463,30 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T11:30:58Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "Tetap Santai Saat Teman Seumuran Banyak yang Sudah Menikah, Leony: Mindset",
+   "snip": "Tetap Santai Saat Teman Seumuran Banyak yang Sudah Menikah, Leony: Mindset Kompas.com",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa2RiM2xZZ2JpN0tXSXR2THlUTTF2bmxSX3otQnV2bEdNVjdSVGwySzVRQlZtcmMwZWUxWjBfYjlMZ0xmQW42MmFON0w2QVFjYmZyV1lQandZOE9BWHlmS29KYlRFWGd3ZHJBVkhLLWVxMVZhTVB3ZzVCeEdTVWRlbm53NXFwTXdvLWh5Q1BVNnNxTjZ0OU5PZUlLRTY5Qjg4d0JSbXBCcm4yMEdwM0d0VTZPWFRTazBKbEdsUzlRVW5HcVBRVU9oSVJfaEk?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T11:14:00Z"
   },
   {
    "k": "news",
@@ -396,7 +507,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T11:08:23Z"
   },
   {
@@ -418,7 +529,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T11:00:54Z"
   },
   {
@@ -440,7 +551,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T10:25:47Z"
   },
   {
@@ -462,7 +573,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T10:04:26Z"
   },
   {
@@ -484,7 +595,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T09:51:37Z"
   },
   {
@@ -506,7 +617,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T09:26:12Z"
   },
   {
@@ -528,7 +639,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-15T09:23:18Z"
   },
   {
@@ -552,6 +663,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-15T09:06:52Z"
+  },
+  {
+   "k": "news",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
+   "av": "",
+   "followers": 0,
+   "cap": "3 Shio yang Diprediksi Meraih Kesuksesan dan Keberuntungan pada 16-22 November 2026",
+   "snip": "3 Shio yang Diprediksi Meraih Kesuksesan dan Keberuntungan pada 16-22 November 2026 Kompas.com Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRFpiLV9vU2J1WW15WUFqT0piNlBLNUNhbW5EeEZZY3FwaWRtYl9RbzdobmFxVkpZNWFERFZ2V2RucXJySWJ5VFFyNlo3U1NKTnVZLW14QmxTcHd3bzBaM2ZGbjJSTW9HVkF4RnlyTElSWVpsWEtZNDBHcGJHNFN4UGdKWnk3LUM4Vm5FSGJjNXBpaVMtQUtnY3o1ZEUwTElUcnFyTTFyU2xNbjVMUlMyNnVKaDR2aWdkVEFYc0VDUk51bEJHMy0wdHE1NTZoQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Kompas.com"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T09:01:00Z"
   },
   {
    "k": "news",
@@ -706,28 +839,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-15T05:19:00Z"
-  },
-  {
-   "k": "news",
-   "u": "https://janalokajournal.id/",
-   "name": "https://janalokajournal.id/",
-   "av": "",
-   "followers": 0,
-   "cap": "Nabila Ishma Minta Maaf Terbuka Usai Unggahan Threads Jadi Sorotan Netizen",
-   "snip": "Nabila Ishma Minta Maaf Terbuka Usai Unggahan Threads Jadi Sorotan Netizen https://janalokajournal.id/ Nabila Ishma Siap Lebih Bijak dalam Bertindak detikHOT Nabila Ishma Minta Maaf Usai Kritik Bayaran Influencer Lensa Hukum Ramai Polemik K",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHFrZmJES21VaVl2anNWMGQwUU9Oc1RKQ0YxcFhjbXozWm9tVWF3ZkdIR2xMY2xIZ1Q2bEdFRGhKeGxvR01hd2RyQ2dpd08wVmNpcU54QmhYNHpKRnpwcFdHQ3ZFemV3eGxtT3BGQ2tTV0JVZHI1M2Y1cmh1TzRIdWVWRHdSZnFF?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "https://janalokajournal.id/"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-15T05:06:07Z"
   },
   {
    "k": "news",
@@ -889,30 +1000,8 @@
    "name": "https://janalokajournal.id/",
    "av": "",
    "followers": 0,
-   "cap": "Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama",
-   "snip": "Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama https://janalokajournal.id/ Momen Manis Kulineran 'Bumil' Jennifer Hubner di Vietnam hingga Jepang detikFood 5 Gaya Jennifer Coppen saat Umumkan Kehamilan Kedua",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2I3N1E3MmlYbllKeXJLbkQ2VEJHdm1rdlk5T2pVby1VVEhwMW0xT2FwaXlZSzJDVkt3T0xIR2IwbXVIOU5VdE9qVkxURmdhTVVIR3Z0RHlGSWp2UDBrclJ1aFZyWTFUZW5zQVAyWjFHQm01elVYWHZqYjRpVldETE9Oc2t3VkVVSjZzdm1HbGxCWE53M0VSTno3OVdEWVJF?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "https://janalokajournal.id/"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T23:05:13Z"
-  },
-  {
-   "k": "news",
-   "u": "https://janalokajournal.id/",
-   "name": "https://janalokajournal.id/",
-   "av": "",
-   "followers": 0,
    "cap": "Profil Nadzira Shafa, Penulis Novel 172 Days Hingga Viral di Threads",
-   "snip": "Profil Nadzira Shafa, Penulis Novel 172 Days Hingga Viral di Threads https://janalokajournal.id/ Geger 'Tuhan Itu Egois', Nadzira Shafa Minta Maaf dan Klarifikasi detikHOT Jejak Digital Masa Lalu Diungkit Netizen, Nadzira Shafa Keliru dan B",
+   "snip": "Profil Nadzira Shafa, Penulis Novel 172 Days Hingga Viral di Threads https://janalokajournal.id/ Geger 'Tuhan Itu Egois', Nadzira Shafa Minta Maaf dan Klarifikasi detikHOT Nadira Shafa Minta Maaf usai Dihujat karena Sebut Tuhan Egois celebr",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -926,28 +1015,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-14T23:00:18Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Gemas Maksimal! Gisel Cosplay Jadi Cinderella Saat Ikut Ajang Lari",
-   "snip": "Gemas Maksimal! Gisel Cosplay Jadi Cinderella Saat Ikut Ajang Lari detikHOT Disney Run Jakarta 2026 Digelar Hari Ini, Berikut Akses Jalan dan Rute yang Perlu Dihindari Kompas.com Disney Run Jakarta 2026 Makin Seru, Intip Aktivitas di Booth ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzRja0tvSkdCbXJUcjRFd3BVOHAxeXFnTFN2Sm9PcjN1V0VQOWlXaUFsSkVTaElzVFpxQzJvczFOOUtvRjA2RDBIMV9UaUJ0ZklaelZGVDI0U1VLVzhnQjkycW5vWU4zRHhVR2UwLTJrMnlVSG90b0ctODYxV1BKNmJ5YUVRbFFIQ2ZCcmxuaVhKM3BHWmhiMnBVSGRFNXJDaFBxZXVR0gGrAUFVX3lxTFBteV9MVmVrZW9BWERDOThvOFNmRC1qSnc1M1dwS1BXZ3l0UTNBV1dvWlJmcEhKWGFEOVk5bGJrcDJIbklXSDFjcUFGZ1BBNURjOVFKTF9kUGhnQnpZa3h1ZGF2WFdaSlZBczNSdGpnVHBrdk5qbnRfWkZuR015ZjZZYlRleXNQVlNQb3pEYThSZXI0UHR0Zm9xTVFpblZYN0xrRllWY0JlekRFcw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T22:05:49Z"
   },
   {
    "k": "news",
@@ -977,6 +1044,28 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
+   "cap": "Jennifer Coppen Umumkan Kehamilan, Justin Hubner Segera Jadi Ayah",
+   "snip": "Jennifer Coppen Umumkan Kehamilan, Justin Hubner Segera Jadi Ayah CNN Indonesia Momen Manis Kulineran 'Bumil' Jennifer Hubner di Vietnam hingga Jepang detikFood 5 Gaya Jennifer Coppen saat Umumkan Kehamilan Kedua, Anggun dan Minimalis Kompa",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHhydHp5U2h6SngwNnZNcmxld1l0NHRCcERQSC03bGk2b29CV3hyMlRuMVEwaDc1VTJMNUNXaFRmdW00SVB2ZTJ2QXI4SlpiLUIyWXR2eGJTRUtYNmxJdzZybEVHenREMnU1Snc5NW9XU3ZzM2lyQnpyWnBzOGdVYUtpNHJqelc2VW5DbFBqMFphNFF3bXE0SUVlS1RoNHhETjdhX2RhYWhSWDYwNlE4NlVOVldEVFJlaS1hS3R6alRNOEdPMWNUbtIBzgFBVV95cUxOUWdrZjlqdXBBNE5IbjRaYmRqdHRNVmYyemhLV1p3aDJ3bm1zbkRwQ1dDTXpaZVpjNHhxNVVEcGc2aUNVUVowQVhqNWVUbGl6U3dFbGR4NDhwbmQ5dDNqdHNZUGRVTXRHMXNZaUVCSFhBcTUwQWpubW1hVEF0dWt3STVlU18zbkZFNmtCTGR0dlVmZHJKUnJSTWZFOVBUZkFPSmpYR3cwNm1JNzNWTEZES1FzUXY0WmZfN2lxR3M3ckRsMktxaV9odTNLOWxzdw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-14T20:35:34Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
    "cap": "Drummer Roger Taylor Mundur dari Duran Duran",
    "snip": "Drummer Roger Taylor mengumumkan keluar dari band legendaris Duran Duran setelah bergabung dengan grup tersebut sejak 1979.",
    "img": "https://akcdn.detik.net.id/visual/2026/11/14/roger-taylor-of-duran-duran-1794630625800_169.png?w=360&q=90",
@@ -990,7 +1079,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-14T19:01:07Z"
   },
   {
@@ -1012,7 +1101,7 @@
     "radartvnews"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-14T17:51:04Z"
   },
   {
@@ -1034,7 +1123,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-14T17:00:07Z"
   },
   {
@@ -1056,7 +1145,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-14T15:26:35Z"
   },
   {
@@ -1127,50 +1216,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Sudah Tayang, Film Kapan Punya Anak? Hadir Eksklusif di Vidio",
-   "snip": "Film Kapan Punya Anak? dibintangi Acha Septriasa dan Andri Mashadi, mengisahkan pasangan suami istri menghadapi tekanan untuk memiliki anak. Tonton di Vidio.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/HutlTA41LsI2IIZVTKPN5tJwfAE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397829/original/023123600_1794662533-SnapInsta.to_904069535_18101924366556714_177337610072079600_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8335408/sudah-tayang-film-kapan-punya-anak-hadir-eksklusif-di-vidio",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-14T13:22:13Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Darma Mangkuluhur & Patricia Schuldtz Bergaya di Mobil Klasik Berjenis Targa",
-   "snip": "Setelah menikah, Darma Mangkuluhur dan Patricia memasuki babak baru kehidupan sebagai pasangan suami istri.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/zTkLoS3xTZyA_EYKmxQDBHne3FU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397705/original/088881000_1794649510-1280L6.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8335281/darma-mangkuluhur-amp-patricia-schuldtz-bergaya-di-mobil-klasik-berjenis-targa",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-14T13:05:07Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1190,28 +1235,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-14T12:55:35Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Wanda Hamidah Tak Arahkan Shalima ke Dunia Hiburan: Jadi Biasa Aja",
-   "snip": "Wanda Hamidah Tak Arahkan Shalima ke Dunia Hiburan: Jadi Biasa Aja detikHOT Wanda Hamidah Nilai Ketertarikan Shalima Hakim pada Politik Tumbuh dari Kebiasaan di Rumah gadget.qoo10.co.id Putrinya Ikut Demo, Wanda Hamidah Sebut Anak Belajar d",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd256Wi0yZkJkQmZrbXE2bGUtNDBHcTJOZC11MDVkQ2VlVkdFMDlHZUk5MXZkVGJiVXVxeVR3UXlMNE1vdGNDazYydTBsdnMtR01LMmpBODVrSFBTN3pHLXNMX2FrVTNPa0NNR0NMUjk3NWdQZHU1bXJsOXkzNWpldG9TVzkwOElhYV9QcExVOExocVpSdzRBR3B1M3Fac3pzVmVHaEJ30gGrAUFVX3lxTE5ZVW5sS29aV3pidjItanNRNkN6b3dsZGU4SEk1NnFXckFSNlJkeFdsMklzZ013X2xmMjNqM2xFdk4zd3c5dkhLdE56NnZjQ2ZZT2ZUQTF1UVVIMUlRd1FOdEtmX2ZzMHc0Vndmazc0LXVzdjlqRjBZbWptNEp2UFRkZEc0U2VTNGFCdThKTmItYkUzRTdZZ2xHSU1XYjc2V2dsdUg5LWlkbXRnbw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-14T12:09:46Z"
   },
   {
    "k": "news",
@@ -1452,7 +1475,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-13T16:00:07Z"
   },
   {
@@ -1528,11 +1551,11 @@
    "av": "",
    "followers": 0,
    "cap": "Konser Guns N' Roses dan BTS Bakal Bawa 32 Ribu Turis Asing ke Jakarta",
-   "snip": "Menteri Pariwisata Widiyanti Putri Wardhana menyebut konser Guns N' Roses dan BTS di Jakarta pada diproyeksikan menarik lebih dari 32 ribu wisatawan asing.",
-   "img": "https://akcdn.detik.net.id/visual/2026/03/25/bts-1774406640798_169.jpeg?w=360&q=90",
+   "snip": "Konser Guns N' Roses dan BTS Bakal Bawa 32 Ribu Turis Asing ke Jakarta CNN Indonesia Pramono: Jakarta Jadi Episentrum Event, Tahun Ini Ada Guns N' Roses hingga BTS detikNews Sambut Guns N’ Roses dan BTS: Transportasi Umum Tambah Jam Operasi",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261113164144-227-1426941/konser-guns-n-roses-dan-bts-bakal-bawa-32-ribu-turis-asing-ke-jakarta",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVJfQmNSOVJPem9leDJlazd4TUhUNHBiQmFhVldReWpPdUhnTjUzcVdLaUNYZmk1MTVLQ01feDVpRFl1SHF6V3E3YjVnMWpDOWxJS05HVXZkS1gtVzZNaENTa2lpUGtPUWxHWm9kZXJSMzkyQy1vVGRscFhpUk9QTjZEdzhxcURORjVkcEJBS2ZLclNrS2g3aGdPUFpzUVlxdUhEQ1luTnFZVkRYcHg4U1k1YmJFLXZ5dWoxU1dUNWI4Z3pYWHpVYmNzWGNDUdIB0wFBVV95cUxPanRPV0FsczNwVkNHMU1CeWpQclRwOWNVcmU0d3hwaDlVRnV6U2t5VGN0NkQyUTZIYl9qSlJjeEdGdTg3TVZmU0FfZnFsdk5QQUVNaXFudXI2WDA1eTYxbHBVZkRxVFpkSkdvRlQzSHpOZjNBTDJHLUFObG96eTNWRzc4NzFmSVV6VmJSQUhxZ19CT1pEdmU1WW4wQnRDWWhJVEFTSzZDVHhIenhkV3h1ZzZBdHBYLVlDNlVhUmNPVGxXNVI2MHlFbWtHNUdVN2tZQmNJ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
