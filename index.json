@@ -1,20 +1,25 @@
 {
  "topics": [
   {
-   "t": "Tim bangun replika kapal perang untuk set laga film Pasukan 1000 Janda",
-   "q": "Tim bangun replika kapal perang untuk set laga film Pasukan 1000 Janda",
-   "cat": "Film & Series",
+   "t": "Terafab",
+   "q": "terafab",
+   "cat": "Selebriti",
    "reg": "ID",
    "ch": [
+    "Google Trends",
     "Portal Berita"
    ],
    "src": [
-    "Antara",
-    "CNN Indonesia"
+    "Google Trends",
+    "The New York Times",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
+    "NVIDIA Newsroom"
    ],
-   "d": "2026-11-14",
-   "url": "https://www.antaranews.com/berita/5854783/tim-bangun-replika-kapal-perang-untuk-set-laga-film-pasukan-1000-janda",
-   "n": ""
+   "d": "2026-11-15",
+   "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+   "n": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+   "vol": 100,
+   "vu": "pencarian"
   },
   {
    "t": "Sambut Kelahiran Putri Pertama, Avril Lavigne Kini Jadi Ibu",
@@ -49,22 +54,6 @@
    "n": ""
   },
   {
-   "t": "Jennifer Coppen Umumkan Kehamilan Anak Kedua, Kamari Segera Punya Adik",
-   "q": "Jennifer Coppen Umumkan Kehamilan Anak Kedua, Kamari Segera Punya Adik",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Liputan6 Showbiz",
-    "detikHOT"
-   ],
-   "d": "2026-11-14",
-   "url": "https://www.liputan6.com/showbiz/read/8335303/jennifer-coppen-umumkan-kehamilan-anak-kedua-kamari-segera-punya-adik",
-   "n": ""
-  },
-  {
    "t": "Kronologi Kecelakaan Mobil Go Kyung-pyo Imbas Mabuk",
    "q": "Kronologi Kecelakaan Mobil Go Kyung-pyo Imbas Mabuk",
    "cat": "Selebriti",
@@ -82,29 +71,6 @@
   }
  ],
  "posts": [
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Tim bangun replika kapal perang untuk set laga film Pasukan 1000 Janda",
-   "snip": "Tim penata artistik film yang disutradarai Archie Hekagery, \"Pasukan 1000 Janda\", yang sedang tayang di ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_20261114_200857.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5854783/tim-bangun-replika-kapal-perang-untuk-set-laga-film-pasukan-1000-janda",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "Antara",
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 68,
-   "ts": "2026-11-14T15:46:47Z"
-  },
   {
    "k": "news",
    "u": "CNN Indonesia",
@@ -153,29 +119,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Jennifer Coppen Umumkan Kehamilan Anak Kedua, Kamari Segera Punya Adik",
-   "snip": "Jennifer Coppen kini tengah hamil anak keduanya dari pernikahan kedua. Simak selengkapnya di sini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/6EUEikpe2WBk72zKd4FeqZZz4wc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397731/original/025663900_1794651873-L6Untitled.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8335303/jennifer-coppen-umumkan-kehamilan-anak-kedua-kamari-segera-punya-adik",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "Liputan6 Showbiz",
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 58,
-   "ts": "2026-11-14T10:24:33Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -196,6 +139,116 @@
    "hot": [],
    "sc": 58,
    "ts": "2026-11-14T08:30:15Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "5SOS Gelar Konser Everyone's A Star di Jakarta, Kembali ke Indonesia Setelah 1 Dekade",
+   "snip": "Para personel 5 Seconds of Summer (5SOS) sempat mengenang debutnya dari 2011 saat tampil dalam konser di Jakarta.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/b626HnrlGS-NRoysvz0T-Fymr-8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397926/original/077606400_1794700186-5_sos_3.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335516/5sos-gelar-konser-everyones-a-star-di-jakarta-kembali-ke-indonesia-setelah-1-dekade",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T23:49:52Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "10 Tahun Dinanti 5 Seconds of Summer Akhirnya Kembali Guncang Jakarta",
+   "snip": "Band asal Australia, 5 Seconds of Summer (5SOS), sukses menggelar konser bertajuk Everyone's A Star! World Tour 2026 di Indonesia Arena, Gelora Bung Karno (GBK), Jakarta, Sabtu (14/11/2026). Penampilan ini menjadi momen pelepas rindu bagi p",
+   "img": "https://cdn1-production-images-kly.akamaized.net/4pQ77Ed3Yimool5IjK6wcM9_9hQ=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9397911/original/058102900_1794699227-0L5A1346.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/photo/read/8335514/10-tahun-dinanti-5-seconds-of-summer-akhirnya-kembali-guncang-jakarta",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T23:34:09Z"
+  },
+  {
+   "k": "news",
+   "u": "https://janalokajournal.id/",
+   "name": "https://janalokajournal.id/",
+   "av": "",
+   "followers": 0,
+   "cap": "Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama",
+   "snip": "Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama https://janalokajournal.id/ 5 Gaya Jennifer Coppen saat Umumkan Kehamilan Kedua, Anggun dan Minimalis Kompas.com Potret Bahagia Jennifer Coppen Ungkap Hamil Ana",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2I3N1E3MmlYbllKeXJLbkQ2VEJHdm1rdlk5T2pVby1VVEhwMW0xT2FwaXlZSzJDVkt3T0xIR2IwbXVIOU5VdE9qVkxURmdhTVVIR3Z0RHlGSWp2UDBrclJ1aFZyWTFUZW5zQVAyWjFHQm01elVYWHZqYjRpVldETE9Oc2t3VkVVSjZzdm1HbGxCWE53M0VSTno3OVdEWVJF?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T23:05:13Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Gemas Maksimal! Gisel Cosplay Jadi Cinderella Saat Ikut Ajang Lari",
+   "snip": "Gemas Maksimal! Gisel Cosplay Jadi Cinderella Saat Ikut Ajang Lari detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzRja0tvSkdCbXJUcjRFd3BVOHAxeXFnTFN2Sm9PcjN1V0VQOWlXaUFsSkVTaElzVFpxQzJvczFOOUtvRjA2RDBIMV9UaUJ0ZklaelZGVDI0U1VLVzhnQjkycW5vWU4zRHhVR2UwLTJrMnlVSG90b0ctODYxV1BKNmJ5YUVRbFFIQ2ZCcmxuaVhKM3BHWmhiMnBVSGRFNXJDaFBxZXVR0gGrAUFVX3lxTFBteV9MVmVrZW9BWERDOThvOFNmRC1qSnc1M1dwS1BXZ3l0UTNBV1dvWlJmcEhKWGFEOVk5bGJrcDJIbklXSDFjcUFGZ1BBNURjOVFKTF9kUGhnQnpZa3h1ZGF2WFdaSlZBczNSdGpnVHBrdk5qbnRfWkZuR015ZjZZYlRleXNQVlNQb3pEYThSZXI0UHR0Zm9xTVFpblZYN0xrRllWY0JlekRFcw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T22:05:49Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Lightsaber Darth Vader Jadi yang Termahal, Laku Dilelang Rp88,8 M",
+   "snip": "Pedang lightsaber Darth Vader terjual seharga Rp88,8 miliar, menjadikannya memorabilia Star Wars termahal. Lelang ini juga menampilkan 200 properti lainnya.",
+   "img": "https://akcdn.detik.net.id/visual/2025/09/05/film-star-wars-episode-v-the-empire-strikes-back-1980-1757091287274_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261114175844-220-1427236/lightsaber-darth-vader-jadi-yang-termahal-laku-dilelang-rp888-m",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-14T21:00:59Z"
   },
   {
    "k": "news",
@@ -238,7 +291,7 @@
     "Antara"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T17:41:23Z"
   },
   {
@@ -260,7 +313,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T17:00:07Z"
   },
   {
@@ -282,7 +335,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T16:35:31Z"
   },
   {
@@ -304,7 +357,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T15:26:35Z"
   },
   {
@@ -314,7 +367,7 @@
    "av": "",
    "followers": 0,
    "cap": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia",
-   "snip": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia detikFood Ini Isi Pidato IShowSpeed Full Bahasa Indonesia Saat Menang \"Streamer of the Year\" Kompas.com IShowSpeed Sampaikan Pidato Kemenangan dalam Bahasa Indo",
+   "snip": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia detikFood Pakai Jaket Merah Putih, IShowSpeed Pidato Full Bahasa Indonesia Saat Menang \"Streamer of the Year\" Kompas.com Antara IShowSpeed Promosi Indonesia dan",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -326,7 +379,7 @@
     "detikFood"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T15:00:32Z"
   },
   {
@@ -348,7 +401,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T14:49:48Z"
   },
   {
@@ -370,8 +423,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-14T14:24:49Z"
+  },
+  {
+   "k": "news",
+   "u": "detikFood",
+   "name": "detikFood",
+   "av": "",
+   "followers": 0,
+   "cap": "Ayah 5 Anak, Andhika Pratama Sering Beri Kejutan Kue Ultah untuk Keluarga",
+   "snip": "Ayah 5 Anak, Andhika Pratama Sering Beri Kejutan Kue Ultah untuk Keluarga detikFood",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVVDVTA2MFQybXFOeXF4RWNDOWpfWGFzenNQQS1wbmRSSkZnNEpPaEFnVk1IVzFud0tCdWh1YWIxUjhyU05ONFk0VTBPMHZSUk1nUWF1MzRXV3U4RzVDMHFmSkVWbndvaDQ3MW1WdGRpYTdBYVZ3RnVwcUFMb29kVEhycWJRaHpua0tPcTlJelY4a3p6UEVhWFJsWnV1ODgwZ0ZyNHlZT1hOcEUxMXFqdms0RDFpSnJnYVHSAb8BQVVfeXFMTWtmdi1BR0N4aHpueTZPR1JIMi1KYl9va19UZXZtYjBmVmphRW1PS1ZrWjM2aTJKNWhhZl9mS0E4WWc0WE5HVWdBMl95QnhCc21Ud1FJb1NadXY5anRMRTVMUmRGZ1UzUDUtd2EtN0R5QUJVQ0FuR3BzWWh5RmhmaTV5amk2VXJ4WEVESUd3QnVWRUt3X21fYjA1UklRM3k2anpDX2xvMWhYQkxtWV9FSFRNLVFsYU9CUFFTNExfLTg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikFood"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-14T14:00:45Z"
   },
   {
    "k": "news",
@@ -705,6 +780,28 @@
   },
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Jennifer Coppen Umumkan Kehamilan Anak Kedua, Kamari Segera Punya Adik",
+   "snip": "Jennifer Coppen kini tengah hamil anak keduanya dari pernikahan kedua. Simak selengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/6EUEikpe2WBk72zKd4FeqZZz4wc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397731/original/025663900_1794651873-L6Untitled.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335303/jennifer-coppen-umumkan-kehamilan-anak-kedua-kamari-segera-punya-adik",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-14T10:24:33Z"
+  },
+  {
+   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
@@ -886,7 +983,7 @@
    "av": "",
    "followers": 0,
    "cap": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran",
-   "snip": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran https://janalokajournal.id/ Klarifikasi Feni Rose Usai Senggol Penampilan Mewah Istri Gibran Rakabuming Raka: Mohon Maaf Ya Grid.ID Gibran Turun Istana Naik Innova Zenix D",
+   "snip": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran https://janalokajournal.id/ Gibran Turun Istana Naik Innova Zenix Ditangisi Netizen, Feni Rose: Cek Kalung Berlian Istrinya! Suara.com Klarifikasi Feni Rose Usai Senggol P",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -991,72 +1088,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Maliq & D'Essentials Spill Rencana Konser Mei 2027, Ungkap Konsep yang Diinginkan",
-   "snip": "Widi Puradiredja punya keinginan hangat dan sederhana untuk konser Maliq & D’Essentials.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/nuv-HTfdCULiEsQqjeOwf9iivwc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9395916/original/072625600_1794459857-IMG_6772.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8334572/maliq-amp-dessentials-spill-rencana-konser-mei-2027-ungkap-konsep-yang-diinginkan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T05:46:38Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Andri Mashadi Ungkap Tantangan di Film Kapan Punya Anak? yang Dekat dengan Keseharian",
-   "snip": "﻿Andri Mashadi sadari isu yang ada di film Kapan Punya Anak? yang dekat dengan kehidupan sehari-hari.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/yhtQBrhPwuGEmyQ02SAyQnnia54=/0x1636:1768x2632/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397137/original/002675800_1794559651-IMG_6891.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8334764/andri-mashadi-ungkap-tantangan-di-film-kapan-punya-anak-yang-dekat-dengan-keseharian",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T05:34:40Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Dulu Terhalang Restu, Judika Kini Ungkap Hubungan dengan Mertua",
-   "snip": "Dulu Terhalang Restu, Judika Kini Ungkap Hubungan dengan Mertua detikHOT Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGl5UktQdm12ckExREdOVDJNeERPcWNuVHpvUEFwQ0V3bl9TQ0ZydUg3c2E0bk5qMThJZThWdHhoX0JSeU5PXy0xWm85M2tpQkRHN0lxekozeFZoUjNSZF9yVUc3dnNqR19aa1VPdGkwUC1xdFFkb3Q4M1NEb2cxaFYxZUFmaGFzR0o2MjQ0NU1fUGx2aWRMRVR4N1l4Yl9IR3fSAacBQVVfeXFMT0gxalYzV080QkNhdE41TzlNSFlpall6UHZpTlVXeXJzZTY3VDdUTzJmSTlkQlRmaGlPUmpEOUwxNGNtS01hdldGQ1czZHc2ckhyYS1tQTdBTlV2cGdkR0lTME1jcy1STnFRb2hncENRYmhJTWhkWEhMY084ZWIwcVAwT0lHREhxYjF3bzZYMm1mYTM4Z0IwemJQN2s3Tm55elBRVkYwVFU?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T05:32:13Z"
-  },
-  {
-   "k": "news",
    "u": "Tempo",
    "name": "Tempo",
    "av": "",
@@ -1084,7 +1115,7 @@
    "av": "",
    "followers": 0,
    "cap": "Intelijen AS Masih Bingung, Benarkah Selingkuhan CEO Nvidia Agen China?",
-   "snip": "Intelijen AS Masih Bingung, Benarkah Selingkuhan CEO Nvidia Agen China? detikInet Skandal seks di Nvidia menambah tekanan terhadap Gedung Putih BBC Benarkah Ada Operasi Intelijen China di Balik Skandal Asmara Bos Nvidia Jensen Huang? Kompas",
+   "snip": "Intelijen AS Masih Bingung, Benarkah Selingkuhan CEO Nvidia Agen China? detikInet Skandal seks di Nvidia menambah tekanan terhadap Gedung Putih BBC China Bantah Selingkuhan Huang Mata-mata: AS Harus Berhenti Karang Narasi detikInet Benarkah",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1150,7 +1181,7 @@
    "av": "",
    "followers": 0,
    "cap": "Lightsaber Darth Vader Terjual Hampir Rp 89 Miliar, Cetak Rekor Star Wars!",
-   "snip": "Lightsaber Darth Vader Terjual Hampir Rp 89 Miliar, Cetak Rekor Star Wars! detikcom Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "Lightsaber Darth Vader Terjual Hampir Rp 89 Miliar, Cetak Rekor Star Wars! detikcom Lightsaber Darth Vader Jadi yang Termahal, Laku Dilelang Rp88,8 M CNN Indonesia Pedang Cahaya Darth Vader di Film Star Wars Dilelang dan Terjual Rp 91,2 Mil",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1189,28 +1220,6 @@
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
-   "av": "",
-   "followers": 0,
-   "cap": "Putus dari Tom Cruise, Ana de Armas Debut di Karpet Merah dengan Pacar Baru!",
-   "snip": "Putus dari Tom Cruise, Ana de Armas Debut di Karpet Merah dengan Pacar Baru! Wolipop Ana de Armas Tampil Perdana dengan Beto Montenegro Suara Independent News Ana de Armas Debutkan Pacar Baru di Karpet Merah Las Vegas Demokratis.co.id Move ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjZjUy1Uc0VudHgycjg4WGFSaU44QUZkTy1nS2FTMEJUNFJJRW1SWkxZa3VsdTJzNEh1MkN0LVNoUHdfalA1UUtOaWl2SHdfVDY5WWNPb0NrSGRheVJ3WXdwamFVcjBsUV8yWGZvNlZPc3lrT3FtN0ZzV3d0YkFWS19YWlYwWVZLMVhnVDRnbGx4TWh0MkFIVGZJZm43dHJ1MzhiV0RtVktHelZnelR1UV9nZ0dlYjduZFJLMEt1MnNka3RWSDJBS9IBzgFBVV95cUxQTExwQUxMZW54UDNBMmNYTlhkWU9GaHZ3a0ZPeGxia0c1UFBTTHg3ektzU0NzZ0dycmxPLXJnRENMcWhQcUpnaEVfWHdldkRLbkEzdVZIaFBJSFdIWjhQWVI0SUF4VF91em5WUFhHQUlpQkVpUWZxbld2NU5PNGlQRU9sNkhKUndaMEV2ZEE3WC1yLUJBa0o3blN6OUd3d1dkZlN0Vi1CbS1MaURIX0dzZjZVNmtReTlfZlBzeHlUYmtHNkMzNUlYdG9vS01GUQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Wolipop"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T01:00:31Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1228,7 +1237,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T23:51:24Z"
   },
   {
@@ -1250,7 +1259,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T23:20:07Z"
   },
   {
@@ -1272,7 +1281,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T22:05:11Z"
   },
   {
@@ -1294,7 +1303,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-13T22:00:26Z"
   },
   {
@@ -1326,7 +1335,7 @@
    "av": "",
    "followers": 0,
    "cap": "Geger 'Tuhan Itu Egois', Nadzira Shafa Minta Maaf dan Klarifikasi",
-   "snip": "Geger 'Tuhan Itu Egois', Nadzira Shafa Minta Maaf dan Klarifikasi detikHOT Klarifikasi Nadzira Shafa Soal Pernyataan \"Tuhan Itu Egois\", Mengaku Salah Pilih Diksi MataMata.com Nadzira Shafa Klarifikasi Usai Sebut Tuhan Egois di Media Sosial ",
+   "snip": "Geger 'Tuhan Itu Egois', Nadzira Shafa Minta Maaf dan Klarifikasi detikHOT Jejak Digital Masa Lalu Diungkit Netizen, Nadzira Shafa Keliru dan Belajar dari Kesalahan Akurat.co Mengenal Nadzira Shafa, Penulis 172 Days yang Viral karena Utas K",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1370,7 +1379,7 @@
    "av": "",
    "followers": 0,
    "cap": "3 Zodiak yang Diprediksi Lebih Bahagia Mulai 14 November 2026, Ada Pisces",
-   "snip": "3 Zodiak yang Diprediksi Lebih Bahagia Mulai 14 November 2026, Ada Pisces Kompas.com Ramalan Zodiak 14 November 2026: Gemini Sambung Komunikasi, Libra Berani Menolak detikcom Ramalan Zodiak Aries Hari Ini 14 November 2026: Venus Direct Fime",
+   "snip": "3 Zodiak yang Diprediksi Lebih Bahagia Mulai 14 November 2026, Ada Pisces Kompas.com Ramalan Zodiak 14 November: Aries Banyak Peluang, Gemini Tetap Waspada Wolipop Gemini Scorpio dan Pisces Menyambut Kebahagiaan Baru SuaraGarut.ID Ramalan Z",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1392,7 +1401,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta",
-   "snip": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta detikcom Prediksi Setlist Konser 5 Seconds of Summer di Jakarta Kompas.com 8 Event Weekend di Jakarta 14-15 November, dari Anime sampai Anabul CNN Indonesia 5 Event Jakarta Akhir P",
+   "snip": "Ashton 5SOS Rencana Mampir ke Blok M Usai Konser di Jakarta detikcom Rundown Konser 5 Seconds of Summer Hari Ini Kompas.com 5SOSFam Ramai Tampil Slay Pakai Aksesori Bintang buat Nonton 5SOS detikcom 8 Event Weekend di Jakarta 14-15 November",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1541,12 +1550,34 @@
   },
   {
    "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Rekomendasi dan Sinopsis Film Baru Tayang Akhir Pekan Ini",
+   "snip": "Berikut sinopsis 5 rekomendasi film akhir pekan ini di bioskop dan Netflix, seperti Ramayana hingga Serangan Balik.",
+   "img": "https://akcdn.detik.net.id/visual/2026/08/21/film-ramayana-2026-1787313779758_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261113083447-220-1426674/5-rekomendasi-film-akhir-pekan-ramayana-dan-pasukan-1000-janda",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-13T10:00:29Z"
+  },
+  {
+   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
    "cap": "Jumat 13 November 2026 Jadi Hari Baik bagi 4 Shio Ini, Siapa Saja?",
-   "snip": "Jumat 13 November 2026 Jadi Hari Baik bagi 4 Shio Ini, Siapa Saja? Kompas.com 4 Shio yang Diprediksi Beruntung pada 14 November 2026, Ada Naga dan Ular Kompas.com Jumat Bawa Hoki! Ramalan Shio Hari Ini 13 November 2026, Ada yang Dapat Kabar",
+   "snip": "Jumat 13 November 2026 Jadi Hari Baik bagi 4 Shio Ini, Siapa Saja? Kompas.com 4 Shio yang Diprediksi Beruntung pada 14 November 2026, Ada Naga dan Ular Kompas.com Ramalan Shio 14 November 2026: Monyet dan Tikus Punya Peluang Bersinar detikc",
    "img": "",
    "vid": false,
    "vt": "NEWS",
