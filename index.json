@@ -1,48 +1,6 @@
 {
  "topics": [
   {
-   "t": "Jobe Bellingham",
-   "q": "jobe bellingham",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "SPORTbible",
-    "BBC",
-    "The Guardian"
-   ],
-   "d": "2026-11-16",
-   "url": "https://www.sportbible.com/football/football-news/jobe-bellingham-england-ballon-dor-winners-717606-20261115",
-   "n": "England star Jobe Bellingham names every Ballon d'Or winner since 2000 in incredible video",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Panama Vs",
-   "q": "panama vs",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Concacaf | Official Website",
-    "news.bet365.com",
-    "Yahoo Sports"
-   ],
-   "d": "2026-11-16",
-   "url": "https://www.concacaf.com/competitions/nations-league/news/curacao-panama-draw-in-nations-league-quarterfinal-opener",
-   "n": "Curaçao, Panama draw in Nations League Quarterfinal opener",
-   "vol": 200,
-   "vu": "pencarian"
-  },
-  {
    "t": "Avril Lavigne Umumkan Kelahiran Anak Pertama di Usia 42 Tahun",
    "q": "Avril Lavigne Umumkan Kelahiran Anak Pertama di Usia 42 Tahun",
    "cat": "Selebriti",
@@ -52,7 +10,6 @@
    ],
    "src": [
     "Liputan6 Showbiz",
-    "detikcom",
     "CNN Indonesia"
    ],
    "d": "2026-11-15",
@@ -123,14 +80,13 @@
    "url": "https://www.liputan6.com/showbiz/read/8335810/avril-lavigne-umumkan-kelahiran-anak-pertama-di-usia-42-tahun",
    "likes": null,
    "com": 0,
-   "m": 3,
+   "m": 2,
    "src": [
     "Liputan6 Showbiz",
-    "detikcom",
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 86,
+   "sc": 58,
    "ts": "2026-11-15T15:00:46Z"
   },
   {
@@ -185,6 +141,28 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
+   "cap": "Beda Pemain Scarlet Heart Thailand, China, dan Korea Selatan",
+   "snip": "Berikut daftar pemain Scarlet Heart Thailand dan bedanya dengan versi China serta Korea Selatan.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/10/drama-thailand-scarlet-heart-ullavee-2026-1794289948193_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261110124321-220-1425348/daftar-pemain-utama-drama-thailand-scarlet-heart-ullavee",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-15T23:34:03Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
    "cap": "9 Kebiasaan Unik dari Film Bollywood dan Para Bintangnya",
    "snip": "Mulai dari tradisi namaste hingga kebiasaan aneh para aktor, berikut sejumlah hal unik yang lekat dengan kehidupan masyarakat India.",
    "img": "https://akcdn.detik.net.id/visual/2026/01/15/film-india-kabhi-khushi-kabhie-gham-2001-1768476528096_169.png?w=360&q=90",
@@ -200,72 +178,6 @@
    "hot": [],
    "sc": 50,
    "ts": "2026-11-15T19:30:38Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Komentar Noah Tentang Video Klip 'Putusin Aja' Bikin BCL Terharu",
-   "snip": "BCL terharu mendengarkan komentar dari putranya, Noah, tentang video klip Putusin Aja yang baru ia rilis. Baca di sini yuk.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/c5hASGXG-LIBqsdznlGooKeDdc8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9398223/original/069965800_1794756717-IMG-20261111-WA0127.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8335825/komentar-noah-tentang-video-klip-putusin-aja-bikin-bcl-terharu",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-15T16:29:50Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "PMKRI desak aktor intelektual karhutla dijerat hukum",
-   "snip": "Pengurus Pusat Perhimpunan Mahasiswa Katolik Republik Indonesia (PP PMKRI) mendukung Polri untuk menindak tegas ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/15/5c194d51-b901-4f62-b934-66948ef6110f.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5856019/pmkri-desak-aktor-intelektual-karhutla-dijerat-hukum",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-15T16:08:46Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Unge Tampil Paling Depan di \"Putusin Aja\", Lugas dan Berani Tanpa Filter",
-   "snip": "BCL menyebut penampilannya di single 'Putusin Aja' sebagai karya yang lugas. Baca di sini yuk.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/pxWD-OgqMyTCjnStrtOadRRYkqA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9396482/original/042874100_1794487595-IMG-20261111-WA0101.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8335821/unge-tampil-paling-depan-di-putusin-aja-lugas-dan-berani-tanpa-filter",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-15T15:21:41Z"
   },
   {
    "k": "news",
@@ -292,16 +204,104 @@
   },
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Komentar Noah Tentang Video Klip 'Putusin Aja' Bikin BCL Terharu",
+   "snip": "BCL terharu mendengarkan komentar dari putranya, Noah, tentang video klip Putusin Aja yang baru ia rilis. Baca di sini yuk.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/c5hASGXG-LIBqsdznlGooKeDdc8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9398223/original/069965800_1794756717-IMG-20261111-WA0127.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335825/komentar-noah-tentang-video-klip-putusin-aja-bikin-bcl-terharu",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T16:29:50Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Kumis dan Jenggot Denny Sumargo Bikin Biel Penasaran",
+   "snip": "Kumis dan Jenggot Denny Sumargo Bikin Biel Penasaran detikHOT Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb19uOUpPMWdRMnFackRCS0tZZGx3djRMenNEVnJmd0duQTBMa3F2eWtuRUpmMTBZQi0wM1hPSlNaSXlqUnR5VUIxMHFqSjYwYkFjeHRka2U0eGNOQXAwVjJVZUJkRklJd3pEYzIxcGVndzVxVF82X2ZlTlc2R3hIdDB3OUpKWDBSZkhQTlgycEhHZGo20gGaAUFVX3lxTE11Qm9fNVJFYVo3czhlZ0xDcWJzUG1Dd250VTRqSTJTRVdvSWR3MlMzS1d2QXJrYkladmNxMkZnckRCeVhKM2lzYk5mTUoxOF82WDVHYWd3ZTYycWdnN3FYblV6VzhpbmhBV0hOWlBHcVRhZEdyWTJrTGpWME9ybUE3Z3VISkVkeUJSbGZkdFBUVldGcnREeTRtS3c?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T16:03:59Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Unge Tampil Paling Depan di \"Putusin Aja\", Lugas dan Berani Tanpa Filter",
+   "snip": "BCL menyebut penampilannya di single 'Putusin Aja' sebagai karya yang lugas. Baca di sini yuk.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/pxWD-OgqMyTCjnStrtOadRRYkqA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9396482/original/042874100_1794487595-IMG-20261111-WA0101.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8335821/unge-tampil-paling-depan-di-putusin-aja-lugas-dan-berani-tanpa-filter",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T15:21:41Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "James Gunn Bantah Rumor Skydance, Chris Hemsworth Kerampokan",
+   "snip": "James Gunn Bantah Rumor Skydance, Chris Hemsworth Kerampokan detikcom Chris Pratt Ingin James Gunn Kembali Garap Guardians of the Galaxy 4 Kompas.com James Gunn Bantah Rumor Dipecat dari DC Studios karena Sekuel Superman Suara Surabaya Kean",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjF2eDFTWnRyWEtoUHZ1ekFOeUx3NmY1N1pkVjRJSXRRYzlJSVhhSHlwVUJlZ3p6MV95RDJWaWp2U3NqLUQzZDU1UUU0MWZudnJfU3owd0k5eUJVYXRKZmFzd052ZHc3RWJNVWhocVBhNndDYWtfVjE3ZFkwUDFpbUtYekJRQS1GQU1lbTBqc2xld2Y1TUcwVGNyQlNOdjIxQl9fOFJsZ9IBrAFBVV95cUxPVkluMlZrT0dWM09pdlVKM0lCRWFLY2hWMTRtTk45d0xuV2R6RGcyUHFMUnQzRlpKX1dRbjZhLUEzNGx3bm1QaWUtaGdHUzNzeDRTWm14dFh0S0JjbldNdGhmeXNNTDZwLWdwZVJLZFVaLUxqQ3RmUkxYYXgzZzY4S0FtVF9udlhkSVNieDRQc1BxY0NBR3FROGtDQWtYelBVTTZPNm85WlFOT2J3?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T15:07:14Z"
+  },
+  {
+   "k": "news",
    "u": "Wolipop",
    "name": "Wolipop",
    "av": "",
    "followers": 0,
-   "cap": "Rumah Chris Hemsworth Dibobol Perampok Bersenjata, Istri Sempat Terbangun",
-   "snip": "Rumah Chris Hemsworth Dibobol Perampok Bersenjata, Istri Sempat Terbangun Wolipop Rumah Mewah Chris Hemsworth 'Thor' Dibobol Maling, 3 Mobil Dibawa Kabur detikcom Rumah Chris Hemsworth Dirampok, Tiga Mobil Berhasil Ditemukan Polisi IDN Time",
+   "cap": "Model Dihujat Datang ke Acara Perusahaan Pakai Baju Transparan",
+   "snip": "Model Dihujat Datang ke Acara Perusahaan Pakai Baju Transparan Wolipop",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlYzR2FwTlQ2TTVTdkxDNDdmUXNqNnZ2VmVaaU9OdEdIbUh4dFdGZkRTc1FBdHJqdG92Wi1lazhXbGg1MjJTTEx2dE9QOUlFd3M0djFGcmRRaHRtc0NRWGlwYUE2amNnbFNHMjN1S2d5VGNWSU1CWEdFRzV6U3pFLXNQSmxWWmlDdjZxSXVCQkwwTjVlUDhtUzRORGg1ZDhZWTE1X0s4cF8wTzdDMHQ1YnExVElPR3UtTXZralZYZW9iYnRWWlHSAcsBQVVfeXFMUDBNaDQ0ZmVraEZrQzl5NHBTQzN0QVhGaGQyRXVqMEJ4Qzh0QmtkdFlKSHFQcWdoSHBtMWk4aXh2OEhwVGRlRGFxMTRod0QyblY1Yzl0X1ljX1AyaTEyaXVxRFdfZWVwWU1qNG9ETlFOTThSUm12SVA0T1FQejhQdlJFSENZbW5LcUlfV1FmV1p6ZlNFMnVrMHg1dlh6emphRUtIenZ4b2FscUVtYTJ5ZmJ3NVhWVm1QNUc3ckFYdGJ5X0R2R0JWR1JWRlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjhVVlZiMUp0alkzRXM3emhxSzM5dTBMaW5qQk9ZejY4a1dmdHBMQWlfNEY5ejJCc25lLXNpTG14TmRhQVFiT3VudVR6WGMycnRMUWRlMDdvRVhoTGQydWY0Rm9qeW5QUUhOLTdWWmFDMDVaVXNkb3BqRXowTFl3MzVvUlhkYVZydU11OG5PNUxyM0VyZ1ZYNlpDSzlrMERjOVhQUVRINHhIdXVQN0ZJT0VxYVl0Y0s00gG-AUFVX3lxTE9xVjJiM1huTU5ITUVPOHJIQmtIczlndUFzZjJFc3BFQXdxQXNWQ3NYWDdyd3RrNzloM01zZHlpOG5xelp3bk1nem0tVXJJZEZVWU9PN2FEYmxjNTh1N2toM21TWDdYRXdyMkNEcFBPbDdTcVZPYThHa2VoVGhKTjRoRW9WUW9lNWpNWGlSZGFsWEpXZHpNT1FfcDhwTkg2RmlrRkVUMGhtbW9sZTZzeElXUFBZZE8yUVJwc1FjUkE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -310,7 +310,29 @@
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-11-15T14:00:40Z"
+   "ts": "2026-11-15T15:00:21Z"
+  },
+  {
+   "k": "news",
+   "u": "Sudutpandang.id",
+   "name": "Sudutpandang.id",
+   "av": "",
+   "followers": 0,
+   "cap": "Giorgio Antonio Tegaskan Hubungan dengan Sarwendah Tetap Harmonis",
+   "snip": "Giorgio Antonio Tegaskan Hubungan dengan Sarwendah Tetap Harmonis Sudutpandang.id Lama Tak Muncul Bersama di Tengah Konflik dengan Ruben Onsu, Giorgio Antonio Ungkap Hubungannya dengan Sarwendah Grid.ID Jarang Tampil Berdua, Hubungan Sarwen",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONW9Ud3gxNE5zYkx3eGo2LXdTUm9GdnI3Y2EtcGlNWjA3ajduckltQVJ5dWRhbXpLQlBkZzYxZW5wbnJZZUVVdnduRnM2bVZBMGlVcV84RHQ0WjdmYkZjWFJhampEQ3pUUUo5bEdWeFdVSzVJMnJ1Z0Nnd0Eyb0FOTkl0R2lYdHNzRHdRd255N3FfbXpJ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Sudutpandang.id"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T13:56:35Z"
   },
   {
    "k": "news",
@@ -561,7 +583,7 @@
    "av": "",
    "followers": 0,
    "cap": "Glenca Chysara Hamil Jelang HUT ke-4 Pernikahan dengan Rendi Jhon",
-   "snip": "Glenca Chysara Hamil Jelang HUT ke-4 Pernikahan dengan Rendi Jhon detikHOT Gaya Glenca Chysara saat Umumkan Kehamilan Pertamanya IDN Times Glenca Chysara Umumkan Hamil, Pamer USG dan Baby Bump Liputan6.com Glenca Chysara Hamil Anak Pertama,",
+   "snip": "Glenca Chysara Hamil Jelang HUT ke-4 Pernikahan dengan Rendi Jhon detikHOT Glenca Chysara Hamil Anak Pertama, Doa yang Dinanti Akhirnya Terwujud SINDOnews Lifestyle Gaya Glenca Chysara saat Umumkan Kehamilan Pertamanya IDN Times Glenca Chys",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -600,28 +622,6 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Dijanjikan Jadi Surga Penggemar Barbie, Taman Hiburan Ini Malah Mangkrak!",
-   "snip": "Dijanjikan Jadi Surga Penggemar Barbie, Taman Hiburan Ini Malah Mangkrak! detikcom",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkpPTWcwTmstX09ldmM3U3UyNVVWd1BVTDZGV1hfT1VfZVZrUXotV2k1aE9oNWpqdmw2VXBRVXFCQzlyZ3NkNzNHY1dFQXo5RnpHcGVPYmROYjZ5VEMyTnZ6OEY4WWhZYzl1OHQ5X3NoemJ6WExlemZTaDIwWkI4ODBXLUE0YzFPUWtQZXdkQ1AzQjlFQkF6dm9sUWVBR09Sb3NEaWg0eWJGOGVIWm1TcHRNZ1A0RjR1TGJJ0gHAAUFVX3lxTE5yR3dZUHpZUVdoalVYa3pTdHpLLXBlM204WTBzZ2pqOUdieHpIRHlUeFlKY0Rib0FtYTV6aFNrOTZBWEVhYUxmN2c0YlRuUHRBOUg1Ui1EelpjdHMyNW1FWjAwcWVpWF9yZnpvRXd1ZzhieHdPVjhiUENFWHRTWndSVnhETEJSVjhmRTJHV0wxTWstVTB1YXpHZnVIVmNMbXItWFItWjJvX1dyQkdzREt4LVBDREFNYUItVV9UQno5Vw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-15T09:26:12Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -644,34 +644,12 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Giorgio Antonio Bantah Putus dari Sarwendah: Kebetulan Baik-baik Saja",
-   "snip": "Giorgio Antonio Bantah Putus dari Sarwendah: Kebetulan Baik-baik Saja detikHOT Dikabarkan Putus dengan Sarwendah, Giorgio Antonio: Baik-baik Saja detikcom Lama Tak Muncul Bersama di Tengah Konflik dengan Ruben Onsu, Giorgio Antonio Ungkap H",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVBuSFJnUUdnTF9KV1gyeVNqUEx5NE0wRWM4eHBzbVhydE5LRXFVV04zbmVxM1JQeUtfMnloU1NnaWRPN0s0MFVfQ1VKWDFaa0szMUlxMUJaMXpxZlF4Y2lVUjB5RlY4NnJ3Z2w4STVEZ2NoYlRnX2hITjlqc3c1YWlHTERycmRPMkY4R212aVF0RmpkVXFGcmhFdFdoM0tZOEp1V1NuVEFlQdIBrwFBVV95cUxNMzZtUFBVNndSWkRzVGJ1VWYyYjZ0QXpDWFk4SUpkYTRZanhmYkRrYW5KR2J1Uk9mQ0F4emN5UmplMXUtb0tIQXROYzJpTWRPMEMzbGkyQjFlQW5PaHFUR19wa2dVeDFya0tBd1U0WkxaOUFZcUt6bXdYbmxVRDFJMGJPWnRVeDdGVnpaTE1MVjdIc1B6bTMwb0I1RHlNa3M0SjZXZ2RaTnV3enBuSVRF?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-15T09:06:52Z"
-  },
-  {
-   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
    "cap": "3 Shio yang Diprediksi Meraih Kesuksesan dan Keberuntungan pada 16-22 November 2026",
-   "snip": "3 Shio yang Diprediksi Meraih Kesuksesan dan Keberuntungan pada 16-22 November 2026 Kompas.com Lihat judul & perspektif lainnya di Google Berita",
+   "snip": "3 Shio yang Diprediksi Meraih Kesuksesan dan Keberuntungan pada 16-22 November 2026 Kompas.com Pintu Rezeki Terbuka Lebar, 3 Shio Ini Diramalkan Mengalami Perubahan Finansial Positif Jawa Pos 3 Shio Dihampiri Kesuksesan dan Keberuntungan: M",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -693,7 +671,7 @@
    "av": "",
    "followers": 0,
    "cap": "BCL Beri Noah Kebebasan Asal Tahu Batasan",
-   "snip": "BCL Beri Noah Kebebasan Asal Tahu Batasan detikHOT Bunga Citra Lestari Keceplosan Bocorkan Isi Album Baru, Ada Lagu Spesial untuk Noah Liputan6.com Pengakuan Jujur BCL soal Kegelisahan Saat Noah Mulai Beranjak Remaja Inilah.com Tidak Melara",
+   "snip": "BCL Beri Noah Kebebasan Asal Tahu Batasan detikHOT Bunga Citra Lestari Keceplosan Bocorkan Isi Album Baru, Ada Lagu Spesial untuk Noah Liputan6.com Pengakuan Jujur BCL soal Kegelisahan Saat Noah Mulai Beranjak Remaja Inilah.com Noah Sinclai",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -707,6 +685,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-15T08:05:23Z"
+  },
+  {
+   "k": "news",
+   "u": "https://janalokajournal.id/",
+   "name": "https://janalokajournal.id/",
+   "av": "",
+   "followers": 0,
+   "cap": "Bunga Citra Lestari Tanggapi Isu Hamil Saat Ditemui Bersama Tiko Aryawardhana",
+   "snip": "Bunga Citra Lestari Tanggapi Isu Hamil Saat Ditemui Bersama Tiko Aryawardhana https://janalokajournal.id/ BCL Buka Suara Soal Isu Kehamilan, Ceritakan Perubahan Kondisi Tubuh dan Pengaruh Hormon di Usia 40-an Grid.ID BCL Akhirnya Jujur Soal",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kQmlpSW40NG1CWkE2TGpHLXo1STQtUFhMWl9KUkc2YzBpeFNSX0lkWG5UQ0ZIYWVkbjdyVVZKdkNSdnR3cy1nSzFua2xtVWtHeWhjdzJwcldUS0JjcWw2bjk5ZExDanhKWW1jQ1dPeXNra1FF?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-15T07:28:28Z"
   },
   {
    "k": "news",
@@ -886,28 +886,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Bunga Citra Lestari Ungkap Penyebab Adanya Isu Hamil",
-   "snip": "Bunga Citra Lestari Ungkap Penyebab Adanya Isu Hamil detikHOT Bunga Citra Lestari Tanggapi Isu Hamil Saat Ditemui Bersama Tiko Aryawardhana https://janalokajournal.id/ BCL Akhirnya Jujur Soal Perut Buncit, Benarkah Kabar Kehamilan? Inilah.c",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDZlUG85MjNNQ1NweWo4SG15akpkWUYzekN5LVBsVWFmeklnZXMyZWRoQk13LWFSWFlOYXFSN3ZRcGZWc1V5TFZRWF91enktNnZVVHpqaHFiQktXd0JrekJMTTFGRnppZFd5NndEY1B6MlhtaXZjZ1d2RlBWX2xaWXc4OTUzR3ViNzlnRFZBTXRJRjlw0gGaAUFVX3lxTFA5WjZmcGVEdGpOVnptMy1aME83T0xrMzBsRjNtUkxxN2c2ZGFpa0NzcWplRVJkVmtYQjQ5XzdnR3NDRnVGdTNuSFRiQ2hwOWVXUldwVFE1UHRUUlFyYTRqR2lHYzJJR0dkcXdaN0tCcE5HSUlZN0RGUmRtUFBuT1YwMDZxY2w5MUduZHQ2LU83NWhPMjhaakxMSkE?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-15T04:31:39Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -991,7 +969,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-14T23:34:09Z"
   },
   {
@@ -1000,8 +978,30 @@
    "name": "https://janalokajournal.id/",
    "av": "",
    "followers": 0,
+   "cap": "Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama",
+   "snip": "Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama https://janalokajournal.id/ Momen Manis Kulineran 'Bumil' Jennifer Hubner di Vietnam hingga Jepang detikFood Jennifer Coppen dan Justin Hubner Bagikan Foto USG,",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2I3N1E3MmlYbllKeXJLbkQ2VEJHdm1rdlk5T2pVby1VVEhwMW0xT2FwaXlZSzJDVkt3T0xIR2IwbXVIOU5VdE9qVkxURmdhTVVIR3Z0RHlGSWp2UDBrclJ1aFZyWTFUZW5zQVAyWjFHQm01elVYWHZqYjRpVldETE9Oc2t3VkVVSjZzdm1HbGxCWE53M0VSTno3OVdEWVJF?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-14T23:05:13Z"
+  },
+  {
+   "k": "news",
+   "u": "https://janalokajournal.id/",
+   "name": "https://janalokajournal.id/",
+   "av": "",
+   "followers": 0,
    "cap": "Profil Nadzira Shafa, Penulis Novel 172 Days Hingga Viral di Threads",
-   "snip": "Profil Nadzira Shafa, Penulis Novel 172 Days Hingga Viral di Threads https://janalokajournal.id/ Geger 'Tuhan Itu Egois', Nadzira Shafa Minta Maaf dan Klarifikasi detikHOT Nadira Shafa Minta Maaf usai Dihujat karena Sebut Tuhan Egois celebr",
+   "snip": "Profil Nadzira Shafa, Penulis Novel 172 Days Hingga Viral di Threads https://janalokajournal.id/ Nadzira Shafa Khilaf Pernah Tulis 'Tuhan Itu Egois' detikHOT Nadzira Shafa Akhirnya Minta Maaf Usai Ucapannya soal Tuhan Viral, Akui Salah Pili",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1013,7 +1013,7 @@
     "https://janalokajournal.id/"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-14T23:00:18Z"
   },
   {
@@ -1035,30 +1035,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-11-14T21:00:59Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Jennifer Coppen Umumkan Kehamilan, Justin Hubner Segera Jadi Ayah",
-   "snip": "Jennifer Coppen Umumkan Kehamilan, Justin Hubner Segera Jadi Ayah CNN Indonesia Momen Manis Kulineran 'Bumil' Jennifer Hubner di Vietnam hingga Jepang detikFood 5 Gaya Jennifer Coppen saat Umumkan Kehamilan Kedua, Anggun dan Minimalis Kompa",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHhydHp5U2h6SngwNnZNcmxld1l0NHRCcERQSC03bGk2b29CV3hyMlRuMVEwaDc1VTJMNUNXaFRmdW00SVB2ZTJ2QXI4SlpiLUIyWXR2eGJTRUtYNmxJdzZybEVHenREMnU1Snc5NW9XU3ZzM2lyQnpyWnBzOGdVYUtpNHJqelc2VW5DbFBqMFphNFF3bXE0SUVlS1RoNHhETjdhX2RhYWhSWDYwNlE4NlVOVldEVFJlaS1hS3R6alRNOEdPMWNUbtIBzgFBVV95cUxOUWdrZjlqdXBBNE5IbjRaYmRqdHRNVmYyemhLV1p3aDJ3bm1zbkRwQ1dDTXpaZVpjNHhxNVVEcGc2aUNVUVowQVhqNWVUbGl6U3dFbGR4NDhwbmQ5dDNqdHNZUGRVTXRHMXNZaUVCSFhBcTUwQWpubW1hVEF0dWt3STVlU18zbkZFNmtCTGR0dlVmZHJKUnJSTWZFOVBUZkFPSmpYR3cwNm1JNzNWTEZES1FzUXY0WmZfN2lxR3M3ckRsMktxaV9odTNLOWxzdw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
    "sc": 30,
-   "ts": "2026-11-14T20:35:34Z"
+   "ts": "2026-11-14T21:00:59Z"
   },
   {
    "k": "news",
@@ -1155,7 +1133,7 @@
    "av": "",
    "followers": 0,
    "cap": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia",
-   "snip": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia detikFood Ini Isi Pidato IShowSpeed Full Bahasa Indonesia Saat Menang \"Streamer of the Year\" Kompas.com 8 Kosakata Bahasa Indonesia yang Viral Diucapkan IShowSp",
+   "snip": "Keseruan IShowSpeed saat Makan Nasi Padang hingga Cicip Kopi Luwak di Indonesia detikFood Pakai Jaket Merah Putih, IShowSpeed Pidato Full Bahasa Indonesia Saat Menang \"Streamer of the Year\" Kompas.com 10 Bahasa dengan Penutur Terbanyak di D",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1331,7 +1309,7 @@
    "av": "",
    "followers": 0,
    "cap": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran",
-   "snip": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran https://janalokajournal.id/ Diduga Sindir Kalung Berlian Selvi Ananda, Feni Rose Minta Maaf Soal Cuitannya, Singgung Korban Bencana Grid.ID Gibran Turun Istana Naik Innova",
+   "snip": "Feni Rose Minta Maaf Usai Sindir Perhiasan Selvi Ananda Istri Gibran https://janalokajournal.id/ Gibran Turun Istana Naik Innova Zenix Ditangisi Netizen, Feni Rose: Cek Kalung Berlian Istrinya! Suara.com Klarifikasi Feni Rose Usai Senggol P",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1409,7 +1387,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-13T23:51:24Z"
   },
   {
@@ -1431,7 +1409,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-13T23:20:07Z"
   },
   {
@@ -1453,7 +1431,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-13T22:00:26Z"
   },
   {
@@ -1528,30 +1506,8 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Sarwendah Bantah Tudingan Jadi Dalang Demo Boikot Ruben",
-   "snip": "Sarwendah membantah tudingan jadi dalang di balik aksi demonstrasi boikot terhadap Ruben Onsu pada 5 November 2026.",
-   "img": "https://akcdn.detik.net.id/visual/2026/07/30/sarwendah-1785391403999_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261113194858-234-1427030/sarwendah-bantah-tudingan-jadi-dalang-demo-boikot-ruben",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-13T13:09:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
    "cap": "Konser Guns N' Roses dan BTS Bakal Bawa 32 Ribu Turis Asing ke Jakarta",
-   "snip": "Konser Guns N' Roses dan BTS Bakal Bawa 32 Ribu Turis Asing ke Jakarta CNN Indonesia Pramono: Jakarta Jadi Episentrum Event, Tahun Ini Ada Guns N' Roses hingga BTS detikNews Sambut Guns N’ Roses dan BTS: Transportasi Umum Tambah Jam Operasi",
+   "snip": "Konser Guns N' Roses dan BTS Bakal Bawa 32 Ribu Turis Asing ke Jakarta CNN Indonesia Siaran Pers: Kemenpar Optimalkan Music Tourism Lewat Konser Guns N' Roses dan BTS untuk Promosi Pariwisata Indonesia Kementerian Pariwisata Pramono: Jakart",
    "img": "",
    "vid": false,
    "vt": "NEWS",
