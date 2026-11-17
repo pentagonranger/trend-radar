@@ -1,70 +1,8 @@
 {
  "topics": [
   {
-   "t": "Benin Vs Republik Afrika Tengah",
-   "q": "benin vs republik afrika tengah",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "Jawa Pos"
-   ],
-   "d": "2026-11-17",
-   "url": "https://www.goal.com/id/berita/saksikan-republik-afrika-tengah-vs-benin-secara-langsung-hari-ini-siapa-yang-menyiarkan-pertandingan-di-tv-dan-melalui-live-streaming/blt00bf27f14539196e",
-   "n": "Saksikan Republik Afrika Tengah vs Benin secara langsung hari ini: Siapa yang menyiarkan pertandingan di TV dan melalui live streaming?",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Kevin De Bruyne",
-   "q": "kevin de bruyne",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "detikSport",
-    "Bola.com"
-   ],
-   "d": "2026-11-16",
-   "url": "https://www.goal.com/id/berita/gelandang-napoli-kevin-de-bruyne-lebih-mungkin-gabung-mls-atau-liga-pro-saudi-ketimbang-kembali-ke-liga-primer-bersama-everton-di-tengah-kabar-kepergiannya/bltff040e95b6cb79b0",
-   "n": "Gelandang Napoli Kevin De Bruyne lebih mungkin gabung MLS atau Liga Pro Saudi ketimbang kembali ke Liga Primer bersama Everton di tengah kabar kepergiannya",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Lithuania Vs Liechtenstein",
-   "q": "lithuania vs liechtenstein",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "Easyodds.com",
-    "Sports Mole"
-   ],
-   "d": "2026-11-16",
-   "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-lithuania-v-liechtenstein/blt7b9d5dc361dbc624",
-   "n": "Watch Lithuania vs. Liechtenstein live today: Who is broadcasting the match on TV and via live stream?",
-   "vol": 500,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Resmi, Robert Pattinson Gantikan Daniel Craig Jadi James Bond",
-   "q": "Resmi, Robert Pattinson Gantikan Daniel Craig Jadi James Bond",
+   "t": "Istana Kerajaan Inggris Sambut Robert Pattinson Jadi James Bond",
+   "q": "Istana Kerajaan Inggris Sambut Robert Pattinson Jadi James Bond",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -74,24 +12,8 @@
     "CNN Indonesia",
     "Liputan6 Showbiz"
    ],
-   "d": "2026-11-16",
-   "url": "https://www.cnnindonesia.com/hiburan/20261116230221-220-1427893/robert-pattinson-resmi-jadi-james-bond",
-   "n": ""
-  },
-  {
-   "t": "Raffi Ahmad Buka Suara soal Desakan Mundur dari Utusan Khusus Presiden",
-   "q": "Raffi Ahmad Buka Suara soal Desakan Mundur dari Utusan Khusus Presiden",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Liputan6 Showbiz",
-    "CNN Indonesia"
-   ],
-   "d": "2026-11-16",
-   "url": "https://www.liputan6.com/showbiz/read/8336391/raffi-ahmad-buka-suara-soal-desakan-mundur-dari-utusan-khusus-presiden",
+   "d": "2026-11-17",
+   "url": "https://www.cnnindonesia.com/hiburan/20261117071706-220-1427943/istana-kerajaan-inggris-sambut-robert-pattinson-jadi-james-bond",
    "n": ""
   }
  ],
@@ -102,12 +24,12 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Resmi, Robert Pattinson Gantikan Daniel Craig Jadi James Bond",
-   "snip": "Robert Pattinson resmi jadi James Bond baru, penerus langkah Daniel Craig.",
+   "cap": "Istana Kerajaan Inggris Sambut Robert Pattinson Jadi James Bond",
+   "snip": "Istana Kerajaan Inggris menyambut pemeran James Bond yang baru, Robert Pattinson, yang secara resmi diumumkan oleh Amazon MGM Studio.",
    "img": "https://akcdn.detik.net.id/visual/2026/11/16/robert-pattinson-1794845322499_169.png?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261116230221-220-1427893/robert-pattinson-resmi-jadi-james-bond",
+   "url": "https://www.cnnindonesia.com/hiburan/20261117071706-220-1427943/istana-kerajaan-inggris-sambut-robert-pattinson-jadi-james-bond",
    "likes": null,
    "com": 0,
    "m": 2,
@@ -117,7 +39,51 @@
    ],
    "hot": [],
    "sc": 68,
-   "ts": "2026-11-16T16:10:04Z"
+   "ts": "2026-11-17T00:30:30Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Russell Brand Dipenjara, Katy Perry Bahagia dengan Justin Trudeau",
+   "snip": "Katy Perry dan Justin Trudeau sangat menikmati momen kemesraan mereka dalam sebuah acara amal.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/16/katy-perry-dan-justin-trudeau-kembali-tampil-mesra-1794811244847_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261116145012-234-1427691/russell-brand-dipenjara-katy-perry-bahagia-dengan-justin-trudeau",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-16T23:30:28Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Pernyataan Lengkap Raffi Ahmad Minta Maaf soal Endorse Rp14 M",
+   "snip": "Raffi Ahmad menyampaikan permintaan maaf atas kegaduhan terkait polemik endorsement hampir Rp14,7 miliar dari dua kementerian.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/16/raffi-ahmad-minta-maaf-soal-kerja-sama-dengan-kementerian-1794809354233_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261116151853-234-1427714/pernyataan-lengkap-raffi-ahmad-minta-maaf-soal-endorse-rp14-m",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-16T22:00:05Z"
   },
   {
    "k": "news",
@@ -125,22 +91,21 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Raffi Ahmad Buka Suara soal Desakan Mundur dari Utusan Khusus Presiden",
-   "snip": "Raffi Ahmad mengaku akan mengikuti arahan Presiden terkait desakan mundur yang muncul akibat polemik anggaran publikasi KKP.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/Nvj559I4H8wzQNeCfbhN4VQgMJo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9398438/original/036220400_1794804093-________________.mp4_snapshot_00.25__2026.11.16_11.34.46_.jpg",
+   "cap": "Desta Terpukul, Putrinya Tanya soal Kehalalan Uang di Tengah Polemik KKP",
+   "snip": "Desta mengaku terpukul saat sang putri bertanya apakah uang yang diperolehnya sebagai ayah halal atau tidak.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/fk-tw09u8HBwIOX_LK6SFfkKPbc=/0x284:4096x2592/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399010/original/055664700_1794854664-32089.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8336391/raffi-ahmad-buka-suara-soal-desakan-mundur-dari-utusan-khusus-presiden",
+   "url": "https://www.liputan6.com/showbiz/read/8336569/desta-terpukul-putrinya-tanya-soal-kehalalan-uang-di-tengah-polemik-kkp",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "Liputan6 Showbiz",
-    "CNN Indonesia"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 58,
-   "ts": "2026-11-16T11:47:56Z"
+   "sc": 40,
+   "ts": "2026-11-16T18:57:38Z"
   },
   {
    "k": "news",
@@ -161,8 +126,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
-   "ts": "2026-11-16T17:50:08Z"
+   "sc": 40,
+   "ts": "2026-11-16T17:52:56Z"
   },
   {
    "k": "news",
@@ -183,7 +148,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T17:10:22Z"
   },
   {
@@ -205,7 +170,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T16:17:42Z"
   },
   {
@@ -227,7 +192,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T16:00:23Z"
   },
   {
@@ -249,7 +214,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T15:42:01Z"
   },
   {
@@ -271,7 +236,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T15:39:54Z"
   },
   {
@@ -293,7 +258,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T15:00:00Z"
   },
   {
@@ -315,7 +280,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T14:54:34Z"
   },
   {
@@ -337,7 +302,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T14:48:23Z"
   },
   {
@@ -359,7 +324,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T14:00:21Z"
   },
   {
@@ -381,7 +346,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T13:31:26Z"
   },
   {
@@ -403,7 +368,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T13:21:18Z"
   },
   {
@@ -425,7 +390,7 @@
     "Liputan6"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T13:19:44Z"
   },
   {
@@ -447,7 +412,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:57:23Z"
   },
   {
@@ -469,7 +434,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:53:19Z"
   },
   {
@@ -491,7 +456,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:40:19Z"
   },
   {
@@ -513,7 +478,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:36:32Z"
   },
   {
@@ -535,7 +500,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:28:52Z"
   },
   {
@@ -557,7 +522,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:13:47Z"
   },
   {
@@ -579,7 +544,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T12:00:19Z"
   },
   {
@@ -601,8 +566,30 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-16T11:56:15Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Raffi Ahmad Buka Suara soal Desakan Mundur dari Utusan Khusus Presiden",
+   "snip": "Raffi Ahmad mengaku akan mengikuti arahan Presiden terkait desakan mundur yang muncul akibat polemik anggaran publikasi KKP.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/Nvj559I4H8wzQNeCfbhN4VQgMJo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9398438/original/036220400_1794804093-________________.mp4_snapshot_00.25__2026.11.16_11.34.46_.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8336391/raffi-ahmad-buka-suara-soal-desakan-mundur-dari-utusan-khusus-presiden",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-16T11:47:56Z"
   },
   {
    "k": "news",
@@ -738,28 +725,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Raffi Ahmad soal Endorse Rp14,69 M: Maaf, Tidak Ada Pembelaan",
-   "snip": "Raffi Ahmad akhirnya buka suara terkait polemik kerja sama antara RANS Entertainment dan The Duda's Minus One pada Senin (16/11).",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/16/raffi-ahmad-sampaikan-permohonan-maaf-akibat-dugaan-endorse-1469-m-1794816297855_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261116150101-238-1427698/raffi-ahmad-soal-endorse-rp1469-m-maaf-tidak-ada-pembelaan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-16T08:50:15Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -826,25 +791,25 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
+   "u": "Kompas.com",
+   "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "Raffi Ahmad, Nagita Slavina hingga Najwa Masuk Daftar Korban Penyadapan Mantan Kapolri",
-   "snip": "Bareskrim Polri mengungkap Raffi Ahmad, Nagita Slavina, dan Najwa Shihab masuk daftar dugaan penyadapan mantan Kapolri Listyo Sigit. Simak kasus lengkapnya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/In_MTC8XZea4hv8tfr_AVRPx8ME=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9398614/original/041226100_1794812216-najwaraffigigi1280.jpg",
+   "cap": "Kisah Cinta Jensen Huang dan Lori Mills, Akui Perselingkuhan setelah 41 Tahun Menikah",
+   "snip": "Kisah Cinta Jensen Huang dan Lori Mills, Akui Perselingkuhan setelah 41 Tahun Menikah Kompas.com Elon Musk dan Jejeran Bos Teknologi Minta Jensen Huang Balik ke Nvidia detikInet Dewan Nvidia tidak membahas kembalinya Jensen Huang sebagai CE",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8336167/raffi-ahmad-nagita-slavina-hingga-najwa-masuk-daftar-korban-penyadapan-mantan-kapolri",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEt1dldnVEwwZ1dqN0R5bjFiVUZxeENxUFNIUm45RWV5X1FVSWJ3cWJMY2pRcktsVEZ4RjBYbE4teXNyOXpVcEVLbllGWndYWnIwR3U0QmJUUmNBaTNLMlFZbldMd1N2SGhZSUtNd2hydElkeDhxVnBKWHdIM1hXbV81QzVxNlFLdllVc2Rnb3BRQ0RLbVNDdGVxeHpkeVJ2TTA4eGIwR1I4eWtWYVdHMFBudVpXUGE1UFRTX3hOUWQ1NVE?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Liputan6 Showbiz"
+    "Kompas.com"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-11-16T06:56:56Z"
+   "ts": "2026-11-16T06:30:00Z"
   },
   {
    "k": "news",
@@ -953,7 +918,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-16T01:01:13Z"
   },
   {
@@ -975,8 +940,30 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-15T23:34:03Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Penuh Cinta, Reaksi Ortu hingga Sabahat Tahu Jennifer Copper Hamil",
+   "snip": "Penuh Cinta, Reaksi Ortu hingga Sabahat Tahu Jennifer Copper Hamil detikHOT Jennifer Coppen dan Justin Hubner Mengumumkan Kabar Kehamilan Buah Hati Pertama https://janalokajournal.id/ Momen Manis Kulineran 'Bumil' Jennifer Hubner di Vietnam",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFBjTlBSSDRTbGJoYW1FMU5XRi1CSV8xSHN0aEFBM19UM2g3WHJvVkZEZVhNTEhPZ0QtSkR6aklDbFd0THA1VlJ5eWVaUFIxTWJnV012cWI2TTNva2Q1WjFDb0NQb3BoMXAzUVcydmpBU3dINi1yeUhmTWNDdWJrRVFnbGJ2VjN1R2dtRGpLVFBHTjZsR25jbzFZR09YNUhoOWhlbnd30gGrAUFVX3lxTE9EdDNvRm9NWVY2NHA0X29UZk1RVUVsSUtqSm1zX1czT1Z1T0pfdzZ5Y0NwY0JrT3M4dndybjJBUVYxQXJDQjhiM2taNTJJdGpBbTEtRy1aX2dfTFBsX2dPMmRhTVRRaDdpZGEyMlZfeGFrQS05YzV6X3F1VHlVel9feU13YkU0ODJrODl5WXRabWJQSzY0c1ZNMF85MW1HeTdCNFA3NTN1MVgtTQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-15T22:05:20Z"
   },
   {
    "k": "news",
@@ -997,7 +984,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-15T19:30:38Z"
   },
   {
@@ -1021,72 +1008,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-15T07:00:34Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "BTS Borong Tiga Penghargaan di Kids' Choice Awards",
-   "snip": "BTS membawa pulang tiga penghargaan di Kids' Choice Awards 2026, sementara Chris Pratt dinobatkan sebagai King of Comedy.",
-   "img": "https://akcdn.detik.net.id/visual/2026/03/25/bts-1774406640798_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261115132507-234-1427351/bts-borong-tiga-penghargaan-di-kids-choice-awards",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-15T06:45:08Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "5 Rekomendasi Film Japanese Film Festival 2026",
-   "snip": "Japanese Film Festival 2026 digelar mulai 12 November hingga 20 Desember 2026 di sejumlah wilayah Indonesia.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/14/tokyo-taxi-1794644563137_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261113205002-220-1427053/5-rekomendasi-film-japanese-film-festival-2026",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-15T05:30:44Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Angkat Kisah Perantau, Dear You Borong Piala Golden Rooster Awards",
-   "snip": "Dear You yang mengisahkan kehidupan perantau Tionghoa di Asia Tenggara itu berhasil memborong dua piala Golden Rooster Awards 2026.",
-   "img": "https://akcdn.detik.net.id/visual/2026/08/05/film-china-dear-you-2026-1785926644528_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261113100943-220-1426721/angkat-kisah-perantau-dear-you-borong-piala-golden-rooster-awards",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-15T00:50:45Z"
   }
  ]
 }
