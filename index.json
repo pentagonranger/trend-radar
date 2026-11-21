@@ -1,20 +1,46 @@
 {
  "topics": [
   {
-   "t": "Mundur dari Kuasa Hukum Erin Wartia, Ramzy Brata Sungkar Singgung Kewajiban yang Belum Dibayar",
-   "q": "Mundur dari Kuasa Hukum Erin Wartia, Ramzy Brata Sungkar Singgung Kewajiban yang",
-   "cat": "Selebriti",
+   "t": "Jkt",
+   "q": "jkt",
+   "cat": "Film & Series",
    "reg": "ID",
    "ch": [
+    "Google Trends",
     "Portal Berita"
    ],
    "src": [
-    "Liputan6 Showbiz",
-    "https://janalokajournal.id/"
+    "Google Trends",
+    "Alaska Beacon",
+    "Anchorage Daily News",
+    "TechCrunch"
    ],
-   "d": "2026-11-21",
-   "url": "https://www.liputan6.com/showbiz/read/8339901/mundur-dari-kuasa-hukum-erin-wartia-ramzy-brata-sungkar-singgung-kewajiban-yang-belum-dibayar",
-   "n": ""
+   "d": "2026-11-22",
+   "url": "https://alaskabeacon.com/?p=30916",
+   "n": "Incoming Kreiss-Tomkins administration names top budget director, chief of staff",
+   "vol": 100,
+   "vu": "pencarian"
+  },
+  {
+   "t": "Home",
+   "q": "home",
+   "cat": "Film & Series",
+   "reg": "ID",
+   "ch": [
+    "Google Trends",
+    "Portal Berita"
+   ],
+   "src": [
+    "Google Trends",
+    "Boone Funeral Home",
+    "Robertson County Funeral Home",
+    "V. L. Seebold Funeral Home"
+   ],
+   "d": "2026-11-22",
+   "url": "https://www.boonefuneralhome.net/obituary/Carol-Yeckering",
+   "n": "Obituary for Carol Y. (Pyle) Yeckering",
+   "vol": 100,
+   "vu": "pencarian"
   },
   {
    "t": "Joko Anwar Bocorkan Pengabdi Setan 3: Origin, Syutingnya di Prancis",
@@ -30,22 +56,6 @@
    ],
    "d": "2026-11-21",
    "url": "https://www.liputan6.com/showbiz/read/8339888/joko-anwar-bocorkan-pengabdi-setan-3-origin-syutingnya-di-prancis",
-   "n": ""
-  },
-  {
-   "t": "Cortis raih penghargaan Lagu Terbaik Tahun Ini MAMA Awards 2026",
-   "q": "Cortis raih penghargaan Lagu Terbaik Tahun Ini MAMA Awards 2026",
-   "cat": "Musik",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Antara",
-    "radartvnews"
-   ],
-   "d": "2026-11-21",
-   "url": "https://www.antaranews.com/berita/5870119/cortis-raih-penghargaan-lagu-terbaik-tahun-ini-mama-awards-2026",
    "n": ""
   },
   {
@@ -65,22 +75,6 @@
    "n": ""
   },
   {
-   "t": "Ada Konser Guns N' Roses Hari Ini, TransJ Perpanjang Jam Operasional 4 Rute",
-   "q": "Ada Konser Guns N' Roses Hari Ini, TransJ Perpanjang Jam Operasional 4 Rute",
-   "cat": "Musik",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "detikNews",
-    "Liputan6"
-   ],
-   "d": "2026-11-21",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEU4S1VQcFM4WHo2T1hFV1k2YTRDSi1mWlRuSXBWRFhacUVlMGdYS0NQZVA4eGFHYWlCWVVpVG00ZVI3dEZ3ZGo0Uk0wOEFneGltd29LN19Ta1N5YzlYYjNpTzlQLVpPY2phb19rOG83dXdXRnRPSWhmeXl4YzlCS011Rkc2ZDBVTXQ3VFNLcFo2ZEFtR29jdUdERVVwanliUzVQbnNqTW5wLUhPRVlhVTZSTdIBuAFBVV95cUxPWWljdmZqaHYzSXJqNGRGbUtpTEJaUzFpa1JpUThTQm5iQnB1NVk0aEJPVmF3R216Q1c5ZDQtVnBqZnlZUXlrRmp6dmw0cHZzc0xiemIwZmp4bjJPUVRwTy1zb2dWaDlZdU5rUllVMHJwYnBzOFl6ZUpnRmJMOXJSWXE4VF84N0NtR0xVdE15WG5JX0FvREY3eVptalRSTk1tbVJ4WGJKVEpXY2hNdXlPMGtWZDJBdGdq?oc=5",
-   "n": ""
-  },
-  {
    "t": "Guns N' Roses Set to Rock Jakarta Tonight: Predicted Setlist",
    "q": "Guns N' Roses Set to Rock Jakarta Tonight: Predicted Setlist",
    "cat": "Musik",
@@ -97,19 +91,19 @@
    "n": ""
   },
   {
-   "t": "Pemenang Piala Citra FFI 2026 Soroti Wacana Pemindahan Badak Jawa",
-   "q": "Pemenang Piala Citra FFI 2026 Soroti Wacana Pemindahan Badak Jawa",
+   "t": "Potret Maudy Ayunda di Red Carpet FFI 2026, Baby Bump Makin Kentara",
+   "q": "Potret Maudy Ayunda di Red Carpet FFI 2026, Baby Bump Makin Kentara",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
     "Portal Berita"
    ],
    "src": [
-    "CNN Indonesia",
-    "https://janalokajournal.id/"
+    "Liputan6 Showbiz",
+    "detikHOT"
    ],
    "d": "2026-11-21",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120231141-234-1429715/pemenang-piala-citra-ffi-2026-soroti-wacana-pemindahan-badak-jawa",
+   "url": "https://www.liputan6.com/showbiz/read/8339554/potret-maudy-ayunda-di-red-carpet-ffi-2026-baby-bump-makin-kentara",
    "n": ""
   }
  ],
@@ -120,22 +114,23 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Mundur dari Kuasa Hukum Erin Wartia, Ramzy Brata Sungkar Singgung Kewajiban yang Belum Dibayar",
-   "snip": "Salah satu mantan kuasa hukum Erin Wartia, Ramzy Brata, menjelaskan alasan kenapa mundur. Apa ada dengan kewajiban yang belum dibayar?",
-   "img": "https://cdn1-production-images-kly.akamaized.net/_0KDYa1GNN4bJPIi3uljtCFauac=/1x354:1080x962/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6480159/original/080459800_1779339998-ClipDown.com_630720213_18559791919035847_8752075874973869278_n.jpg",
+   "cap": "Macaulay Culkin Kembali ke Sekuel Baru Home Alone, Sempat Spill Idenya untuk Film Mendatang",
+   "snip": "Macaulay Culkin terlibat dalam pengembangan sekuel terbaru Home Alone bersama Seth Rogen dan Evan Goldberg.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/J1_bIQXCxn5L8DRmQ0zQ_ZrWiOg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/919273/original/062073900_1436084581-432448-1dfcd9d2-8bc7-11e4-b6df-54aa47c20138.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339901/mundur-dari-kuasa-hukum-erin-wartia-ramzy-brata-sungkar-singgung-kewajiban-yang-belum-dibayar",
+   "url": "https://www.liputan6.com/showbiz/read/8339634/macaulay-culkin-kembali-ke-sekuel-baru-home-alone-sempat-spill-idenya-untuk-film-mendatang",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "Liputan6 Showbiz",
-    "https://janalokajournal.id/"
+    "Liputan6 Showbiz"
    ],
-   "hot": [],
-   "sc": 68,
-   "ts": "2026-11-21T15:30:44Z"
+   "hot": [
+    "Home"
+   ],
+   "sc": 65,
+   "ts": "2026-11-21T08:43:39Z"
   },
   {
    "k": "news",
@@ -157,31 +152,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 68,
+   "sc": 58,
    "ts": "2026-11-21T15:03:06Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Cortis raih penghargaan Lagu Terbaik Tahun Ini MAMA Awards 2026",
-   "snip": "Grup idola asal Korea Selatan, Cortis, meraih penghargaan Lagu Terbaik Tahun Ini di MAMA Awards 2026 dalam gelaran yang ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/06/27/IMG-20260627-WA0624.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5870119/cortis-raih-penghargaan-lagu-terbaik-tahun-ini-mama-awards-2026",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "Antara",
-    "radartvnews"
-   ],
-   "hot": [],
-   "sc": 68,
-   "ts": "2026-11-21T14:50:05Z"
   },
   {
    "k": "news",
@@ -203,31 +175,8 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 68,
-   "ts": "2026-11-21T14:30:23Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6",
-   "name": "Liputan6",
-   "av": "",
-   "followers": 0,
-   "cap": "Konser Guns N’ Roses, 4 Rute Transjakarta hingga Pukul 01.00",
-   "snip": "Konser digelar di Stadion Madya GBK, Jakarta, hari ini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/YVAtWWxtYy8kRVTBl6BW441JR7A=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2403722/original/040301100_1541703179-Guns-N_-Roses4.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/news/read/8339559/konser-guns-n-roses-4-rute-transjakarta-hingga-pukul-0100",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "detikNews",
-    "Liputan6"
-   ],
-   "hot": [],
    "sc": 58,
-   "ts": "2026-11-21T07:11:31Z"
+   "ts": "2026-11-21T14:30:23Z"
   },
   {
    "k": "news",
@@ -254,26 +203,158 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Pemenang Piala Citra FFI 2026 Soroti Wacana Pemindahan Badak Jawa",
-   "snip": "Para pemenang Piala Citra FFI 2026 buka suara soal isu pemindahan badak Jawa dari habitat aslinya di Ujung Kulon.",
-   "img": "https://akcdn.detik.net.id/visual/2023/10/23/ilustrasi-badak-cula-satu-atau-badak-jawa_169.jpeg?w=360&q=90",
+   "cap": "Potret Maudy Ayunda di Red Carpet FFI 2026, Baby Bump Makin Kentara",
+   "snip": "Maudy Ayunda tampil anggun di red carpet FFI 2026 dengan gaun bermanik dan baby bump yang makin kentara. Intip detail penampilannya selengkapnya di sini!",
+   "img": "https://cdn0-production-images-kly.akamaized.net/ulzVSy2V-nrXQX3CmFNtZSkxGYI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402554/original/048212600_1795232321-20261120_185056.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120231141-234-1429715/pemenang-piala-citra-ffi-2026-soroti-wacana-pemindahan-badak-jawa",
+   "url": "https://www.liputan6.com/showbiz/read/8339554/potret-maudy-ayunda-di-red-carpet-ffi-2026-baby-bump-makin-kentara",
    "likes": null,
    "com": 0,
    "m": 2,
    "src": [
-    "CNN Indonesia",
-    "https://janalokajournal.id/"
+    "Liputan6 Showbiz",
+    "detikHOT"
    ],
    "hot": [],
    "sc": 58,
-   "ts": "2026-11-21T05:25:04Z"
+   "ts": "2026-11-21T03:38:40Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Nunung Siap Operasi Angkat Payudara dan Pakai Wig demi Sembuh Kanker",
+   "snip": "Nunung mengaku siap menjalani operasi pengangkatan payudara dalam waktu dekat setelah kanker payudaranya kembali kambuh.",
+   "img": "https://akcdn.detik.net.id/visual/2023/10/11/tri-retno-prayudati-atau-lebih-dikenal-sebagai-nunung_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261120185438-234-1429646/kanker-kambuh-nunung-siap-angkat-payudara-hingga-pakai-wig",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-21T19:00:43Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "FOTO: Pameran Art dan Resilience 2026, Sumud of Palestine",
+   "snip": "Pameran bertajuk Art dan Resilience 2026 : Sumud of Palestine digelar di Galeri Emiria Soenassa, Taman Ismail Marzuki (TIM), Jakarta.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/21/pameran-art-resilience-2026-sumud-of-palestine-1795247511237_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261121152916-243-1429851/foto-pameran-art-resilience-2026-sumud-of-palestine",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-21T18:00:17Z"
+  },
+  {
+   "k": "news",
+   "u": "Antara",
+   "name": "Antara",
+   "av": "",
+   "followers": 0,
+   "cap": "China kembangkan konservasi hutan hujan tropis berbasis ekonomi hijau",
+   "snip": "Sebuah laporan lembaga kajian menyoroti kemajuan China di Hainan dalam melindungi hutan hujan tropis, memajukan ...",
+   "img": "https://img.antaranews.com/cache/800x533/2026/11/22/CjkinzN000015_20261121_CBMFN0A001.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.antaranews.com/berita/5870267/china-kembangkan-konservasi-hutan-hujan-tropis-berbasis-ekonomi-hijau",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Antara"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-21T17:08:53Z"
+  },
+  {
+   "k": "news",
+   "u": "https://janalokajournal.id/",
+   "name": "https://janalokajournal.id/",
+   "av": "",
+   "followers": 0,
+   "cap": "Klarifikasi Rien Wartia Trigina Soal Pengunduran Diri Pengacara",
+   "snip": "Klarifikasi Rien Wartia Trigina Soal Pengunduran Diri Pengacara https://janalokajournal.id/ Polisi Tetapkan Erin Eks Istri Andre Taulany Tersangka Penganiayaan ART detikNews Erin Wartia Bantah Kuasa Hukum Mundur, Sebut Dirinya yang Cabut Su",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0xOb0hKR2pCUld0ZGxhak5EZktHRzhEQVNsX0JyZ21JdE9PQUhRWWxLeWpIeWtRYV8tdzdBZnZhSHNQTTJ2QjEzZnFtTGtWWmxOV3Z5WVZfX3NibTMwdFpXdFpGM1NPU0ctWVUyTUl0Vnh1bk9INTRYS2otc0VVRjdjbFhWNzhPVFNUZlNJajh6U2JwX2c?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-21T16:33:58Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Momen Gordon Ramsay Raih Bintang Hollywood Walk of Fame",
+   "snip": "Chef ternama dunia, Gordon Ramsay, menerima bintang di Hollywood Walk of Fame di Los Angeles, Amerika Serikat, Rabu (18/11).",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/20/thumbnail-video-1795162907926_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261120151806-238-1429536/momen-gordon-ramsay-raih-bintang-hollywood-walk-of-fame",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-21T16:30:25Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Lomba Sihir Rayakan 5 Tahun Berkarya Lewat Konser Ujung Dunia, Hadirkan Oasis untuk Fans",
+   "snip": "Konser Ujung Dunia dari Lomba Sihir menampilkan lagu-lagu dalam perjalanan lima tahun grup ini.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/1_F9vb9ob9o59-A75g3xy5vFq48=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402928/original/000852100_1795276575-lomba_sihir_3.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8339912/lomba-sihir-rayakan-5-tahun-berkarya-lewat-konser-ujung-dunia-hadirkan-oasis-untuk-fans",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-21T15:58:07Z"
   },
   {
    "k": "news",
@@ -299,25 +380,25 @@
   },
   {
    "k": "news",
-   "u": "Antara",
-   "name": "Antara",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Semarak warna warni cahaya Festival Lampu Nasatta, Thailand",
-   "snip": "Suasana malam hari di Thailand, khususnya di Taman Nasatta, Ratchaburi, tidak akan segelap dan muram biasanya dalam ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/21/CjkinzN000010_20261121_CBMFN0A001.jpg",
+   "cap": "Mundur dari Kuasa Hukum Erin Wartia, Ramzy Brata Sungkar Singgung Kewajiban yang Belum Dibayar",
+   "snip": "Salah satu mantan kuasa hukum Erin Wartia, Ramzy Brata, menjelaskan alasan kenapa mundur. Apa ada dengan kewajiban yang belum dibayar?",
+   "img": "https://cdn1-production-images-kly.akamaized.net/_0KDYa1GNN4bJPIi3uljtCFauac=/1x354:1080x962/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6480159/original/080459800_1779339998-ClipDown.com_630720213_18559791919035847_8752075874973869278_n.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5870167/semarak-warna-warni-cahaya-festival-lampu-nasatta-thailand",
+   "url": "https://www.liputan6.com/showbiz/read/8339901/mundur-dari-kuasa-hukum-erin-wartia-ramzy-brata-sungkar-singgung-kewajiban-yang-belum-dibayar",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Antara"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 50,
-   "ts": "2026-11-21T15:25:21Z"
+   "ts": "2026-11-21T15:30:44Z"
   },
   {
    "k": "news",
@@ -338,7 +419,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T15:22:30Z"
   },
   {
@@ -349,7 +430,7 @@
    "followers": 0,
    "cap": "Daftar Pemenang MAMA Awards Hari Kedua, BTS dan CORTIS Raih Daesang",
    "snip": "Siapa saja pemenang yang diumumkan dalam hari kedua MAMA 2026? Berikut daftarnya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/tAK_0tLhZoMgph-msB758iYPtJs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402881/original/040528700_1795269644-cortis.jpg",
+   "img": "https://cdn1-production-images-kly.akamaized.net/N_0EnXXjYzhgI0ss2mVDjYoiB78=/0x316:900x823/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402881/original/040528700_1795269644-cortis.jpg",
    "vid": false,
    "vt": "NEWS",
    "url": "https://www.liputan6.com/showbiz/read/8339863/daftar-pemenang-mama-awards-hari-kedua-bts-dan-cortis-raih-daesang",
@@ -360,7 +441,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T15:02:25Z"
   },
   {
@@ -382,30 +463,8 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T15:00:02Z"
-  },
-  {
-   "k": "news",
-   "u": "Antara",
-   "name": "Antara",
-   "av": "",
-   "followers": 0,
-   "cap": "Festival Melayu XIV dorong ekonomi kreatif Kalbar",
-   "snip": "Festival Budaya Melayu (FBM) XIV Kalimantan Barat (Kalbar) 2026 menjadi salah satu upaya melestarikan tradisi sekaligus ...",
-   "img": "https://img.antaranews.com/cache/800x533/2026/11/21/IMG-20261121-WA0046.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.antaranews.com/berita/5870127/festival-melayu-xiv-dorong-ekonomi-kreatif-kalbar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Antara"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-21T14:55:24Z"
   },
   {
    "k": "news",
@@ -426,7 +485,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T14:14:11Z"
   },
   {
@@ -448,7 +507,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T13:13:06Z"
   },
   {
@@ -470,8 +529,30 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T13:01:14Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Gemas! Isi Kontrak Perjanjian El Rumi dan Syifa Hadju demi Main GTA VI",
+   "snip": "Gemas! Isi Kontrak Perjanjian El Rumi dan Syifa Hadju demi Main GTA VI detikHOT El Rumi Teken Kontrak dengan Syifa Hadju demi Main GTA VI Tanpa Batas Kompas.com GTA VI Rilis, Windah Cetak Rekor hingga El Teken Kontrak Izin Main CNN Indonesi",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1hBQUhidDNYWEctMmJuNDdadkJ4OHFfcUZrSVZSanRLZ19ZOHdWMDVZS0d0bGtMc2tfZ1ZfV1NtbHpKdFBWVW1ONWNrMEN2WmZsaDJkMG9oekdFVWhvRERSLVRURVVJem5ZeEpDbTRVbk5KZGV6b29uQTZrOEI4bVlmTkVwZlV3R1RGZjVFSXZqdDRncFF4VEJfU3dwQjNjVXdSUEJUb0JhV1XSAbABQVVfeXFMTzZRckFibWNqQ3BReXZtaER6TENCVUNrT3Jzekp4cFY4ZmFBNjNpUjZqVVlkakVYMHlWdVotNi1jTUFIWUJSTTdGTVJ3bEt0SzlaUHYtUmc1Um1hS2lIMnV1WVMxMFBIUHU5bERoNjg0QXdjNXFJdC1vYmFPWjFMX3hLRkIyWFhqWUZOdWY5a3VESW50Y1lsTldaVEtlMnBkOUVBdE9vUWc5VGszeS1OTHA?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-21T12:20:44Z"
   },
   {
    "k": "news",
@@ -492,7 +573,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T11:10:00Z"
   },
   {
@@ -514,7 +595,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T11:00:02Z"
   },
   {
@@ -536,7 +617,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T10:45:36Z"
   },
   {
@@ -558,8 +639,30 @@
     "https://janalokajournal.id/"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-21T10:23:13Z"
+  },
+  {
+   "k": "news",
+   "u": "detikNews",
+   "name": "detikNews",
+   "av": "",
+   "followers": 0,
+   "cap": "Ada Konser Guns N' Roses Hari Ini, TransJ Perpanjang Jam Operasional 4 Rute",
+   "snip": "Ada Konser Guns N' Roses Hari Ini, TransJ Perpanjang Jam Operasional 4 Rute detikNews ”Berkah” Konser Kanye West hingga BTS: Hanya Sesaat, tetapi Tembus Ratusan Miliar Kompas.id Hujan Saat Konser Guns N' Roses di GBK, Pedagang Musiman Ketib",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEU4S1VQcFM4WHo2T1hFV1k2YTRDSi1mWlRuSXBWRFhacUVlMGdYS0NQZVA4eGFHYWlCWVVpVG00ZVI3dEZ3ZGo0Uk0wOEFneGltd29LN19Ta1N5YzlYYjNpTzlQLVpPY2phb19rOG83dXdXRnRPSWhmeXl4YzlCS011Rkc2ZDBVTXQ3VFNLcFo2ZEFtR29jdUdERVVwanliUzVQbnNqTW5wLUhPRVlhVTZSTdIBuAFBVV95cUxPWWljdmZqaHYzSXJqNGRGbUtpTEJaUzFpa1JpUThTQm5iQnB1NVk0aEJPVmF3R216Q1c5ZDQtVnBqZnlZUXlrRmp6dmw0cHZzc0xiemIwZmp4bjJPUVRwTy1zb2dWaDlZdU5rUllVMHJwYnBzOFl6ZUpnRmJMOXJSWXE4VF84N0NtR0xVdE15WG5JX0FvREY3eVptalRSTk1tbVJ4WGJKVEpXY2hNdXlPMGtWZDJBdGdq?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikNews"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-21T09:25:34Z"
   },
   {
    "k": "news",
@@ -604,28 +707,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-21T09:06:02Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Macaulay Culkin Kembali ke Sekuel Baru Home Alone, Sempat Spill Idenya untuk Film Mendatang",
-   "snip": "Macaulay Culkin terlibat dalam pengembangan sekuel terbaru Home Alone bersama Seth Rogen dan Evan Goldberg.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/J1_bIQXCxn5L8DRmQ0zQ_ZrWiOg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/919273/original/062073900_1436084581-432448-1dfcd9d2-8bc7-11e4-b6df-54aa47c20138.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339634/macaulay-culkin-kembali-ke-sekuel-baru-home-alone-sempat-spill-idenya-untuk-film-mendatang",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-21T08:43:39Z"
   },
   {
    "k": "news",
@@ -739,28 +820,6 @@
   },
   {
    "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Visual Maudy Ayunda Bumil 8 Bulan, Pakai Tusuk Konde Gak Mainstream",
-   "snip": "Visual Maudy Ayunda Bumil 8 Bulan, Pakai Tusuk Konde Gak Mainstream detikHOT 5 Gaya Maternity Maudy Ayunda di FFI 2026, Ada Simbol Salam Tiga Jari Kompas.com Tiga Tahun Pimpin FFI, Ario Bayu dan Prilly Latuconsina Bersyukur Tuntaskan Amanah",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMllwT0wwMkYzTFlmQkY3Y1JWVEhrMnNJNVJVYV9FR0xsazFuSmkydGd4WFJNN1Z2a0hHRldYc01OcGxyNERFNlRkcEowM1o0MXVRMWx3UDRIek9sa21RcFJGZlBoMkJJQkw5dnhyc0VlWlk4dFp3ZUdWMUNyaktPVlNVbUxWaGd3SEtPSEpBeGE4dHk0ZVNaWG44STAzSmx6ZGYtajdjUdIBrAFBVV95cUxPSUxsUURxelZZdG9NdWJCd2owZTlVdDFtMGx4ZUJvdG1GU1dTQTRvSUl6aWpMci1XMW5IUTJXdDV0V2FqZjFIZEZDVWNmck5XbHV5VVpKV0VyMElLMmhuMkJ2TFFTdERJb21YaXJualpmdUJSVEFqQmhWUE4tRlZDb2p5X2xNdjBqWnRTdm9VNnpyV2Zzck9IQTRBdkxUU09ibzhiYmluMjBGTkRm?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-21T06:05:26Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -780,6 +839,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-21T05:35:35Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Pemenang Piala Citra FFI 2026 Soroti Wacana Pemindahan Badak Jawa",
+   "snip": "Para pemenang Piala Citra FFI 2026 buka suara soal isu pemindahan badak Jawa dari habitat aslinya di Ujung Kulon.",
+   "img": "https://akcdn.detik.net.id/visual/2023/10/23/ilustrasi-badak-cula-satu-atau-badak-jawa_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261120231141-234-1429715/pemenang-piala-citra-ffi-2026-soroti-wacana-pemindahan-badak-jawa",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-21T05:25:04Z"
   },
   {
    "k": "news",
@@ -898,7 +979,7 @@
    "av": "",
    "followers": 0,
    "cap": "Main GTA 6 Selama 52 Jam Tanpa Tidur, IShowSpeed Berakhir Nangis",
-   "snip": "Main GTA 6 Selama 52 Jam Tanpa Tidur, IShowSpeed Berakhir Nangis detikInet IShowSpeed Menangis Usai Tamatkan GTA 6 dalam 52 Jam, Endingnya Bikin Miris Inilah.com IShowSpeed Tamatkan GTA 6 dalam 52 Jam Nonstop, Save Game Hilang riaurealita.c",
+   "snip": "Main GTA 6 Selama 52 Jam Tanpa Tidur, IShowSpeed Berakhir Nangis detikInet IShowSpeed Tamatkan GTA 6 dalam 52 Jam Nonstop, Save Game Hilang riaurealita.com IShowSpeed Menangis Usai Tamatkan GTA 6 dalam 52 Jam, Endingnya Bikin Miris Inilah.c",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -912,28 +993,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-21T03:45:38Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Potret Maudy Ayunda di Red Carpet FFI 2026, Baby Bump Makin Kentara",
-   "snip": "Maudy Ayunda tampil anggun di red carpet FFI 2026 dengan gaun bermanik dan baby bump yang makin kentara. Intip detail penampilannya selengkapnya di sini!",
-   "img": "https://cdn0-production-images-kly.akamaized.net/ulzVSy2V-nrXQX3CmFNtZSkxGYI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402554/original/048212600_1795232321-20261120_185056.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339554/potret-maudy-ayunda-di-red-carpet-ffi-2026-baby-bump-makin-kentara",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-21T03:38:40Z"
   },
   {
    "k": "news",
@@ -956,28 +1015,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-21T03:21:15Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Red Carpet Festival Film Indonesia 2026, Bertabur Bintang",
-   "snip": "Malam penghargaan Festival Film Indonesia 2026 berlangsung meriah pada Jumat, (21/11). Karpet merahnya bertabur dengan bintang. Baca di sini yuk.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/2Uvukb8_8E7JeOTiZUBq9he8ZWg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402517/original/019481900_1795229872-20261120_172454.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339532/red-carpet-festival-film-indonesia-2026-bertabur-bintang",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-21T02:57:52Z"
   },
   {
    "k": "news",
@@ -1047,6 +1084,50 @@
   },
   {
    "k": "news",
+   "u": "ANTARA News Makassar",
+   "name": "ANTARA News Makassar",
+   "av": "",
+   "followers": 0,
+   "cap": "Abimana raih penghargaan \"Pemeran Utama Pria Terbaik\" FFI 2026",
+   "snip": "Abimana raih penghargaan \"Pemeran Utama Pria Terbaik\" FFI 2026 ANTARA News Makassar Kata Fadli Zon yang Dikritik Sutradara Para Perasuk soal Pemerkosaan Massal Kompas.com Meriam Bellina raih Piala Citra Pemeran Utama Perempuan Terbaik FFI 2",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN29wU3lod2JnS3RUWjZOdl9EMVZXMVV3dzRXNXR4MXp0eVNoMG9GUzdpWVdjZEQxQURkRTZvWWYzRHNxdDN5TWo1aDZ0TnVFd2ZXMjVzcVdpZlQzeDdNWXRIb19uRzNLWF8yTXVCdXM3ZFBnTWZpRnFBSzRmNW5NRjJ5LU9sMGk3SEdYLVg2ZTMzMXc1aFhMNkZ3eEd4UDI1WTNqVnFLeDJrZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "ANTARA News Makassar"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-20T21:26:27Z"
+  },
+  {
+   "k": "news",
+   "u": "radartvnews",
+   "name": "radartvnews",
+   "av": "",
+   "followers": 0,
+   "cap": "ENHYPEN, ILLIT, TREASURE, dan CORTIS Raih Penghargaan di MAMA 2026, Siapa Paling Bersinar?",
+   "snip": "ENHYPEN, ILLIT, TREASURE, dan CORTIS Raih Penghargaan di MAMA 2026, Siapa Paling Bersinar? radartvnews Daftar Lengkap Pemenang MAMA 2026 Chapter 2, BTS Bawa Pulang Daesang Kompas.com MAMA AWARDS 2026 - Day 1 Digelar Hari Ini di Kyocera Dome",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUtkYWU2LUNiYnlKU3pQX1lsVThuakctOFMydnI2STI3am83NEhkN1M0dXFrS2doWkEwZTVTcHh6ZzdiWUxDMmJELUp4RjYyaTNad19YR3FqbWdxMVVpY1Y5RDhjanBQeGI4eXdfN2U4cTRmZFNxanNldVM3V0l4d1BGckJDNmppLTgwZlFJQ0xOZktJU1hXVjBFbVBHVnNjUlRhZ0xod0pWTWtCNHR6OFJadjlUY3dXeUN5Q0Z30gHDAUFVX3lxTFBvTk04a2YtU2N2OTZGZkdoZVFnMkItMHkzcnFxRmNDYjg4UmxMRDFlN2YtTTVNdUlUZ1dkWTltaDN2ZTBaVUllNnhQU1V0NGl3OXdHeUdnaVNEZTJkakVZTWtFLUVzTEtidzcydU5kNFBMUURGVFdGa3EzN3ZvZE9mYXZjT1pzZ3k1WndVUUtnTlRENHlFR0hkWTJMZkVlbGVtcnhsTVNlcll1aVhXWmlfZGxMdUVPUkQxMlBvS0VoYkdaVQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "radartvnews"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-20T18:26:34Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1064,7 +1145,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-20T16:00:23Z"
   },
   {
@@ -1333,28 +1414,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Bruno Mars Berduka, Sang Ayah Meninggal Dunia",
-   "snip": "Bruno Mars mengungkapkan kabar duka. Ayahnya, Peter Hernandez, meninggal dunia dalam usia 74 tahun pada pekan lalu.",
-   "img": "https://akcdn.detik.net.id/visual/2026/01/09/bruno-mars-album-the-romantic-1767924307930_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120112642-234-1429363/bruno-mars-berduka-sang-ayah-meninggal-dunia",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-20T05:30:42Z"
-  },
-  {
-   "k": "news",
    "u": "https://janalokajournal.id/",
    "name": "https://janalokajournal.id/",
    "av": "",
@@ -1399,28 +1458,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Miley Cyrus dan Maxx Morando Disebut Akan Menikah Akhir Pekan Ini",
-   "snip": "Miley Cyrus dan tunangannya, Maxx Morando, disebut akan segera menikah pada akhir pekan ini.",
-   "img": "https://akcdn.detik.net.id/visual/2026/05/25/miley-cyrus-raih-bintang-hollywood-walk-of-fame-1779687509747_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120103805-234-1429334/miley-cyrus-dan-maxx-morando-disebut-akan-menikah-akhir-pekan-ini",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-20T04:00:05Z"
-  },
-  {
-   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
@@ -1440,50 +1477,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-20T03:31:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Oki Rengga Menyesal Ribut dengan Suporter di Laga PSMS Medan",
-   "snip": "Oki Rengga meminta maaf berkaitan dirinya cekcok dengan suporter saat laga PSMS Medan vs Persija awal November 2026.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/04/gak-ada-matinya-1793791793138_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120091830-234-1429279/oki-rengga-menyesal-ribut-dengan-suporter-di-laga-psms-medan",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-20T02:30:30Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "El Rumi Teken Kontrak dengan Syifa Hadju demi Main GTA VI Tanpa Batas",
-   "snip": "El Rumi Teken Kontrak dengan Syifa Hadju demi Main GTA VI Tanpa Batas Kompas.com El Rumi Deal Tanda Tangan Kontrak Perjanjian dengan Syifa Hadju demi Main GTA VI detikHOT GTA VI Rilis, Windah Cetak Rekor hingga El Teken Kontrak Izin Main CN",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3k5Y1VDS1pySHk3MUlkckpTVFJ2LWlYQlViREU5VUdsd2Q0T0dtbzV6V05mcWpoVVFTeHRqZERDZlZJQk5FS1BaeVVvQXl4VlA1RllBLV9MbUUyZlRWUC0xUXcwY1FYSmVxMkRkb0VxLTFOa0VfRkZCSWl2c3lzTGNjN3RnQ2hidG5rcEU0RUU1aUlJaW5ELWw0azJ1aWxhcloxT2dhNV9VU1NBSGJ0bUVLLWE1SGVRUG5nTTBpOG4?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-20T01:15:00Z"
   },
   {
    "k": "news",
