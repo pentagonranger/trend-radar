@@ -1,136 +1,8 @@
 {
  "topics": [
   {
-   "t": "Colo Colo",
-   "q": "colo colo",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "ADN Radio",
-    "Dale Albo",
-    "En Cancha"
-   ],
-   "d": "2026-11-23",
-   "url": "https://www.adnradio.cl/2026/11/22/no-lo-entendemos-valladares-denuncia-exclusion-de-directores-del-club-social-y-deportivo-colo-colo-en-celebraciones-de-los-titulos-albos/",
-   "n": "“No lo entendemos”: Valladares denuncia exclusión de directores del Club Social y Deportivo Colo Colo en celebraciones de los títulos albos",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Fluminense Vs Mirassol",
-   "q": "fluminense vs mirassol",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "Reuters Connect",
-    "OneFootball"
-   ],
-   "d": "2026-11-23",
-   "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-fluminense-v-mirassol/bltdcd9122c005f23ed",
-   "n": "Watch Fluminense vs Mirassol live today: Who is broadcasting the match on TV and via live stream?",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Hawks Vs Pistons",
-   "q": "hawks vs pistons",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Peachtree Hoops",
-    "Reuters Connect",
-    "Yahoo"
-   ],
-   "d": "2026-11-23",
-   "url": "https://www.peachtreehoops.com/atlanta-hawks-game-threads/73796/pistons-atlanta-hawks-start-time-tv-streaming-radio-game-thread",
-   "n": "Pistons at Hawks: start time, TV, streaming, radio, game thread",
-   "vol": 200,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Angga Yunanda Ungkap Rasa Syukur 'Para Perasuk' Raih Film Terbaik FFI 2026",
-   "q": "Angga Yunanda Ungkap Rasa Syukur 'Para Perasuk' Raih Film Terbaik FFI 2026",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Liputan6 Showbiz",
-    "CNN Indonesia"
-   ],
-   "d": "2026-11-22",
-   "url": "https://www.liputan6.com/showbiz/read/8340303/angga-yunanda-ungkap-rasa-syukur-para-perasuk-raih-film-terbaik-ffi-2026",
-   "n": ""
-  },
-  {
-   "t": "Raffi Ahmad Minta Maaf, Robert Pattinson Jadi James Bond",
-   "q": "Raffi Ahmad Minta Maaf, Robert Pattinson Jadi James Bond",
-   "cat": "Selebriti",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "detikHOT",
-    "CNN Indonesia"
-   ],
-   "d": "2026-11-22",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVZvSVhHSXg3c1RYRXhUYzI2RUhUeHB2Nk1FSGVGcURFbVpLVEY2WjQ5elFNNVFNOEN1c0Q0TVdpVDdNNEp0YjRKRG13M2l4SE9kZm53c3UtbFFFNUNoNjVMSG5EZXdGWndjaUlZREpwUUpDaFJYWU9uRXI2TzhNUGhEbF9kU2dZMDVxWDE1dkQ3cXgtUmlGR9IBngFBVV95cUxORlVnRjlvU1VxbjMtYXhLNmFKaGJ3TGlBTDBwSmZKLXZOSGRvRVgyU2ZzMFRJLUJSTUpMYUl6d1llYmVTWHcxSTZFSFA4RzJJdjN3YXV2VFhmaFppVEtmZlJXLVU2cllsNkg2VU1rc2dMWkl4V01fNm9sYTVFR0tZUzVyUFU2R0lLcDVpenRUUS1WUUdwZk1YaEZ6c2pZZw?oc=5",
-   "n": ""
-  },
-  {
-   "t": "Konser Guns N' Roses Jakarta 2026: Memori Masa Kecil dan Respect untuk Legenda",
-   "q": "Konser Guns N' Roses Jakarta 2026: Memori Masa Kecil dan Respect untuk Legenda",
-   "cat": "Musik",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Liputan6 Showbiz",
-    "Kompas.com",
-    "CNN Indonesia"
-   ],
-   "d": "2026-11-22",
-   "url": "https://www.liputan6.com/showbiz/read/8340091/konser-guns-n-roses-jakarta-2026-memori-masa-kecil-dan-respect-untuk-legenda",
-   "n": ""
-  },
-  {
-   "t": "Nonton Konser My Chemical Romance Malam Ini? Catat Jam Operasional Transjakarta Diperpanjang",
-   "q": "Nonton Konser My Chemical Romance Malam Ini? Catat Jam Operasional Transjakarta ",
-   "cat": "Musik",
-   "reg": "ID",
-   "ch": [
-    "Portal Berita"
-   ],
-   "src": [
-    "Tempo",
-    "Liputan6"
-   ],
-   "d": "2026-11-22",
-   "url": "https://www.cantika.com/read/2124159/nonton-konser-my-chemical-romance-malam-ini-catat-jam-operasional-transjakarta-diperpanjang",
-   "n": ""
-  },
-  {
-   "t": "Sean Gelael dan Hana Malasan Menikah, Mahar Ikuti Tanggal Akad",
-   "q": "Sean Gelael dan Hana Malasan Menikah, Mahar Ikuti Tanggal Akad",
+   "t": "Miley Cyrus Resmi Menikah dengan Maxx Morando, Gelar Pesta Pernikahan Intim",
+   "q": "Miley Cyrus Resmi Menikah dengan Maxx Morando, Gelar Pesta Pernikahan Intim",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -138,15 +10,48 @@
    ],
    "src": [
     "Liputan6 Showbiz",
+    "CNN Indonesia"
+   ],
+   "d": "2026-11-23",
+   "url": "https://www.liputan6.com/showbiz/read/8340540/miley-cyrus-resmi-menikah-dengan-maxx-morando-gelar-pesta-pernikahan-intim",
+   "n": ""
+  },
+  {
+   "t": "Mawar AFI Jadi Caregiver di Amerika, Kerja di 3 Perusahaan",
+   "q": "Mawar AFI Jadi Caregiver di Amerika, Kerja di 3 Perusahaan",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "Liputan6 Showbiz",
+    "CNN Indonesia",
+    "detikFood"
+   ],
+   "d": "2026-11-23",
+   "url": "https://www.liputan6.com/showbiz/read/8340491/mawar-afi-jadi-caregiver-di-amerika-kerja-di-3-perusahaan",
+   "n": ""
+  },
+  {
+   "t": "Jessica Iskandar Komitmen Tak Bakal Operasi Plastik hingga Usia 50",
+   "q": "Jessica Iskandar Komitmen Tak Bakal Operasi Plastik hingga Usia 50",
+   "cat": "Selebriti",
+   "reg": "ID",
+   "ch": [
+    "Portal Berita"
+   ],
+   "src": [
+    "CNN Indonesia",
     "detikHOT"
    ],
-   "d": "2026-11-22",
-   "url": "https://www.liputan6.com/showbiz/read/8339973/sean-gelael-dan-hana-malasan-menikah-mahar-ikuti-tanggal-akad",
+   "d": "2026-11-23",
+   "url": "https://www.cnnindonesia.com/hiburan/20261122181604-234-1430138/jessica-iskandar-komitmen-tak-bakal-operasi-plastik-hingga-usia-50",
    "n": ""
   },
   {
-   "t": "Joko Anwar Spill Pengabdi Setan 3: Tampilkan Prancis Tahun 1518",
-   "q": "Joko Anwar Spill Pengabdi Setan 3: Tampilkan Prancis Tahun 1518",
+   "t": "Robert Pattinson Jadi James Bond, Harry & Meghan Markle Jadi Rakyat Biasa",
+   "q": "Robert Pattinson Jadi James Bond, Harry & Meghan Markle Jadi Rakyat Biasa",
    "cat": "Selebriti",
    "reg": "ID",
    "ch": [
@@ -154,10 +59,10 @@
    ],
    "src": [
     "detikcom",
-    "Liputan6 Showbiz"
+    "CNN Indonesia"
    ],
    "d": "2026-11-22",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFZY3ppYnRrNXB5WjRaVFQzRUQzenhQTHFEVnlBQ0VVaGQ3VGJuZTBCUEZ6SnlVSVNiOGNHdDQwb0J1YUg1bVdnSDNSTFNiaGw5RmExRVRQSVBfXzIwclF4aGowNVFWWDhCQVp3bnZ0ZGtPTnl4a0FQbGlOVmQzNkRKTWZYT2VFeVhjcDVtVGNxVzA3OTlwOGVJcDRvalNwYmI2a0loWdIBrAFBVV95cUxPRVJoeU54am10akhwV29MZGkwbGRRZWpSd21QWUllbzlMeVlqZlVhYjJPNlR3UGtnRUFrRUliWDlQMVMzWlpHdUhtRThZRzZQb0JkNjdkMlhobWRPazlQREMtaWd3UGNRWHlmZUZiUFMxUUcwU3ZnQ0NkcnFWMDl4bHpxNXJKSmFtbnBITHJnN3hRbk5ISjVkMWdmcXZkRXJPSnlTVExiUXZFWHha?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1JQOFNia2RPVWNHTWV2UUtqaHNZQXFIVjd5UzY3Q3FoVG8wNVgtazBrRExVYkRIblA0d3ZkVkpRb1FmanB0azZ6VlBsVVVQRzlqOWUxeWtkVlNjQkFpRVV3SVk5NW1jSWlYSmFuVENFTW9SVXpGRkdobkxSQVRpcF93Sk1VVkx3aGdaUDBPOUVxcW1ITlVtR0ZNakYxWHN4RF8tQmtLUUFjWElyQk9LbWRzYXRCZ9IBuwFBVV95cUxPRnoxZjU1anJvdUtuNjNfa25hN25XZlJCSExMaWNvNURRLWFvZTJQc2pURmp5THVDLTQ3MUo1RTRnWmVmdGxva2tRQ3FGcWdCVk1EM3FNYTl3QkJCYnZ1cnQ1VnhDT1AzNDFwdHhSSURCRExva3BCcHNpQnJZUGJ0aW9ibjlRcTRSMjkwaVZqZnBZTkdRMHpjT2hrWGtvMFJQS3Z5Wjg2WWZteTdZYWw2UW5qekZYYU1ieFJJ?oc=5",
    "n": ""
   },
   {
@@ -184,23 +89,23 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Konser Guns N' Roses Jakarta 2026: Memori Masa Kecil dan Respect untuk Legenda",
-   "snip": "Penampilan Guns N' Roses di Jakarta tahun ini terasa sangat spesial. Simak selengkapnya di sini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/DFkLqMtLe2Ea4Xc_muAAq1sKcEA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403184/original/030962000_1795334262-WhatsApp_Image_2026-11-22_at_13.59.45__3_.jpeg",
+   "cap": "Mawar AFI Jadi Caregiver di Amerika, Kerja di 3 Perusahaan",
+   "snip": "Mawar AFI tinggal di Amerika Serikat dan bekerja sebagai caregiver di bidang kesehatan. Simak cerita soal jadwal kerja serta tugas pengasuh dalam keseharian.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/0iWAyqaZPnfA0qZxbbLagjstPxI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403458/original/069238300_1795405632-L6mysamawar_1741708262_3586031279429068370_15023589.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8340091/konser-guns-n-roses-jakarta-2026-memori-masa-kecil-dan-respect-untuk-legenda",
+   "url": "https://www.liputan6.com/showbiz/read/8340491/mawar-afi-jadi-caregiver-di-amerika-kerja-di-3-perusahaan",
    "likes": null,
    "com": 0,
    "m": 3,
    "src": [
     "Liputan6 Showbiz",
-    "Kompas.com",
-    "CNN Indonesia"
+    "CNN Indonesia",
+    "detikFood"
    ],
    "hot": [],
-   "sc": 76,
-   "ts": "2026-11-22T09:42:24Z"
+   "sc": 86,
+   "ts": "2026-11-23T03:59:09Z"
   },
   {
    "k": "news",
@@ -208,12 +113,12 @@
    "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Angga Yunanda Ungkap Rasa Syukur 'Para Perasuk' Raih Film Terbaik FFI 2026",
-   "snip": "Angga Yunanda bersyukur Para Perasuk meraih Film Cerita Panjang Terbaik FFI 2026, sementara sang istri, Shenina Cinnamon, menang sebagai Aktris Pilihan Penonton",
-   "img": "https://cdn0-production-images-kly.akamaized.net/l52_jqGJMqs3-U8g0dBmuFueTjA=/0x1107:3072x2838/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403294/original/031400300_1795358192-SaveClip.App_917426781_18662914792022454_5318041542427876_n.jpg",
+   "cap": "Miley Cyrus Resmi Menikah dengan Maxx Morando, Gelar Pesta Pernikahan Intim",
+   "snip": "Miley Cyrus dan Maxx Morando menggelar pernikahan di Palm Springs, California, Amerika Serikat, pada 21 November 2026.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/4TxxASB_bm8io9tLeGz5o1eimwE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403525/original/000326000_1795408890-Untitled_Design_-_2026-11-23T113513.943.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8340303/angga-yunanda-ungkap-rasa-syukur-para-perasuk-raih-film-terbaik-ffi-2026",
+   "url": "https://www.liputan6.com/showbiz/read/8340540/miley-cyrus-resmi-menikah-dengan-maxx-morando-gelar-pesta-pernikahan-intim",
    "likes": null,
    "com": 0,
    "m": 2,
@@ -222,8 +127,383 @@
     "CNN Indonesia"
    ],
    "hot": [],
+   "sc": 68,
+   "ts": "2026-11-23T04:50:26Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Jessica Iskandar Komitmen Tak Bakal Operasi Plastik hingga Usia 50",
+   "snip": "Setelah revisi hidung di Korsel, Jessica Iskandar berkomitmen tidak akan menjalani operasi plastik lagi hingga usianya capai 50 tahun.",
+   "img": "https://akcdn.detik.net.id/visual/2022/05/07/jessica-iskandar-dan-vincent-verhaag-3_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261122181604-234-1430138/jessica-iskandar-komitmen-tak-bakal-operasi-plastik-hingga-usia-50",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "CNN Indonesia",
+    "detikHOT"
+   ],
+   "hot": [],
    "sc": 58,
-   "ts": "2026-11-22T15:33:52Z"
+   "ts": "2026-11-22T18:00:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "KIFF 2026 Hadirkan 21 Film Korea dan Indonesia, Yunita Siregar Jadi Festival Ambassador",
+   "snip": "KIFF 2026 siap memanjakan pecinta sinema dengan 21 film terbaik Korea dan Indonesia. Aktris Yunita Siregar terpilih sebagai duta festival.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/D6Basz0cLhTVUBD3Gr814wh7Tdo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403612/original/028767000_1795411882-KIFF_PRESSCON_06.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340590/kiff-2026-hadirkan-21-film-korea-dan-indonesia-yunita-siregar-jadi-festival-ambassador",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T05:31:25Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Jennifer Lawrence Duga Busur Panah Katniss Dicuri dari Rumah",
+   "snip": "Jennifer Lawrence duga busur dan anak panah ikonis The Hunger Games Katniss Everdeen yang ia bawa pulang malah dicuri orang dari rumahnya.",
+   "img": "https://akcdn.detik.net.id/visual/2020/04/22/e2a2ace1-24cd-4695-830c-2d7fa5c2509b_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261120200601-220-1429680/jennifer-lawrence-baru-sadar-busur-ikonis-the-hunger-games-dicuri",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T05:30:02Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Prinsa Mandagie Menikah dengan Sangga Barkah di Jakarta",
+   "snip": "Prinsa Mandagie menikah dengan Sangga Barkah dalam akad bernuansa Jawa di Jakarta. Simak momen pernikahan, perjalanan pasangan, dan profil sang penyanyi.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/YGUsqIKNO4i-1-ylgraXKSOmN2M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403597/original/061433800_1795411382-1280.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340583/prinsa-mandagie-menikah-dengan-sangga-barkah-di-jakarta",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T05:23:02Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Septi Aulia Batubara, Anak Pertama Ucok Baba yang Baru Saja Wisuda S.I.Kom",
+   "snip": "Septi Aulia Batubara, putri sulung Ucok Baba, menjadi sorotan setelah berhasil menyelesaikan pendidikan tinggi dan meraih gelar Sarjana Ilmu Komunikasi.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/ZsiUW13P0Ne729b0rrg8iYlmJio=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403581/original/012743800_1795411027-septiaulia.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340576/potret-septi-aulia-batubara-anak-pertama-ucok-baba-yang-baru-saja-wisuda-sikom",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T05:17:43Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Ayu Ting Ting Dinner Bareng Kevin Gusnadi",
+   "snip": "Ayu Ting Ting sedang berbunga-bunga. Kenapa? Simak selengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/e7gIPwRyUYNZVAHn72eiavsOFCs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403555/original/097114900_1795409940-L6ayutingting92_1795405248_4036469677055502216_522969993.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340556/ayu-ting-ting-dinner-bareng-kevin-gusnadi",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T04:59:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Tex Saverio dan Wanda Ponika Rilis Knots, Koleksi Berlian Fleksibel",
+   "snip": "Tex Saverio dan Wanda Ponika merilis koleksi berlian Knots, merayakan ikatan yang fleksibel. Diluncurkan meriah, sebagian penjualan disalurkan untuk pendidikan.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/5je9QD3Watm_LuiK1hw5TKtVLqw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403545/original/098693600_1795409450-texwanda.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340552/tex-saverio-dan-wanda-ponika-rilis-knots-koleksi-berlian-fleksibel",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T04:51:07Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Drummer Cilik, Shelyn Adlyani Kolaborasi dengan Selagi Almost di Perayaan Hari Anak",
+   "snip": "Shelyn tampil bareng Selagi Atmost meriahkan perayaan Hari Anak. Band hadir dengan vokalis berbeda, kolaborasi menghadirkan nuansa musik yang segar dan hangat.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/B3qKxVUz-Fjt-LXFvQFFL1XDr5Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403471/original/021569400_1795406436-Shelyn.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340504/drummer-cilik-shelyn-adlyani-kolaborasi-dengan-selagi-almost-di-perayaan-hari-anak",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T04:22:43Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Rekomendasi Film Keren Robert Pattinson selain The Batman",
+   "snip": "Berikut sinopsis 5 rekomendasi film Robert Pattinson di luar waralaba populer dan rekor box officenya.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/20/film-the-lighthouse-2019-1795161623126_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261120144810-220-1429530/tak-cuma-twilight-dan-batman-ini-5-film-lain-robert-pattinson",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T04:00:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Puteri Anak Remaja Jakarta 2026 Borong Prestasi Nasional, Christabel Katherine Raih Runner Up IV",
+   "snip": "Christabel Katherine, Delegasi Puteri Anak Remaja Jakarta 2026 bawa pulang prestasi sebagai Runner Up IV Puteri Batik Remaja Pendidikan Indonesia.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/og6iW2BT5Bztsb3U2cCl7FsO38Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403431/original/040530300_1795402969-ChristabelKatherine.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340464/puteri-anak-remaja-jakarta-2026-borong-prestasi-nasional-christabel-katherine-raih-runner-up-iv",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T03:02:49Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Irish Bella Gelar Tasyakuran Kehamilan, Minta Doa Kelancaran Persalinan",
+   "snip": "Irish Bella menggelar doa bersama memohon kelancaran persalinan anak pertamanya dengan Haldy Sabri. Simak selengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/mJTufONQf8nvJhD6KKk4NgXejas=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403419/original/063766000_1795402446-1280L6.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340459/potret-irish-bella-gelar-tasyakuran-kehamilan-minta-doa-kelancaran-persalinan",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T02:54:06Z"
+  },
+  {
+   "k": "news",
+   "u": "detikcom",
+   "name": "detikcom",
+   "av": "",
+   "followers": 0,
+   "cap": "Teka-teki di Konser MCR Jakarta: Layar Error sampai Surat Rahasia Soal Penculikan!",
+   "snip": "Teka-teki di Konser MCR Jakarta: Layar Error sampai Surat Rahasia Soal Penculikan! detikcom Ada Konser MCR, Perjalanan KRL JIS-Jakarta Kota Diperpanjang hingga Jam 23.32 detikNews Nostalgia Bersama My Chemical Romance, “Helena” Jadi Penutup",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFJBdk1rNFRYcDhSVmxrTG93blBJYTFJUGR5dHl4TUlBazRxSEdXTVdJMnJTa21MUkQyV2pMbHAwak9pUW5XSWV0alpJdVczMFZnRno2ZGtXb21GbkRWUlNBTUxibUlacHlvUjg4Z2xFN0FGMTdnQjJCOUJCVDc0YjJ0N28tOVlRSHpEd2ptdGVhdFRhdzlIU0VNZlNqMDVWOUFsbU4wcE8tNF9Gd0QydGlMUkxCUHBJNWVFamswZ9IBxAFBVV95cUxQSHBZOE5aUUNiVWhIVTVCbVptWUY3Y3czanlJMmdEMURybXFfTVpVS1J3VEh5U25wV1c2V1ZvMnZDWjhaYW9pS0xhZjlIdmlQb0lZYjd4Q3NxSkxRV3NQM3NOZ21pVDJVNklvMEZrNS10WHpCUG4xbkFwNjQ4MDU4M3ljVFFEZjRCLW9TeDFrVE9VNDFwU2pySFNqbDFWUjVCUVhDbVhFWUdDX3RFd2hNdWw2dVJqMHZjaGhmVFlsa1M2d0do?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikcom"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T02:19:40Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Jessica Iskandar Turun dari 80 Kg ke 60-an, Cerita Diet Setelah Berhenti Menyusui Hagia",
+   "snip": "Meski begitu, Jessica Iskandar mengatakan proses penurunan berat badannya membutuhkan waktu. Simak selengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/kh3d6iebHFgdgVt4ZIBua4l66K4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403393/original/052173900_1795399156-L6inijedar_1794545292_4029259037241475236_54305422.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340422/jessica-iskandar-turun-dari-80-kg-ke-60-an-cerita-diet-setelah-berhenti-menyusui-hagia",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T01:59:16Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Bantahan Erin soal Pengacara Mundur: Saya Lebih Dulu Cabut Surat Kuasa",
+   "snip": "Erin membantah klaim mantan tim kuasa hukumnya dari Misyal dan Partners yang mengaku mengundurkan diri dalam menangani kasus dugaan penganiayaan mantan ART.",
+   "img": "https://akcdn.detik.net.id/visual/2025/10/18/erin-taulany-1760776421339_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261123073313-234-1430223/bantahan-erin-soal-pengacara-mundur-saya-lebih-dulu-cabut-surat-kuasa",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T01:45:01Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Imam Darto Nekat Bakar Patung 8 Meter di Hungry Ghost Festival",
+   "snip": "Imam Darto menyebut, tinggi patung tersebut bahkan melampaui klenteng yang menjadi lokasi adegan. Simak selengkapnya di sini.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/c6SXQW8ulPfo442smnk6yG6xz0M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403374/original/068239800_1795397437-1280.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8340391/imam-darto-nekat-bakar-patung-8-meter-di-hungry-ghost-festival",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T01:30:37Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Alasan Gelar Miss Universe Vietnam 2026 Dicopot, Baru 48 Hari Dinobatkan",
+   "snip": "Alasan Gelar Miss Universe Vietnam 2026 Dicopot, Baru 48 Hari Dinobatkan Wolipop Miss Universe Vietnam 2026 Dicopot Gelar 48 Hari usai Menang, Kenapa? CNN Indonesia Gelar Miss Universe Vietnam 2026 Quynh Anh Nguyen Dicabut, Ini Penyebabnya ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTi0tLVB4NUg4Y3JDTGpkdUtXbEhIMGdZRlZTRkEtUUV2QzdrV1A5VjRnSmlFOEdvU1J6emtEMmxtbjhwMUJ2UDcwVUc1cUJHaldLZUZuX2JHLS1mMnlRbXNiM012bURNbWJIRGNLVjljdlB0LWhXLUhvOUhoYlItUTBGQ3B0LU50WFpDVUdjWmVFV3dZeWh0Qi1oZlh6SWdwb3lsWEM0RVFTemJhWXVXR21ZNlNfVzljR2VvMdIBwgFBVV95cUxQTzgtVnctU0VzSWhDYmJEbXRnaTZ2NmtWVXJILXpmS0ZBa1Y3RC1INXExUWxGMWdDVnJoR2xGMnY5OExhZmFxMDVZb2I1N3h6bkxiakwzT0FLYjYtNkVrd01CYjRVcVd3M18xWUxSa3lLMTV3UGRON2x0ZVpYNVByMDlhWmFNZjR3MVlUMlBUWUdRZm9Da01XaW0yTXNkN2o3QkxuX1QzWkJRTldaNldLampORVlKdjRrZmhGXzNwYWVDZw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T01:00:30Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Van Gogh Cetak Rekor Lelang, Lukisan Terjual Rp3,48 Triliun",
+   "snip": "Lukisan Vincent van Gogh berjudul Chataigniers en fleurs (Chestnut Trees in Blossom) cetak rekor dengan terjual Rp3,48 T dalam lelang.",
+   "img": "https://akcdn.detik.net.id/visual/2026/11/19/chataigniers-en-fleurs-van-gogh-1795087746422_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261119182945-241-1429156/van-gogh-cetak-rekor-lelang-lukisan-terjual-rp348-triliun",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-23T01:00:08Z"
   },
   {
    "k": "news",
@@ -241,58 +521,78 @@
    "com": 0,
    "m": 2,
    "src": [
-    "detikHOT",
+    "detikcom",
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 58,
+   "sc": 48,
    "ts": "2026-11-22T01:10:28Z"
   },
   {
    "k": "news",
-   "u": "Liputan6",
-   "name": "Liputan6",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Konser My Chemical Romance, Transjakarta Perpanjang Operasional",
-   "snip": "Penonton konser MCR di JIS dapat memanfaatkan sejumlah rute Transjakarta dan Mikrotrans dari halte JIS, Bus Stop Taman BMW, hingga Stadion BMW.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/3oynbWZp6rmGCutBNwePc1MGTdE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4154931/original/062656900_1662971921-Bus_Transjakarta_Kembali_Beroperasi_24_Jam-merdeka-1.JPG",
+   "cap": "IU Konser Dua Hari di JIS, 8 dan 9 Mei 2027",
+   "snip": "IU akan konser dua hari di Jakarta Internasional Stadium (JIS) Indonesia pada 8 dan 9 Mei 2027.",
+   "img": "https://akcdn.detik.net.id/visual/2023/05/11/iu-1_169.png?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/news/read/8340071/konser-my-chemical-romance-transjakarta-perpanjang-operasional",
+   "url": "https://www.cnnindonesia.com/hiburan/20261122224335-227-1430187/iu-akan-kembali-konser-di-jakarta-8-dan-9-mei-2027",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "Tempo",
-    "Liputan6"
+    "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 58,
-   "ts": "2026-11-22T05:14:40Z"
+   "sc": 40,
+   "ts": "2026-11-22T23:30:06Z"
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
+   "u": "detikcom",
+   "name": "detikcom",
    "av": "",
    "followers": 0,
-   "cap": "Sean Gelael dan Hana Malasan Menikah, Mahar Ikuti Tanggal Akad",
-   "snip": "Sean Gelael dan Hana Malasan menikah pada 21 November 2026. Simak mahar, busana pengantin, tamu, perjalanan cinta, dan profil singkat pasangan ini.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/kUKklhgHSeoqfQrVNmQPfpydDxc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402979/original/097112200_1795308624-L6gelaelized_1795251259_4035181377913567168_214082509.jpg",
+   "cap": "OnlyFans Ubah Hidup Aktris Baywatch Erika Eleniak",
+   "snip": "OnlyFans Ubah Hidup Aktris Baywatch Erika Eleniak detikcom Lihat judul & perspektif lainnya di Google Berita",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339973/sean-gelael-dan-hana-malasan-menikah-mahar-ikuti-tanggal-akad",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWVaMDdwbHlhNVNpT0ZiQ29LLWU0Q05BWmprU1RMYUJIbkxKRTV0RUgwOXB5bGFibTM2MlZBVmFKYk10Y0dnNGlIRTlabmRZZWphX0oyV2FHT3ZJRzVUREhINDRvOFBWa0dKLWw0ZWtHbTMtYWQzUjNrZDY4RllVZllkZHg5V0llN3FzMDNyRXYxSl9tNVJvd0FB0gGfAUFVX3lxTFBqZGZBWm5SVmZMR1ZqTmtPb2R4SWRxNDI1VThxNGwxRURsUG9kRkRVWjFHSDVaa1doam5kQWNXYzNNMUJGcDNoanZPU1RUSnNiVjN3dTJTOUtzemp1M21BMkFGVU9LeEZ2eWtOM2hLanA2VVpVMzBla3RfcUxHZmtqVmxsVG5lMnZUSjdEUlN1SjZlRFg3ZkVpYkZjQXo3NA?oc=5",
    "likes": null,
    "com": 0,
-   "m": 2,
+   "m": 1,
    "src": [
-    "Liputan6 Showbiz",
-    "detikHOT"
+    "detikcom"
    ],
    "hot": [],
-   "sc": 58,
-   "ts": "2026-11-22T00:50:57Z"
+   "sc": 40,
+   "ts": "2026-11-22T22:30:46Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Aroma Pernikahan Bung Hatta & Rahmi 81 Tahun Diabadikan Lewat Parfum",
+   "snip": "Aroma Pernikahan Bung Hatta & Rahmi 81 Tahun Diabadikan Lewat Parfum Wolipop",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHZlcEh5WDVzb1p1QUg4OHZ0QThibjNVWDJWaWNfZjR2Z0pSVUtqWmtoaUgtaE1DQnZ3XzRUYml3ak5YcktyY2hzclVSLVpYdjJ0ME4zbXBaWXBSazFVOTNtcFhmMy1wWlJhbExFc0NlMWRrU29vQjVPV0E3bnpCODR5azl6RXlCUGtDOWU3d196clFDdGJYZGU4ajRUdU5zUjN2am12dUxJMnNLa1JLbjR2bzNxVC1CaVRNSVg3VdIBxAFBVV95cUxQLXBVOUctbEJFNjhuNE5zT296N3hEdE9JcjBWZlk1MUFCelEtNldZcTJSdlJvcVRRVHcteWR2cV9CVVh2V2Z4S1dQQ0tuRW0xWnV1eTlGWkJtOFBicGl4MXdxWXZPRDJDcndMSjFrZHktN041UFJGNzNRZGYxYVRHTXZGdGhzbmhIbmJmc0tlck9BTDVsb05Za3dMbzlkVEFXa01uV25aejh2bWNTR2xOcEpxR251R01GSVdMdklhY0tTSjRM?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-22T22:30:01Z"
   },
   {
    "k": "news",
@@ -313,7 +613,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-22T20:30:00Z"
   },
   {
@@ -335,76 +635,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-22T19:30:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Jessica Iskandar Komitmen Tak Bakal Operasi Plastik hingga Usia 50",
-   "snip": "Setelah revisi hidung di Korsel, Jessica Iskandar berkomitmen tidak akan menjalani operasi plastik lagi hingga usianya capai 50 tahun.",
-   "img": "https://akcdn.detik.net.id/visual/2022/05/07/jessica-iskandar-dan-vincent-verhaag-3_169.png?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261122181604-234-1430138/jessica-iskandar-komitmen-tak-bakal-operasi-plastik-hingga-usia-50",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 50,
-   "ts": "2026-11-22T18:00:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Joko Anwar Bocorkan Pengabdi Setan 3: Origin, Syutingnya di Prancis",
-   "snip": "Joko Anwar akhirnya buka suara sedikit nih tentang Pengabdi Setan 3. Simak penuturannya di sini!",
-   "img": "https://cdn0-production-images-kly.akamaized.net/sEI4e65X940WUlanktRULsgm4P4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9338286/original/006840200_1788321579-jokoanwar1280.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339888/joko-anwar-bocorkan-pengabdi-setan-3-origin-syutingnya-di-prancis",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "detikcom",
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 48,
-   "ts": "2026-11-21T15:03:06Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Pemenang Piala Citra FFI 2026 Soroti Wacana Pemindahan Badak Jawa",
-   "snip": "Para pemenang Piala Citra FFI 2026 buka suara soal isu pemindahan badak Jawa dari habitat aslinya di Ujung Kulon.",
-   "img": "https://akcdn.detik.net.id/visual/2023/10/23/ilustrasi-badak-cula-satu-atau-badak-jawa_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120231141-234-1429715/pemenang-piala-citra-ffi-2026-soroti-wacana-pemindahan-badak-jawa",
-   "likes": null,
-   "com": 0,
-   "m": 2,
-   "src": [
-    "CNN Indonesia",
-    "https://janalokajournal.id/"
-   ],
-   "hot": [],
-   "sc": 48,
-   "ts": "2026-11-21T05:25:04Z"
   },
   {
    "k": "news",
@@ -452,25 +684,25 @@
   },
   {
    "k": "news",
-   "u": "detikFood",
-   "name": "detikFood",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
    "av": "",
    "followers": 0,
-   "cap": "Tinggal di Amerika, Mawar AFI Asyik Minum Kopi hingga Ngemil Basreng",
-   "snip": "Tinggal di Amerika, Mawar AFI Asyik Minum Kopi hingga Ngemil Basreng detikFood Mawar AFI Tinggalkan Panggung dan Berkarier di Amerika www.suaralandak.co.id Siapa Mawar AFI? Eks Penyanyi yang Kini Banting Setir Jadi Caregiver di Amerika tvOn",
-   "img": "",
+   "cap": "Angga Yunanda Ungkap Rasa Syukur 'Para Perasuk' Raih Film Terbaik FFI 2026",
+   "snip": "Angga Yunanda bersyukur Para Perasuk meraih Film Cerita Panjang Terbaik FFI 2026, sementara sang istri, Shenina Cinnamon, menang sebagai Aktris Pilihan Penonton",
+   "img": "https://cdn0-production-images-kly.akamaized.net/l52_jqGJMqs3-U8g0dBmuFueTjA=/0x1107:3072x2838/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403294/original/031400300_1795358192-SaveClip.App_917426781_18662914792022454_5318041542427876_n.jpg",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkh0YmZLTkpTLTZyYjBYbFN5eEJ3Z0NxYzUyZ2NIbl9KaEszTU5TZUZBSFZCSnZRdzZQVHpzMm0xZk54UUpBUmYtalJOMDFOR21oZWM1WWVHWTExeVA0Y1RsNlptYmN1YVl3UG5FUlpQR2ZPZ1A1RXVJdVdrb2pheUpjc200cXFjYXJSUWo2b3o1TWtPVnozbk55X3dYbHdtd1V2dTFpZUZEZHg4WC1ESi00QdIBuAFBVV95cUxNMng3d3lpU21pSHV2bXZQekxGRnZrYWowRFNHajk1REhSOFlXLTNkdF9Gd2ExUnBUcnZsTGFyMGpibDNTaWVYR0Z3X3BzQmMyZmxKM25ySm5QWDJHWUItSW9aVXI2SXBKX0xhcTZjUmlnSVBvQW0zQUxfNEljMy1GWG4xVjI5WDI3SV8ybUtoSkI2ZmltbE42VEJ2bktBemROel9yM2QwMjRuTFhBbDVlWm1OdmhYR0E3?oc=5",
+   "url": "https://www.liputan6.com/showbiz/read/8340303/angga-yunanda-ungkap-rasa-syukur-para-perasuk-raih-film-terbaik-ffi-2026",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "detikFood"
+    "Liputan6 Showbiz"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-11-22T15:00:00Z"
+   "ts": "2026-11-22T15:33:52Z"
   },
   {
    "k": "news",
@@ -518,6 +750,28 @@
   },
   {
    "k": "news",
+   "u": "https://janalokajournal.id/",
+   "name": "https://janalokajournal.id/",
+   "av": "",
+   "followers": 0,
+   "cap": "Klarifikasi Erin Wartia Cabut Kuasa Hukum Misyal Partners di Kasus Penganiayaan ART",
+   "snip": "Klarifikasi Erin Wartia Cabut Kuasa Hukum Misyal Partners di Kasus Penganiayaan ART https://janalokajournal.id/ Jejak Perkara Erin Diduga Aniaya ART hingga Kini Jadi Tersangka detikNews Polisi benarkan eks istri Andre Taulany jadi tersangka",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29KbXowWC1vcUZBYXhLRzcwZWRMb0xwZVRXbGlZblVGSmhDZWlIYXc2NzR2Q0swWV9xNUdGem1IM0hsSzJjRnF2X25nR2F1Z3RNdVQwSTFzRU1aUEhMQnB5Y2dSc1NMZVVOQ3kzS1dWaWxVZ19EZ1k2bGJaQ0ctenNqNHVaYjdGRlF3Vk5wbnlKaUdTRDFrSFFOWXMwQU1IaExpT19iSk5fRThOUVJkTw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-22T14:34:02Z"
+  },
+  {
+   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
@@ -562,28 +816,6 @@
   },
   {
    "k": "news",
-   "u": "detikInet",
-   "name": "detikInet",
-   "av": "",
-   "followers": 0,
-   "cap": "Game PC Diskon Hingga 95% di Steam dan Epic Store, Ini Rekomendasinya",
-   "snip": "Game PC Diskon Hingga 95% di Steam dan Epic Store, Ini Rekomendasinya detikInet Steam dan Epic Games Store Pangkas Harga Game 21 November 2026 Demokratis.co.id Steam dan Epic Games Pangkas Harga Game PC hingga 95 Persen SuaraGarut.ID 50 Gam",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1M1a29JazFTVjQtcllsd1NmZGZFOFEtVkVUMTNyNVNLYnU4cUJybHhRVFRoVUFORF9Wb0RBU1NEeGhPRXJCdm13UGdHNGJiNmVHRlo1NTB0MTBaVHVIQVdhQlZ1R3N5S29qa250eUFWcXpocGItS1ZiRXZad1EwNjd2dkFjMnhIMTB0dE5xZnJmX1BIY1RneFNTbnByM1BGMFR3Tjc4b1FiOHpmUWh5T9IBtgFBVV95cUxNcGZNTjF5aW5nRzk1YkF0dGpjR0lieFNTZ3RYSmliYWdpaU5kdVI4N282M0JKcnU5a1M2VjBoT1MyeU9rcmllWkxOMlRZTUx0dm9FZmRkUjM1NjhrOVdfUE9KV2Q0VjNPNnJEalljcFJiSDVGeTVXZFdqVlpPcF90Skljc0xoVVdCWjJnUUtrQVpYWE1YVTRQaHo4LXJtMmZ2ME9yeFhFS1QzUHRLYmdYRlBkTWxGdw?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikInet"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T14:02:06Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -611,7 +843,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ada Konser MCR, Perjalanan KRL JIS-Jakarta Kota Diperpanjang hingga Jam 23.32",
-   "snip": "Ada Konser MCR, Perjalanan KRL JIS-Jakarta Kota Diperpanjang hingga Jam 23.32 detikNews Transjakarta perpanjang jam layanan rute 14A hingga pukul 01.00 WIB hari ini dukung konser MCR ANTARA News Megapolitan \"Welcome to the Black Parade\" Akh",
+   "snip": "Ada Konser MCR, Perjalanan KRL JIS-Jakarta Kota Diperpanjang hingga Jam 23.32 detikNews Nostalgia Bersama My Chemical Romance, “Helena” Jadi Penutup Konser Kompas.com Prediksi Setlist Konser My Chemical Romance Jakarta 2026 CNN Indonesia De",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -672,6 +904,28 @@
   },
   {
    "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Jadi Aktor Meski Introvert, Endy Arfian Pilih Tidur Seharian Buat Recharge",
+   "snip": "Jadi Aktor Meski Introvert, Endy Arfian Pilih Tidur Seharian Buat Recharge detikHOT Endy Arfian Akui Interaksi Sosial Menguras Energi SuaraGarut.ID Endy Arfian Pilih Tidur Seharian untuk Memulihkan Energi Usai Bersosialisasi Qoo Media Endy ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjh2Nk5td09mYzJZb2N2eFNuWEZzVFJreGxKVWJRMGhUVmJzS2w5WGp1M0ZYMXRVQzNrUnhyX1Q3S0J0ZldDZGw5S2Nfam82MElHeUstS1c2QXhjbXBEdVhybW9zaEJTOFJLTVZPYm5yaUx0WUVhcmJEMDkxTHkwTWlsakh6NElrcjlWdzV6M0pwTjlhT3h4UUxkZEFFbDBKUWE0d08yQ04tM0lrSl95R9IBtgFBVV95cUxQeE9FLUI5eVNwcFBqRlNkYklkZE93Ym9MQl9oZmNYV2J6WXFja1hkU3ZzZ2pCVzVKM01zWGRVV2tuUjUzYU1SaERveXF0eXNDckVYVEpkMmV2QU9JREJ6Wm9mNmRlVDFPZ2ZLeGhHREc4elFITjJOaXI5NFdpZnBGQU1ZWGJ3ZnlOOGdSaF9Xak8yaW5wQk4yTnVLVkNWVUZGdjBZN1FCUmFXT09UcDdNSFEwNjV1QQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-22T11:50:38Z"
+  },
+  {
+   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -721,7 +975,7 @@
    "av": "",
    "followers": 0,
    "cap": "Miley Cyrus Resmi Menikah, Tampil Sederhana dengan Gaun Putih Low Back",
-   "snip": "Miley Cyrus Resmi Menikah, Tampil Sederhana dengan Gaun Putih Low Back Wolipop Terungkap! Menu Makan Malam di Pernikahan Miley Cyrus dan Maxx Morando detikFood Terkonfirmasi, Miley Cyrus dan Maxx Morando Akhirnya Menikah CNN Indonesia Perja",
+   "snip": "Miley Cyrus Resmi Menikah, Tampil Sederhana dengan Gaun Putih Low Back Wolipop Terungkap! Menu Makan Malam di Pernikahan Miley Cyrus dan Maxx Morando detikFood Berawal dari Kencan Buta, Miley Cyrus Menikah dengan Maxx Morando CNBC Indonesia",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -760,28 +1014,6 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "IShowSpeed Ngelantur Pakai Bahasa Indonesia 2 Hari Begadang Main GTA VI",
-   "snip": "IShowSpeed Ngelantur Pakai Bahasa Indonesia 2 Hari Begadang Main GTA VI detikcom Main GTA 6 Selama 52 Jam Tanpa Tidur, IShowSpeed Berakhir Nangis detikInet IShowSpeed Tolak Tidur Saat Streaming GTA VI Dua Hari Lensa Hukum IShowSpeed Tamatka",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHdwVUlLSkJGdzllZjZ4Z19KT1dmN3FCeHJSTkdvWGpiZFk3VjUtVGJfczY5Ri1zamdXSUVSSzZiS0EtSFNvUDAwMUF1YTBKemU2RHBIbmEwSUJsRDdTQ1RtWjgyTVNLazFfZkk1VGJOM2lacnotOGpqR1d2dGg5aGdLZ2RnTFBjc2JIOXJocVA0QnV6U3lSa21lVHlQbkxzSWxuUTNiN0Y2c282ZVVqLTFnT3lkTknSAbwBQVVfeXFMTnVVbVJqQXNDRlVXZ3R4ZEg5SHdEWTJDT21BZjJRaFlzSExNU3F4SkJxaVVJYm41U0Z3cEttZlVWZ2Q1ZEcxMGh5UTZRZWRHcDhiTE1yeFBnVHR2bXhhWGl0X2FJcm14XzR2ZEM4Y0pzUW5fajc2RTBDdXVlUDJHdXNlbDdxbUxHSExrSHBkMzhVQlNrdlFfMXB3Y196VGxsSzA4SXhhaTU4WEJvd0RsbmdjcTR5aGJXekVTRnA?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T10:01:50Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -808,28 +1040,6 @@
    "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Terkonfirmasi, Miley Cyrus dan Maxx Morando Akhirnya Menikah",
-   "snip": "Miley Cyrus dan Maxx Morando resmi menikah di California pada Sabtu (21/11).",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/22/miley-cyrus-dan-maxx-morando-1795336546603_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261122152625-234-1430090/terkonfirmasi-miley-cyrus-dan-maxx-morando-akhirnya-menikah",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T08:50:00Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
    "cap": "Teater Musikal Upin dan Ipin di Jakarta Ditunda, Belum Ada Tanggal Baru",
    "snip": "Teater musikal Upin dan Ipin di Jakarta pada 19 Desember 2026 mendatang dibatalkan. Belum ada pengumuman lagi mengenai tanggal penggantinya.",
    "img": "https://akcdn.detik.net.id/visual/2026/10/07/teater-musikal-upin-dan-upin-1791344346118_169.jpeg?w=360&q=90",
@@ -845,28 +1055,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-22T08:30:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Tempo",
-   "name": "Tempo",
-   "av": "",
-   "followers": 0,
-   "cap": "US: ICE Arrests 2 at Seattle Airport in 'Chilling' Scenes, Says Governor",
-   "snip": "Washington's governor has denounced the arrests made by ICE officers at Seattle's airport, calling the incident \"horrific.\"",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://en.tempo.co/read/2124165/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-says-governor",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Tempo"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T08:21:26Z"
   },
   {
    "k": "news",
@@ -958,25 +1146,48 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
    "av": "",
    "followers": 0,
-   "cap": "Putu Wijaya Hadirkan Pementasan 'TUMPAH DARAH 2' yang Menggugat Arti Kepahlawan",
-   "snip": "Putu Wijaya menyampaikan sejumlah kritik sosial lewat teater ini. Simak selengkapnya di sini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/7vTf7W9OYRytem7Kuk52sbq77oQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403119/original/059538500_1795322847-1280L6.jpg",
+   "cap": "Pemenang Piala Citra FFI 2026 Soroti Wacana Pemindahan Badak Jawa",
+   "snip": "Para pemenang Piala Citra FFI 2026 buka suara soal isu pemindahan badak Jawa dari habitat aslinya di Ujung Kulon.",
+   "img": "https://akcdn.detik.net.id/visual/2023/10/23/ilustrasi-badak-cula-satu-atau-badak-jawa_169.jpeg?w=360&q=90",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8340060/putu-wijaya-hadirkan-pementasan-tumpah-darah-2-yang-menggugat-arti-kepahlawan",
+   "url": "https://www.cnnindonesia.com/hiburan/20261120231141-234-1429715/pemenang-piala-citra-ffi-2026-soroti-wacana-pemindahan-badak-jawa",
+   "likes": null,
+   "com": 0,
+   "m": 2,
+   "src": [
+    "CNN Indonesia",
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 38,
+   "ts": "2026-11-21T05:25:04Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Healing Time! Serba-serbi Fuji ke Eropa Bareng Rakin dan Adik-adiknya",
+   "snip": "Healing Time! Serba-serbi Fuji ke Eropa Bareng Rakin dan Adik-adiknya detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTBxZllIZ0RxSEp6TDVtMTZseFp1QzZMVkw0cy1rVE5XUXRkZXI0UUNIbW1URzgxeHlKMkc5bkUxNVhhczB2bDlHeGVWM2hrZXNBUk5WcEgxaVhyd0pRaWR3NUpTMVNUMVJxeU03WjNKNWtKdWpVNXFlbEJKRlZkOWpfR2Zob0ZPdzlvdkZTSnRPbDNscWs4bjNzM0w4T2pyNFMzN1VERTZfUdIBrwFBVV95cUxOUTVNNXp4MFFkNEhLd01oRkZQMHVIRXRnZ0F5QXBIT3RIOW5xa2pBek1VZXY0SjU2MEdOZFdsUDlPZWhYNDh2WXJKcWtwOGZDeEFkOFhFXzcxMDV0YWhOLU1JaUdzOVJwS0hEX1BQeFRqNmZOQWF2Vnk5alpHckRpYzJhUFQyYmVnN2NIRVdOYXZwNnhxTkFyTFVhU0E3c1hscGM5SE9pdDFnWEx1M204?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Liputan6 Showbiz"
+    "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T04:47:27Z"
+   "sc": 30,
+   "ts": "2026-11-22T05:12:18Z"
   },
   {
    "k": "news",
@@ -997,74 +1208,8 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-22T04:15:33Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Ersa Mayori Wisuda S2 di LSPR, Rayakan Momen Bahagia Bersama Keluarga",
-   "snip": "Dalam prosesi wisuda LSPR 2026, Ersa Mayori menjadi salah satu lulusan program magister. Ia berhasil meraih gelar Magister Ilmu Komunikasi (M.I.Kom).",
-   "img": "https://cdn1-production-images-kly.akamaized.net/xF-2HvUUuYzzwRBV1Fh5AAus4q0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403055/original/030796600_1795318754-1280L6.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8340027/ersa-mayori-wisuda-s2-di-lspr-rayakan-momen-bahagia-bersama-keluarga",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T03:39:14Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Prince Poetiray Rilis Lagu Cinta 'Ada Dia', Dapat Dinikmati Segala Usia",
-   "snip": "Bagi Prince Poetiray, lagu barunya ini dapat dinikmati siapa saja karena rasa suka dan rindu kepada seseorang merupakan pengalaman yang universal.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/d1cz0QTTWkjfsxRqoO4sn5ucxcs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403024/original/093418000_1795315266-1280l6.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8340004/prince-poetiray-rilis-lagu-cinta-ada-dia-dapat-dinikmati-segala-usia",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T02:41:06Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Penyanyi Icha Yang bakal Tampil di China, Unjuk Kemampuan di Global Variety Show CCTV4 Beijing",
-   "snip": "Undangan tersebut menjadi kesempatan bagi Icha Yang untuk memperkenalkan kemampuan vokalnya sekaligus membawa karya musik Indonesia ke panggung hiburan internas",
-   "img": "https://cdn1-production-images-kly.akamaized.net/V7ngkMv3bph2nVXGYEXSN16mtMA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9403006/original/079067700_1795313897-L6WhatsApp_Image_2026-11-22_at_06.03.22__1_.jpeg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339992/penyanyi-icha-yang-bakal-tampil-di-china-unjuk-kemampuan-di-global-variety-show-cctv4-beijing",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T02:20:54Z"
   },
   {
    "k": "news",
@@ -1085,30 +1230,8 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-22T02:10:00Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Lomba Sihir Ajak Penggemar Rehat Sejenak dari Hiruk Pikuk Dunia di Konser Ujung Dunia",
-   "snip": "Lomba Sihir mengingat kembali perjalanan Lomba Sihir selama lima tahun terakhir.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/tIIoNB1QYfq6UoIwb9Z60-2jjgY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402985/original/074273000_1795310867-IMG_7021.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339977/lomba-sihir-ajak-penggemar-rehat-sejenak-dari-hiruk-pikuk-dunia-di-konser-ujung-dunia",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T01:29:00Z"
   },
   {
    "k": "news",
@@ -1129,30 +1252,30 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-22T01:08:57Z"
   },
   {
    "k": "news",
-   "u": "Wolipop",
-   "name": "Wolipop",
+   "u": "detikHOT",
+   "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Leonardo DiCaprio Dikritik Rayakan Ultah ke-52 Bareng Wanita Muda",
-   "snip": "Leonardo DiCaprio Dikritik Rayakan Ultah ke-52 Bareng Wanita Muda Wolipop Lihat judul & perspektif lainnya di Google Berita",
+   "cap": "Selamat! Angela Lorenza Resmi Jadi Ibu",
+   "snip": "Selamat! Angela Lorenza Resmi Jadi Ibu detikHOT Angela Lorenza Melahirkan Anak Pertama Jawa Pos Angela Lorenza Bagikan Kabar Bahagia, Resmi Jadi Mama dari Arkano Owen Suwu Popnews.id 5 Tahun Pacaran, Perjalanan Cinta Angela Lorenza-Richard ",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0JmeHJWQVdMNHNDanJ1bDlqYWd5Ni02TTRmMU11WFBfMW43Q0M2YXVQVHFSVjdoRV9qZG5sRmV3eEZhVUIyNU42aldfdWhNSC1sZWZ2YUlra0NybzJhNS1xWk1DZlc3YWFuWFY2Y0I1VlJhNkFiWlNyQ0hyNkpvamhXamJzZUxoQnV3UFhwVGZ4UFM0SEcyYTgyT2JrWXRPZS1IaXZtNVc5WFEwYXZxcW82NTlRTl9Dc2w2ZtIBwgFBVV95cUxNWkloUTJuWXU2MjJsSkRjY3o5SmhTdEVLLTU0aXRLOFdHWllVUk55U0pkV0s5R2tHOG5fcUkwTE5TR05MTlFjNndqMDdSRmtjYnNmQlZEckNxRjdjQzNydjV2S0xqb0laRWdwX3FJZnBRdnFscnpFdVkwejROV0Q5S1YwTjU4VTdDdlNxdnV1Y0hfdUtfS1M3OUVvWjQ4dElNeVpncWp4WTdyV01BNi1mTUhQVXk3T25DWWlkeE5FUDVFQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWw0Z0VDTjRkeks2NWk2dW9QNU50MVE0emU0UUpkQU1rdHBPUWtVRjVKOVFINWpZVm5XcENDQUtOUTVwbjZOUEpUd1RRc1JIbm1GTHFJamtrTzRrVXptUlVBcnF5ZjlyQ0xaZW9lOHZQSnJmYWtSQUdMbGxnX1EyZ9IBhgFBVV95cUxPbE1VOFVQeW80cnFyT0VYczBDVkhNc3N0cWoxanQtU29fVkQzdzhlb0c1ZmpFbXRKN3h4SDlydmVocHI0MWg1MzFEQXJ5eTB2VGlnbjNNb29pU2xFUmxMLXdXYXZzQUV1emlWSi0tQ2E0amw2d2lBZXhfM3NFMG9hUGdiSWFZQQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Wolipop"
+    "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
-   "ts": "2026-11-22T00:00:06Z"
+   "sc": 30,
+   "ts": "2026-11-21T23:12:19Z"
   },
   {
    "k": "news",
@@ -1161,7 +1284,7 @@
    "av": "",
    "followers": 0,
    "cap": "Ramalan Shio Hari Ini Minggu 22 November 2026, Lengkap dari Karier hingga Jodoh",
-   "snip": "Ramalan Shio Hari Ini Minggu 22 November 2026, Lengkap dari Karier hingga Jodoh TOPIK.ID Ramalan Shio Hari Ini 20 November 2026: 4 Shio Akhiri Persoalan Lama Kompas.com Ramalan Shio Hari Ini: Cek Peruntungan Karier, Uang hingga Cinta detikc",
+   "snip": "Ramalan Shio Hari Ini Minggu 22 November 2026, Lengkap dari Karier hingga Jodoh TOPIK.ID Ramalan 12 Shio Minggu Ini 23-29 November 2026, Siapa yang Beruntung? Kompas.com Ramalan Shio Hari Ini: Cek Peruntungan Karier, Uang hingga Cinta detik",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1222,28 +1345,6 @@
   },
   {
    "k": "news",
-   "u": "https://janalokajournal.id/",
-   "name": "https://janalokajournal.id/",
-   "av": "",
-   "followers": 0,
-   "cap": "Klarifikasi Rien Wartia Trigina Soal Pengunduran Diri Pengacara",
-   "snip": "Klarifikasi Rien Wartia Trigina Soal Pengunduran Diri Pengacara https://janalokajournal.id/ Polisi benarkan eks istri Andre Taulany jadi tersangka penganiayaan ART ANTARA News Yogyakarta Jadi Tersangka dan Pengacara Mundur, Erin: Saya Yang ",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0xOb0hKR2pCUld0ZGxhak5EZktHRzhEQVNsX0JyZ21JdE9PQUhRWWxLeWpIeWtRYV8tdzdBZnZhSHNQTTJ2QjEzZnFtTGtWWmxOV3Z5WVZfX3NibTMwdFpXdFpGM1NPU0ctWVUyTUl0Vnh1bk9INTRYS2otc0VVRjdjbFhWNzhPVFNUZlNJajh6U2JwX2c?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "https://janalokajournal.id/"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-21T16:33:58Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -1263,94 +1364,6 @@
    "hot": [],
    "sc": 30,
    "ts": "2026-11-21T16:30:25Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Lomba Sihir Rayakan 5 Tahun Berkarya Lewat Konser Ujung Dunia, Hadirkan Oasis untuk Fans",
-   "snip": "Konser Ujung Dunia dari Lomba Sihir menampilkan lagu-lagu dalam perjalanan lima tahun grup ini.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/1_F9vb9ob9o59-A75g3xy5vFq48=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402928/original/000852100_1795276575-lomba_sihir_3.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339912/lomba-sihir-rayakan-5-tahun-berkarya-lewat-konser-ujung-dunia-hadirkan-oasis-untuk-fans",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-21T15:58:07Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Selfie Arbil DA7 & Melly Lee di Audisi Bintang Pantura 2026",
-   "snip": "Selfie Arbil DA7 dan Melly Lee di balik panggung audisi offline Bintang Pantura 2026 Bekasi mencuri perhatian. Simak gaya mereka dan info lengkap audisinya.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/mK29EBgL5SJ9Z6Nd1XZ4JzYzyCg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402927/original/036212100_1795276469-SnapInsta.to_887514958_18251199412312164_5728214770200600147_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339911/selfie-arbil-da7-amp-melly-lee-di-audisi-bintang-pantura-2026",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-21T15:54:30Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Mundur dari Kuasa Hukum Erin Wartia, Ramzy Brata Sungkar Singgung Kewajiban yang Belum Dibayar",
-   "snip": "Salah satu mantan kuasa hukum Erin Wartia, Ramzy Brata, menjelaskan alasan kenapa mundur. Apa ada dengan kewajiban yang belum dibayar?",
-   "img": "https://cdn1-production-images-kly.akamaized.net/_0KDYa1GNN4bJPIi3uljtCFauac=/1x354:1080x962/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6480159/original/080459800_1779339998-ClipDown.com_630720213_18559791919035847_8752075874973869278_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339901/mundur-dari-kuasa-hukum-erin-wartia-ramzy-brata-sungkar-singgung-kewajiban-yang-belum-dibayar",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-21T15:30:44Z"
-  },
-  {
-   "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "Stefan William Comeback ke Sinetron Setelah Hiatus, Ini Alasannya",
-   "snip": "Stefan William akhirnya main sinetron lagi. Buat yang sudah kangen dengan akting Stefan, yuk simak alasannya terjun ke dunia sinetron lagi!",
-   "img": "https://cdn0-production-images-kly.akamaized.net/X_lQHdyymsQ9XpKc4MPEYaTc-B8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402917/original/056230200_1795274550-19147.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8339896/stefan-william-comeback-ke-sinetron-setelah-hiatus-ini-alasannya",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-21T15:22:30Z"
   },
   {
    "k": "news",
@@ -1380,12 +1393,12 @@
    "name": "Kompas.com",
    "av": "",
    "followers": 0,
-   "cap": "5 Gaya Maternity Maudy Ayunda di FFI 2026, Ada Simbol Salam Tiga Jari",
-   "snip": "5 Gaya Maternity Maudy Ayunda di FFI 2026, Ada Simbol Salam Tiga Jari Kompas.com Visual Maudy Ayunda Bumil 8 Bulan, Pakai Tusuk Konde Gak Mainstream detikHOT Luna Maya hingga Mikha Tambayong, Intip Gaya Wastra Aktris di Festival Film Indone",
+   "cap": "9 Dewa Gitar Buka Konser Guns N' Roses di Jakarta",
+   "snip": "9 Dewa Gitar Buka Konser Guns N' Roses di Jakarta Kompas.com Gara-gara Guns N' Roses, Transjakarta perpanjang jam operasional ANTARA News Makassar Hujan Saat Konser Guns N' Roses di GBK, Pedagang Musiman Ketiban Rezeki Kompas.com Gegana Pol",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnJQaS0wSnVlWW5fdW4ta0N1anBmcUF4Y2daVDloQkpheVJaYV9EQy1IeXJTMHlfVC11WkJuZ2F5dzJWQlVhaTd5WklaM0hzX2o4Y2k0cWN2dlZldkxKRmVMRnctT0R6bFJ5VVdsd2ZVSmNZNXdHT1dLWlF3NmtOS19jdTdGMndZLUFFY1VvQXljSjBMQ3BsZS1wRm5YN250d0VXeEZ2Y0s1c3p4SWY2TzNXa0FDd3ZGSGZ4WjZJX0o?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVFGa0xfZUxtN2pOeWJpSGNhN19lZWJTVHVheFNsRkRqWjBmUUd3QVNVWTh5WVVsUGFQZTVJaFE5OWlmNGpwcW9lX1ZZQWdXY2pSSHVpajNqeFNRTXRESFdTZ2t2cG9RY0JPSjhKc0hBQ1dLb2pGYUJValBReXZpYk9mQnMybWlhRVAwU19RUlpDbEQ5Z2M5UWRIQlExVEx3UzlGbU1GS1R2UTJBTzNOcw?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1394,7 +1407,29 @@
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-11-21T11:05:00Z"
+   "ts": "2026-11-21T12:48:00Z"
+  },
+  {
+   "k": "news",
+   "u": "https://janalokajournal.id/",
+   "name": "https://janalokajournal.id/",
+   "av": "",
+   "followers": 0,
+   "cap": "Profil Hana Malasan Istri Sean Gelael Yang 2 Kali Masuk Nominasi Piala Citra",
+   "snip": "Profil Hana Malasan Istri Sean Gelael Yang 2 Kali Masuk Nominasi Piala Citra https://janalokajournal.id/ Sean Gelael Resmi Menikahi Aktris Hana Malasan Dengan Mas Kawin Menarik https://janalokajournal.id/ 5 Gaya Akad Nikah Hana Malasan dan ",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUZDJnSmV6ZWUyblNIU3dCeFVvVXpPZzFNUFBoSUU2WUlmSGd1NHo1RDBCYjNEdG1nQWxEMXk2TTctNkdOWTc1VlNnQkdPYWFkNVJYZ0Ita3hYaUJiQnRnOW1hZFl4d3VnX25BUUJBNkFUam8?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "https://janalokajournal.id/"
+   ],
+   "hot": [],
+   "sc": 30,
+   "ts": "2026-11-21T10:23:13Z"
   },
   {
    "k": "news",
@@ -1415,7 +1450,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-21T05:35:35Z"
   },
   {
@@ -1424,12 +1459,12 @@
    "name": "radartvnews",
    "av": "",
    "followers": 0,
-   "cap": "MAMA Awards 2026 Resmi Digelar Hari Ini, ENHYPEN hingga BABYMONSTER Buka Panggung Osaka",
-   "snip": "MAMA Awards 2026 Resmi Digelar Hari Ini, ENHYPEN hingga BABYMONSTER Buka Panggung Osaka radartvnews Daftar Lengkap Pemenang MAMA 2026 Chapter 2, BTS Bawa Pulang Daesang Kompas.com Ini Daftar Lengkap Pemenang 2026 MAMA Awards, BTS Raih Daesa",
+   "cap": "ENHYPEN, ILLIT, TREASURE, dan CORTIS Raih Penghargaan di MAMA 2026, Siapa Paling Bersinar?",
+   "snip": "ENHYPEN, ILLIT, TREASURE, dan CORTIS Raih Penghargaan di MAMA 2026, Siapa Paling Bersinar? radartvnews Daftar Lengkap Pemenang MAMA 2026 Chapter 2, BTS Bawa Pulang Daesang Kompas.com Ini Daftar Lengkap Pemenang 2026 MAMA Awards, BTS Raih Da",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblBmRzJLSDVRSGtuUlFZek1PRTdCaHJKM0NEM2EyaGJIQVJuekdUSE5HN2d6VnAtUFRXczRlZzc4cGpoYXV1RjRTT3BUNE9KcGxjWjRYLUdMQllqT2tPT19PSUxjSFQ3R01mUEVxZ2JnQXJ5dE9oSHo0Q19ha1pPSjhMU2hxcTFtWVU1TENHNlA1MXd5bG1YS243U2FIQVJUbGNWRmhRU0E0T3ZtV2lYRjA3RmFoLWZvbjI3ZUFoY9IBxAFBVV95cUxQSERpM2tUY1QzdjVrVVhrT1NZaTk1MU4wa1NuVW9kUnFDaGE4cEI2cHJudUx2TUZKX0pfSHdOSWU4a054ejJFd2tjRk90M0RQcVJXV2dRLXJLRGtoaFFYRkZiUE5hZW9UT1BOOGM4c1dVcjlKU2ZyalN4UGVDRXZ4Rm5Nankwbm80TU5pVDUxTEJsSGVoSVNOTVB1aVFOVVB1Q252Y2RUYUxoRFg2MWV5UVhqbjJvZDZXbjQ0dzlXTmdRZDFp?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUtkYWU2LUNiYnlKU3pQX1lsVThuakctOFMydnI2STI3am83NEhkN1M0dXFrS2doWkEwZTVTcHh6ZzdiWUxDMmJELUp4RjYyaTNad19YR3FqbWdxMVVpY1Y5RDhjanBQeGI4eXdfN2U4cTRmZFNxanNldVM3V0l4d1BGckJDNmppLTgwZlFJQ0xOZktJU1hXVjBFbVBHVnNjUlRhZ0xod0pWTWtCNHR6OFJadjlUY3dXeUN5Q0Z30gHDAUFVX3lxTFBvTk04a2YtU2N2OTZGZkdoZVFnMkItMHkzcnFxRmNDYjg4UmxMRDFlN2YtTTVNdUlUZ1dkWTltaDN2ZTBaVUllNnhQU1V0NGl3OXdHeUdnaVNEZTJkakVZTWtFLUVzTEtidzcydU5kNFBMUURGVFdGa3EzN3ZvZE9mYXZjT1pzZ3k1WndVUUtnTlRENHlFR0hkWTJMZkVlbGVtcnhsTVNlcll1aVhXWmlfZGxMdUVPUkQxMlBvS0VoYkdaVQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
@@ -1437,30 +1472,8 @@
     "radartvnews"
    ],
    "hot": [],
-   "sc": 30,
-   "ts": "2026-11-21T04:36:33Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Antisipasi Banjir, Katon Bagaskara Patungan Bareng Tetangga Beli Pompa",
-   "snip": "Katon Bagaskara bersama tetangga patungan sendiri untuk membeli pompa air demi mengantisipasi banjir.",
-   "img": "https://akcdn.detik.net.id/visual/2014/11/30/19e3792e-9265-404a-8345-c08fa6a7fa82_169.jpg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261120152051-234-1429539/antisipasi-banjir-katon-bagaskara-patungan-bareng-tetangga-beli-pompa",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
    "sc": 20,
-   "ts": "2026-11-20T16:00:23Z"
+   "ts": "2026-11-20T18:26:34Z"
   },
   {
    "k": "news",
@@ -1469,7 +1482,7 @@
    "av": "",
    "followers": 0,
    "cap": "3 Zodiak Paling Beruntung soal Keuangan pada 23-29 November 2026",
-   "snip": "3 Zodiak Paling Beruntung soal Keuangan pada 23-29 November 2026 Kompas.com Peluang Sukses Terbuka Lebar! Leo, Scorpio, dan Taurus Diprediksi Beruntung Sebelum 22 November Sumut Pos Cancer Leo dan Taurus Berpeluang Raih Kemakmuran Finansial",
+   "snip": "3 Zodiak Paling Beruntung soal Keuangan pada 23-29 November 2026 Kompas.com Cancer Leo dan Taurus Berpeluang Raih Kemakmuran Finansial bsinews.id Rezeki Mengalir Tanpa Diduga, 4 Zodiak Ini Bakal Beruntung Minggu Depan Jawa Pos Minggu terakh",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1483,28 +1496,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-20T14:30:00Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Bintang Baywatch Ngaku Terselamatkan OnlyFans, Nyaris Diusir dari Rumah!",
-   "snip": "Bintang Baywatch Ngaku Terselamatkan OnlyFans, Nyaris Diusir dari Rumah! detikcom Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnJSdEpBRndKazY4SlVVaDNZd3F4RkN2YUt6WlZZRVl2Y3lhN2xaSXVja0VpUnZHZENtRkhBUzN2cWhScF9qM1dncGdZWmJxVUNQdEcydXBGS0gtUkdFYmhub0pSd1VJVmZOcGRYT2JKOUhYUHdRUmFwcDMxRVJxZ1NtWFVjaFljUnppV0pNQzA4VXdMczZBdHF1dVQ2Z182X2FzS19DVDBlb19iYzgtMGlqRzdtZ9IBuwFBVV95cUxPOTV2R0x3cjgzeURfaWx4X2RNc2VhZzIxeE5GVVQ4SVZ4X09iTV9tWFhPMFE2V1l3QTgxYzZzdndZLUJkN0Y1M2FUZVVjMFBJMVBWckFqcDlkM2d3T2lKeWpxaDJ5Q1dRMTg3Z19Dal81VnBDaWVDaEtWYXJqQXZjbHpJQ0V0UldXQVpLRUpqSWtDZHY5Z3QzLVBOUlJXT3JDaVVuTGJJczZpcHEyb0FadW1XaWhGNjlOYTl3?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-20T13:01:08Z"
   },
   {
    "k": "news",
@@ -1527,28 +1518,6 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-19T13:00:05Z"
-  },
-  {
-   "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "2 Toko Kue di Jakarta Masuk Daftar Toko Kue Terbaik di Dunia 2026",
-   "snip": "2 Toko Kue di Jakarta Masuk Daftar Toko Kue Terbaik di Dunia 2026 Kompas.com",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTR0NTVkMWMtN1RzQVo4ZC1iVWwtU1NHWTcycVczWDRHTEcyM0lrdGxPd01uVTFpVkY0YkNjYmZkR1B4alpHWG1FeE16YVB0NzJ5b29aUmI4cFhKN1lTcG9DMjNyVjBwTFRZYUZsZmxwQjI4bXp3d3l6aWQ2eFF3ZTZfSlNLczNDZnU2WmVnQUYtRVBWTEZtaUJDdkRnOG05YXcwbU1rNHZnUHMzY0dpYnJpNDZ6SzYwM0tMS2ZfRnRoQ09Vc0hV?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 20,
-   "ts": "2026-11-19T00:30:00Z"
   }
  ]
 }
