@@ -1,48 +1,6 @@
 {
  "topics": [
   {
-   "t": "Pertandingan Liga Eropa",
-   "q": "pertandingan liga eropa",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Pontianak Post",
-    "Peradaban.id",
-    "Goal.com"
-   ],
-   "d": "2026-11-27",
-   "url": "https://pontianakpost.jawapos.com/sepak-bola/2611260024/prediksi-skor-red-bull-salzburg-vs-ararat-armenia-di-liga-eropa-banteng-merah-mengamuk-di-kandang",
-   "n": "Prediksi Skor Red Bull Salzburg vs Ararat-Armenia di Liga Eropa: Banteng Merah Mengamuk di Kandang",
-   "vol": 100,
-   "vu": "pencarian"
-  },
-  {
-   "t": "Borac Vs Atalanta",
-   "q": "borac vs atalanta",
-   "cat": "Film & Series",
-   "reg": "ID",
-   "ch": [
-    "Google Trends",
-    "Portal Berita"
-   ],
-   "src": [
-    "Google Trends",
-    "Goal.com",
-    "Pontianak Post",
-    "Halaman Utama - ITERA"
-   ],
-   "d": "2026-11-27",
-   "url": "https://www.goal.com/id/berita/saksikan-borac-banja-luka-vs-atalanta-secara-langsung-hari-ini-siapa-yang-menayangkan-laga-ini-di-tv-dan-streaming/blt20f7d82031979b93",
-   "n": "Borac Banja Luka vs Atalanta: Siaran TV, streaming, waktu dan saluran | Goal.com Indonesia",
-   "vol": 200,
-   "vu": "pencarian"
-  },
-  {
    "t": "Daftar Pemenang Blue Dragon Film Awards 2026, HOPE Jadi Film Terbaik",
    "q": "Daftar Pemenang Blue Dragon Film Awards 2026, HOPE Jadi Film Terbaik",
    "cat": "Film & Series",
@@ -68,7 +26,7 @@
    ],
    "src": [
     "CNN Indonesia",
-    "detikHOT"
+    "https://janalokajournal.id/"
    ],
    "d": "2026-11-26",
    "url": "https://www.cnnindonesia.com/hiburan/20261126063921-234-1431593/maudy-ayunda-blak-blakan-soal-pertimbangkan-hiatus",
@@ -101,6 +59,160 @@
   },
   {
    "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Persiapan Syahrini Bongkar Persiapan Untuk Konser Tunggalnya",
+   "snip": "Jadwal latihan kerap selesai hingga dini hari, Syahrini menyebut ia harus lebih memperhatikan perawatan kulit dan kondisi tubuh. Selengkapnya di sini.",
+   "img": "https://cdn0-production-images-kly.akamaized.net/Cxn3KCIsjKWnFCLYnAJSeg4hTns=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9407013/original/013013200_1795746440-IMG-20261126-WA0063.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8343515/persiapan-syahrini-bongkar-persiapan-untuk-konser-tunggalnya",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-27T02:27:19Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Sutradara Twilight Nyaris Jatuh Tahu Robert Pattinson Jadi Bond",
+   "snip": "Sutradara Twilight, Catherine Hardwicke, mengaku nyaris terjatuh saat pertama kali mendengar kabar Robert Pattinson jadi James Bond.",
+   "img": "https://akcdn.detik.net.id/visual/2026/08/03/film-twilight-2008-1785739716204_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261127065332-220-1432102/sutradara-twilight-nyaris-jatuh-tahu-robert-pattinson-jadi-bond",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-27T02:00:09Z"
+  },
+  {
+   "k": "news",
+   "u": "Liputan6 Showbiz",
+   "name": "Liputan6 Showbiz",
+   "av": "",
+   "followers": 0,
+   "cap": "Dinda Ghania Buka Suara soal Sorotan Negatif dan Nepo Baby",
+   "snip": "Dinda Ghania menanggapi cap nepo baby dan berharap dikenal sebagai pribadi di luar latar keluarganya. Ia menyampaikan pesan itu sebelum membawakan lagu.",
+   "img": "https://cdn1-production-images-kly.akamaized.net/bEUKu19_VVzKG0n3zRSC6qfeEcU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9406989/original/033828300_1795744794-L6dinda.ghaniaa_1778180437_3891977907564961419_39285541657.jpg",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.liputan6.com/showbiz/read/8343499/dinda-ghania-buka-suara-soal-sorotan-negatif-dan-nepo-baby",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Liputan6 Showbiz"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-27T01:59:54Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Chow Yun Fat Cerita Momen Unik di Backtage Konser BIGBANG Hong Kong",
+   "snip": "Chow Yun Fat mengungkap cerita unik di balik pertemuannya dengan G-Dragon (GD) seusai konser BIGBANG di Hong Kong.",
+   "img": "https://akcdn.detik.net.id/visual/2018/12/24/62b03dcc-e3c7-499d-afdf-b0e3372848d8_169.jpeg?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261126114133-227-1431736/cerita-chow-yun-fat-ketemu-g-dragon-tak-boleh-foto-pakai-hp-sendiri",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-27T00:40:07Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "Prediksi Setlist Konser Simple Plan di Jakarta dan Surabaya",
+   "snip": "Simple Plan konser di Jakarta pada 27 November 2026 dan di Surabaya pada 28 November 2026.",
+   "img": "https://akcdn.detik.net.id/visual/2026/04/24/simple-plan-1777031395548_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261126190059-227-1432024/prediksi-setlist-konser-simple-plan-di-jakarta-dan-surabaya",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-26T23:20:06Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Potret Mayangsari & Bambang Trihatmodjo Jalan-jalan ke Eropa, Pamer Kemesraan",
+   "snip": "Potret Mayangsari & Bambang Trihatmodjo Jalan-jalan ke Eropa, Pamer Kemesraan Wolipop",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGFJQ1F6SjNSOVExMnRzODFCRU5wQlpQOXRnQXQxcTg4bFlfWTRyUWhzSmZ4Z2xpczRJdzRZMEZ6cTVfTUxLRy1DODhibU55UlprOENnSkw3Z3c4WDkyUUlmN2hEc20tYnR1WjBYaDRWanU2dEZHUkxNdFV3Z1ROU1ZqeGZjd1QwQjZXcW1jc2xWZ3k2ME1iS0Q2U1BPbEVwU3JpR1N2N3drR0g2d0pLSHprS3NRUUxweDVXTk8wVXFoZGxHQ25rMNIBzgFBVV95cUxOOFZaTDBLT1hKUldqa3FBZkh3ZThTUEt3RjNSYWFkc0dVaTVkbWcwX3ZVY2VITFhxOTE4S3REcmpNRDZzNlRQd1gwc3g3ajBvM09FU1lIUjJpTlpyUDhiTlVoWWJWTmc1WGVWaXpJN1E5X1d1clRzWXgzU08yNHEwZ3VYcVNBWnJoNGsxYzhHeFJiZUFkSjdQX0lubFlJNDRDTDdxbjlLY1RGZTlBVjFOWW1vcUdRSmVGdXFRX0tueFo2STJ2SGpjREFGYUpiQQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-26T23:15:09Z"
+  },
+  {
+   "k": "news",
+   "u": "CNN Indonesia",
+   "name": "CNN Indonesia",
+   "av": "",
+   "followers": 0,
+   "cap": "The Pitt Season 3 Tayang 7 Januari 2027",
+   "snip": "The Pitt Season 3 dikonfirmasi akan tayang mulai 7 Januari 2027.",
+   "img": "https://akcdn.detik.net.id/visual/2026/03/02/the-pitt-1772452452260_169.png?w=360&q=90",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://www.cnnindonesia.com/hiburan/20261126152131-220-1431910/the-pitt-season-3-tayang-7-januari-2027",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "CNN Indonesia"
+   ],
+   "hot": [],
+   "sc": 50,
+   "ts": "2026-11-26T22:00:23Z"
+  },
+  {
+   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -116,10 +228,10 @@
    "m": 2,
    "src": [
     "CNN Indonesia",
-    "detikHOT"
+    "https://janalokajournal.id/"
    ],
    "hot": [],
-   "sc": 58,
+   "sc": 48,
    "ts": "2026-11-26T01:40:08Z"
   },
   {
@@ -141,7 +253,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T17:25:18Z"
   },
   {
@@ -163,7 +275,7 @@
     "detikNews"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T16:59:57Z"
   },
   {
@@ -185,7 +297,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T16:00:23Z"
   },
   {
@@ -207,7 +319,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T15:23:34Z"
   },
   {
@@ -229,7 +341,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T15:00:00Z"
   },
   {
@@ -251,7 +363,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T14:48:27Z"
   },
   {
@@ -273,7 +385,7 @@
     "Liputan6 Showbiz"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T14:20:47Z"
   },
   {
@@ -295,7 +407,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 50,
+   "sc": 40,
    "ts": "2026-11-26T14:00:21Z"
   },
   {
@@ -388,28 +500,6 @@
   },
   {
    "k": "news",
-   "u": "YesAsia.ru",
-   "name": "YesAsia.ru",
-   "av": "",
-   "followers": 0,
-   "cap": "Perjalanan Seekor Monyet dari Cerita Hutan ke Dunia Fantasi, Inspirasi Karakter Shio dalam Karya Bertema Sugar Rush",
-   "snip": "Perjalanan Seekor Monyet dari Cerita Hutan ke Dunia Fantasi, Inspirasi Karakter Shio dalam Karya Bertema Sugar Rush YesAsia.ru",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVl9lR3hya1UyQjdYd2dkYUtQM203ZWhpbUFZSGwtSzEwV1YtanlyWFNwZmktYmxmMXVwWmZxSzRBRElQSXlVejV1RjlYU0tSY1gzU2NTdkRmYk1ENFhrZk96cmtOelI3d0steUx5aFV1ZHhIWURzT2RTMENwcGNXZ1BYN3Nlc2Z0eDQzVDRkS2xzU29yQVRjekwtNkd4MVMwRE0zTGRtU3YtdXZTbU5KOTNrc056dFdkNUdKalFSeFBrTFhRZk83ZjlWVEpqOS1CNU93eG9EUXBuZ0FBa0pTaUI1aW9IQXJZNUFNVHo2Y1JRR3hhRWl0c2JBVQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "YesAsia.ru"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T11:55:14Z"
-  },
-  {
-   "k": "news",
    "u": "Liputan6 Showbiz",
    "name": "Liputan6 Showbiz",
    "av": "",
@@ -481,7 +571,7 @@
    "av": "",
    "followers": 0,
    "cap": "Cara Andre Taulany Menghadapi Amanda Rigby Ketika Sedang Ngambek Dalam Rumah Tangga",
-   "snip": "Cara Andre Taulany Menghadapi Amanda Rigby Ketika Sedang Ngambek Dalam Rumah Tangga https://janalokajournal.id/ Amanda Rigby Ungkapkan Perasaan Setelah 2 Bulan Menikah Dengan Andre Taulany https://janalokajournal.id/ Tak Hanya Ganteng dan L",
+   "snip": "Cara Andre Taulany Menghadapi Amanda Rigby Ketika Sedang Ngambek Dalam Rumah Tangga https://janalokajournal.id/ Andre Taulany dan Amanda Rigby Spill Masalah Pembagian Biaya Pernikahan https://janalokajournal.id/ Dikira Tak Serius, Amanda Ri",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -561,6 +651,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-26T10:00:09Z"
+  },
+  {
+   "k": "news",
+   "u": "YesAsia.ru",
+   "name": "YesAsia.ru",
+   "av": "",
+   "followers": 0,
+   "cap": "Perjalanan Seekor Monyet dari Cerita Hutan ke Dunia Fantasi, Inspirasi Karakter Shio dalam Karya Bertema Sugar Rush",
+   "snip": "Perjalanan Seekor Monyet dari Cerita Hutan ke Dunia Fantasi, Inspirasi Karakter Shio dalam Karya Bertema Sugar Rush YesAsia.ru",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVl9lR3hya1UyQjdYd2dkYUtQM203ZWhpbUFZSGwtSzEwV1YtanlyWFNwZmktYmxmMXVwWmZxSzRBRElQSXlVejV1RjlYU0tSY1gzU2NTdkRmYk1ENFhrZk96cmtOelI3d0steUx5aFV1ZHhIWURzT2RTMENwcGNXZ1BYN3Nlc2Z0eDQzVDRkS2xzU29yQVRjekwtNkd4MVMwRE0zTGRtU3YtdXZTbU5KOTNrc056dFdkNUdKalFSeFBrTFhRZk83ZjlWVEpqOS1CNU93eG9EUXBuZ0FBa0pTaUI1aW9IQXJZNUFNVHo2Y1JRR3hhRWl0c2JBVQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "YesAsia.ru"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-26T09:45:37Z"
   },
   {
    "k": "news",
@@ -649,6 +761,28 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-26T09:19:04Z"
+  },
+  {
+   "k": "news",
+   "u": "TOPIK.ID",
+   "name": "TOPIK.ID",
+   "av": "",
+   "followers": 0,
+   "cap": "Ramalan Shio Hari Ini 27 November 2026, Cek Hoki, Karier, Keuangan dan Asmara",
+   "snip": "Ramalan Shio Hari Ini 27 November 2026, Cek Hoki, Karier, Keuangan dan Asmara TOPIK.ID 4 Shio Masuk Era Baru Lebih Kuat 26 November 2026, Kamu Termasuk? Kompas.com Ramalan Shio Hari Ini: Tikus, Macan dan Babi Perlu Waspada! detikcom Ramalan",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXB2QVkxNEVmV01ObGNPZlZiLVdIUEJCbUtmSFd4SUgxczIwaFdyRjBQT3prQWN4WFhCdHNCdFdSSnk3SS1qalhnRnhVdnJYOFQwOWJEZGtvVkFqOVpUWER6X2xIRVVqaVpVSU1wVE15d1JxS29xSkpjRHZXczlSZFVrOFREa0Uwa1JLTTNuUUxxcTk2NkVBRGRJVQ?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "TOPIK.ID"
+   ],
+   "hot": [],
+   "sc": 40,
+   "ts": "2026-11-26T09:18:50Z"
   },
   {
    "k": "news",
@@ -806,28 +940,6 @@
   },
   {
    "k": "news",
-   "u": "Liputan6 Showbiz",
-   "name": "Liputan6 Showbiz",
-   "av": "",
-   "followers": 0,
-   "cap": "El Rumi dan Syifa Hadju Umrah Bersama, Wujudkan Impian Lama",
-   "snip": "El Rumi dan Syifa Hadju menunaikan ibadah umrah bersama di Tanah Suci. Intip suasana khusyuk keduanya di Masjidil Haram dan ungkapan syukurnya di sini.",
-   "img": "https://cdn1-production-images-kly.akamaized.net/-Fh2c2vRfENVBwiVHUoeCKMuJxM=/0x1095:3000x2786/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9406451/original/026669900_1795679338-SaveClip.App_922316363_18645588649009536_1392600061943260478_n.jpg",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.liputan6.com/showbiz/read/8343061/el-rumi-dan-syifa-hadju-umrah-bersama-wujudkan-impian-lama",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Liputan6 Showbiz"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T08:15:21Z"
-  },
-  {
-   "k": "news",
    "u": "CNN Indonesia",
    "name": "CNN Indonesia",
    "av": "",
@@ -847,28 +959,6 @@
    "hot": [],
    "sc": 40,
    "ts": "2026-11-26T08:00:15Z"
-  },
-  {
-   "k": "news",
-   "u": "detikHOT",
-   "name": "detikHOT",
-   "av": "",
-   "followers": 0,
-   "cap": "Curhatan Eks Asisten Diana Pungky: 24 Jam Diminta Siaga-Gaji Gak Sepadan",
-   "snip": "Curhatan Eks Asisten Diana Pungky: 24 Jam Diminta Siaga-Gaji Gak Sepadan detikHOT YS Keluhkan Beban Kerja 33 Tahun kepada Kuasa Hukum SuaraGarut.ID Dipolisikan Diana Pungky atas Dugaan Penggelapan Dana, Terungkap Status Hukum Mantan Asisten",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFgwZEt2TUItUFJlQ3FaazkwbGhZRnVYNmJzcUU0UDRZN3FVVmNLSW5IT0l1cXdfX0VTQTRXdHRkQnl4ZUlxajBlYlBFNEVEV0ozQWNiR3dKVGxXZnhFaDBVeG5GZ3RrUktuRUNELVpfcGIzTWVCeklGbHhVMm5sVE01Ry1ZS2d6ajBNcWNvNkYtUDJoNTVrYzFFd3BXdnlPNUNaODQ2V3BKVEkyOWfSAbMBQVVfeXFMUERaS0dhVlFGcnJLeEVCai1pV0VYa2J6S3VSb3c1X3pIZ1JRTnlYc3REV1JqdGVZR1U2WC1Ydjg4bmZmUTF0NnlkdXF5cHZJMzFxaThESTA2Q1dlUktZR3I4R3ZuZlM1NC1qeHZqejRoMjRNVE05eGpjT0tDeTVMNnZyNjdQNEhINmo3NjN1SG81MjUxNkJCRFRSUDNuLVFXTmdDdVR1Zkhzc0UtQTJfV3d1ems?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikHOT"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T07:34:34Z"
   },
   {
    "k": "news",
@@ -916,34 +1006,12 @@
   },
   {
    "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Inherit: Susuk Anti Tua dari Thailand",
-   "snip": "Inherit: Susuk Anti Tua dari Thailand detikcom Review Film: Inherit CNN Indonesia Film Inherit Hadirkan Teror Lewat Sosok Tante Awet Muda bsinews.id Review Film Inherit: Horor Misteri Klasik dengan Sentuhan Drama Keluarga! Yoursay.id Inheri",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGcydWdYZFpvS1ZBWnlWQWh2a3M5UmozeXJjbjVzclpMQjVvWWVDX1IzSHVPd1RUYWVVeDN6SjkzMXk2MlBJS1NLUkpCVHB1SV96RFh0N200RnVxUm5KNzN4d2hmTVR0bzg5WnlQR1FkUUtZUHJXYnRsRDY4V3p1X0lFdEXSAZMBQVVfeXFMTlZPT05mMzFKbkFrSi1PaU42NTc3U2x6dWVoeXVCVU41OXExd3dIOHlfZUptdVlGLVo4cngweDdUeHZpQ09hRnNQVXJSSHFjNklJbkRWSVVJeEY1ampsM19ROENNWkxqU1ZnZ1Y3QTJ4bjNRZlpvNzNBUG1KTVB6ZEhWbmxWenlaTGtHT3JDZXU3YmF3?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T06:30:07Z"
-  },
-  {
-   "k": "news",
    "u": "https://janalokajournal.id/",
    "name": "https://janalokajournal.id/",
    "av": "",
    "followers": 0,
    "cap": "Momen Lamaran Intimate Tatjana Saphira dan Andry Jonathan, Dibalut Busana Sapto Djojokartiko",
-   "snip": "Momen Lamaran Intimate Tatjana Saphira dan Andry Jonathan, Dibalut Busana Sapto Djojokartiko https://janalokajournal.id/ 5 Gaya Lamaran Tatjana Saphira dan Andry Jonathan, Serasi Bernuansa Earth Tone Kompas.com Hobi Kulineran, Tatjana Saphi",
+   "snip": "Momen Lamaran Intimate Tatjana Saphira dan Andry Jonathan, Dibalut Busana Sapto Djojokartiko https://janalokajournal.id/ Hobi Kulineran, Tatjana Saphira Cicip Froyo di Bali hingga ke Pasar di Laos detikFood 5 Gaya Lamaran Tatjana Saphira da",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -982,34 +1050,12 @@
   },
   {
    "k": "news",
-   "u": "https://janalokajournal.id/",
-   "name": "https://janalokajournal.id/",
-   "av": "",
-   "followers": 0,
-   "cap": "Respons Acha Septriasa Ketika Masih Sering Dipanggil Luna Heart",
-   "snip": "Respons Acha Septriasa Ketika Masih Sering Dipanggil Luna Heart https://janalokajournal.id/",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREVaNmpoTWVKNy0yb3YxUEI5R0VXa1FxVkhyOWtEUGV1YXEyVENUbDdick9fNHdNSWZXQ3lnMEJmVjZCOU5pa0pJTFB6XzJtYmY5eElvcE1oX1B2VVpGWjVMc3AwdDNpVHJEUEhaUEJNcVVJSk9ZRUF6Q1FFQkJDWG1BR0tqOU02a1R4Um9ZOXBjNm1vZ3c?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "https://janalokajournal.id/"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T05:37:02Z"
-  },
-  {
-   "k": "news",
    "u": "detikHOT",
    "name": "detikHOT",
    "av": "",
    "followers": 0,
    "cap": "Ding Yuxi Penasaran Coba Budaya Minum Kopi Terbalik di Indonesia",
-   "snip": "Ding Yuxi Penasaran Coba Budaya Minum Kopi Terbalik di Indonesia detikHOT Fokus ke Segmen, WeTV Indonesia Pilih Kuatkan Dracin dan Konten Lokal CNN Indonesia Harry Vaughan hingga Raisa Marie Masuk Jajaran WeTV 2027, Alumni Asmara Gen Z Siap",
+   "snip": "Ding Yuxi Penasaran Coba Budaya Minum Kopi Terbalik di Indonesia detikHOT Fokus ke Segmen, WeTV Indonesia Pilih Kuatkan Dracin dan Konten Lokal CNN Indonesia Tencent Video Kembangkan Konten AI, Konten Indonesia Masuk Pipeline Produksi Tradi",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1048,28 +1094,6 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
-   "av": "",
-   "followers": 0,
-   "cap": "Sabar Menanti Buah Hati Setelah 20 Tahun Menikah, Fera Feriska: Dari Aku Umur 22",
-   "snip": "Sabar Menanti Buah Hati Setelah 20 Tahun Menikah, Fera Feriska: Dari Aku Umur 22 Kompas.com Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ29fSnluUEpiZ1Y0TlQ2YUc0UWNLTXNRR3VVaml5ZWNQblZmLVlLVkF0TWRNekxYWXFEVzFoUFYxbFNLdkIxOWxJTWpmV1dBQ2VhcS1YV2tuTUF0bFdJd1luelgtMmJWdjhmcnRPOW1WZ1NDR2hFN0xLSFAwSGYtaGNTNVZMeDN3Nk01S0FHWWNodlJKTW5WejFJb0t0aGpzeHhYR0RIaFpoR2s5S2F2ZTB2Vk9ka3k3ajZnN3BhUTRBbzNEMDVHbQ?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "Kompas.com"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T04:15:00Z"
-  },
-  {
-   "k": "news",
    "u": "detikcom",
    "name": "detikcom",
    "av": "",
@@ -1092,25 +1116,25 @@
   },
   {
    "k": "news",
-   "u": "Kompas.com",
-   "name": "Kompas.com",
+   "u": "gamerwk.com",
+   "name": "gamerwk.com",
    "av": "",
    "followers": 0,
-   "cap": "4 Shio Masuk Era Baru Lebih Kuat 26 November 2026, Kamu Termasuk?",
-   "snip": "4 Shio Masuk Era Baru Lebih Kuat 26 November 2026, Kamu Termasuk? Kompas.com Ramalan Shio untuk Melihat Peruntungan 12 Zodiak Hari Ini detikcom 12 Shio Hari Ini 26 November 2026: Peluang Keuangan hingga Warna Keberuntungan Terungkap - sumek",
+   "cap": "Digimon Alysion Kini Sudah Rilis di Indonesia Untuk Android dan iOS!",
+   "snip": "Digimon Alysion Kini Sudah Rilis di Indonesia Untuk Android dan iOS! gamerwk.com",
    "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTnRWazk0UHBwbWlnWGZnLXRTTUszOXRrVC1TMnBRTmJhenM3Mjh1bm1zUzh4MFJnUmU1V2VNaVZtUWowUXRHR1EtQW9IVjFNRkwzdkJHNnpaOFI1WTA1RXhQX19sSjl0U1FtaXlHYmhiRUZsM0w5TzhDelBObDNQQ29FaXdGNlBwRG44WUZkOE02dmdLVFJlaktJNzVEWmFRN3hxWjlKb2Q3dFZLV3ZoZlNfUlZLTjhfM09IeThWTVlyeldqLWs0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmNuR3JmRmhMVl9zMllXVktTYjBsN0xmcW9PQ1FCaE1Ta2doQjJxUnZLX2lRV3VVeWlGYVd1WFhNMTRNWDVJcmJiUE4ydW43TUpka1VWRFdxMEU4dW01akowMVZLaFZRNV9KWE1nU0FrcndnMW50V0tLaFNNOFFWSllHaFV2SS1vLTlldXZGWXdUQQ?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "Kompas.com"
+    "gamerwk.com"
    ],
    "hot": [],
    "sc": 40,
-   "ts": "2026-11-26T03:31:00Z"
+   "ts": "2026-11-26T03:28:23Z"
   },
   {
    "k": "news",
@@ -1153,30 +1177,8 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-26T01:06:39Z"
-  },
-  {
-   "k": "news",
-   "u": "detikcom",
-   "name": "detikcom",
-   "av": "",
-   "followers": 0,
-   "cap": "Jennifer Love Hewitt Kenang Momen Manis Bareng Ryan Phillippe Usai 30 Tahun",
-   "snip": "Jennifer Love Hewitt Kenang Momen Manis Bareng Ryan Phillippe Usai 30 Tahun detikcom Lihat judul & perspektif lainnya di Google Berita",
-   "img": "",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjgwNTN4QklBalBzNGJzRG9fNWk2UklMeDdqUV9aQzFDOERpdEZoUDFkRVNKdHlLSUhhOEludEtJNmlCQ0pHb0Qwdko2WVZFaXNSOUVKcjd0ZVRvQ1czd1FGVmpOSV94R3Q4SllWNGFDcmxRQ2JYSWRLNndBZHJ5UmU1NUUzbE1PdzNYdkRhdGt3cjlEQTRidm44Z2M5MG1HTnBPdGpuUDduZDRiak95Q3VxSDladTRx0gG-AUFVX3lxTFBXdk1ZMGdXYUhRY3VlalNHQ0VfYV92Z3pkVEhsS3NiVENCZ2w1SVZOLWlsVWZTbkZheTNnRzg2Y296RUFJS21uX29mRDJGWVgyS21XTG41eGFzSUZtVHMwMlIxd29jbkVGdDI4ZGZxV1M0SW9fMjdYNVdJZDR6bGlDc0lJdEJmTl91cS1JMEVZaUUwbXRxMzZlaDJYYjRlc1VhcnpIX2llU05QR1JfVU1UM2tPSTVkbGc4V2otc0E?oc=5",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "detikcom"
-   ],
-   "hot": [],
-   "sc": 40,
-   "ts": "2026-11-26T01:02:36Z"
   },
   {
    "k": "news",
@@ -1197,7 +1199,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-26T01:00:39Z"
   },
   {
@@ -1219,7 +1221,7 @@
     "detikHOT"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-26T00:37:35Z"
   },
   {
@@ -1241,7 +1243,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-26T00:19:37Z"
   },
   {
@@ -1263,7 +1265,7 @@
     "Wolipop"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-25T23:15:58Z"
   },
   {
@@ -1285,7 +1287,7 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-25T23:00:14Z"
   },
   {
@@ -1307,7 +1309,7 @@
     "CNN Indonesia"
    ],
    "hot": [],
-   "sc": 40,
+   "sc": 30,
    "ts": "2026-11-25T22:00:05Z"
   },
   {
@@ -1400,28 +1402,6 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Ding Yuxi Tersentuh Perhatian Fan Indonesia: Merasa Terlindungi",
-   "snip": "Aktor China Ding Yuxi mengaku tersentuh dengan perhatian para penggemar ketika menyambutnya di Indonesia.",
-   "img": "https://akcdn.detik.net.id/visual/2026/11/16/ding-yuxi-1794804497502_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261125164426-234-1431453/ding-yuxi-tersentuh-perhatian-fan-indonesia-merasa-terlindungi",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-25T10:00:17Z"
-  },
-  {
-   "k": "news",
    "u": "Kompas.com",
    "name": "Kompas.com",
    "av": "",
@@ -1444,69 +1424,25 @@
   },
   {
    "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
+   "u": "detikHOT",
+   "name": "detikHOT",
    "av": "",
    "followers": 0,
-   "cap": "Tasya Farasya Laporkan Ahmad Assegaf ke Polisi",
-   "snip": "Tasya Farasya resmi melaporkan mantan suaminya, Ahmad Assegaf, ke polisi pada Selasa (24/11).",
-   "img": "https://akcdn.detik.net.id/visual/2026/10/27/tasya-farasya-1793083788068_169.jpeg?w=360&q=90",
+   "cap": "POV Indah Kalalo dan Suami Nonton Konser Bareng 2 Anak, Putri Sulung Sudah ABG",
+   "snip": "POV Indah Kalalo dan Suami Nonton Konser Bareng 2 Anak, Putri Sulung Sudah ABG detikHOT",
+   "img": "",
    "vid": false,
    "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261125154255-234-1431412/tasya-farasya-polisikan-mantan-suami-atas-dugaan-penggelapan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25aSFl4ZzJhNms3N21PUGF1bDhMUXlhVVdYSk5mWVdFNXZ2YUdJZlV1TlRiU2hjNk94bW1hN1VUQVEwOTBJWTAzRHhYQTlXZHFoRFBlOGVEMnpFa282Yy1EWUw5Sl9ObWtqd0dmMzFUUk5kT2ozb0d0ZlNXeU96SHMyRGNRdWNyaFNvYjExZTlCVl9yallDYmc2OVNNU085UXlWNHpZTmo0d24yMXhpSHhIQkotQdIBuwFBVV95cUxPR3MtQUxURjB5WmhtUnZ5bE8tYmltQ2Z2ZDBNTHRpX1lUdnVIamZUemZGU1JoanBiMVpIR2hZNjBWemNOSEpReDhmN1RmM1dadm1oZ210dk91MlZoRUJSM3hTOTZmR2MwU3NTaXVqRU1PV1FMYVZoM1FXNzUyeXJ6WnpoMmthNjVxMXJLc0R2TWozdEhETndSVnM1UzlBTEhBRG5HVUx5OGgwREVFYTJLZjdra3N0bUZSekhN?oc=5",
    "likes": null,
    "com": 0,
    "m": 1,
    "src": [
-    "CNN Indonesia"
+    "detikHOT"
    ],
    "hot": [],
    "sc": 30,
-   "ts": "2026-11-25T09:00:16Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Ayah Meghan Markle Terancam 40 Tahun Penjara di Kasus Pornografi Anak",
-   "snip": "Ayah Meghan Markle, Thomas Markle Sr. terancam hukuman penjara 40 tahun jika terbukti bersalah dalam kasus kepemilikan pornografi anak.",
-   "img": "https://akcdn.detik.net.id/visual/2026/10/23/thomas-markle-sr-1792729006748_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261125133359-234-1431311/ayah-meghan-markle-terancam-40-tahun-penjara-di-kasus-pornografi-anak",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-25T08:00:15Z"
-  },
-  {
-   "k": "news",
-   "u": "CNN Indonesia",
-   "name": "CNN Indonesia",
-   "av": "",
-   "followers": 0,
-   "cap": "Suzy dan Kim Seon-ho Reuni di Drama Vampir Portraits of Delusion",
-   "snip": "Suzy dan Kim Seon-ho kembali dipertemukan dalam drama Korea terbaru berjudul Portraits of Delusion.",
-   "img": "https://akcdn.detik.net.id/visual/2024/08/15/bae-suzy-dan-kim-seon-ho-2020_169.jpeg?w=360&q=90",
-   "vid": false,
-   "vt": "NEWS",
-   "url": "https://www.cnnindonesia.com/hiburan/20261124161859-220-1430924/suzy-dan-kim-seon-ho-reuni-di-drama-vampir-portraits-of-delusion",
-   "likes": null,
-   "com": 0,
-   "m": 1,
-   "src": [
-    "CNN Indonesia"
-   ],
-   "hot": [],
-   "sc": 30,
-   "ts": "2026-11-25T07:00:25Z"
+   "ts": "2026-11-25T06:02:45Z"
   },
   {
    "k": "news",
@@ -1537,7 +1473,7 @@
    "av": "",
    "followers": 0,
    "cap": "Cerita di Balik Robert Pattinson Terpilih Jadi James Bond",
-   "snip": "Cerita di Balik Robert Pattinson Terpilih Jadi James Bond detikcom Aktor yang Sering Dilabeli Dia Lagi Dia Lagi, Robert Pattinson Masuk! IDN Times Pierce Brosnan Tampil Elegan dan Dukung Robert Pattinson Jadi Bond cwibc.co.id Robert Pattins",
+   "snip": "Cerita di Balik Robert Pattinson Terpilih Jadi James Bond detikcom Sutradara Twilight Nyaris Jatuh Tahu Robert Pattinson Jadi Bond CNN Indonesia Aktor yang Sering Dilabeli Dia Lagi Dia Lagi, Robert Pattinson Masuk! IDN Times Robert Pattinso",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1549,8 +1485,30 @@
     "detikcom"
    ],
    "hot": [],
-   "sc": 30,
+   "sc": 20,
    "ts": "2026-11-24T22:30:47Z"
+  },
+  {
+   "k": "news",
+   "u": "detikHOT",
+   "name": "detikHOT",
+   "av": "",
+   "followers": 0,
+   "cap": "Pesona Wina Natalia Berusia 50 Tahun: Umur Hanyalah Angka!",
+   "snip": "Pesona Wina Natalia Berusia 50 Tahun: Umur Hanyalah Angka! detikHOT",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnotcVVNVmlwYWF2b0pHSUZPQzkwYU9xZHVXMl9uVVpwb1BVQlFYRmZ3cFpwSVNBWEw5N2dUSC11UWExcTJ1a3FPOWl5cU5CWDIxdzdGYlZNeVJkXzIxV1FJY2tRVjJfYmdqMEdDZ0R5WFB3TFB5LXpDTzFoZTdBMjJNcld4anNQVnMyanhQazItWE9rLWlCZk9R0gGfAUFVX3lxTE9IdDBOTnpfSDcyazQyeHkxbFhyNDJ5TnB4YWNDdExLS2t2Q2JzaDFla0JKZmJxNFZXY0M4VzZFVEtzdzJqNUljenJUeU5BRTdnUW9yYmxQQW5GdmR4YnRrNXJVR1cwdVF5M29sd3JFbFFYOXRMTUpuekp1NHZ4TUFQWldmckhCalNoRkpqR1UwazkzZnBXNG5XWklVYVNYbw?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "detikHOT"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-24T09:11:05Z"
   },
   {
    "k": "news",
@@ -1559,7 +1517,7 @@
    "av": "",
    "followers": 0,
    "cap": "Kilas Balik Fenomena Bendera One Piece: Saat Rakyat Bersuara Lewat \"Jolly Roger\"",
-   "snip": "Kilas Balik Fenomena Bendera One Piece: Saat Rakyat Bersuara Lewat \"Jolly Roger\" Kompas.com One Piece dan Generasi Z: 5 Manga Ini Relevan untuk Pembaca Muda detikcom 7 Karakter yang Mungkin Punya Peran Penting di Ending One Piece Duniaku.co",
+   "snip": "Kilas Balik Fenomena Bendera One Piece: Saat Rakyat Bersuara Lewat \"Jolly Roger\" Kompas.com One Piece dan Gen Z: 5 Alasan Manga Ini Relevan untuk Pembaca Muda detikcom 7 Karakter yang Mungkin Punya Peran Penting di Ending One Piece Duniaku.",
    "img": "",
    "vid": false,
    "vt": "NEWS",
@@ -1573,6 +1531,28 @@
    "hot": [],
    "sc": 20,
    "ts": "2026-11-24T06:04:00Z"
+  },
+  {
+   "k": "news",
+   "u": "Wolipop",
+   "name": "Wolipop",
+   "av": "",
+   "followers": 0,
+   "cap": "Gaya Indah Permatasari Pamer Baby Bump yang Makin Besar di Kehamilan ke-2",
+   "snip": "Gaya Indah Permatasari Pamer Baby Bump yang Makin Besar di Kehamilan ke-2 Wolipop",
+   "img": "",
+   "vid": false,
+   "vt": "NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVFFTldsQWh1RXJndG9fZXYzLU45SU9MY1JKMFU5OWdXVndzYkV0cldGOHRDY3d2a05CTElka2NjbXBlNlBySVdEQmlVZTlnQ1VkaUYzQVRoaTlnUHdwYUtHdndfNTBKcjUycXlYeUc1M2t3YmRwcEl3MU5QSkhocms0eEVNekFDUHl1VXFDd3YtX1pyclM2V0N3UTQ5RVV6N19HLVNUbXBtd1lEUG9Dd0x1UFQ1aFRJWjVZMGUyMTQ0WEJMdXNJ0gHMAUFVX3lxTE9yM09ZakdObFJDb2hlNUJjWlJma3ZKbHNkTGk4VTBwZzJuX21UYWcwV2ZENUpoLWpBbHJZNFVENjVQYmFRYVZTTkZBbFJEM3p0ZmtWR1kteWlIUDZ1YlB0a2Z6c3dBVGtJT1F1cDdJb05MOHM5Z1hoZGM2ZDNxalBTcXVBdzl1b3lZQmFJbG1zb1I0WmJfcjJuZG1tbEp6TlZFdlRxdkttTmNlZUdUbEJwTFFYallrSTZKTW8xakNmUjRobGI0RHNBWVFGUg?oc=5",
+   "likes": null,
+   "com": 0,
+   "m": 1,
+   "src": [
+    "Wolipop"
+   ],
+   "hot": [],
+   "sc": 20,
+   "ts": "2026-11-23T05:00:04Z"
   },
   {
    "k": "news",
